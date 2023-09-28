@@ -1,0 +1,51 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:47.5175829Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\sq025\\sq025_06b_reward_holocall.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Welcome to the Delamain Network. How are you today?",
+              "maleVariant": "",
+              "stringId": "1945772020274995200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Eh, been better. And you, Del?",
+              "maleVariant": "",
+              "stringId": "1999691393957126144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "All of my missing assets have returned to the fold. You might say all is going swimmingly.",
+              "maleVariant": "",
+              "stringId": "1999694635298480128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I ask you, please, to stop by my office for your hard-earned reward! I\u0027d love to thank you face to face, so to speak.",
+              "maleVariant": "",
+              "stringId": "1999782213439741952"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

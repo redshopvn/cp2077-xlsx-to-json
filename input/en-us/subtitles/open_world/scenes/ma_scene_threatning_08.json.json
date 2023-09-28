@@ -1,0 +1,51 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:04.5796967Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\ma_scene_threatning_08.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Think you some kinda gangoon now, huh? You\u0027ll need some new scars...",
+              "maleVariant": "",
+              "stringId": "2007231966741659648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m your judge, jury, and fuckin\u0027 executioner. There ain\u0027t no law here but me, got that?",
+              "maleVariant": "",
+              "stringId": "2007232666703888384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0027Nuff playin\u0027 around. Reality just called – word is, your little bitch-ass is fucked!",
+              "maleVariant": "",
+              "stringId": "2007232730742521856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Think you\u0027re tough, huh? Wait \u0027til you\u0027re lyin\u0027 in a pool o\u0027 shit an\u0027 piss!",
+              "maleVariant": "",
+              "stringId": "2007232787952828416"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:03.8297102Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_rey_chat_019.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So we\u0027re eatin\u0027, right, and suddenly I look at her and I feel nothing. Like, zero emotion. It\u0027s as if she were a total rando.",
+              "maleVariant": "",
+              "stringId": "2161846879919566848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And I-- I don\u0027t got anythin\u0027 to say, so I just sit there like a gonk and give her this fake-ass smile.",
+              "maleVariant": "",
+              "stringId": "2221506769469149184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Just end it. You\u0027re lying to her and yourself. How long\u0027ve you two been together?",
+              "maleVariant": "",
+              "stringId": "2221506951183175680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Since the war ended.",
+              "maleVariant": "",
+              "stringId": "2244545210402312192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Exactly. You\u0027ve taken up enough of her time already. And don\u0027t you dare tell me, \u0022It\u0027s not that simple.\u0022 \u0027Cause it really is.",
+              "maleVariant": "",
+              "stringId": "2244547854575439872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But... what if I can\u0027t be alone?",
+              "maleVariant": "",
+              "stringId": "2244548733399568384"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

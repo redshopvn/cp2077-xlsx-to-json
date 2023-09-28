@@ -1,0 +1,45 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.4018474Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_pac_wwd_02_holocall_brief.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "APB to all NCPD subcons. Suspected organized crime activity reported on Pacific Boulevard.",
+              "maleVariant": "",
+              "stringId": "2348979256648261636"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Anton Kolev, a known leader among scavengers, believed to be present and wanted on four counts of first-degree murder.",
+              "maleVariant": "",
+              "stringId": "2352368516274163712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Night City authorities have promised a reward for neutralizing Kolev and his entourage.",
+              "maleVariant": "",
+              "stringId": "2352370305648136192"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

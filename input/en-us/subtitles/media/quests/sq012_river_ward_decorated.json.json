@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.1448469Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\sq012_river_ward_decorated.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hello, my name is Arif Iqbal, and this is WNS News.",
+              "maleVariant": "",
+              "stringId": "1792240161548836864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We return to this week\u0027s shocking story – the cyberpsycho attack on Night City Mayor Lucius Rhyne.",
+              "maleVariant": "",
+              "stringId": "1796858381269188608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The crazed assailant attacked the mayor during a press conference but, fortunately, was stopped by NCPD Detective River Ward before the worst could happen.",
+              "maleVariant": "",
+              "stringId": "1796859723714904064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Celebrated by the press as \u0022super cop\u0022, today Ward was given the Medal of Merit by the mayor.",
+              "maleVariant": "",
+              "stringId": "1796860063570968576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What could have been a horrible tragedy may be a blessing in disguise for the mayor who seeks another term in the upcoming mayoral election.",
+              "maleVariant": "",
+              "stringId": "1796865065446260736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "According to the latest polls in wake of the attack, Rhyne\u0027s lead over his opponent, Jefferson Peralez, has jumped from 12 to 19 percentage points.",
+              "maleVariant": "",
+              "stringId": "1796865310376837120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We\u0027ll be right back with more local news.",
+              "maleVariant": "",
+              "stringId": "1796865549821263872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

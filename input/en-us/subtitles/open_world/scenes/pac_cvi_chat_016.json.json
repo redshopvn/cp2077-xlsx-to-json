@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:05.1232257Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\pac_cvi_chat_016.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Weird smell, huh? Like wet metal, sorta.",
+              "maleVariant": "",
+              "stringId": "2179400359030845440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oof, I\u0027ll never get used to it. The All Foods meat smells totally different.",
+              "maleVariant": "",
+              "stringId": "2189717020662808576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I mean, sure you don\u0027t just want some EEZY Beef? Or five-flavor scop? You\u0027ll get sick...",
+              "maleVariant": "",
+              "stringId": "2189717470292197376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "My gran says real chicken tastes totally different from the in-vitro stuff.",
+              "maleVariant": "",
+              "stringId": "2189717702757302272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Just once can\u0027t hurt... Just a taste.",
+              "maleVariant": "",
+              "stringId": "2189717903010152448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You gonked in the head? You wanna risk your life for a taste?",
+              "maleVariant": "",
+              "stringId": "2189718083130343424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dunno... Just something fascinating about it. You don\u0027t wanna eat like your great-grandma did?",
+              "maleVariant": "",
+              "stringId": "2189718206610653184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hell no. Only thing I\u0027ll put in my mouth is what I pull outta the triple-sterilized vaccuum-pack myself.",
+              "maleVariant": "",
+              "stringId": "2218614984076410880"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

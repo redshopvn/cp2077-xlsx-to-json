@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.4186666Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_rcr_chat_001.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "When\u0027s that delivery s\u0027posed to come?",
+              "maleVariant": "",
+              "stringId": "1963291442980888576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Soon. You\u0027re not the only one on edge. People are getting antsy.",
+              "maleVariant": "",
+              "stringId": "1969092951858200576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fuck... I don\u0027t get a hit in the next couple of days, I\u0027ma blast someone, I fucking swear.",
+              "maleVariant": "",
+              "stringId": "1969093745722507264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I were you, I\u0027d hold off. Supposed to double our erythritol rations.",
+              "maleVariant": "",
+              "stringId": "1969094046923866112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Just gotta bring down those shooting stats here, first.",
+              "maleVariant": "",
+              "stringId": "1969094230701490176"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

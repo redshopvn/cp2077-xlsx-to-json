@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:12.2587736Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\bls_ina_se1_foodshop_02.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wanna eat something.",
+              "maleVariant": "",
+              "stringId": "1935651488722759680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027s your place called?",
+              "maleVariant": "",
+              "stringId": "1935651488739536908"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Feelin\u0027 kinda hungry.",
+              "maleVariant": "",
+              "stringId": "1935651488756314116"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Okay.",
+              "maleVariant": "",
+              "stringId": "1935651488773091328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Your place got a name? Didn\u0027t see any sign...",
+              "maleVariant": "",
+              "stringId": "1935651488806645764"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0022Salmonella.\u0022",
+              "maleVariant": "",
+              "stringId": "1935651488806645772"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m sorry, \u0022Salmonella\u0022?",
+              "maleVariant": "I-I\u0027m sorry, \u0022Salmonella\u0022?",
+              "stringId": "1986389809794699264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nice ring, no? My brother-in-law thought of it. Said it means \u0022salmon\u0022 in Italian.",
+              "maleVariant": "",
+              "stringId": "1986390591898177536"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

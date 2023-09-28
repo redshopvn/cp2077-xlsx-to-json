@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:05.3920460Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\pac_wwd_chat_031.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Found two of \u0027em yesterday. Right \u0027round here, not even swole up yet. Lead to the skull.",
+              "maleVariant": "",
+              "stringId": "2179665325831348224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Way it is. Maybe today we\u0027ll get a better catch.",
+              "maleVariant": "",
+              "stringId": "2211510122474303488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yep. Gangs got \u0027em. Ain\u0027t nobody gonna come for \u0027em after.",
+              "maleVariant": "",
+              "stringId": "2212661038854369280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Grabbed a few things off \u0027em, then left \u0027em on the sand. Tide should wash \u0027em out.",
+              "maleVariant": "",
+              "stringId": "2212708700978868224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Found one yesterday, too. Naked, gutted for chrome. Fishes already gnawin\u0027 at the holes in \u0027er.",
+              "maleVariant": "",
+              "stringId": "2212709487243096064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Scavs. Fucking vultures.",
+              "maleVariant": "",
+              "stringId": "2212715433390436352"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

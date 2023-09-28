@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.1762170Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\sq021_04_quest_consequence_a.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We have a breaking development in an ongoing story – a tragic end in the search for young teens abducted by Anthony Harris, also known as Peter Pan.",
+              "maleVariant": "",
+              "stringId": "1792302175591768064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The NCPD did not manage to locate the abducted boys in time to save their lives.",
+              "maleVariant": "",
+              "stringId": "1802331654488571904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "They were found on an abandoned farm, dead from dehydration and exhaustion.",
+              "maleVariant": "",
+              "stringId": "1802331898848722944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The case of Peter Pan has proved yet another example of Night City\u0027s moral collapse.",
+              "maleVariant": "",
+              "stringId": "1802332202197565440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Crime in Night City is now double the rate than in the New United States. At this point, it seems a near guarantee that closer ties with the Union would help get this city\u0027s security back on the right track.",
+              "maleVariant": "",
+              "stringId": "1802332446742265856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stay tuned for more details after the break.",
+              "maleVariant": "",
+              "stringId": "1802332636643573760"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

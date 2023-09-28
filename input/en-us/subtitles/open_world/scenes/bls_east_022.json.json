@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.6062361Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_east_022.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I love those shows. Sure, the guy says some crazy things, but he\u0027s got a head on his shoulders. Plus he\u0027s a decent judge of people.",
+              "maleVariant": "",
+              "stringId": "2178270466683510784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Only thing I don\u0027t quite get is – how\u0027s he figure he\u0027s safe to say all that?",
+              "maleVariant": "",
+              "stringId": "2218662121929687040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Is he out in the middle of the desert? Or maybe he\u0027s got some connections, the corps wouldn\u0027t dare touch him?",
+              "maleVariant": "",
+              "stringId": "2218662293661270016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, he\u0027s got \u0022friends\u0022 everywhere. Here, in Biotechnica...",
+              "maleVariant": "",
+              "stringId": "2218662477824770048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sometimes hear him talk about some great netrunner.",
+              "maleVariant": "",
+              "stringId": "2218662577112334336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Shoot, if I had all those connections, I wouldn\u0027t be wasting my breath on some indie radio.",
+              "maleVariant": "",
+              "stringId": "2218662653633216512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh? And what would you be doing?",
+              "maleVariant": "",
+              "stringId": "2218662725607473152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No idea. Anything. Everything.",
+              "maleVariant": "",
+              "stringId": "2218662774194290688"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

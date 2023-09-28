@@ -1,0 +1,93 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:12.3493470Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\bls_ina_se5_melee_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got any weapons worth buying?",
+              "maleVariant": "",
+              "stringId": "1935700405967564800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You live here alone?",
+              "maleVariant": "",
+              "stringId": "1935700405967564816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Selling anything interesting?",
+              "maleVariant": "",
+              "stringId": "1935700406001119232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You live here alone?",
+              "maleVariant": "",
+              "stringId": "1935700406034673668"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yep, all on my lonesome.",
+              "maleVariant": "",
+              "stringId": "1935700406034673676"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wraiths don\u0027t give you any trouble?",
+              "maleVariant": "",
+              "stringId": "1974831471353188352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Few of \u0027em tried. Put \u0027em to sleep out by the road.",
+              "maleVariant": "",
+              "stringId": "1974831990205370368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Where\u0027d you learn to fight?",
+              "maleVariant": "",
+              "stringId": "1974833316528181248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Where\u0027d you learn to fight?",
+              "maleVariant": "",
+              "stringId": "1974833679838793728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Come in, come in. Haven\u0027t had visitors in a while.",
+              "maleVariant": "",
+              "stringId": "1974846791853854720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "At home. From my CHOOH-head pop and older brothers.",
+              "maleVariant": "",
+              "stringId": "1974848946115497984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

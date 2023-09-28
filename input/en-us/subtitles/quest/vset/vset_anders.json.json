@@ -1,0 +1,93 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:50.0984775Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\vset\\vset_anders.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yes?",
+              "maleVariant": "",
+              "stringId": "1796854789669109760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m listening.",
+              "maleVariant": "",
+              "stringId": "1796854789685886980"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Reconvene later?",
+              "maleVariant": "",
+              "stringId": "1796854789769773060"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We\u0027ll return to this.",
+              "maleVariant": "",
+              "stringId": "1796854789803327492"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Back to it then.",
+              "maleVariant": "",
+              "stringId": "1796854789853659140"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well?",
+              "maleVariant": "",
+              "stringId": "1796854789870436356"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I don\u0027t mean to rush you, but...",
+              "maleVariant": "",
+              "stringId": "1796854789903990788"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This is costing me time.",
+              "maleVariant": "",
+              "stringId": "1796854789920768004"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Careful now.",
+              "maleVariant": "",
+              "stringId": "1796854790122094596"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pay attention.",
+              "maleVariant": "",
+              "stringId": "1796854790155649024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What, fading out again? Move it.",
+              "maleVariant": "",
+              "stringId": "2238867316719067136"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

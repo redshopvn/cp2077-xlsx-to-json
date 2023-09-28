@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:07.7688561Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_jpn_chat_007.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "First thing you gotta get is a neural blocker. Blocks your memories. Won\u0027t last two millisecs in the biz without it.",
+              "maleVariant": "",
+              "stringId": "1806884847720456192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I dunno, I heard some people turned theirs on, never woke up.",
+              "maleVariant": "",
+              "stringId": "1806886123308965888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Eh, it\u0027s all bullshit. Never heard \u0027bout anyone who didn\u0027t wake up eventually.",
+              "maleVariant": "",
+              "stringId": "1806886452612161536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I mean, I read about a girl in Japan whose implant even blocked--",
+              "maleVariant": "",
+              "stringId": "1806886643167780864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Look, it\u0027s like one of those dreams you forget soon as you wake up.",
+              "maleVariant": "",
+              "stringId": "1806886818875564032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But how do you wake up?",
+              "maleVariant": "",
+              "stringId": "1806887058856861696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027re gone, then – poof! – you\u0027re back in this shithole, few more eds in your pocket",
+              "maleVariant": "",
+              "stringId": "1824543639562719232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It\u0027s like… like you got an alarm set. One moment you\u0027re out, the next you\u0027re back. Sometimes switch mine on when I need a break, ha ha ha.",
+              "maleVariant": "",
+              "stringId": "1824544161149587456"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

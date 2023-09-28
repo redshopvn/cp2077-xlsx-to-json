@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.9209271Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_026.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I dunno... just don\u0027t wanna. I\u0027m worried... Yeah, I know there\u0027s no reason. Everyone does it. Yeah, I know.",
+              "maleVariant": "",
+              "stringId": "2179497026108768256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But it just seems so wrong. Letting someone cut out a part of you...",
+              "maleVariant": "",
+              "stringId": "2179497356854804480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How come I\u0027m the only one who thinks it\u0027s weird? Yanking out your eye and shoving in a chunk of metal...",
+              "maleVariant": "",
+              "stringId": "2179497659633221632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, don\u0027t start, all right? What if I\u0027m not the one who\u0027s gonked? Maybe the world\u0027s gonked!",
+              "maleVariant": "",
+              "stringId": "2179501470376509440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hah, yeah, I wish! But I can\u0027t. I\u0027ll be even more behind at work.",
+              "maleVariant": "",
+              "stringId": "2179501676518162432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "She said it was either a Kiroshi and a coprocessor, or my walking papers.",
+              "maleVariant": "",
+              "stringId": "2179506416199122944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ehhh... Thanks. It\u0027s hard.",
+              "maleVariant": "",
+              "stringId": "2179506612895203328"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

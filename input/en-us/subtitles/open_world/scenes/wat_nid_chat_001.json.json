@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:07.3455275Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_nid_chat_001.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Problem here ain\u0027t the problem. It\u0027s they way you\u0027re lookin\u0027 at it, choom.",
+              "maleVariant": "",
+              "stringId": "1802497586358771712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "He lost a fuckin\u0027 leg, Rob. Container fell splat – right on \u0027im.",
+              "maleVariant": "",
+              "stringId": "1802498130443886592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So we klep an implant.",
+              "maleVariant": "",
+              "stringId": "1802498298434150400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And what does that get us? Third time this year somethin\u0027 like this happened.",
+              "maleVariant": "",
+              "stringId": "1802498461156368384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Then we grab us a little factory data. Some fixer\u0027s gotta have a use for it.",
+              "maleVariant": "",
+              "stringId": "1802498634280460288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I dunno, man...",
+              "maleVariant": "",
+              "stringId": "1802498832939474944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "An\u0027 what if it was your leg, huh? We don\u0027t help each other, ain\u0027t nobody gonna help us.",
+              "maleVariant": "",
+              "stringId": "1802499095922335744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

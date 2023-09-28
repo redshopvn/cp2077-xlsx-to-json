@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:12.4215364Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\cct_cpz_medic_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Need to get strengthened up.",
+              "maleVariant": "",
+              "stringId": "1977670673930682372"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nice office.",
+              "maleVariant": "",
+              "stringId": "1977671024037625856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I need something to strengthen me up.",
+              "maleVariant": "",
+              "stringId": "1977671305727082496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nice office. It\u0027s almost... relaxing, in a way.",
+              "maleVariant": "Nice office. Almost... relaxing, in a way.",
+              "stringId": "1977671774952259584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Greenery soothes the body and psyche. Even implants take quicker in their presence. It\u0027s a shame more people aren\u0027t aware.",
+              "maleVariant": "",
+              "stringId": "1977675585276116992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That can be arranged.",
+              "maleVariant": "",
+              "stringId": "1979534063945105408"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

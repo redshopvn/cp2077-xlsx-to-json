@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.8204546Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_cpz_chat_026.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m telling you, the attack was an inside job. Arasaka wanted to get a real foothold in the city.",
+              "maleVariant": "",
+              "stringId": "2172080373841387520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Scop? Just look at the facts! Before the attack, they were just another corp. Now, Night City\u0027s practically theirs.",
+              "maleVariant": "",
+              "stringId": "2205847519262773248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Seriously, choom. Just drop it.",
+              "maleVariant": "",
+              "stringId": "2205847978572615680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fine. But that whole story about the rockerboy and the bomb makes more sense? Please.",
+              "maleVariant": "",
+              "stringId": "2205848071719718912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What a load of scop.",
+              "maleVariant": "",
+              "stringId": "2205851804063076352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Look, you could say it was aliens for all I care. Only one thing we\u0027ll ever know for sure – never gonna get the whole story.",
+              "maleVariant": "",
+              "stringId": "2205852882334748672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Arasaka\u0027d never let it happen. Just the way the megacorps work. Keep their cards close to their chest. That\u0027s it.",
+              "maleVariant": "",
+              "stringId": "2205854469073506304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ehh, you don\u0027t know shit. I\u0027m telling you, Arasaka planned the whole thing.",
+              "maleVariant": "",
+              "stringId": "2205855115751297024"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

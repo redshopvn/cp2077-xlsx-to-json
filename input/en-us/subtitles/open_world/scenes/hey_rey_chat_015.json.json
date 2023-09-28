@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:03.8191519Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_rey_chat_015.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Padre says you gotta leave town.",
+              "maleVariant": "",
+              "stringId": "2161802766998335488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0022Padre says\u0022?! What am I, his property? Who the fuck\u0027s he think he is?",
+              "maleVariant": "",
+              "stringId": "2221378812394180608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "C\u0027mon, don\u0027t make a scene. You know why.",
+              "maleVariant": "",
+              "stringId": "2221381655545090048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fuck you. The fuck was I supposed to do? I didn\u0027t have a choice!",
+              "maleVariant": "",
+              "stringId": "2221381761879085056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Padre sees it different.",
+              "maleVariant": "",
+              "stringId": "2221382263266185216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You fuckin\u0027 gonked?",
+              "maleVariant": "",
+              "stringId": "2221382294941569024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Listen to me. This is your second chance. Not everyone gets one, specially not after... you know. Just delta.",
+              "maleVariant": "",
+              "stringId": "2221383014902239232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I got my whole fuckin\u0027 life here!",
+              "maleVariant": "",
+              "stringId": "2221383166568271872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

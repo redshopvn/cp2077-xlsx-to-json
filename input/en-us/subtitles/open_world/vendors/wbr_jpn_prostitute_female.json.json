@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:13.5377260Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wbr_jpn_prostitute_female.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Eh, why not.",
+              "maleVariant": "",
+              "stringId": "1917050849373511680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "In an alley? Or...",
+              "maleVariant": "",
+              "stringId": "1917050849390288904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, you lookin\u0027 for some company tonight?",
+              "maleVariant": "",
+              "stringId": "1918769928991989760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Would we go somewhere? Or is this a dark alley type of party?",
+              "maleVariant": "Would we go somewhere, or... is this a dark alley type of party?",
+              "stringId": "1918771019292925952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I ain\u0027t no scuz-ass slut! I got my own place.",
+              "maleVariant": "",
+              "stringId": "1918771435887976448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uh... sure. Got some time to kill.",
+              "maleVariant": "Uh, sure. Got some time to kill.",
+              "stringId": "1918771909257125888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Could tell from the start that pet in your pants was gettin\u0027 hungry.",
+              "maleVariant": "",
+              "stringId": "1918772145094451200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, you found it, baby.",
+              "maleVariant": "",
+              "stringId": "1968981339095654400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Come on, baby.",
+              "maleVariant": "",
+              "stringId": "1969022485872205824"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

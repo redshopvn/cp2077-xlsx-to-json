@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:07.7712365Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_jpn_chat_008.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dean, Kate, now Hasan.",
+              "maleVariant": "",
+              "stringId": "1806904049915256832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cyberpsychosis don\u0027t discriminate, man.",
+              "maleVariant": "",
+              "stringId": "1806904672417079296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I don\u0027t wanna go like that. Not like that...",
+              "maleVariant": "",
+              "stringId": "1806905003280556032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But what can you do? You stop packing chrome, you\u0027ll be too slow.",
+              "maleVariant": "",
+              "stringId": "1806905399340294144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm... Just, if it ever happens, promise you\u0027ll wipe me, ok?",
+              "maleVariant": "",
+              "stringId": "1806905579527593984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "OK.",
+              "maleVariant": "",
+              "stringId": "1806905920709058560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Y\u0027think Hasan knew? Knew he went psycho? That he was killing all those people?",
+              "maleVariant": "",
+              "stringId": "1806906068398891008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Choom, come on. Don\u0027t be a fuckin\u0027 gonk.",
+              "maleVariant": "",
+              "stringId": "1806906378022412288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But quiet, y\u0027know? So nobody knows Old Shotaro went fuckin\u0027 whacked, OK?",
+              "maleVariant": "",
+              "stringId": "1806994838929117184"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

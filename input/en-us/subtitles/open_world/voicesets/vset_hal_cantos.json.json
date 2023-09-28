@@ -1,0 +1,87 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:23.0064044Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\voicesets\\vset_hal_cantos.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Be cool, all right? We\u0027ll work it all out.",
+              "maleVariant": "",
+              "stringId": "1895157721348997124"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How\u0027s it hangin\u0027?",
+              "maleVariant": "",
+              "stringId": "1895157721365774340"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "OK, yeah, whatever, I guess.",
+              "maleVariant": "",
+              "stringId": "1895157721483214852"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Short on time or something?",
+              "maleVariant": "",
+              "stringId": "1895157721499992068"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We got a convo to wrap up.",
+              "maleVariant": "",
+              "stringId": "1895157721567100928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Now? You good?",
+              "maleVariant": "",
+              "stringId": "1895157721583878148"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I don\u0027t wanna rush you, but, well, y\u0027know.",
+              "maleVariant": "",
+              "stringId": "1895157721617432580"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Racing against the clock here.",
+              "maleVariant": "",
+              "stringId": "1895157721634209796"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027ll let it go this time.",
+              "maleVariant": "",
+              "stringId": "1895157721852313604"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m standing heeeere!",
+              "maleVariant": "",
+              "stringId": "1895157721869090820"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.1248981Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\sq006_03_election_results_version_a.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hello, Night City. This is Gillean Jordan with an N54 News campaign update. Exit polls for the Night City mayoral race have finally been tallied.",
+              "maleVariant": "",
+              "stringId": "1744646259704651776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Incumbent Weldon Holt of the Devolutionist Party received 47.8 percent of the vote despite allegations of his complicity in the murder of Lucius Rhyne, former mayor of Night City.",
+              "maleVariant": "",
+              "stringId": "1744677367045484544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But, in a close race, Federalist candidate Jefferson Peralez still seized the election with 49.3 percent of the vote.",
+              "maleVariant": "",
+              "stringId": "1744677625985036288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "In his concession speech, Mayor Holt offered his congratulations to the victor.",
+              "maleVariant": "",
+              "stringId": "1744678119251963904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Now we see whether Peralez will be able to realize his ambitious campaign promises.",
+              "maleVariant": "",
+              "stringId": "1744678493669093376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "After the break – When will the Corsairs end their losing streak?",
+              "maleVariant": "",
+              "stringId": "1744678782824411136"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

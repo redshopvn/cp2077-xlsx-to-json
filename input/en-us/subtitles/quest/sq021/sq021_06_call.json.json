@@ -1,0 +1,105 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:46.1625145Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\sq021\\sq021_06_call.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "River.",
+              "maleVariant": "",
+              "stringId": "1893756403007328260"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, hey. I need your help.",
+              "maleVariant": "",
+              "stringId": "1893756403007328276"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sounds like it. What happened?",
+              "maleVariant": "It sounds like it. What happened?",
+              "stringId": "1893756403007328292"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I shouldn\u0027t talk about this on the holo. We gotta meet.",
+              "maleVariant": "",
+              "stringId": "1893756403007328308"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "When and where, tell me.",
+              "maleVariant": "",
+              "stringId": "1893756403007328324"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Glen, tonight. I\u0027ll flick you the details. Will you make it?",
+              "maleVariant": "",
+              "stringId": "1893756403242209284"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do my best.",
+              "maleVariant": "",
+              "stringId": "1893756403242209296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Thanks, V. Till then.",
+              "maleVariant": "",
+              "stringId": "1893756403258986500"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got eyes on you. Car at the intersection.",
+              "maleVariant": "",
+              "stringId": "1893886758569873408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "On my way.",
+              "maleVariant": "",
+              "stringId": "1895386408090210304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What happened?",
+              "maleVariant": "",
+              "stringId": "2260824514199511044"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "NCPD run into some trouble?",
+              "maleVariant": "",
+              "stringId": "2260825407418490880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "NCPD askin\u0027 a freelancer for help. Things gone that far to shit?",
+              "maleVariant": "",
+              "stringId": "2260828578178097152"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

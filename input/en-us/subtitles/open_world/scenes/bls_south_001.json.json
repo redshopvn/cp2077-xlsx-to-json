@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.6595222Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_south_001.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tell that whore of yours to quit screaming her head off all night.",
+              "maleVariant": "",
+              "stringId": "1973553625052520448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Who knows. Maybe they like to listen. But me, I like to sleep.",
+              "maleVariant": "",
+              "stringId": "1977697097271234560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nobody\u0027s getting any sleep out here, \u0027cause you two gotta fuck.",
+              "maleVariant": "",
+              "stringId": "1977697171191648256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nobody\u0027s complaining either – except you.",
+              "maleVariant": "",
+              "stringId": "1977697208906829824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I think you like something else. What, you wanna take her for a night?",
+              "maleVariant": "",
+              "stringId": "1977824991616192512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hm. Yeah.",
+              "maleVariant": "",
+              "stringId": "1977828942449233920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Heh, and then you\u0027ll get off my ass?",
+              "maleVariant": "",
+              "stringId": "1977829337468784640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah.",
+              "maleVariant": "",
+              "stringId": "1977829946397839360"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

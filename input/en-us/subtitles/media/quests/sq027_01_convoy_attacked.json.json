@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.1967300Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\sq027_01_convoy_attacked.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hello and welcome to N54 News. We begin with distressing reports from the Badlands.",
+              "maleVariant": "",
+              "stringId": "1792314718506885120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A Militech humanitarian convoy was attacked by a ruthless band of nomad outlaws.",
+              "maleVariant": "",
+              "stringId": "1802524310112026624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Corporate security forces responded with force only as a last resort after their escape route had been cut off.",
+              "maleVariant": "",
+              "stringId": "1802524495986802688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Although several Militech vehicles suffered damage, the nomads have failed to open them.",
+              "maleVariant": "",
+              "stringId": "1802524682130014208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Reinforcements called to the attack site managed to repel the assailants and secure the transport\u0027s cargo.",
+              "maleVariant": "",
+              "stringId": "1802525109210824704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Unfortunately, approximately a dozen employees were killed in the assault, including veteran of the Unification War and Crimson Heart recipient Linda Knopes. To the families of those who perished, we at N54 News offer our sincerest condolences.",
+              "maleVariant": "",
+              "stringId": "1802525344242843648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "With the NCPD\u0027s cooperation, Militech has already announced a relatiatory strike on nearby nomad camps.",
+              "maleVariant": "",
+              "stringId": "1802525640461369344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We continue our coverage after the break.",
+              "maleVariant": "",
+              "stringId": "1802525923945988096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:12.5470277Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\hey_gle_foodshop_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027s good to eat?",
+              "maleVariant": "",
+              "stringId": "1752047456349138944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stinks of chlorine in here.",
+              "maleVariant": "",
+              "stringId": "1752047456349138960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027s good to eat?",
+              "maleVariant": "",
+              "stringId": "1752047456382693376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "All kinds of stuff. Here\u0027s our menu.",
+              "maleVariant": "",
+              "stringId": "1752047456399470592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ugh... Why do I smell chlorine...?",
+              "maleVariant": "",
+              "stringId": "1752047456416247808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, um, y\u0027know, had to clean the floors recently. Few stains that wouldn\u0027t come out. No big deal.",
+              "maleVariant": "",
+              "stringId": "1752047456433025024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So... ahem... What\u0027ll it be?",
+              "maleVariant": "",
+              "stringId": "1976330283104129024"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

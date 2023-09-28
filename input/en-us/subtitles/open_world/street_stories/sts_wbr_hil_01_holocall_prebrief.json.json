@@ -1,0 +1,51 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:11.7959933Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_wbr_hil_01_holocall_prebrief.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "True love comes to die in Night City. Husbands cheat on wives – wives cheat on husbands. Then they divorce and talk behind each other\u0027s backs.",
+              "maleVariant": "",
+              "stringId": "2328644303566483456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Can you believe that? Truly, I am shocked. But do not despair, V.",
+              "maleVariant": "",
+              "stringId": "2342082010125012992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Today I give you the chance to help one such divorcé. His name is Mr. Gutierrez, and he is counting on us, V.",
+              "maleVariant": "",
+              "stringId": "2342084356284452864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Of course, his marriage is beyond saving. But perhaps we can retrieve the checks his wife took from him. I am attaching more details.",
+              "maleVariant": "",
+              "stringId": "2342084499461214208"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

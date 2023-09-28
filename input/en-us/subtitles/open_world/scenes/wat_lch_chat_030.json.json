@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.9003190Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_lch_chat_030.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027re you-- checkin\u0027 them out?",
+              "maleVariant": "",
+              "stringId": "2156543523458150400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nah, choom o\u0027 mine used to work here, that\u0027s all.",
+              "maleVariant": "",
+              "stringId": "2221962247260422144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh yeah? Since when d\u0027ya got those kindsa chooms?",
+              "maleVariant": "",
+              "stringId": "2221962898635833344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "From way back. Doesn\u0027t matter.",
+              "maleVariant": "",
+              "stringId": "2221963350127493120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So, what happened to her? She die or somethin\u0027?",
+              "maleVariant": "",
+              "stringId": "2221963953469734912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nah, changed jobs and skipped town... For a while.",
+              "maleVariant": "",
+              "stringId": "2221964444018753536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, I get it. \u0022A choom,\u0022 yeah.",
+              "maleVariant": "",
+              "stringId": "2221964968289976320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So, you wanna say hi? Chat about the good ol\u0027 days?",
+              "maleVariant": "",
+              "stringId": "2221985514423664640"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

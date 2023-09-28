@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:13.5250431Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wbr_jpn_medic_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I need a doc.",
+              "maleVariant": "",
+              "stringId": "1885160209220255744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Was hoping for something strong",
+              "maleVariant": "",
+              "stringId": "1885160209220255760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kinda need a doc.",
+              "maleVariant": "",
+              "stringId": "1885160209270587396"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How can I help?",
+              "maleVariant": "",
+              "stringId": "1885160209270587404"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Was wonderin\u0027 what kind of \u0022vitamins\u0022 you might have under the counter.",
+              "maleVariant": "",
+              "stringId": "1885160209354473476"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I take it you\u0027re not in the market for vitamin C... Yeah, I think we\u0027re well stocked on what you\u0027re shoppin\u0027 for.",
+              "maleVariant": "",
+              "stringId": "1885160209371250688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But if anybody in blue asks, you weren\u0027t here.",
+              "maleVariant": "",
+              "stringId": "1979441176302112768"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

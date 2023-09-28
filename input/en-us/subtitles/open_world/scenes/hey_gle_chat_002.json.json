@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:03.7031228Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_gle_chat_002.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And who do you think you\u0027ll be when you grow up?",
+              "maleVariant": "",
+              "stringId": "1807017843261825024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I wanna be a combat medic! Like on TV!",
+              "maleVariant": "",
+              "stringId": "1807023236482457600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That\u0027s lovely, sweetie! It\u0027s wonderful to save lives.",
+              "maleVariant": "",
+              "stringId": "1807023407274516480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uh-huh! And I\u0027m gonna shoot all the cyberpsychos! That what\u0027s they do too! I saw it on dad\u0027s favorite show!",
+              "maleVariant": "",
+              "stringId": "1807023619338526720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But I won\u0027t give them medicine. It\u0027s stupid to shoot someone first then save them!",
+              "maleVariant": "",
+              "stringId": "1807023792345178112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, you are gonna have to work really hard to get onto the Trauma Team. They only take the best of the best, you know.",
+              "maleVariant": "",
+              "stringId": "1807023990265995264"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

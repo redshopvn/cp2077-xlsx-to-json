@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:07.3005452Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_lch_chat_034.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This all you got? Pretty limited selection, if you ask me...",
+              "maleVariant": "",
+              "stringId": "2156556172271054848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, how about number thirty-four? It\u0027s our dish-of-the-day this week.",
+              "maleVariant": "",
+              "stringId": "2222839145498755072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dish-of-the-day? Ew, I\u0027ll pass. Prolly leftovers from last week thrown into a pot.",
+              "maleVariant": "",
+              "stringId": "2222843656002945024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "OK... how about number twenty-eight? It\u0027s a favorite with our regulars. Comes with sesame sauce.",
+              "maleVariant": "",
+              "stringId": "2222847685504352256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m allergic to sesame.",
+              "maleVariant": "",
+              "stringId": "2222848300305432576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "OK, sir, well maybe the  chef can make you something special?",
+              "maleVariant": "",
+              "stringId": "2222848953962545152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A completely new, one-of-a-kind, signature dish.",
+              "maleVariant": "",
+              "stringId": "2222849676305580032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ooooh... really?",
+              "maleVariant": "",
+              "stringId": "2222850137192480768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No. Just pick something.",
+              "maleVariant": "",
+              "stringId": "2222850960098148352"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

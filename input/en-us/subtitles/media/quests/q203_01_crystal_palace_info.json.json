@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.1057308Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\q203_01_crystal_palace_info.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, you there! Yes, I\u0027m talking to you!",
+              "maleVariant": "",
+              "stringId": "1810970136219992064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Are you getting what you want out of life? Let me guess... Food from a tube? Rusty water from the tap? Another murder outside your bedroom window?",
+              "maleVariant": "",
+              "stringId": "1810978641765187584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But what if... you could leave all that behind?",
+              "maleVariant": "",
+              "stringId": "1810978963216646144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Far, far behind when you begin your journey to the final frontier!",
+              "maleVariant": "",
+              "stringId": "1810979509482799104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Send the word SPACE to 7299 for a chance to win a one-week getaway for two at THE Crystal Palace!",
+              "maleVariant": "",
+              "stringId": "1810980661054128128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ten casinos! Five pools! Top-end braindance equipment! And the best chefs in the universe!",
+              "maleVariant": "",
+              "stringId": "1810980938901602304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If you\u0027re looking for a taste of paradise, don\u0027t wait a microsecond longer! Send SPACE to 7299 right now!",
+              "maleVariant": "",
+              "stringId": "1810981088688586752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The Crystal Palace – feel alive in the dead of space!",
+              "maleVariant": "",
+              "stringId": "1810981261829455872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

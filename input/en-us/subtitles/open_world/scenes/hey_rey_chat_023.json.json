@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:03.8405590Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_rey_chat_023.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022mex\u0022 o=\u0022Sí, pues hoy ya no tenemos, ¿sabes? Se nos acabó, ¿bueno?\u0022 t=\u0022Yeah well, we don\u0027t got it today, y\u0027know? All out, yeah?\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2161911343972904960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm. Right, OK.",
+              "maleVariant": "",
+              "stringId": "2223061329442607104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022mex\u0022 o=\u0022Sí, pues los Calle 6 le dispararon a la camioneta del reparto o algo así. ¿Vas a pedir algo?\u0022 t=\u0022Yeah, 6th Street, like, shot up the delivery van or somethin\u0027. You gettin\u0027 anything?\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2223061481091862528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Delivery? You mean Hector\u0027s van? He OK?",
+              "maleVariant": "",
+              "stringId": "2223075623899074560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022mex\u0022 o=\u0022¿Cómo voy a saberlo? Soy nueva, ¿sí? Solo sé que le dispararon.\u0022 t=\u0022Like I know? I\u0027m new, right? All\u0027s I know is they shot it.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2227506765817548800"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

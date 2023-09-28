@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:12.7785864Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\pac_cvi_techstore_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What do you trade in?",
+              "maleVariant": "",
+              "stringId": "1715598496904040452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Looking to buy something.",
+              "maleVariant": "",
+              "stringId": "1715598744804184064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What do you trade in, exactly?",
+              "maleVariant": "",
+              "stringId": "1715599999320510464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027s on the menu today?",
+              "maleVariant": "",
+              "stringId": "1715616633292640256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Times\u0027re tough. Gotta pinch ennies, every last one. Trade in anything I can get my hands on.",
+              "maleVariant": "",
+              "stringId": "1715627135091658752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Don\u0027t ever trade in nothin\u0027 exactly. Whatever lands in my lap, honey.",
+              "maleVariant": "",
+              "stringId": "1715641366985887744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lemme show you, hon. Doubt you\u0027ll be disappointed.",
+              "maleVariant": "",
+              "stringId": "1715642130751868928"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

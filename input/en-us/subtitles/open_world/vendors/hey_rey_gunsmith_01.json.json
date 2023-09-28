@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:12.6245568Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\hey_rey_gunsmith_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Looking to buy a gun.",
+              "maleVariant": "",
+              "stringId": "1865957969070800896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027s new around here?",
+              "maleVariant": "",
+              "stringId": "1865957969070800912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Thinkin\u0027 of buyin\u0027 some iron.",
+              "maleVariant": "",
+              "stringId": "1865957969137909760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Your thinking\u0027s sound. Won\u0027t get far in Night City without any.",
+              "maleVariant": "",
+              "stringId": "1865957969137909768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027s, uh, new around here?",
+              "maleVariant": "What\u0027s new around here?",
+              "stringId": "1865957969171464196"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What can I say. Tensions are flarin\u0027 up. Suits over in Corpo Plaza don\u0027t like that their view looks out over all us ordinary, working class people.",
+              "maleVariant": "",
+              "stringId": "1865957969171464204"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Something\u0027s comin\u0027, I can feel it. One firebomb and all of Vista\u0027ll go up in flames. And next morning, they\u0027ll hire us to build new offices on top of our burnt-out units.",
+              "maleVariant": "",
+              "stringId": "1973405624771596288"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.8276373Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_kab_chat_27.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, I still haven\u0027t managed find out whether...",
+              "maleVariant": "",
+              "stringId": "2156558223988465664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Because they don\u0027t trust foreigners here...",
+              "maleVariant": "",
+              "stringId": "2212774054677815296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It\u0027s not like anyone\u0027s gonna openly accuse Yorinobu of murder...",
+              "maleVariant": "",
+              "stringId": "2212775357378306048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What? I don\u0027t know their names. People just talk, y\u0027know, in bars, on the street...",
+              "maleVariant": "",
+              "stringId": "2212776938144374784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Which bars...?",
+              "maleVariant": "",
+              "stringId": "2212777750295846912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "S-sir, we can\u0027t just send shock squads into every bar in Kabuki!",
+              "maleVariant": "",
+              "stringId": "2212777854247477248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sir, there\u0027s no need to raise your voice. Of course we\u0027ll stop these rumors from--",
+              "maleVariant": "",
+              "stringId": "2212778988756377600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yes, I\u0027ll handle it personally. You\u0027ll have my report on your desk first thing.",
+              "maleVariant": "",
+              "stringId": "2212786870088474624"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

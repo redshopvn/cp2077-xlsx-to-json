@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:13.5181053Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wbr_jpn_junk_02.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027s good here?",
+              "maleVariant": "",
+              "stringId": "1885146511026044928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You watch everything you sell?",
+              "maleVariant": "",
+              "stringId": "1885146511026044944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got anything quality?",
+              "maleVariant": "",
+              "stringId": "1885146511076376580"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You relive all these BDs, everything you peddle?",
+              "maleVariant": "",
+              "stringId": "1885146511210594308"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0027Course I do. Not like I can sell untested merch. Gotta scope it all out first.",
+              "maleVariant": "",
+              "stringId": "1885146511210594316"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nothin\u0027 so good as you bought last time.",
+              "maleVariant": "",
+              "stringId": "1983737469952811008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But have a look.",
+              "maleVariant": "",
+              "stringId": "1983737469952811020"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I only deal in quality.",
+              "maleVariant": "",
+              "stringId": "1983756461727768576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Let\u0027s have a look then.",
+              "maleVariant": "",
+              "stringId": "1983758703449038848"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

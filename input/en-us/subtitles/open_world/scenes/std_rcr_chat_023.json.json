@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.5577322Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_rcr_chat_023.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yo, is it true what they say? That you\u0027re a deserter? If I gotta be associated with you, I need to hear it straight.",
+              "maleVariant": "",
+              "stringId": "2167645459363680256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0027Cause I\u0027m stars an\u0027 stripes for life, feel me?",
+              "maleVariant": "",
+              "stringId": "2198149165436592128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, went AWOL, it\u0027s true. What they won\u0027t tell you\u0027s that I did it outta patriotism.",
+              "maleVariant": "",
+              "stringId": "2198154151356751872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hmm, I don\u0027t think that\u0027s how it fuckin\u0027 works, son.",
+              "maleVariant": "",
+              "stringId": "2198157997348970496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "OK, look, so an old friend o\u0027 mine goes to some anti-corpo protest – next thing ya know they order me put lead \u0027tween his eyes...",
+              "maleVariant": "",
+              "stringId": "2198160720391790592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And then personally go tell his family their son died a hero, fighting against the enemy.",
+              "maleVariant": "",
+              "stringId": "2198169935344787456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, least he\u0027d go down a hero, right?",
+              "maleVariant": "",
+              "stringId": "2198171092100276224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Filed a formal complaint tellin\u0027 \u0027em what I thought, so they demoted me and took all my implants.",
+              "maleVariant": "",
+              "stringId": "2198193094479536128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Only then did I delta the fuck outta there.",
+              "maleVariant": "",
+              "stringId": "2198195865807183872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

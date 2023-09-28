@@ -1,0 +1,45 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:10.0329659Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_std_rcr_01_holocall_prebrief.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Y\u0027know, I don\u0027t typically see strong-arming as the best way to get results. Still, sometimes you\u0027re left with no choice but force.",
+              "maleVariant": "",
+              "stringId": "2328596370291085312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "There\u0027s this scuzzbag needs to be... reined in. A sadist on a corporate leash – a real hemorrhoid on Night City\u0027s ass.",
+              "maleVariant": "",
+              "stringId": "2342006299783696384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do us all a favor and handle this contract. Details are attached.",
+              "maleVariant": "",
+              "stringId": "2342006345149288448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.9293872Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_029.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I will say, that new suit is calling to me. It\u0027s eccentric, sure, but in a subtle way.",
+              "maleVariant": "",
+              "stringId": "2172242991567843328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Snake skin and silver? A lovely combination, timeless. It would certainly suit you.",
+              "maleVariant": "",
+              "stringId": "2179485031657619456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hm, Zane says I shouldn\u0027t go for anything too loud.",
+              "maleVariant": "",
+              "stringId": "2179485319688863744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, for heaven\u0027s sake...! Buy it, treat yourself. Worst case you give it away. Or throw it out.",
+              "maleVariant": "",
+              "stringId": "2179485469190635520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Soon enough, semiganic will be out, and you\u0027ll be sad you never got a chance to wear it.",
+              "maleVariant": "",
+              "stringId": "2179485873169219584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hm, fair point.",
+              "maleVariant": "",
+              "stringId": "2179486143500500992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ehhh..! Decisions, decisions...",
+              "maleVariant": "",
+              "stringId": "2179486327915659264"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

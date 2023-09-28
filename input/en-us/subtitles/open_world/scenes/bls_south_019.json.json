@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.7205815Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_south_019.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Get your head out of the clouds. We won\u0027t get across. No way.",
+              "maleVariant": "",
+              "stringId": "2178293551208062976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You want to bet?",
+              "maleVariant": "",
+              "stringId": "2182404667176894464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You see that goddamn Great Wall? Not a crack. Not even a rat\u0027s dick could squeeze through.",
+              "maleVariant": "",
+              "stringId": "2182404870130876416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Look, people built that wall. And to err is human.",
+              "maleVariant": "",
+              "stringId": "2182405080567496704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Borders slip and slide. You can\u0027t slice up the earth, just like you can\u0027t divide the heavens.",
+              "maleVariant": "",
+              "stringId": "2182405361887854592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Looks like a pretty solid slab of concrete to me.",
+              "maleVariant": "",
+              "stringId": "2182405481610067968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Be patient. You\u0027ll see soon enough.",
+              "maleVariant": "",
+              "stringId": "2182405680252305408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We\u0027ll be on the other side before you know it.",
+              "maleVariant": "",
+              "stringId": "2182405930685808640"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

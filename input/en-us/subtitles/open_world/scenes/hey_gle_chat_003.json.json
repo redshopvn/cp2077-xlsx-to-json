@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:03.7058386Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_gle_chat_003.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "She cheated on me.",
+              "maleVariant": "",
+              "stringId": "1832678287087362048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Again?",
+              "maleVariant": "",
+              "stringId": "1832703300574240768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Again. Said we\u0027re just \u0022drifting apart.\u0022",
+              "maleVariant": "",
+              "stringId": "1832703552349921280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Choom, seriously. Why do you keep going back?",
+              "maleVariant": "",
+              "stringId": "1832703765504450560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0027Cause I care about her. Can\u0027t live without her.",
+              "maleVariant": "",
+              "stringId": "1832703906147852288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Open your gonk eyes. You could get anyone like her, any day.",
+              "maleVariant": "",
+              "stringId": "1832704163577454592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mehhh… it\u0027s just not the same.",
+              "maleVariant": "",
+              "stringId": "1832704378074161152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Maybe that\u0027s the fuckin\u0027 point, choom. That it\u0027s not the same.",
+              "maleVariant": "",
+              "stringId": "1832704583410507776"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

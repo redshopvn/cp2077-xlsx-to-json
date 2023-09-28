@@ -1,0 +1,51 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:11.0367063Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_kab_102_holocall_debrief.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sorry, but I don\u0027t get it. You were supposed to plant a bug and instead you blow up the fucking car? Pssh, seriously...",
+              "maleVariant": "",
+              "stringId": "2328666939888218112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Perfect – silent and effective, just like in the movies. Except we don\u0027t make that sorta scratch, but you can\u0027t have everything, right? Gig closed.",
+              "maleVariant": "",
+              "stringId": "2328667244193361920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This was supposed to be hush-hush, V. No drawing attention... But all right, the bug\u0027s planted – that\u0027s the most important thing.",
+              "maleVariant": "",
+              "stringId": "2328667521084534784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Now just pray they don\u0027t find it. Gig shut and closed.",
+              "maleVariant": "",
+              "stringId": "2331974474340339712"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

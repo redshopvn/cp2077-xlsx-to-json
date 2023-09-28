@@ -1,0 +1,87 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.7595168Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_cpz_chat_009.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nice work in Bolivia. We lost three labs in one night.",
+              "maleVariant": "",
+              "stringId": "1963276680725307392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You believe Arasaka had a hand in it?",
+              "maleVariant": "",
+              "stringId": "1969059155078356992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, if it were Arasaka, I\u0027d give you my compliments. First-rate sabotage.",
+              "maleVariant": "",
+              "stringId": "1969059513842343936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yes, if it were Arasaka... I would thank you for your kind words.",
+              "maleVariant": "",
+              "stringId": "1969233818865704960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And while we speak of this... Was it you who tried to kidnap Hanako Arasaka?",
+              "maleVariant": "",
+              "stringId": "1969234548204838912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Us? No, not at all!",
+              "maleVariant": "",
+              "stringId": "1969234833568505856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You are sure? Because if Militech were starting to play rough...",
+              "maleVariant": "",
+              "stringId": "1969235431072276480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If Militech were starting to play rough, believe me, you\u0027d know.",
+              "maleVariant": "",
+              "stringId": "1969236020455874560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ifs, ifs, and more ifs...",
+              "maleVariant": "",
+              "stringId": "1969238210436210688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It\u0027s all a lie, an illusion, my dear.",
+              "maleVariant": "",
+              "stringId": "1969238465483448320"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

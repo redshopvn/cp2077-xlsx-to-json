@@ -1,0 +1,45 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.4438624Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_wat_nid_06_holocall_brief.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Attention all NCPD subcons – organized crime activity reported on Martin Street. Maelstrom has established a presence in the area.",
+              "maleVariant": "",
+              "stringId": "2328567125268488192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kaiser Herzog, AKA \u0022The Surgeon,\u0022 spotted. Priors include practicing as a ripperdoc without a license and first-degree murder, for which he has been sentenced to death.",
+              "maleVariant": "",
+              "stringId": "2352315089095593984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "City authorities are offering a reward for the removal of Herzog and Maelstrom from the area.",
+              "maleVariant": "",
+              "stringId": "2352320228158181376"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

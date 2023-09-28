@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:51.6153493Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\yawen\\yawen_packard_default.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Say, by the way... What do you know about biochips? Arasaka\u0027s \u0022Relic,\u0022 in particular.",
+              "maleVariant": "",
+              "stringId": "1987755068515913728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, it\u0027s designed to store a person\u0027s neural engram. Er, sorry... just imagine copying over a person\u0027s memories and personality.",
+              "maleVariant": "",
+              "stringId": "1987759630492602368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What do you know about Arasaka\u0027s \u0022Relic?\u0022",
+              "maleVariant": "",
+              "stringId": "1987799977012727812"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Right, I get that. More curious what happens if the stored engram overwrites the engrams of the chip carrier.",
+              "maleVariant": "",
+              "stringId": "2005649229918375936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0022Overwrites?\u0022 I... I\u0027m not even sure that\u0027s possible...",
+              "maleVariant": "",
+              "stringId": "2005649542360469504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Why do you ask?",
+              "maleVariant": "",
+              "stringId": "2005649745180233728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nah, never mind... Not a big deal. Thanks.",
+              "maleVariant": "",
+              "stringId": "2005649966488489984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

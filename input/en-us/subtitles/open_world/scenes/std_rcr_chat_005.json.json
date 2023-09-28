@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.4307824Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_rcr_chat_005.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Head\u0027s killing me lately. Got all these red bumps sproutin\u0027 up, too.",
+              "maleVariant": "",
+              "stringId": "1963293068592455680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You go diggin\u0027 in Petrochem trash, that\u0027s what you get. \u0027S all radioactive out there.",
+              "maleVariant": "",
+              "stringId": "1969270904281874432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Look, I know they toss good shit, but it ain\u0027t worth it. I mean, \u0027less you been savin\u0027 up for some new bone marrow.",
+              "maleVariant": "",
+              "stringId": "1969271067775844352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Eh, come on. Tha\u0027s just talk. Flu\u0027ll get me before any of that radiation does.",
+              "maleVariant": "",
+              "stringId": "1969271885262471168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Meantime, five eds for a Petro transformer – ain\u0027t nothin\u0027 to sneeze at.",
+              "maleVariant": "",
+              "stringId": "1969272211663208448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

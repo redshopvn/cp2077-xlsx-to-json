@@ -1,0 +1,45 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:09.1336681Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_hey_rey_01_chats.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Cmothertongue l=\u0022mex\u0022 m=\u0022mano\u0022 b=\u0022Because we\u0027re not running a fucking charity, \u0022 a=\u0022!\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "1537267379824193536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Cmothertongue l=\u0022mex\u0022 m=\u0022idiota\u0022 b=\u0022Maybe that\u0027ll teach that \u0022 a=\u0022 to pay his debts on time. And if it doesn\u0027t, then he won\u0027t be runnin\u0027 away that easy.\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "1538589567070081024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Less panic, more cut. Achilles tendon is the big one, above the heel.",
+              "maleVariant": "",
+              "stringId": "1669105726039576576"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

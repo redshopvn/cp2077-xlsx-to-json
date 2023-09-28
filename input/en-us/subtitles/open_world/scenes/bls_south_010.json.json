@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.6961384Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_south_010.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What are the roots that clutch... what branches grow... out of this stony rubbish?",
+              "maleVariant": "",
+              "stringId": "1973558502138880000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Son of man... You cannot say, or guess, for you know only... A heap of broken images...",
+              "maleVariant": "",
+              "stringId": "1973813572860190720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Where the sun beats... \nAnd the dead tree gives no shelter... the cricket no relief... And the dry stone... no sound of water...",
+              "maleVariant": "",
+              "stringId": "1973814796120563712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Only...! Ekhe, Ekhe...! There is shadow under this red rock...",
+              "maleVariant": "",
+              "stringId": "1973816109055156224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Come in under the shadow of this red rock!",
+              "maleVariant": "",
+              "stringId": "1973818192600834048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And I will show you... something different from either your shadow at morning striding behind you... or your shadow at evening rising to meet you!",
+              "maleVariant": "",
+              "stringId": "1973818876305940480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I will show you fear in a handful of dust!",
+              "maleVariant": "",
+              "stringId": "1973819968485924864"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

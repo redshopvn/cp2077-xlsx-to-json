@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.6016007Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_east_021.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We should get a move on soon. We camp out any longer, we\u0027ll start growing roots.",
+              "maleVariant": "",
+              "stringId": "2178265220515176448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What, had enough of the view?",
+              "maleVariant": "",
+              "stringId": "2181079985345511424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Come on. Windmills to the left, windmills to the right. Be nice to see some mountains for a change.",
+              "maleVariant": "",
+              "stringId": "2181080266951081984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Could head out to Appalachia. They say the radiation\u0027s gone down.",
+              "maleVariant": "",
+              "stringId": "2181080589325287424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tell you what, I could stand to go on a little loot run.",
+              "maleVariant": "",
+              "stringId": "2181080800583991296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I could do anything, long as it\u0027s away from these windmills.",
+              "maleVariant": "",
+              "stringId": "2181080969715105792"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

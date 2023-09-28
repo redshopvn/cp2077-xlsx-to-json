@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.9078168Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_021.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Try \u0022The Multimillionare Within,\u0022 or \u0022Discover Your Inner Diamond\u0022 – I wrote that last one myself. Give \u0027em a read, you\u0027ll pull yourself right up by those bootstraps.",
+              "maleVariant": "",
+              "stringId": "2172194262596956160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "OK, but you got an eddie now?",
+              "maleVariant": "",
+              "stringId": "2189508480305827840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, I\u0027d rather teach you to fish...",
+              "maleVariant": "",
+              "stringId": "2189508506058854400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You got a fish?",
+              "maleVariant": "",
+              "stringId": "2189509129634418688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What...? No, no. It\u0027s a metaphor.",
+              "maleVariant": "",
+              "stringId": "2189509207782690816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Look, you\u0027ve got to change your outlook. If you just start by setting small goals and work toward \u0027em, you\u0027ll be back on your feet in no time. Understood?",
+              "maleVariant": "",
+              "stringId": "2189516522950856704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, yeah. So you got that scratch?",
+              "maleVariant": "",
+              "stringId": "2189517041853370368"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

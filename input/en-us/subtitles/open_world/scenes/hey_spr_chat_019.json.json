@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:04.3320251Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_spr_chat_019.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022mex\u0022 o=\u0022El güey de al lado estiró la pata. Murió de joven, además. Apenas pasaba los cuarenta.\u0022 t=\u0022Ehhh, guy next door croaked. Dead, and young, too. Just over forty.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2162117537582264320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022mex\u0022 o=\u0022Pues no era tan joven.\u0022 t=\u0022Forty\u0027s not that young.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2213022632756219904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022mex\u0022 o=\u0022Oye, que ya pasé la flor de la vida pero nunca me sentí tan viva.\u0022 t=\u0022Hey now, I\u0027m over the hill, never felt younger!\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2218651103259889664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022mex\u0022 o=\u0022Y... ¿Qué le pasó?\u0022 t=\u0022Well, I... What happened to him?\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2218651296550195200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022mex\u0022 o=\u0022Una neurodanza. Se pasaba sentado en su casa viviendo las vidas de otros. Estaba días enteros sin salir.\u0022 t=\u0022Braindance. Just sat at home all the time, binging other people\u0027s lives. Wouldn\u0027t go out for days.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2218651901301723136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022mex\u0022 o=\u0022Sí, pero todos lo hacen a veces... ¿Cuánto tardaron en encontrarlo?\u0022 t=\u0022Yeah, but everyone does that sometimes... How long before they found him?\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2218658762679750656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022mex\u0022 o=\u0022No sé, no me dijeron. Parece que cuando la policía tiró la puerta abajo, ¡estaba repleto de bichos!\u0022 t=\u0022Dunno. Wouldn\u0027t tell me. Apparently, when the cops busted down the door, the whole floor was crawling!\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2218658893961465856"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

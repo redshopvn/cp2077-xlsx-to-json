@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.7564329Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_awf_chat_021.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We have to talk to HR. We haven\u0027t seen our daughter in a month!",
+              "maleVariant": "",
+              "stringId": "2156499635201417216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Look, we both knew this project would eat up all our time.",
+              "maleVariant": "",
+              "stringId": "2196800482004103168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And look how we\u0027re paying for it! You don\u0027t even know if Melody\u0027s OK!",
+              "maleVariant": "",
+              "stringId": "2196804421025984512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, I\u0027d rather ask Melody what she had for dinner, not read it in some stupid report. Wouldn\u0027t you?",
+              "maleVariant": "",
+              "stringId": "2196804889429078016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ah, OK, so now I\u0027m a bad mother?",
+              "maleVariant": "",
+              "stringId": "2196805077350674432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No! I never said that, you know I didn\u0027t... Ehh, never mind.",
+              "maleVariant": "",
+              "stringId": "2196805259349913600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But her nanny does, and she\u0027s sending us detailed reports. Where\u0027s the problem?",
+              "maleVariant": "",
+              "stringId": "2196827706744827904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

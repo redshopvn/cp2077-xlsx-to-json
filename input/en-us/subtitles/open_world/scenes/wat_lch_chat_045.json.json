@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:07.3418499Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_lch_chat_045.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So... we gonna talk about yesterday?",
+              "maleVariant": "",
+              "stringId": "2157402539566592000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It\u0027s all in the report.",
+              "maleVariant": "",
+              "stringId": "2182614415428894720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, I read it. \u0027Cept there\u0027s no mention of me tellin\u0027 you to delta the fuck outta there.",
+              "maleVariant": "",
+              "stringId": "2209863748935041024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, no biggie. Not like that cyberpsycho was a tank on two chrome legs...",
+              "maleVariant": "",
+              "stringId": "2209864292919492608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What the fuck were you thinkin\u0027? There\u0027s a reason MaxTac exists, ya know...",
+              "maleVariant": "",
+              "stringId": "2209866742829236224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Civilians were in danger. What was I supposed to do – just watch them get mowed down?",
+              "maleVariant": "",
+              "stringId": "2209867449049366528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Listen – you, me and every fuckin\u0027 cop in this city might as well be a civilian next to MaxTac.",
+              "maleVariant": "",
+              "stringId": "2209868517019828224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The day they give us the gear they\u0027re packin\u0027? Go right ahead, be the hero, save the fuckin\u0027 day.",
+              "maleVariant": "",
+              "stringId": "2209868928413941760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But until then, you keep your head down and listen to me. That understood?",
+              "maleVariant": "",
+              "stringId": "2209872198377226240"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

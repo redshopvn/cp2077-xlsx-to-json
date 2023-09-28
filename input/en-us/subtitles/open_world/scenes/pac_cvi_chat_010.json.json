@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:05.1017244Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\pac_cvi_chat_010.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "There\u0027s no such thing as Agwe! It\u0027s all made-up.",
+              "maleVariant": "",
+              "stringId": "1963270569590824960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But there was another Agwe, the real one. He was called Philippe Oreste.",
+              "maleVariant": "",
+              "stringId": "1969389213299003392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "When the hurricanes hit Haiti, he put everyone on life rafts.",
+              "maleVariant": "",
+              "stringId": "1969389956881993728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And then they all came to Pacifica.",
+              "maleVariant": "",
+              "stringId": "1969390551902736384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ever seen a map? You know where Haiti is and Pacifica is?",
+              "maleVariant": "",
+              "stringId": "1969390980225060864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Then... then they just got to land, first.",
+              "maleVariant": "",
+              "stringId": "1969391327278551040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And they drove all the way to Pacifica.",
+              "maleVariant": "",
+              "stringId": "1969391601082716160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "There were two Agwes. One was a loa, but loas aren\u0027t actually real.",
+              "maleVariant": "",
+              "stringId": "1969392741497196544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That\u0027s what I just said!",
+              "maleVariant": "",
+              "stringId": "1969393191277580288"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

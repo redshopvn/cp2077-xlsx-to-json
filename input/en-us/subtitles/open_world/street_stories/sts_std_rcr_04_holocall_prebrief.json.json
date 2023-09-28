@@ -1,0 +1,45 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:10.2358815Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_std_rcr_04_holocall_prebrief.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yo, V. Check it – there\u0027s a site on the Net out to smear the mayor, Weldon Holt. Well, acting mayor, \u0027cause y\u0027know he\u0027s up for reelection or whatever.",
+              "maleVariant": "",
+              "stringId": "2328627941136060416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, politics, am I right? Mud-slinging never stops – not for a minute.",
+              "maleVariant": "",
+              "stringId": "2342039394134102016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Anyhow, my client wants that site sucked into the cold vacuum of cyberspace. Scan the brief if you need more info.",
+              "maleVariant": "",
+              "stringId": "2342040251131072512"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

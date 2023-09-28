@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.6375736Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_north_003.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You want to be a nomad, you better talk like a nomad. They won\u0027t ever accept you otherwise.",
+              "maleVariant": "",
+              "stringId": "1973561352269111296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The vehicle is the nexus of their world. From their perspective, it is the ground that moves, as it were, not they.",
+              "maleVariant": "",
+              "stringId": "1974792791749541888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You know, I\u0027ve noticed something. Born nomads have an entirely different conception of time and space.",
+              "maleVariant": "",
+              "stringId": "1974792953582567424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Listen, professor... Keep those deep thoughts to yourself, all right?",
+              "maleVariant": "",
+              "stringId": "1974793044464746496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Now, I know you don\u0027t mean anything – but people might get the feeling you think you\u0027re better than them.",
+              "maleVariant": "",
+              "stringId": "1974793082851016704"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

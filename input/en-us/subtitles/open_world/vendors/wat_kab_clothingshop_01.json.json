@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:13.0422968Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wat_kab_clothingshop_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Looking for something nice.",
+              "maleVariant": "",
+              "stringId": "1914297443719860224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Since when are gangers selling clothes?",
+              "maleVariant": "",
+              "stringId": "1914297443719860240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got any nice threads for me?",
+              "maleVariant": "",
+              "stringId": "1914297443753414656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If you thrift falls into your definition of \u0022nice,\u0022 then sure.",
+              "maleVariant": "",
+              "stringId": "1914297443753414664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Isn\u0027t that Tyger Claw ink? Since when do gangers sell threads?",
+              "maleVariant": "",
+              "stringId": "1914297443770191876"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Since one of their bosses decided that they don\u0027t need chooms with fucked up spines.",
+              "maleVariant": "",
+              "stringId": "1914297443770191884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wanna change my look.",
+              "maleVariant": "",
+              "stringId": "3775204349752242176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Need to change up my style.",
+              "maleVariant": "I need to change my style.",
+              "stringId": "3836253223455158296"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:24.4682171Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\mq003\\mq003_02_corpse.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Blood everywhere. Rookie job.",
+              "maleVariant": "",
+              "stringId": "1789372348653252608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Came here alone, no backup... Probably a deal gone wrong.",
+              "maleVariant": "Came here alone, no backup... It\u0027s probably a deal gone wrong.",
+              "stringId": "1789372363937296384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Let\u0027s see what we got here...",
+              "maleVariant": "",
+              "stringId": "1789378210981621764"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Won\u0027t be needin\u0027 this anymore...",
+              "maleVariant": "",
+              "stringId": "1789405210169454592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Body\u0027s fresh...",
+              "maleVariant": "",
+              "stringId": "1790776711892316160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Muscles aren\u0027t stiff yet... Dead couple hours, tops.",
+              "maleVariant": "",
+              "stringId": "1855953953139863552"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:12.4593069Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\cct_dtn_guns_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What kinda heat are you packing?",
+              "maleVariant": "",
+              "stringId": "1979229565159448580"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How\u0027s biz workin\u0027 out for ya?",
+              "maleVariant": "",
+              "stringId": "1979230029955440640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What kinda heat\u0027re you packin\u0027?",
+              "maleVariant": "",
+              "stringId": "1979230741326176256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Thought you\u0027d never ask.",
+              "maleVariant": "",
+              "stringId": "1979231483499880448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How\u0027s the weapons biz? Poppin\u0027?",
+              "maleVariant": "",
+              "stringId": "1979232293319319552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Big-time. People can\u0027t take their fingers off their triggers.",
+              "maleVariant": "",
+              "stringId": "1979233534229323776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You wanna be safe on the streets, you can\u0027t go wrong with tactical vests and headgear.",
+              "maleVariant": "",
+              "stringId": "1979233851369037824"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

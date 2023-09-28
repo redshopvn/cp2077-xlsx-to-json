@@ -1,0 +1,87 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:49.4560250Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\sq031\\sq031_02a_rogue_call.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Found something. Section of the docks that\u0027s Maelstrom turf.",
+              "maleVariant": "",
+              "stringId": "1566661465850208256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V? Got to the bottom of \u0022Ebunike.\u0022",
+              "maleVariant": "",
+              "stringId": "1728851306850508800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So you found Grayson. He really got an in with Smasher?",
+              "maleVariant": "Meanin\u0027 you found Grayson? He really got an in with Smasher?",
+              "stringId": "1728854736096681984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Come see me – Afterlife. We\u0027ll talk.",
+              "maleVariant": "",
+              "stringId": "1728854923212972032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "OK.",
+              "maleVariant": "",
+              "stringId": "1796625088074027008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So why\u0027re these docks called \u0022Ebunike\u0022? Pretty sure it\u0027s got nothin\u0027 to do with some long-dead mayor.",
+              "maleVariant": "",
+              "stringId": "1912908436864782336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dead wrong, actually. It\u0027s not the docks, it\u0027s an old container ship named after the guy.",
+              "maleVariant": "",
+              "stringId": "1912908436864782348"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Flicked pings to some contacts. Grayson buzzed familiar for a friend from the olden days. He did some digging.",
+              "maleVariant": "",
+              "stringId": "2238797561786351616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0022Ebunike\u0022 – where\u0027s the name come from?",
+              "maleVariant": "",
+              "stringId": "2238804504399659012"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So you\u0027ve found Grayson. Any leads on Smasher?",
+              "maleVariant": "",
+              "stringId": "2238816356512907264"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

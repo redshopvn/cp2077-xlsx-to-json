@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.8764788Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_009.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Girl, your new nose is fabulous. I think it\u0027s your best yet. Hardly recognized you!",
+              "maleVariant": "",
+              "stringId": "1964628570382516224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You should\u0027ve seen me on set last week. Wardrobe swapped out everything. Even my voice.",
+              "maleVariant": "",
+              "stringId": "1964666115946430464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "They made me into this rippling stud, and oooh... I\u0027d have blown myself if I could.",
+              "maleVariant": "",
+              "stringId": "1964666248419328000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You landed another male role?",
+              "maleVariant": "",
+              "stringId": "1964666343428702208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You know... I really shouldn\u0027t be telling you this... But I beat out Tom Bradley for the role!",
+              "maleVariant": "",
+              "stringId": "1964666471740850176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ooooh! Our girl is on fire!",
+              "maleVariant": "",
+              "stringId": "1964666644512620544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, seems I\u0027m almost all boy these days.",
+              "maleVariant": "",
+              "stringId": "1964666691606265856"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

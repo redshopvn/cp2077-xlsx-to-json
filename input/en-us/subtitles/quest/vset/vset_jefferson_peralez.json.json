@@ -1,0 +1,99 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:50.5223223Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\vset\\vset_jefferson_peralez.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey there.",
+              "maleVariant": "",
+              "stringId": "1796889441146486784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nice to see you, V.",
+              "maleVariant": "",
+              "stringId": "1796889441163264004"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I understand, we\u0027ll catch up soon.",
+              "maleVariant": "",
+              "stringId": "1796889441263927300"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Right, we\u0027ll return to this later.",
+              "maleVariant": "",
+              "stringId": "1796889441297481732"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Now, where did we leave off...",
+              "maleVariant": "",
+              "stringId": "1796889441381367812"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027re here, fantastic.",
+              "maleVariant": "",
+              "stringId": "1796889441414922244"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V?",
+              "maleVariant": "",
+              "stringId": "1796889441431699460"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Is everything all right?",
+              "maleVariant": "",
+              "stringId": "1796889441465253888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, excuse me.",
+              "maleVariant": "",
+              "stringId": "1796889441716912132"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Careful, please.",
+              "maleVariant": "",
+              "stringId": "1796889441750466564"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V? Hello?",
+              "maleVariant": "",
+              "stringId": "1966184162390843396"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Are you still there?",
+              "maleVariant": "",
+              "stringId": "1966184162441175044"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

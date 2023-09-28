@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:25.9165229Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\mq015\\mq015_02_seller_holocall.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That\u0027s right.",
+              "maleVariant": "",
+              "stringId": "1815753681951170560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sounds about right.",
+              "maleVariant": "",
+              "stringId": "1815753681967947780"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey! You lookin\u0027 for the book?",
+              "maleVariant": "",
+              "stringId": "1815753682018279428"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Price non-negotiable. You\u0027ll need to pay in full on pick-up.",
+              "maleVariant": "",
+              "stringId": "1815763652801634304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Call you later.",
+              "maleVariant": "",
+              "stringId": "1842959193754357760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Call ya back later.",
+              "maleVariant": "",
+              "stringId": "1842959381910835200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Preem. I\u0027ve flicked you the address. Come by your lonesome.",
+              "maleVariant": "",
+              "stringId": "1842960760461119488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Clear enough... Agreed.",
+              "maleVariant": "",
+              "stringId": "1842961087566499840"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

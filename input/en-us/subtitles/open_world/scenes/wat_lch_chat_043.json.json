@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:07.3363209Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_lch_chat_043.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027d just end up, like, a puddle of brains.",
+              "maleVariant": "",
+              "stringId": "2157394444794753024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m telling you, I saw a virtu of a guy jumping from, like, right here.",
+              "maleVariant": "",
+              "stringId": "2182564453634621440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Must\u0027ve had some nova implants...",
+              "maleVariant": "",
+              "stringId": "2182569749497069568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Prolly made o\u0027 fiberglass or something. Otherwise there\u0027d be, like, a crater in the sidewalk.",
+              "maleVariant": "",
+              "stringId": "2182576571834515456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027re impossible to talk to! You always think I\u0027m just, like, making shit up!",
+              "maleVariant": "",
+              "stringId": "2182583784594554880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, I just think you\u0027re gullible.",
+              "maleVariant": "",
+              "stringId": "2182586415681454080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But that\u0027s cute.",
+              "maleVariant": "",
+              "stringId": "2182588141956317184"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

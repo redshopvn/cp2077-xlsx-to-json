@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:07.7740204Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_jpn_chat_009.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yo, don\u0027t forget, we\u0027re playin\u0027 tonight.",
+              "maleVariant": "",
+              "stringId": "1806908953341845504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Like I forgot! Game\u0027s the only reason I get out of bed in the mornin\u0027, choom.",
+              "maleVariant": "",
+              "stringId": "1806909946938908672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We win tonight, we\u0027re goin\u0027 somewhere that\u0027ll really get you up, heh heh.",
+              "maleVariant": "",
+              "stringId": "1806910114761400320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nope, not for me. I\u0027m here for the poker, that\u0027s it.",
+              "maleVariant": "",
+              "stringId": "1806910278003712000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You sure?",
+              "maleVariant": "",
+              "stringId": "1806910452721639424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "C\u0027mon. Kid\u0027s on the way whether I like it or not.",
+              "maleVariant": "",
+              "stringId": "1806910707064233984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

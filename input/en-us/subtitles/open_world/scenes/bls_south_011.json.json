@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.6985433Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_south_011.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Look, you gotta try that moonshine of mine. Triple-filtered. Taste of freedom, choom.",
+              "maleVariant": "",
+              "stringId": "2178214280439521280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ever think about branching out, selling it to some club in town?",
+              "maleVariant": "",
+              "stringId": "2181011401628934144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nah. All for me. Don\u0027t drink anything else now, not even water. Like a mouthful of rusty metal, blech!",
+              "maleVariant": "",
+              "stringId": "2181015273659392000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0027Cause whatever\u0027s coming out of the tap isn\u0027t water. They use the real stuff to water down the fuel, then make us drink whatever swill\u0027s left.",
+              "maleVariant": "",
+              "stringId": "2181015993703948288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Whole reason I put a container up on the roof, started collecting rainwater. Tastes a little like gasoline, sure, but that\u0027s ok. Takes me back to when I was a kid.",
+              "maleVariant": "",
+              "stringId": "2181031166313455616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You guys had a gas car?",
+              "maleVariant": "",
+              "stringId": "2181035281680654336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nah, come on. Used to go to town to siphon. You pull out the fuel cap, then get it started sucking on a tube. Made some extra eds that way.",
+              "maleVariant": "",
+              "stringId": "2181035965654196224"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

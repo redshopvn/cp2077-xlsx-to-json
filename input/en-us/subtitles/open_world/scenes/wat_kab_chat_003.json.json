@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.7641803Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_kab_chat_003.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Did ya hear what happened in number 5?",
+              "maleVariant": "",
+              "stringId": "1802455374480662528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What, he beat her again?",
+              "maleVariant": "",
+              "stringId": "1802455951197462528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nooooo. She flatlined \u0027im. Shot \u0027im dead!",
+              "maleVariant": "",
+              "stringId": "1802456146383593472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No way! You sure?",
+              "maleVariant": "",
+              "stringId": "1802456317897072640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ai in number 6 saw it. Told me everything.",
+              "maleVariant": "",
+              "stringId": "1802456509576765440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ai? Ai\u0027ll say anything. Come on.",
+              "maleVariant": "",
+              "stringId": "1802457849992437760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m serious! Bullet went right through the wall! Ai saw the body with her own two eyes!",
+              "maleVariant": "",
+              "stringId": "1802458864158367744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

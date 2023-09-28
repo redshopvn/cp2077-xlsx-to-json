@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:07.8511613Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_nok_chat_003.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The response to Kulikowski\u0027s latest work is overwhelming.",
+              "maleVariant": "",
+              "stringId": "1963354641663131648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Meh, no originality.",
+              "maleVariant": "",
+              "stringId": "1979123150852820992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m sorry?",
+              "maleVariant": "",
+              "stringId": "1979123253126729728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kulikowski\u0027s derivative to the point of absurdity. Nothing new to say at all.",
+              "maleVariant": "",
+              "stringId": "1979123360786124800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sorry, but I can\u0027t let a comment like that go. Maybe you just don\u0027t understand his message.",
+              "maleVariant": "",
+              "stringId": "1979123493376462848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "His latest work is a brilliant investigation into the medial status of the canvas itself.",
+              "maleVariant": "",
+              "stringId": "1979123841822461952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Precisely. He\u0027s calling into question the tenuous relationship between referent and reference.",
+              "maleVariant": "",
+              "stringId": "1979124855434743808"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

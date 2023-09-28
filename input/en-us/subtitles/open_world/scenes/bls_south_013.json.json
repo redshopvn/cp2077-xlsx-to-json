@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.7043312Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_south_013.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027re you still digging for?! C\u0027mon, let\u0027s get outta here.",
+              "maleVariant": "",
+              "stringId": "2178239594641219584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chill. I got a new knee, got me runnin\u0027 like a fuckin\u0027 gazelle now.",
+              "maleVariant": "",
+              "stringId": "2181089667308019712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Where\u0027d you get that?",
+              "maleVariant": "",
+              "stringId": "2181091621081931776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hand-me-down, from my brother. He got some fancy reinforced model.",
+              "maleVariant": "",
+              "stringId": "2181092073244680192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So he finally remembered you exist, huh? Last time the gonk pretended he didn\u0027t even know you.",
+              "maleVariant": "",
+              "stringId": "2181092625215086592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, that was when he was lunching with his boss. Then he fucked up some big project, now nobody wants to eat with him.",
+              "maleVariant": "",
+              "stringId": "2181093702077472768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah... corporats are like the bomb squad. Only mess up once. Anyway, get those gazelle legs pumpin\u0027, let\u0027s delta.",
+              "maleVariant": "",
+              "stringId": "2181096401867071488"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:03.7299968Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_gle_chat_013.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But they promised us a permit. They can\u0027t just back out now!",
+              "maleVariant": "",
+              "stringId": "2161723149930016768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0027Course they can. Night Corp coughed up more eddies.",
+              "maleVariant": "",
+              "stringId": "2176517464269766656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Not how you fucking do things! We had a contract! You break a contract, that\u0027s war!",
+              "maleVariant": "",
+              "stringId": "2176517699670884352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sure. If the two parties are batting in the same league.",
+              "maleVariant": "",
+              "stringId": "2176517798471909376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But why? City won\u0027t get a damn thing from that development. Night Corp investments fill Night Corp coffers.",
+              "maleVariant": "",
+              "stringId": "2176517898329899008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dunno. Maybe they\u0027re just stupid. Not everything\u0027s some grand conspiracy.",
+              "maleVariant": "",
+              "stringId": "2176518025836740608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Still gotta do something.",
+              "maleVariant": "",
+              "stringId": "2176518132942487552"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

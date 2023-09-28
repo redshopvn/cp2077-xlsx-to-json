@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.9425643Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_034.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, the commission went too far this time. There are lines you don\u0027t cross!",
+              "maleVariant": "",
+              "stringId": "2172287136265121792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But, um... you\u0027re supposed to go out among the people, let voters see you…",
+              "maleVariant": "",
+              "stringId": "2180928470257483776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ugh, do you smell that?! Does that smell like my electorate to you?",
+              "maleVariant": "",
+              "stringId": "2180928826974650368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The whole idea was idiotic from the start. I\u0027m not going to pander to bums!",
+              "maleVariant": "",
+              "stringId": "2180928982163898368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Maybe you should just try it... Lots of Night City residents take NCART.",
+              "maleVariant": "",
+              "stringId": "2180929100258721792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, no way. I\u0027m not going back into that overcrowded cesspool. It\u0027s no place for a civilized human being.",
+              "maleVariant": "",
+              "stringId": "2180929331113213952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, the commission won\u0027t be happy.",
+              "maleVariant": "",
+              "stringId": "2180929468820602880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I don\u0027t give a shit. Let them go mingle with the masses if it\u0027s so damn important to them.",
+              "maleVariant": "",
+              "stringId": "2180929675482349568"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:31.3465260Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\q001\\q001_00b_dead_girl.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Cmothertongue l=\u0022mex\u0022 m=\u0022chica\u0022 b=\u0022V… check this \u0022 a=\u0022.\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "1141750414696976400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sandra Dorsett\u0027s protected under echelon II corpo immunity. Our girl\u0027s top shelf…",
+              "maleVariant": "",
+              "stringId": "1141752040660865040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V – head in the game. Check if that\u0027s her!",
+              "maleVariant": "",
+              "stringId": "1141794090370404352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Not our lucky gal. Let\u0027s keep lookin\u0027.",
+              "maleVariant": "",
+              "stringId": "1173663261609627648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Grr, are we fuckin\u0027 late?! Is that her, IS that our target, V?!",
+              "maleVariant": "",
+              "stringId": "1193657062757011456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This one\u0027s packin\u0027 black market Zetatech repros. Typical back-alley fix-ups.",
+              "maleVariant": "",
+              "stringId": "1630194113232957440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nice! Scavs just lost their last eyes.",
+              "maleVariant": "",
+              "stringId": "1690989747161427968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027ve been made! Reapers headed your way!",
+              "maleVariant": "",
+              "stringId": "1690992765969788928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cyberware looks too cheap...",
+              "maleVariant": "",
+              "stringId": "2177968277633142788"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

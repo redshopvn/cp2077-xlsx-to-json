@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.6272289Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_east_030.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Heard even city chooms like to race. Test out their new wheels and all that.",
+              "maleVariant": "",
+              "stringId": "2178313401391194112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No surprise there. If the car holds out here, it\u0027ll hold out anywhere.",
+              "maleVariant": "",
+              "stringId": "2211326184896262144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah... Anyway, you hear it\u0027s just country folks racing, no point even placin\u0027 a bet. Anyone\u0027s call then.",
+              "maleVariant": "",
+              "stringId": "2211327032346996736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But if you got a city boy in the mix...",
+              "maleVariant": "",
+              "stringId": "2211328041949523968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Haha, easy money, huh?",
+              "maleVariant": "",
+              "stringId": "2211328529948405760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pure stats. Chances some city gonk fucks up on that route are higher than \u0027Saka Tower.",
+              "maleVariant": "",
+              "stringId": "2211328690758021120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Clever. Heard there\u0027s some... Bica in the next race? He\u0027s from Night City, right?",
+              "maleVariant": "",
+              "stringId": "2211329800201760768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "He is indeed. But he\u0027s the exception proves the rule. If Bica\u0027s racin\u0027, Bica\u0027s winnin\u0027. Simple as that.",
+              "maleVariant": "",
+              "stringId": "2211330948300206080"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

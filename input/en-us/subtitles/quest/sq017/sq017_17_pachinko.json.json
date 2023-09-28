@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:45.4681380Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\sq017\\sq017_17_pachinko.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This elevator is out of order. Sorry.",
+              "maleVariant": "",
+              "stringId": "1339984088743809024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got a meet with Kerry.",
+              "maleVariant": "",
+              "stringId": "1339986038541520916"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Out of order for Kerry Eurodyne\u0027s guests, too? He\u0027s expecting me.",
+              "maleVariant": "",
+              "stringId": "1339994563900608512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "In that case, enjoy your evening.",
+              "maleVariant": "",
+              "stringId": "1339995028210061312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So why\u0027re you here?",
+              "maleVariant": "",
+              "stringId": "1818663045486567424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It\u0027s out of order, why\u0027re you here?",
+              "maleVariant": "If it\u0027s out of order, why\u0027re you here?",
+              "stringId": "1818664320353656832"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

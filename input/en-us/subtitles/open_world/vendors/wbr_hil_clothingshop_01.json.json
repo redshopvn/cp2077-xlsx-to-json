@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:13.4303484Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wbr_hil_clothingshop_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027s for sale?",
+              "maleVariant": "",
+              "stringId": "1764841085785780224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Recommend anything?",
+              "maleVariant": "",
+              "stringId": "1764841085802557444"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027s good here?",
+              "maleVariant": "",
+              "stringId": "1764914950096465920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Whatever you desire.",
+              "maleVariant": "",
+              "stringId": "1764915472387977216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stuck on where to take my style. Anything you\u0027d recommend?",
+              "maleVariant": "Stuck on where I wanna take my style. Anything you\u0027d recommend?",
+              "stringId": "1764915916011122688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Your eyes remind me of autumn. Might I suggest a piece from Chiaki Kyoto?",
+              "maleVariant": "",
+              "stringId": "1764916180420046848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wanna change my look.",
+              "maleVariant": "",
+              "stringId": "3775244115176714240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027d like to use your services.",
+              "maleVariant": "",
+              "stringId": "3836305297266044968"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.9104398Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_022.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, princess? How long I gotta wait till you make up your mind?",
+              "maleVariant": "",
+              "stringId": "2172211025015451648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0027Ey, shut it. Don\u0027t rush genius.",
+              "maleVariant": "",
+              "stringId": "2178091326430232576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bulllllshit. You\u0027re a genius, I\u0027m motherfuckin\u0027 Dick Night.",
+              "maleVariant": "",
+              "stringId": "2178091716232069120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Way it stands now, I\u0027m up 3-0. Who\u0027s the genius again?",
+              "maleVariant": "",
+              "stringId": "2178091840249249792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, yeah. See who\u0027s laughin\u0027 when I clean you outta your last can.",
+              "maleVariant": "",
+              "stringId": "2178092036442013696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ha! Go \u0027head, keep talkin\u0027 scop.",
+              "maleVariant": "",
+              "stringId": "2178092138749476864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, this here\u0027s all strategy. First I distract you, then I bust out a card that\u0027ll knock you flat on your back.",
+              "maleVariant": "",
+              "stringId": "2178092638542741504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, let\u0027s see it!",
+              "maleVariant": "",
+              "stringId": "2178092858861142016"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

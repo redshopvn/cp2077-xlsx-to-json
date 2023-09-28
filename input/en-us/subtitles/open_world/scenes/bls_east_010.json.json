@@ -1,0 +1,93 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.5724032Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_east_010.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If you\u0027re looking for a guide, Trevor\u0027s the one.",
+              "maleVariant": "",
+              "stringId": "1973549367548747776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Did you hear those bastards killed Trevor?",
+              "maleVariant": "",
+              "stringId": "1976397197048827904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What do you mean? He\u0027s a good kid. Quick, clever...",
+              "maleVariant": "",
+              "stringId": "1976399008166072320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "OK, let me be more precise – I need a guide who is not Trevor.",
+              "maleVariant": "",
+              "stringId": "1976399110322540544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Too clever. Besides – Trevor.",
+              "maleVariant": "",
+              "stringId": "1976400900753477632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I know a few Trevors. Every last one of them has shit for brains.",
+              "maleVariant": "",
+              "stringId": "1976402764786061312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wait, wait, wait – h-how\u0027d they get him? During a job, a raid?",
+              "maleVariant": "",
+              "stringId": "1976404637257584640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Why does that not surprise me?",
+              "maleVariant": "",
+              "stringId": "1976404774008672256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, come on. He was a good kid. And he deserves some payback...",
+              "maleVariant": "",
+              "stringId": "1976404808133529600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To the Wraiths? On business? That boy was askin\u0027 for trouble.",
+              "maleVariant": "",
+              "stringId": "1976407164728397824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, no... Trevor went to them himself. On business.",
+              "maleVariant": "",
+              "stringId": "1976407205111156736"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

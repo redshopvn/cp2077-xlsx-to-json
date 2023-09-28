@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:05.3808657Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\pac_wwd_chat_027.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "For real? They sentenced him?",
+              "maleVariant": "",
+              "stringId": "2179634193492467712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No way.",
+              "maleVariant": "",
+              "stringId": "2211504564769845248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yep. Hundred and sixteen years. Plus some braindance or whatever. Choom\u0027s done.",
+              "maleVariant": "",
+              "stringId": "2212585221591855104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But they didn\u0027t even prove it was cyberpsychosis.",
+              "maleVariant": "",
+              "stringId": "2212586423679381504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What, think they had to?",
+              "maleVariant": "",
+              "stringId": "2212587088057135104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How many chooms he wipe in that church? Like, fourteen? Got more bodybags than that on our street every morning.",
+              "maleVariant": "",
+              "stringId": "2212587208316219392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Y\u0027know the best part? Heard he got the iron right in this shop.",
+              "maleVariant": "",
+              "stringId": "2212588174146990080"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

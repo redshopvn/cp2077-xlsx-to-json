@@ -1,0 +1,87 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.7179094Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_south_018.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "He\u0027ll come. Don\u0027t worry.",
+              "maleVariant": "",
+              "stringId": "2178290715321688064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sure.",
+              "maleVariant": "",
+              "stringId": "2182489272495071232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Don\u0027t give me that look. I paid him what he asked. He promised he\u0027d get the papers and we\u0027d get through, no questions asked.",
+              "maleVariant": "",
+              "stringId": "2182505865883115520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "He promised.",
+              "maleVariant": "",
+              "stringId": "2182506787237486592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sure.",
+              "maleVariant": "",
+              "stringId": "2182507031295647744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What?! You\u0027re saying I let a fucking nomad haze me, right?! Fine, go ahead, say it!",
+              "maleVariant": "",
+              "stringId": "2182508058665246720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m not saying anything.",
+              "maleVariant": "",
+              "stringId": "2182509385474596864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But you\u0027re thinking it.",
+              "maleVariant": "",
+              "stringId": "2182509593512075264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Let\u0027s wait a bit. Maybe he\u0027s on his way...",
+              "maleVariant": "",
+              "stringId": "2182534816915480576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nothing else we can do.",
+              "maleVariant": "",
+              "stringId": "2182535115382153216"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

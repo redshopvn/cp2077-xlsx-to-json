@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:12.8749435Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\std_arr_medicstore_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Whatcha peddlin\u0027?",
+              "maleVariant": "",
+              "stringId": "1783753696176001024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Heard people in Arroyo get sick a lot.",
+              "maleVariant": "",
+              "stringId": "1783753696176001040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Whatcha got in stock? Nice variety? Anything worth lookin\u0027 at?",
+              "maleVariant": "",
+              "stringId": "1783753696192778244"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I have... things.",
+              "maleVariant": "",
+              "stringId": "1783753696209555460"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Is it true more and more people in Arroyo are gettin\u0027 sick?",
+              "maleVariant": "",
+              "stringId": "1783753696226332676"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "People\u0027ve been reporting strange symptoms. Spontaneous burns, seizures, almost epileptic... All eyes\u0027re on the power plant.",
+              "maleVariant": "",
+              "stringId": "1783753696226332684"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

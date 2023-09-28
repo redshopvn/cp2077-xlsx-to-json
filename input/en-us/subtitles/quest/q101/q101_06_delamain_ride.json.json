@@ -1,0 +1,87 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:34.8125589Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\q101\\q101_06_delamain_ride.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Now proceed to connect.",
+              "maleVariant": "",
+              "stringId": "1651833571497889792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The personal link is damaged.",
+              "maleVariant": "",
+              "stringId": "1651835426001014784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Please proceed to insert the jack below the ear, though not too deep.",
+              "maleVariant": "",
+              "stringId": "1651835543290531840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If I hit a vein by mistake, she will die.",
+              "maleVariant": "If I hit a vein by mistake, he will die.",
+              "stringId": "1651976446402940928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Indeed. As she will if you do nothing.",
+              "maleVariant": "Indeed. As he will if you do nothing.",
+              "stringId": "1651977667314503680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I think I have the sockets.",
+              "maleVariant": "",
+              "stringId": "1651994664748240896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "There is a cable above you – connect it.",
+              "maleVariant": "",
+              "stringId": "1651996370387128320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And then?",
+              "maleVariant": "",
+              "stringId": "1652000628125782016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I will take over the procedure.",
+              "maleVariant": "",
+              "stringId": "1652001223616286720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "There should be auxiliary neurosockets between her lymph nodes, beneath the SCM muscle.",
+              "maleVariant": "There should be auxiliary neurosockets between his lymph nodes, beneath the SCM muscle.",
+              "stringId": "1764721937822015488"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

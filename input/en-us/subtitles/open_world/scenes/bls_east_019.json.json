@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.5963491Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_east_019.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, I was thinkin\u0027... How come we put used parts in some of these rides, new parts in others?",
+              "maleVariant": "",
+              "stringId": "2178248733847003136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, my dear, \u0027cause there\u0027s two types of people – nomads and normals.",
+              "maleVariant": "",
+              "stringId": "2180996341142634496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nomads... don\u0027t you even think about putting second-hand shocks in a nomad car.",
+              "maleVariant": "",
+              "stringId": "2180997704777973760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "They\u0027ll catch you before you can even say \u0022No, not in the face!\u0022 Heh heh...",
+              "maleVariant": "",
+              "stringId": "2180997914711277568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Now normos, that\u0027s different. You swap in a used part now and then, no harm, no foul.",
+              "maleVariant": "",
+              "stringId": "2180998057502162944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I dunno... I don\u0027t want them to have an accident or anything, just \u0027cause of me.",
+              "maleVariant": "",
+              "stringId": "2180998225291100160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That\u0027s why you gotta use your head. Don\u0027t get creative with the brakes, sure, but then take this clutch, for example...",
+              "maleVariant": "",
+              "stringId": "2180998457454215168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aaah, OK. I see.",
+              "maleVariant": "",
+              "stringId": "2180998590631755776"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

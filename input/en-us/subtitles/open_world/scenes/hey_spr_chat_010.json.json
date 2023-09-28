@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:03.8789217Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_spr_chat_010.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Cmothertongue l=\u0022mex\u0022 m=\u0022bastardo\u0022 b=\u0022Man, that Julio\u0027s a real \u0022 a=\u0022, man.\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "1963298421765873664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Maybe Santa Muerte should pay him a visit, hehehe.",
+              "maleVariant": "",
+              "stringId": "1966203539990233088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0027Ey! Watch your tongue!",
+              "maleVariant": "",
+              "stringId": "1966315462878543872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wha...? The hell, choom?",
+              "maleVariant": "",
+              "stringId": "1966315844207886336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Cmothertongue l=\u0022mex\u0022 m=\u0022mamá\u0022 b=\u0022Did your \u0022 a=\u0022 teach you nothing? Santa Muerte ain\u0027t no joke!\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "1966316107006197760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "She hears all, her judgment is final.",
+              "maleVariant": "",
+              "stringId": "1966317552313024512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If she hears your call, it\u0027s Julio\u0027s blood on your hands!",
+              "maleVariant": "",
+              "stringId": "1966317763320070144"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

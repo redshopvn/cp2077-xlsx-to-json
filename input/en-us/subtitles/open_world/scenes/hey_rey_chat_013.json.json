@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:03.8137360Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_rey_chat_013.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Some people just wanna be happy. What don\u0027t you get about that?",
+              "maleVariant": "",
+              "stringId": "2161782791709421568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Look, this isn\u0027t the time or the place.",
+              "maleVariant": "",
+              "stringId": "2218889969057239040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Why not? You never want to talk, you always find some excuse.",
+              "maleVariant": "",
+              "stringId": "2218934077985492992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0022Always\u0022? \u0022Never\u0022? Come on.",
+              "maleVariant": "",
+              "stringId": "2218934519276605440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I want us to be something. I want to be a couple.",
+              "maleVariant": "",
+              "stringId": "2218934895606337536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And I don\u0027t believe in going mono, you know that. Can\u0027t we just have fun? Look around.",
+              "maleVariant": "",
+              "stringId": "2218935243767123968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Let\u0027s not ruin the evening. Please.",
+              "maleVariant": "",
+              "stringId": "2218935718948212736"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

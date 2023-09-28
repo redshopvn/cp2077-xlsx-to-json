@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:00.5602014Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\finalboards\\fb_hanako_refused.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hello, V.",
+              "maleVariant": "",
+              "stringId": "1790692327141842948"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "From what I understand, you have less than six months to live.",
+              "maleVariant": "",
+              "stringId": "1800966060728107008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I do not know how you plan to spend this time.",
+              "maleVariant": "",
+              "stringId": "1800966255226372096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Perhaps you have chosen to put your feet up, rest, ponder life\u0027s meaning…",
+              "maleVariant": "",
+              "stringId": "1800966538291560448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Or perhaps you continue to do what you are good at.",
+              "maleVariant": "",
+              "stringId": "1800966693732466688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If that is the case... my father and I would gladly retain your services. You would be compensated generously.",
+              "maleVariant": "",
+              "stringId": "1800967466658807808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Six months will pass faster than you imagine. It would be a shame to let this time go to waste.",
+              "maleVariant": "",
+              "stringId": "1800967908251910144"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

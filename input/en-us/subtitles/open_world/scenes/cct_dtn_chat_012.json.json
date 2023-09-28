@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.8841116Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_012.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ugh, it\u0027s just the constant bickering over every little thing!",
+              "maleVariant": "",
+              "stringId": "2182443368390692864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That\u0027s how it is with guys. They need to think they\u0027re the ones making all the decisions.",
+              "maleVariant": "",
+              "stringId": "2182504727182675968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Next meeting, listen to every single one of their suggestions. One after the other.",
+              "maleVariant": "",
+              "stringId": "2182513907977261056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You know, pretend to be interested, throw \u0027em a little praise and say \u0022yeah, let\u0027s do it.\u0022",
+              "maleVariant": "",
+              "stringId": "2182521950337077248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Thing is, their ideas are usually shit.",
+              "maleVariant": "",
+              "stringId": "2182522091517349888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Doesn\u0027t matter. You say one thing, then do it all your own way anyway. Just pretend it was their idea.",
+              "maleVariant": "",
+              "stringId": "2182522186006630400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I don\u0027t get it. Won\u0027t they notice?",
+              "maleVariant": "",
+              "stringId": "2182523416514760704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Honey, it\u0027s not about what anyone does, it\u0027s about how they feel. Their ego. You just gotta give it a little stroke.",
+              "maleVariant": "",
+              "stringId": "2182525765878648832"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

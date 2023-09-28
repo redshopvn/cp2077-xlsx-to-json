@@ -1,0 +1,93 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:00.8415965Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\fluff\\wns_news_02.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hello, Night City. Thank you for tuning in. It\u0027s time for the local news.",
+              "maleVariant": "",
+              "stringId": "1793553962483228672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The long-awaited execution of Joaquin Shmidt, better known as the Watson Butcher, is scheduled to take place tomorrow.",
+              "maleVariant": "",
+              "stringId": "1796590417672388608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The 27-year-old confessed to the murder of 21 people including his own sister and mother.",
+              "maleVariant": "",
+              "stringId": "1796590742194077696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "His execution will be open to the public and, for those who prefer to watch from home, it will be live-streamed at the address you see at the bottom of your screen.",
+              "maleVariant": "",
+              "stringId": "1796590872234278912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This event\u0027s organizer, Capital Corrections Inc., promises a compelling spectacle as well as attractive prizes for a few lucky viewers.",
+              "maleVariant": "",
+              "stringId": "1796591077872615424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Attention Charter Hill residents! A recent study commissioned by All Foods has shown hazardous levels of lead and cadmium in your tap water that pose a significant risk to human health.",
+              "maleVariant": "",
+              "stringId": "1796591497454010368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The Night City Department of Water Management has attributed any elevated toxicity to obsolete municipal piping, though has made no plans for their replacement. Drinking bottled water remains the safest way to reduce your risk of waterborne illness. And remember – it\u0027s always cheapest at All Foods!",
+              "maleVariant": "",
+              "stringId": "1796591922890653696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "NCART representatives have said to expect ongoing delays on the M2 metro line.",
+              "maleVariant": "",
+              "stringId": "1796592257361231872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Arroyo Station was evacuated after its early warning system detected a massive population of rats dwelling in one of the tunnels.",
+              "maleVariant": "",
+              "stringId": "1796592462982791168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pest control was immediately called to the exterminate the infestation but the NC Transport Authority has announced the station will remain closed until further notice.",
+              "maleVariant": "",
+              "stringId": "1796592695733108736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And that will do it for today\u0027s local news segment. Have a pleasant day, Night City!",
+              "maleVariant": "",
+              "stringId": "1796592863236833280"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

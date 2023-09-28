@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:05.3428374Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\pac_wwd_chat_014.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "An\u0027 that fuckin\u0027 suit\u0027s like: \u0022Well work harder.\u0022",
+              "maleVariant": "",
+              "stringId": "2179589377085792256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So I says, choom I\u0027m already workin\u0027 two shifts.",
+              "maleVariant": "",
+              "stringId": "2211156121856204800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah.",
+              "maleVariant": "",
+              "stringId": "2217041906585264128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And then he\u0027s like, not his problem I didn\u0027t find better gigs.",
+              "maleVariant": "",
+              "stringId": "2217041988407746560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Choom, you gotta be born a suit.",
+              "maleVariant": "",
+              "stringId": "2217042716723470336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ain\u0027t nobody gonna let scopsuckers like us work in them fancy-ass glass towers.",
+              "maleVariant": "",
+              "stringId": "2217044897946099712"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:07.3173443Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_lch_chat_037.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That\u0027s all you\u0027re gettin\u0027?",
+              "maleVariant": "",
+              "stringId": "2157377079805767680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, so far. What?",
+              "maleVariant": "",
+              "stringId": "2179451667178143744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hm. Think you\u0027d better stock up. Heard some of the sellers here are askin\u0027 for trouble.",
+              "maleVariant": "",
+              "stringId": "2179458808752455680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Startin\u0027 to be late on their \u0022rent.\u0022",
+              "maleVariant": "",
+              "stringId": "2179459804966764544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hm, no shortage o\u0027 scopsuckers, is there…?",
+              "maleVariant": "",
+              "stringId": "2179465899105927168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ey, wait. Maybe they\u0027ll knock the prices down a bit? Since they\u0027re in deep shit already?",
+              "maleVariant": "",
+              "stringId": "2179470481987026944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeeeah! Now you\u0027re usin\u0027 that skullsponge.",
+              "maleVariant": "",
+              "stringId": "2179472899567075328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tygers could show up at any second, turn this place upside down – there goes all our biz.",
+              "maleVariant": "",
+              "stringId": "2222894185739534336"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

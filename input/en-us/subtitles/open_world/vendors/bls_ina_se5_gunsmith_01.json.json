@@ -1,0 +1,99 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:12.3436983Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\bls_ina_se5_gunsmith_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Need some guns.",
+              "maleVariant": "",
+              "stringId": "2019866338822369280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You get any customers \u0027sides nomads?",
+              "maleVariant": "",
+              "stringId": "2019866338822369296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Your customers strictly nomad? Get anyone else?",
+              "maleVariant": "",
+              "stringId": "2019866339258576896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Heh, who else needs a fill-up? There\u0027s not too many families take roadtrips these days.",
+              "maleVariant": "",
+              "stringId": "2019866339258576908"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Need some firepower.",
+              "maleVariant": "",
+              "stringId": "2019866339292131340"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027ve found the right place.",
+              "maleVariant": "",
+              "stringId": "2019866339308908548"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wow, you bounced back quick.",
+              "maleVariant": "",
+              "stringId": "2019867177012080640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sure cleaned up quick after Kang Tao\u0027s surprise visit.",
+              "maleVariant": "",
+              "stringId": "2019867543426478080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Eh, quick...? That was just another day out here in the Badlands.",
+              "maleVariant": "",
+              "stringId": "2019867946096439296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And it\u0027s easier to get yourself some iron back in Night City.",
+              "maleVariant": "",
+              "stringId": "2028758815825707008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Had a whole band of Wraiths ride in here once. Running from the Aldecaldos. Had me be their meat shield for a hot second.",
+              "maleVariant": "",
+              "stringId": "2028759379389169664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Since then, I\u0027ve been ready for anything and everything under the sun.",
+              "maleVariant": "",
+              "stringId": "2028759665776246784"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

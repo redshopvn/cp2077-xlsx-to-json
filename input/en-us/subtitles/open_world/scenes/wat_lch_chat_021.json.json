@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.8765827Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_lch_chat_021.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You gotta work smart, not hard. If it makes your life easier, do it.",
+              "maleVariant": "",
+              "stringId": "2156507374513582080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Client won\u0027t care, long as the job gets done.",
+              "maleVariant": "",
+              "stringId": "2176366912042942464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, sure, but he\u0027s not the one dealin\u0027 with spam from some horny loser.",
+              "maleVariant": "",
+              "stringId": "2176367127395287040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "There\u0027s a solution for everything. Sometimes all you gotta say is you\u0027re not interested anymore.",
+              "maleVariant": "",
+              "stringId": "2176367432874835968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And sometimes you gotta put an M-76e to the gonk\u0027s temple.",
+              "maleVariant": "",
+              "stringId": "2176367623749222400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nah, still not for me. I\u0027d feel bad, leadin\u0027 someone on just to finish a gig.",
+              "maleVariant": "",
+              "stringId": "2176367987194052608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rather have a good, old-fashioned firefight. Like a real soldier.",
+              "maleVariant": "",
+              "stringId": "2176369225738469376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mh. I can respect that.",
+              "maleVariant": "",
+              "stringId": "2176369569067417600"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

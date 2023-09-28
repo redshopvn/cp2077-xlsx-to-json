@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:04.3488307Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_spr_chat_22_sts_wat_lch_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022rus\u0022 o=\u0022Брат, ты лучше туда не подключайся. Поймают — так даже разговаривать не станут.\u0022 t=\u0022Choom, don\u0027t even try jackin\u0027 in there. They\u0027ll wipe you, no questions asked.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2162145636835373056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Last time I checked, server\u0027s ours. Not theirs.",
+              "maleVariant": "",
+              "stringId": "2213047137121701888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022rus\u0022 o=\u0022«Тигриные когти».\u0022 t=\u0022They\u0027re the Tyger Claws.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2218810156485283840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, so? Still don\u0027t know shit about subnets. No way they trace me.",
+              "maleVariant": "",
+              "stringId": "2218817391743569920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022rus\u0022 o=\u0022Мне кажется, ты староват для игр в нетраннера. Успокойся уже.\u0022 t=\u0022Aren\u0027t you too old to play netrunner? Grow up.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2218819461431267328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0022Grow up?\u0022 Yo, fuck you! You don\u0027t know me! Fuckin\u0027 Russki.",
+              "maleVariant": "",
+              "stringId": "2218820854611283968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022rus\u0022 o=\u0022Просто… А, неважно. Обижайся, сколько хочешь.\u0022 t=\u0022Just... Ehh, never mind. Be mad if you want.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2218823208001703936"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.3685197Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_bls_ina_se5_07_holocall_brief.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Attention all NCPD subcons. Suspected organized crime activity reported on Sage Gulch Road.",
+              "maleVariant": "",
+              "stringId": "2328989029368246272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Warrants issued for Rufus McBride on counts of practicing as a ripperdoc without a license. Record shows three counts of causing permanent disabilty and one count of aiding in the staging of a suicide.",
+              "maleVariant": "",
+              "stringId": "2358876231829917696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Perp is in hiding among members of the Wraiths gang. City is offering a reward for neutralizing the threat and the group concealing him.",
+              "maleVariant": "",
+              "stringId": "2358876272615329792"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

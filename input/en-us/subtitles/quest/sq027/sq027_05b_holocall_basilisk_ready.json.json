@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:48.4644739Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\sq027\\sq027_05b_holocall_basilisk_ready.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, the Basilisk – it\u0027s ready.",
+              "maleVariant": "",
+              "stringId": "1787031423702290432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sure thing.",
+              "maleVariant": "",
+              "stringId": "1787031612479524868"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I can\u0027t now.",
+              "maleVariant": "",
+              "stringId": "1787032303818264576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sure! Be there soon.",
+              "maleVariant": "",
+              "stringId": "1787032929474203652"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Can\u0027t now, Panam. Swing around soon as I can.",
+              "maleVariant": "I can\u0027t now, Panam. I\u0027ll swing around soon as I can.",
+              "stringId": "1787033082180423684"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fuck, V. It is awesome!",
+              "maleVariant": "",
+              "stringId": "1787034871353069568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sure. We\u0027ll be waiting.",
+              "maleVariant": "",
+              "stringId": "1787036031011016704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Would you like drive it?",
+              "maleVariant": "",
+              "stringId": "1806985522639605760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So I hear.",
+              "maleVariant": "",
+              "stringId": "1806987150063112192"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

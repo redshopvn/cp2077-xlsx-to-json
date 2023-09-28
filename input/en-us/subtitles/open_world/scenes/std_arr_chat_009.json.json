@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.2458080Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_arr_chat_009.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Don\u0027t you have your own people for that?",
+              "maleVariant": "",
+              "stringId": "1963264060534333440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We\u0027d rather keep a low profile, avoid any suspicion.",
+              "maleVariant": "",
+              "stringId": "1966556545382334464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This is a known public figure we\u0027re talking about. We can\u0027t allow any hard evidence leading back to us, that clear?",
+              "maleVariant": "",
+              "stringId": "1966556831282872320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gotcha. So what\u0027s it gonna be? Couple\u0027a broken bones?",
+              "maleVariant": "",
+              "stringId": "1966557165099139072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Just bruise her up – nothing hardcore. Baseball bat\u0027ll do the trick. I want this to scream \u00226th Street.\u0022",
+              "maleVariant": "",
+              "stringId": "1966557510827229184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And tell her that Dixie sends his regards. She\u0027ll know what that means.",
+              "maleVariant": "",
+              "stringId": "1966558290883887104"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

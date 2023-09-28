@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.6243223Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_east_029.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You think it\u0027s better out east?",
+              "maleVariant": "",
+              "stringId": "2178311137037459456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I don\u0027t know, but I\u0027d sure like to find out. I\u0027ve got family in Nebraska, we could stop there a while.",
+              "maleVariant": "",
+              "stringId": "2211250919570599936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Heard a good gig\u0027s hard to find out there.",
+              "maleVariant": "",
+              "stringId": "2211256300124434432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It\u0027s hard in Night City, too.",
+              "maleVariant": "",
+              "stringId": "2211256613405388800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sure, because I know what I\u0027d find. I\u0027d rather live a while longer, thanks.",
+              "maleVariant": "",
+              "stringId": "2211256783039819776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ehh, you just never looked in the right place. Or for the right gig.",
+              "maleVariant": "",
+              "stringId": "2211258545603801088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, safe travels then. Maybe Nebraska\u0027ll be kinder to you.",
+              "maleVariant": "",
+              "stringId": "2211259659090849792"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

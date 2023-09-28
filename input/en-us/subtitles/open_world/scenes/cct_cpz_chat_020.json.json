@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.7888089Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_cpz_chat_020.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Look, I know it\u0027s your big premiere, but I really can\u0027t. They\u0027re making me stay late today.",
+              "maleVariant": "",
+              "stringId": "2172038560925474816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Honey, why would I lie to you?",
+              "maleVariant": "",
+              "stringId": "2189968923314982912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, I\u0027m selfish? Mhm, right. What do you want from me? You want me to quit my job?!",
+              "maleVariant": "",
+              "stringId": "2192352748829511680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0022Not what you meant.\u0022? Well, that\u0027s what it would mean. You like that Japantown apartment, right? You think your little theater\u0027s paying for it?",
+              "maleVariant": "",
+              "stringId": "2192353163595845632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm... Look, I\u0027m sorry... Hello? Hello?",
+              "maleVariant": "",
+              "stringId": "2192378931487019008"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.4057030Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_arr_chat_027.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, that guy from yesterday scream his lungs out already?",
+              "maleVariant": "",
+              "stringId": "2168024955226607616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "His attorney dropped by. Says it\u0027ll be ten years, minimum. No parole.",
+              "maleVariant": "",
+              "stringId": "2211118142550925312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ten years? For gettin\u0027 into a fight...?",
+              "maleVariant": "",
+              "stringId": "2212855350437830656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Not just any fight – beat up some corpo\u0027s spawnling. Charged him with everythin\u0027 in the book. Ain\u0027t seein\u0027 the light o\u0027 day anytime soon, that\u0027s for sure.",
+              "maleVariant": "",
+              "stringId": "2212855557066022912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hm, better keep an eye out. Someone might wanna \u0022help\u0022 the poor gonk put himself outta his misery.",
+              "maleVariant": "",
+              "stringId": "2212856433155465216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sheeit, gonk\u0027s curled up on the floor now, won\u0027t even touch his food.",
+              "maleVariant": "",
+              "stringId": "2212857128621400064"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

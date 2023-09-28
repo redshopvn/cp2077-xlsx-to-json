@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:05.3560022Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\pac_wwd_chat_019.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Man can adapt to anything.",
+              "maleVariant": "",
+              "stringId": "2179606047749693440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dunno \u0027bout that. You been sittin\u0027 here since they shut this place down. Don\u0027t look like you adapted nothin\u0027.",
+              "maleVariant": "",
+              "stringId": "2211178918535979008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I used to be somebody. Used to supervise this whole project.",
+              "maleVariant": "",
+              "stringId": "2217168493649551360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ehhh... What I\u0027m sayin\u0027, choom.",
+              "maleVariant": "",
+              "stringId": "2217168845887201280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, well. Went out to the Badlands yesterday. Down to that dam. Caught me a goddamn fish.",
+              "maleVariant": "",
+              "stringId": "2217168988879413248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pssh, ain\u0027t no such thing these days. An\u0027 if you did catch a mutant whatever, don\u0027t eat it. You\u0027ll be squirt-shittin\u0027 the goddamn rainbow.",
+              "maleVariant": "",
+              "stringId": "2217169531941117952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nah, the fuck, choom. Gonna sell the sucker.",
+              "maleVariant": "",
+              "stringId": "2217170703544442880"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

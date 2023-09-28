@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.8795355Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_lch_chat_022.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027ll also plant some docs. They gotta think he\u0027s the one who sent you after them.",
+              "maleVariant": "",
+              "stringId": "2156517410442866688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But try and keep the body count low. Don\u0027t feel like cleaning up more than I have to.",
+              "maleVariant": "",
+              "stringId": "2172410176877608960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That\u0027s all. We clear?",
+              "maleVariant": "",
+              "stringId": "2172410311112114176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Clear as day. Thing is, gonna be hell tryin\u0027 to sneak in there. And I don\u0027t like bein\u0027 used for target practice.",
+              "maleVariant": "",
+              "stringId": "2172410810133626880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m gonna need a little extra. Gotta up my gear for a gig like this.",
+              "maleVariant": "",
+              "stringId": "2172411132004515840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fine, fine. I\u0027ll send the eds tomorrow.",
+              "maleVariant": "",
+              "stringId": "2172411304591736832"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

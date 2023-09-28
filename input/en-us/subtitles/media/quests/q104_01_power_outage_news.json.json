@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.0192012Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\q104_01_power_outage_news.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We return to today\u0027s breaking story of an attack on a Santo Domingo power station.",
+              "maleVariant": "",
+              "stringId": "1744501745799192576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The assailants, who remain unidentified, broke into the station and severely damaged the cooling system, which led to a sharp spike in EMP emissions.",
+              "maleVariant": "",
+              "stringId": "1744506598827024384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "In the immediate aftermath of the attack, many residents nearest to the power station suffered critical implant failures.",
+              "maleVariant": "",
+              "stringId": "1744506840989360128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So powerful were the EMP, the entire city was plunged into darkness for several hours.",
+              "maleVariant": "",
+              "stringId": "1744507208863375360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Reports from the NCPD suggest nomad outlaws are likely to blame and are currently weighing plans for retaliation.",
+              "maleVariant": "",
+              "stringId": "1744507349540331520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We will continue to keep you updated as the situation develops.",
+              "maleVariant": "",
+              "stringId": "1744507582273871872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fortunately, most nearby populated areas avoided exposure to the EMP. Considering the scale of the damage, human casualties were held at a minimum.",
+              "maleVariant": "",
+              "stringId": "1902236446178463744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

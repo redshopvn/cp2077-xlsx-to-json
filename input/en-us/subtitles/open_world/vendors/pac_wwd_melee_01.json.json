@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:12.7841777Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\pac_wwd_melee_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Looking to arm up – whaddaya got?",
+              "maleVariant": "",
+              "stringId": "1886584609891758080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What kind of fighting do you specialize in?",
+              "maleVariant": "",
+              "stringId": "1886584609908535300"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Just wonderin\u0027 what you\u0027ve got on hand.",
+              "maleVariant": "",
+              "stringId": "1886584609958866948"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What martial arts do you specialize in?",
+              "maleVariant": "",
+              "stringId": "1886584609992421380"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0022Martial arts.\u0022 Please...",
+              "maleVariant": "",
+              "stringId": "1886584610009198596"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Cmothertongue l=\u0022mex\u0022 m=\u0022A huevo.\u0022 b=\u0022Breaking faces isn\u0027t an art. Whoever fucks up the other one wins. \u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "1983444773822058496"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

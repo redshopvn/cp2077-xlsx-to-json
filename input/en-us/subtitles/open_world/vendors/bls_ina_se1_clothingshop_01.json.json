@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:12.2225790Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\bls_ina_se1_clothingshop_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Looking to buy some decent threads.",
+              "maleVariant": "",
+              "stringId": "1935645915449044992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You selling new or used clothes?",
+              "maleVariant": "",
+              "stringId": "1935645915449045008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lookin\u0027 for some decent outerwear.",
+              "maleVariant": "I\u0027m lookin\u0027 for some decent outerwear.",
+              "stringId": "1935645915751034884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027re in luck – our prices are \u0022outer\u0022 this world. Get it?",
+              "maleVariant": "",
+              "stringId": "1935645915751034892"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You sellin\u0027 new or used threads?",
+              "maleVariant": "",
+              "stringId": "1935645915784589316"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Used. Nobody\u0027s willin\u0027 to ship any new stock all the way out here.",
+              "maleVariant": "",
+              "stringId": "1935645915784589324"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But who am I to complain? You just have to tread the highway, peek into the wreckage... Sharp eye\u0027ll always pick up somethin\u0027, hm?",
+              "maleVariant": "",
+              "stringId": "1975127889678749696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wanna change my look.",
+              "maleVariant": "",
+              "stringId": "3775249438369247232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lookin\u0027 for a change.",
+              "maleVariant": "",
+              "stringId": "3836279465638227976"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

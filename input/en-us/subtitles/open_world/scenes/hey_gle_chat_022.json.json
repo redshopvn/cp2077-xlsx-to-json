@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:03.7584176Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_gle_chat_022.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ugh, telling you, people are gonks. Someone shoulda put it together already, these auctions are bullshit.",
+              "maleVariant": "",
+              "stringId": "2161783980021592064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How\u0027s it work? We put up some storage unit with nothing good in it?",
+              "maleVariant": "",
+              "stringId": "2230234929730142208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm. Course, that\u0027s after we grab anything that could be worth decent scratch.",
+              "maleVariant": "",
+              "stringId": "2230235038698160128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, wait, wait. Some lucky gonk just won one, had a goddamn mahogony desk in it.",
+              "maleVariant": "",
+              "stringId": "2230235171305275392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Heard she got, like, twenty thousand eds for the thing.",
+              "maleVariant": "",
+              "stringId": "2230235291027488768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, sometimes we let \u0027em win something. Just for the optics, right?",
+              "maleVariant": "",
+              "stringId": "2230235435714199552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, makes sense.",
+              "maleVariant": "",
+              "stringId": "2230235551946752000"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

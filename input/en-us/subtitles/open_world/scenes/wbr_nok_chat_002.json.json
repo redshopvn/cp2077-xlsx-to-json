@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:07.8487072Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_nok_chat_002.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sold those Arasaka shares... Two damn weeks before they announced that biochip.",
+              "maleVariant": "",
+              "stringId": "1963353980103950336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, I\u0027ve heard of better business decisions.",
+              "maleVariant": "",
+              "stringId": "1978243692713316352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You, Mike?",
+              "maleVariant": "",
+              "stringId": "1978243823995031552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yep, me.",
+              "maleVariant": "",
+              "stringId": "1978243987740659712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Like marrying my sister?",
+              "maleVariant": "",
+              "stringId": "1978244080870985728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Financially? Much better move than yours with those shares.",
+              "maleVariant": "",
+              "stringId": "1978244254297067520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Touché. Anyway, think you\u0027ll pick one up once they release it?",
+              "maleVariant": "",
+              "stringId": "1978244661211664384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Huh..? Oh, the biochip? Naaah. North Oak\u0027s already big enough for my ego.",
+              "maleVariant": "",
+              "stringId": "1978245217963577344"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

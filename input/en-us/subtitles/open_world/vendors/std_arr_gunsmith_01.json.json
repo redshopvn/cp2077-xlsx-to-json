@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:12.8716660Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\std_arr_gunsmith_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027ve you got in stock?",
+              "maleVariant": "",
+              "stringId": "1783753455506837504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Any guns I shouldn\u0027t buy?",
+              "maleVariant": "",
+              "stringId": "1783753455506837520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027ve you got in stock?",
+              "maleVariant": "",
+              "stringId": "1783753455523614724"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Any iron I shouldn\u0027t put on my shopping list?",
+              "maleVariant": "",
+              "stringId": "1783753455557169156"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Iron of every caliber – feast your eyes.",
+              "maleVariant": "",
+              "stringId": "1975008556579344384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hm, well, let me think. Budget Arms is the obvious offender. Their cheap, plastic parts give them a high recoil, low range – I could go on.",
+              "maleVariant": "",
+              "stringId": "1975017098413658112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If I were you, I\u0027d watch out for Rostovic products. Firepower is unbeatable, but somehow they love to get jammed when you\u0027re in a tight spot.",
+              "maleVariant": "",
+              "stringId": "1975020237816647680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mm, I dunno... Can\u0027t really go wrong with the Satara.",
+              "maleVariant": "I dunno... Can\u0027t really go wrong with the Satara.",
+              "stringId": "1975022239304962048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, well – we have an expert! I\u0027ll admit, the Serbs made at least one thing right.",
+              "maleVariant": "",
+              "stringId": "1975023739641057280"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

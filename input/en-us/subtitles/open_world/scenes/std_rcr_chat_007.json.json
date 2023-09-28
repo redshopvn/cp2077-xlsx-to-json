@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.4387069Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_rcr_chat_007.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mommy, why didn\u0027t the Trauma Team man help Uncle Ted?",
+              "maleVariant": "",
+              "stringId": "1963294235783372800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, honey, your uncle didn\u0027t have the right policy. You gotta pay the paramedics if you want them to help you.",
+              "maleVariant": "",
+              "stringId": "1969369902875394048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "When we go to the store and you want some Leelou Beans, we pay for them, right? It\u0027s the same with medicine.",
+              "maleVariant": "",
+              "stringId": "1969370240835633152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But – but if I don\u0027t buy Leelou Beans, I won\u0027t die. He did.",
+              "maleVariant": "",
+              "stringId": "1969370409010446336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That\u0027s just the way the world works, pumpkin. Some things are for the rich people, some things are for us.",
+              "maleVariant": "",
+              "stringId": "1969370583392829440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "When I grow up, I\u0027m gonna be rich.",
+              "maleVariant": "",
+              "stringId": "1969370734001897472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Of course you will, sweetheart.",
+              "maleVariant": "",
+              "stringId": "1969370985794355200"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

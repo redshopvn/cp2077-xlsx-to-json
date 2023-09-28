@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:13.3462739Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wat_nid_foodshop_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Anything good on the menu?",
+              "maleVariant": "",
+              "stringId": "1979334175077408772"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aren\u0027t you a bit young to work here?",
+              "maleVariant": "",
+              "stringId": "1979334417407516672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cookin\u0027 up anything good today?",
+              "maleVariant": "Ya cookin\u0027 up anything good today?",
+              "stringId": "1979335435029553152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I don\u0027t deal in anything less. Gotta respect yourself and your customers, too.",
+              "maleVariant": "",
+              "stringId": "1979336530665644032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aren\u0027t you a little young to run a business?",
+              "maleVariant": "",
+              "stringId": "1979337178752720896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Someone in the family\u0027s gotta be the scopwinner. I can count and I\u0027ve got good hands. All you need.",
+              "maleVariant": "",
+              "stringId": "1979337785316188160"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

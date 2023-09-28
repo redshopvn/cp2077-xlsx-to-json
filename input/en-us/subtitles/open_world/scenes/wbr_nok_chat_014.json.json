@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:07.8722920Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_nok_chat_014.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No man, woman or child can escape themself.",
+              "maleVariant": "",
+              "stringId": "2159345535122120704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yes – place metal where flesh once was. Yes – feign that you are meat no more.",
+              "maleVariant": "",
+              "stringId": "2196916705295527936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But nay – no kind of chrome can stand in for your soul!",
+              "maleVariant": "",
+              "stringId": "2196917335061884928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Metal… rusts. Meat… rots. While the soul ever calls – desperately, plaintively – \u0022Be warned! Treeeemble!\u0022",
+              "maleVariant": "",
+              "stringId": "2196917606970224640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yes, I say unto you, this city bathes in rust, luxuriates in rot.",
+              "maleVariant": "",
+              "stringId": "2196918519952764928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So be waaarned! And tremble!",
+              "maleVariant": "",
+              "stringId": "2196920029096898560"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

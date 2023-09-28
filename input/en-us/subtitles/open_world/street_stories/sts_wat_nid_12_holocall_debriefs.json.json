@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:11.7150599Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_nid_12_holocall_debriefs.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Thanks for the help! Glad you got through to that stubborn mule. Looks like I\u0027m up to bat with him now. Gig closed.",
+              "maleVariant": "",
+              "stringId": "2328844518450548740"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Obviously, I know Max is safe, but... from his state I can tell there were some complications. Ehhh... guess that was to be expected...",
+              "maleVariant": "",
+              "stringId": "2328846984466419716"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I know about Max. I know what happened. Been wondering what to say, what words would hurt the most.",
+              "maleVariant": "",
+              "stringId": "2328846996646678532"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But you know what? Not worth it. I should\u0027ve known a merc like you wouldn\u0027t be up to the task.",
+              "maleVariant": "",
+              "stringId": "2340211071368138752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Contract shut.",
+              "maleVariant": "",
+              "stringId": "2340215455674109952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I know about Max – that you left him there. This was the one real chance to help, but now… you scared him off. To hide somewhere else.",
+              "maleVariant": "",
+              "stringId": "2372273193342046208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Corpos will probably track him down before I can. Guess you can work out what that means…",
+              "maleVariant": "",
+              "stringId": "2372274231163850752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I should\u0027ve known a merc like you wouldn\u0027t be suited for a task this sensitive.",
+              "maleVariant": "",
+              "stringId": "2372294884067741696"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

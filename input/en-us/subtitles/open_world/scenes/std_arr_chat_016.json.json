@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.2595982Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_arr_chat_016.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027s so drunk, I... I dunno.",
+              "maleVariant": "",
+              "stringId": "2167906493602910208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So isss workin\u0027?",
+              "maleVariant": "",
+              "stringId": "2214465814765342720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, workin\u0027.",
+              "maleVariant": "",
+              "stringId": "2221602772239093760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Things is... These synth-synthetics... Get sick later... Real vodka\u0027s better.",
+              "maleVariant": "",
+              "stringId": "2221603118822821888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh! Oh! I\u0027ma tellin\u0027 you... \u0027sa good idea. But where... vodka?",
+              "maleVariant": "",
+              "stringId": "2221603539444404224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gotta have the... the eds. An\u0027 if you did, you\u0027d be drinkin\u0027.",
+              "maleVariant": "",
+              "stringId": "2221603821838503936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah... Be like... Like oily smooth, cold...",
+              "maleVariant": "",
+              "stringId": "2221604097521717248"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

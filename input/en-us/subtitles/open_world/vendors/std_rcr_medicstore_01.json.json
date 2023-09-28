@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:12.9695179Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\std_rcr_medicstore_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Looking to shop.",
+              "maleVariant": "",
+              "stringId": "1828465360056528896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got anything \u0022extra\u0022 for sale?",
+              "maleVariant": "",
+              "stringId": "1828465360056528912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Open for business?",
+              "maleVariant": "You open for business?",
+              "stringId": "1828465360090083332"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm. Lookin\u0027 for somethin\u0027 in particular?",
+              "maleVariant": "",
+              "stringId": "1828465360090083340"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Anything special on offer? Maybe tucked away for a rainy day?",
+              "maleVariant": "",
+              "stringId": "1828465360123637764"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lemme think... Most folk in NC got guns under the counter. Not sayin\u0027 I do, not sayin\u0027 I don\u0027t, but you feel me, I\u0027m sure, so no funny biz, hmm?",
+              "maleVariant": "",
+              "stringId": "1828465360157192196"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

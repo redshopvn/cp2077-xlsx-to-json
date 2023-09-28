@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.5669091Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_east_008.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Think you can stand another forty-eight hours?",
+              "maleVariant": "",
+              "stringId": "1973548165494775808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Is Candy in camp?",
+              "maleVariant": "",
+              "stringId": "1976304540075184128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nope, you just missed her. She rode out yesterday.",
+              "maleVariant": "",
+              "stringId": "1976304558177800192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Shit. Do you think she even remembers me? Her boyfriend?",
+              "maleVariant": "",
+              "stringId": "1976304580457943040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Heh, look, nobody else is screwing her, if that\u0027s what you mean.",
+              "maleVariant": "",
+              "stringId": "1976304604130594816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How come you\u0027re so... well-informed?",
+              "maleVariant": "",
+              "stringId": "1976304630386937856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Heh, because I tried my luck. You were gone two months, man.",
+              "maleVariant": "",
+              "stringId": "1976304652264427520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And she didn\u0027t...? OK. If I leave now, think I could catch her?",
+              "maleVariant": "",
+              "stringId": "1976304717762678784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Goddamn. Calm down, Romeo, she\u0027ll be back in a day or so.",
+              "maleVariant": "",
+              "stringId": "1976307209833566208"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

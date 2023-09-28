@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.2429554Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_arr_chat_008.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You remember that kid? 8 years old at the time, wanted work in our plant?",
+              "maleVariant": "",
+              "stringId": "1963263527807393792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Skin \u0027n\u0027 bones, I remember.",
+              "maleVariant": "",
+              "stringId": "1966525417590079488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Not anymore. I hear he found home with Animals gang.",
+              "maleVariant": "",
+              "stringId": "1966525605763334144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hah! Maybe as a snack!",
+              "maleVariant": "",
+              "stringId": "1966526296699420672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Don\u0027t laugh! They give him so many hormones, you would not know him anymore!",
+              "maleVariant": "",
+              "stringId": "1966526522889846784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Apparently, they were curious if he would survive the procedure. He did... and more.",
+              "maleVariant": "",
+              "stringId": "1966526774799745024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Runt of the litter has become alpha! Haha!",
+              "maleVariant": "",
+              "stringId": "1966527268972642304"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:09.5160554Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_pac_cvi_02_gangers.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "OK, can you check the feed on your end?",
+              "maleVariant": "",
+              "stringId": "1400882961402900480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah...",
+              "maleVariant": "",
+              "stringId": "1400913327140450304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "All right, Imma wait upstairs. Let me know when you\u0027re ready.",
+              "maleVariant": "",
+              "stringId": "1419997132761411584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Maelstrom, man... Almost too fuckin\u0027 easy.",
+              "maleVariant": "",
+              "stringId": "1617198252343504896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Duped \u0027em like dogs.",
+              "maleVariant": "",
+              "stringId": "1617198252343504904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If we juiced and went full rage on the Totentanz they\u0027d be countin\u0027 bodies \u0027til next Tuesday. Assumin\u0027 they can count.",
+              "maleVariant": "",
+              "stringId": "1617198252343504912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Heh! Fun idea for a slow Friday night.",
+              "maleVariant": "",
+              "stringId": "1617205965265907712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dude, what d\u0027you expect? Those tin men buzz their braincages open with fuckin\u0027 chainsaws!",
+              "maleVariant": "",
+              "stringId": "1618186799212998656"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

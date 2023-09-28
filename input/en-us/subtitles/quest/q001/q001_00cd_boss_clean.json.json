@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:31.3593346Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\q001\\q001_00cd_boss_clean.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Run him down!",
+              "maleVariant": "",
+              "stringId": "1650497555567460352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We outta options, here! Bug, you got eyes on this shithole? Anything?!",
+              "maleVariant": "",
+              "stringId": "1653073643615272960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Room he\u0027s in looks out on the balcony.",
+              "maleVariant": "",
+              "stringId": "1653073643615272976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "OK, V, flank him and draw his fire! I\u0027ll do the rest!",
+              "maleVariant": "\u003Cmothertongue l=\u0022mex\u0022 m=\u0022Mano\u0022 b=\u0022\u0022 a=\u0022, get his attention! I\u0027ll do the rest!\u0022/\u003E",
+              "stringId": "1653073643632050176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got a window on the left. Gimme two secs to grease the lock.",
+              "maleVariant": "",
+              "stringId": "1653076167042777088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Don\u0027t see any movement on the sensors. Looks like you got \u0027im. You\u0027re clear to go.",
+              "maleVariant": "",
+              "stringId": "1653096651570528256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Shit, where the hell\u0027s our target?!",
+              "maleVariant": "",
+              "stringId": "1653098456983519232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Look around, gotta be there somewhere.",
+              "maleVariant": "",
+              "stringId": "1653098618749435904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hack on the door\u0027s just cleared. Watch yourselves.",
+              "maleVariant": "",
+              "stringId": "1703910314692734976"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

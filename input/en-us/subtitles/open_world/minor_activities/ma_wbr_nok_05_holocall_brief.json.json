@@ -1,0 +1,51 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.4565312Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_wbr_nok_05_holocall_brief.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Calling all NCPD subcons. APB out on suspected organized crime activity over on Sycamore Street.",
+              "maleVariant": "",
+              "stringId": "2328827125123489792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Due to nonpayment of rent and related fees, Night City has terminated its lease agreement with Impala Automatics for industrial property owned by the city.",
+              "maleVariant": "",
+              "stringId": "2358369312207900672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "City authorities have offered a reward for the successful eviction of Impala Automatics.",
+              "maleVariant": "",
+              "stringId": "2358369442986299392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Impala Automatics has failed to comply with the decision and now illegally occupies the premises specified in the contract.",
+              "maleVariant": "",
+              "stringId": "2363322155968860160"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

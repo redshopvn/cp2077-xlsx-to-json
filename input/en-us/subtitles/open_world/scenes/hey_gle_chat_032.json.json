@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:03.7833023Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_gle_chat_032.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What was that, hon?",
+              "maleVariant": "",
+              "stringId": "2161836388907036672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I said, you gotta use your nose when choosing a place.",
+              "maleVariant": "",
+              "stringId": "2211342441179881472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And here... Here it just stinks.",
+              "maleVariant": "",
+              "stringId": "2211342487484997632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, Embers it ain\u0027t. But you ain\u0027t a fancy suit anymore, either.",
+              "maleVariant": "",
+              "stringId": "2211342696998871040"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "One contract brought you up, another brought you right back down.",
+              "maleVariant": "",
+              "stringId": "2211342834051948544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And as your former assistant, lemme give you some advice.",
+              "maleVariant": "",
+              "stringId": "2211343084904882176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Back down here, us mere mortals don\u0027t use our nose – just our fuckin\u0027 wallets.",
+              "maleVariant": "",
+              "stringId": "2211343246905679872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Get used to it, hon. Old world\u0027s long gone.",
+              "maleVariant": "",
+              "stringId": "2211343491886587904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

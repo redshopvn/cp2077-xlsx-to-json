@@ -1,0 +1,45 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:09.7094775Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_std_arr_01_holocall_debriefs.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, I have the beta acid, but still got no clue what happened with Booker. Expected more from you, V. Closing this one and filing it under \u0022Meh...\u0022",
+              "maleVariant": "",
+              "stringId": "2328604563744043008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Cmothertongue l=\u0022mex\u0022 m=\u0022Padrísimo.\u0022 b=\u0022So, V, the beta acid\u0027s secure? \u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2328606991809851396"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And I\u0027m puttin\u0027 you down for ten bonus points for solvin\u0027 the mystery of Booker\u0027s fate. It\u0027s clean work, V. Contract\u0027s closed, gratitude\u0027s on the way.",
+              "maleVariant": "",
+              "stringId": "2369272698218319872"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

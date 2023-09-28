@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:00.9500195Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\loading_screens\\loading_screen_10_after_q112.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hello, hello. I\u0027m Arif Iqbal, and you\u0027re watching WNS News.",
+              "maleVariant": "",
+              "stringId": "1672049718354419712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fortunately, Arasaka\u0027s security forces – under the personal direction of Yorinobu Arasaka – quickly tracked down the abductors and secured Hanako-sama.",
+              "maleVariant": "",
+              "stringId": "1680710522355634176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To those who raise a hand against the Arasaka family, I promise you...",
+              "maleVariant": "",
+              "stringId": "1680711038976446464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "New details have emerged on the attempted abduction of Hanako Arasaka at the Arasaka-sponsored dashi parade.",
+              "maleVariant": "",
+              "stringId": "1680711838058467328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Early accounts first reported that the assailants struck as the parade was in full swing. They overwhelmed then seized control of the Arasaka heiress\u0027s parade platform.",
+              "maleVariant": "",
+              "stringId": "1680712023195045888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yorinobu-sama has since issued a public statement condemning the perpetrators\u0027 deplorable actions and promising swift retribution.",
+              "maleVariant": "",
+              "stringId": "1680712560284061696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We will rip that hand off and pour salt in the bloody stump.",
+              "maleVariant": "",
+              "stringId": "1680713657933418496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, looks like the gloves\u0027re comin\u0027 off.",
+              "maleVariant": "",
+              "stringId": "1680713922577223680"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

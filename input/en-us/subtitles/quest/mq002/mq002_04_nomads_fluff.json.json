@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:24.3574651Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\mq002\\mq002_04_nomads_fluff.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, V! Thanks for all your help. \u0027Preciate it!",
+              "maleVariant": "",
+              "stringId": "1905554978530811904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No problem.",
+              "maleVariant": "",
+              "stringId": "1905559785907838980"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Saving people\u0027s asses is what I do.",
+              "maleVariant": "",
+              "stringId": "1905560205036249088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Was in the neighborhood, thought I\u0027d help. Let\u0027s not make it into a thing.",
+              "maleVariant": "",
+              "stringId": "1905560663339458560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, it\u0027s a thing now, all right. Take it easy now, you hear?",
+              "maleVariant": "",
+              "stringId": "1905561254249783296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What can I say. Saving people\u0027s asses is kind of my speciality.",
+              "maleVariant": "What can I say? Savin\u0027 people\u0027s asses is kind of my speciality.",
+              "stringId": "1905561938391097344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That\u0027s clear as day. Uh, take it easy now, you hear?",
+              "maleVariant": "",
+              "stringId": "1905561938391097352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No problem.",
+              "maleVariant": "",
+              "stringId": "1905563002536353792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Saving people\u0027s asses is what I do.",
+              "maleVariant": "",
+              "stringId": "1905563002553131020"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

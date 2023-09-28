@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:12.6216048Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\hey_rey_foodshop_04.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027s cooking?",
+              "maleVariant": "",
+              "stringId": "1863299347169820672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Is there a risk of food poisoning?",
+              "maleVariant": "",
+              "stringId": "1863299347169820688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So, what\u0027s cooking?",
+              "maleVariant": "So what\u0027s cooking?",
+              "stringId": "1863299347220152324"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Depends. What\u0027re you cravin\u0027?",
+              "maleVariant": "",
+              "stringId": "1863299347220152332"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "There a risk of food poisonin\u0027 here?",
+              "maleVariant": "Is there a risk of food poisoning here?",
+              "stringId": "1863299347270483972"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That depends. If you keep it up with those kinds of question... who knows?",
+              "maleVariant": "",
+              "stringId": "1863299347270483980"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Only the good stuff. What can I get you?",
+              "maleVariant": "",
+              "stringId": "1974706148871557120"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

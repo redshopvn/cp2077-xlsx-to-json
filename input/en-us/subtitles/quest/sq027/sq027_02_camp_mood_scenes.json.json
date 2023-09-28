@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:48.1369085Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\sq027\\sq027_02_camp_mood_scenes.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sure, we can pack, we can ride, but what then?",
+              "maleVariant": "",
+              "stringId": "1789933410630520832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The contract\u0027s dead. We\u0027ve got no reason to stay.",
+              "maleVariant": "",
+              "stringId": "1789934164112068608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027re the only ones breaking camp.",
+              "maleVariant": "",
+              "stringId": "1789934669123047424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Because Saul doesn\u0027t know when to quit.",
+              "maleVariant": "",
+              "stringId": "1789934808088727552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "He\u0027s stubborn as a mule, yet everyone listens to him because…",
+              "maleVariant": "",
+              "stringId": "1789935382473494528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Because he\u0027s head of the family?",
+              "maleVariant": "",
+              "stringId": "1791046620754022400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Because the Aldecaldos stay together?",
+              "maleVariant": "",
+              "stringId": "1791047326739271680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "God dammit. Have it your way.",
+              "maleVariant": "",
+              "stringId": "1791054532184444928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We\u0027ll stay.",
+              "maleVariant": "",
+              "stringId": "1791055039678451712"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

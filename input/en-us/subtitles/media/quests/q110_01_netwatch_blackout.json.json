@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.0256165Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\q110_01_netwatch_blackout.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hello, it\u0027s time for your local news. A raid on an organic meat trafficking ring, and a malaria outbreak in the Glen.",
+              "maleVariant": "",
+              "stringId": "1744334830032183296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Most of the district was cut off from the world for several hours as residents could not connect to the Net, local subnets or comm systems.",
+              "maleVariant": "",
+              "stringId": "1744341886478901248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The NCPD has urged calm, claiming the outage was a result of standard maintenance work.",
+              "maleVariant": "",
+              "stringId": "1744350285975314432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We continue our look at local news after the break.",
+              "maleVariant": "",
+              "stringId": "1744350608886390784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But first we turn to a mysterious connectivity failure in Pacifica.",
+              "maleVariant": "",
+              "stringId": "1744352399770312704"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

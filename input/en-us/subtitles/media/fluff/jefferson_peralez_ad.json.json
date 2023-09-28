@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:00.7449284Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\fluff\\jefferson_peralez_ad.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Last year, the city council of Night City absolved thirty-two corporations from their income tax obligations.",
+              "maleVariant": "",
+              "stringId": "1793610736917716992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Among them were Kang Tao, Arasaka, Moore Technologies and Dynalar.",
+              "maleVariant": "",
+              "stringId": "1803789058476589056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Put together, the gross income of these companies runs in the tens of trillions of eurodollars.",
+              "maleVariant": "",
+              "stringId": "1803789243176960000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The catastrophic \u0022City of Opportunity\u0022 bill passed ninety-nine to one against.",
+              "maleVariant": "",
+              "stringId": "1803789581271416832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I was that one voice of dissent.",
+              "maleVariant": "",
+              "stringId": "1803789797361958912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do I need to show you what\u0027ll happen to this bill if you, the people of Night City, choose me as your mayor?",
+              "maleVariant": "",
+              "stringId": "1803790006741614592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "My name is Jefferson Peralez, and I approve this message.",
+              "maleVariant": "",
+              "stringId": "1803790278784172032"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:07.5749687Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_hill_chat_002.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lookin\u0027 at these people, whattaya see?",
+              "maleVariant": "",
+              "stringId": "1806724152559263744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stupid corpos. Easy prey.",
+              "maleVariant": "",
+              "stringId": "1806724802374393856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uh-huh. I see one secret after another. Each an\u0027 every one of \u0027em\u0027s got somethin\u0027 to hide.",
+              "maleVariant": "",
+              "stringId": "1806725024487956480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You find that somethin\u0027, you\u0027ll own these people. Just like their megacorp.",
+              "maleVariant": "",
+              "stringId": "1806725490693234688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Then, you don\u0027t even gotta ask nice. You just get what you want. Data, tapes, deep, dark corpo secrets.",
+              "maleVariant": "",
+              "stringId": "1806725772651126784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And THAT\u0027S when the real scratch starts to flow.",
+              "maleVariant": "",
+              "stringId": "1806726174381563904"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.6518166Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_north_008.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Better ask Dakota. I heard she had something to do with it.",
+              "maleVariant": "",
+              "stringId": "1973567944456708096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Maybe they got cyberpsychosis, and their pals dumped them out here?",
+              "maleVariant": "",
+              "stringId": "1975027311442640896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But Maelstrom? Out here, in the Badlands...? That\u0027s not like them.",
+              "maleVariant": "",
+              "stringId": "1975027329025163264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wraiths? Wraiths?! Have you ever seen a Wraith looking like a goddamn machine on steroids?!",
+              "maleVariant": "",
+              "stringId": "1975027345517166592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Are you sure they weren\u0027t just some Wraiths with extra cyberware?",
+              "maleVariant": "",
+              "stringId": "1975027359073157120"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:12.8580158Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\std_arr_foodshop_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wanna see your menu.",
+              "maleVariant": "",
+              "stringId": "1783748166422384640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Didn\u0027t Samurai play their first gig here?",
+              "maleVariant": "",
+              "stringId": "1783748166439161860"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wanna have a look at your menu.",
+              "maleVariant": "",
+              "stringId": "1783748166439161884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeeehaaw! Right away, partner!",
+              "maleVariant": "",
+              "stringId": "1783748166439161892"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wait a sec, isn\u0027t this where Samurai played its first gig?",
+              "maleVariant": "",
+              "stringId": "1783748166472716292"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ah, what a night. There\u0027re still legends about it. Music was so loud they had to replace all the windows... They made a new rule refusing service to nude customers.",
+              "maleVariant": "",
+              "stringId": "1783748166472716300"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "There\u0027s a special on the menu just for Samurai fans. Ribs à la Silverhand. Pricey, sure, but you won\u0027t stop licking your fingers.",
+              "maleVariant": "",
+              "stringId": "1976545601390956544"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

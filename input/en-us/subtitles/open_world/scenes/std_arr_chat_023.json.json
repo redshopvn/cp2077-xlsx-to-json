@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.2871109Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_arr_chat_023.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022mex\u0022 o=\u0022Pero eso no es asunto mío, ¿verdad?\u0022 t=\u0022But that\u0027s none of my biz, isn\u0027t it?\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2167970579850121216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I gotta beg, is that it? \u0027Cause I will.",
+              "maleVariant": "",
+              "stringId": "2214519107709407232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022mex\u0022 o=\u0022Ay, ¿estás llorando?\u0022 t=\u0022Are you crying?\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2221836612706603008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m... I beg you. Please, give me another week. I\u0027ll get the money. I swear. I-I swear.",
+              "maleVariant": "",
+              "stringId": "2221836885957120000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022mex\u0022 o=\u0022Sí estás llorando. Repugnante.\u0022 t=\u0022You ARE crying. Disgusting.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2221838427867156480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I... Please.",
+              "maleVariant": "",
+              "stringId": "2221839197488386048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022mex\u0022 o=\u0022Quiero el dinero. Mañana. Si no, hay mucha gente esperando para ocupar tu lugar. ¿Está claro?\u0022 t=\u0022The money. Tomorrow. If not, I got plenty of others ready to pay for your spot. Clear?\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2221840478160392192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Please, I-I can\u0027t... My brother\u0027s sick. P-please.",
+              "maleVariant": "",
+              "stringId": "2221840955992281088"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

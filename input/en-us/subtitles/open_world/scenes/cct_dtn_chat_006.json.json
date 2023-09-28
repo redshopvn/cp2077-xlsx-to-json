@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.8686492Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_006.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I can\u0027t ignore this anymore. You know what I\u0027m talkin\u0027 about.",
+              "maleVariant": "",
+              "stringId": "1963513715118292992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Keep tellin\u0027 yo\u0027self that. But you ain\u0027t gon\u0027 do nothin\u0027 about it.",
+              "maleVariant": "",
+              "stringId": "1963524457871687680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What, you think because you work with corpos you\u0027re suddenly untouchable?",
+              "maleVariant": "",
+              "stringId": "1963524845559595008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That too. Main reason, though, is you don\u0027t stab your l\u0027il sis in the back!",
+              "maleVariant": "",
+              "stringId": "1963525119078547456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "D\u0027you even realize the hell you\u0027re puttin\u0027 mom through?",
+              "maleVariant": "",
+              "stringId": "1963525468833169408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nuh-uh, don\u0027t drag momma into this. Without my eddies, she\u0027d\u0027ve croaked forever ago.",
+              "maleVariant": "",
+              "stringId": "1963525743811739648"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

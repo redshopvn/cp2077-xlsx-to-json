@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.2397397Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_arr_chat_007.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mom...? You feelin\u0027 OK?",
+              "maleVariant": "",
+              "stringId": "1963263028785881088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m... I\u0027m not sure. I was just at the ripper, but... my pacemaker, something\u0027s wrong.",
+              "maleVariant": "",
+              "stringId": "1966520334127185920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It\u0027s that fucking power station! I told ya million times to find a job somewhere else.",
+              "maleVariant": "",
+              "stringId": "1966522330615889920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Honey... at my age? With these hands? Sweetheart, they\u0027re over fifteen years old!",
+              "maleVariant": "",
+              "stringId": "1966522658509799424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, mom, c\u0027mon... It\u0027s not like you need fourth-gen chrome to scrub toilets.",
+              "maleVariant": "",
+              "stringId": "1966522891612438528"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

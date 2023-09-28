@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.1799255Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\sq021_05_quest_consequence_b.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hello, this is N54 News with a breaking development. The story of the teens abducted by Anthony Harris, known also as Peter Pan, has reached a happy ending.",
+              "maleVariant": "",
+              "stringId": "1792303370716749824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Thanks to an anonymous tip, the NCPD managed to reach them in time. The rescued teens remain in critical, but stable condition.",
+              "maleVariant": "",
+              "stringId": "1802326798860271616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Harris held the boys, aged between thirteen and eighteen, on his abandoned farm.",
+              "maleVariant": "",
+              "stringId": "1802327150644936704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This heinous case is just another example of Night City\u0027s continued moral collapse.",
+              "maleVariant": "",
+              "stringId": "1802327792474112000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Crime in Night City is now double the rate than in the New United States. At this point, it seems a near guarantee that closer ties with the Union would help to get this city\u0027s security back on the right track.",
+              "maleVariant": "",
+              "stringId": "1802328018630983680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stay tuned for more details after the break.",
+              "maleVariant": "",
+              "stringId": "1802328337398087680"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

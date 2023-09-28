@@ -1,0 +1,51 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.8116561Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_kab_chat_21.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So whass good? Got any plans this weekend?",
+              "maleVariant": "",
+              "stringId": "2156497932395192320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nah, just chillin\u0027 at home. Gettin\u0027 some new anti-burglary shutters put in.",
+              "maleVariant": "",
+              "stringId": "2169272921204510720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No shit. How much they set you back? Was thinkin\u0027 of gettin\u0027 some myself.",
+              "maleVariant": "",
+              "stringId": "2169273763034877952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "More than you\u0027d think. But if I was countin\u0027 every enny, I\u0027d end up like my next-door neighbor. Chowin\u0027 down worms.",
+              "maleVariant": "",
+              "stringId": "2169273871164035072"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

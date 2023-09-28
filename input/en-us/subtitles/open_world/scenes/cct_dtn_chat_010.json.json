@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.8790131Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_010.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How about hors d\u0027oeuvres at Bleu?",
+              "maleVariant": "",
+              "stringId": "1964679706095370240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, thanks. I\u0027d rather live to see tomorrow.",
+              "maleVariant": "",
+              "stringId": "1964715443880706048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh? Is this a story I haven\u0027t heard?",
+              "maleVariant": "",
+              "stringId": "1964715650139799552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I didn\u0027t tell you? About a month ago, Harper was almost poisoned there, the one from the board of Biotechnica.",
+              "maleVariant": "",
+              "stringId": "1964716011017715712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Some rival corp slipped someone in posing as a server. If Harper hadn\u0027t been dining with his chief of security...",
+              "maleVariant": "",
+              "stringId": "1964717084759539712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What happened? He taste-tested the tainted soufflé and melted his throat?",
+              "maleVariant": "",
+              "stringId": "1964717671089684480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, he\u0027s a foodie – had his olfactory booster on max. He caught whiff of the toxin before the plate hit the table.",
+              "maleVariant": "",
+              "stringId": "1964717920449445888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027re kidding...",
+              "maleVariant": "",
+              "stringId": "1964718562849046528"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

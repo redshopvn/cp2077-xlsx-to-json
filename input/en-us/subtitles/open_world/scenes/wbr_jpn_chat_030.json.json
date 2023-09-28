@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:07.8276768Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_jpn_chat_030.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027s got you so sour?",
+              "maleVariant": "",
+              "stringId": "2160377451349319680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ah, it\u0027s not worth mentioning.",
+              "maleVariant": "",
+              "stringId": "2180970024336199680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Out with it, friend.",
+              "maleVariant": "",
+              "stringId": "2180970103373664256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Garbage collectors – can\u0027t get \u0027em to take away the containers. Stink\u0027s evil, can practically smell it clear out here.",
+              "maleVariant": "",
+              "stringId": "2180970233497751552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Say they can\u0027t bring the truck in with all the Tygers prowling around.",
+              "maleVariant": "",
+              "stringId": "2180970864908275712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah... Smart to avoid Tygers altogether. No dealings, best policy.",
+              "maleVariant": "",
+              "stringId": "2180972162474938368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sniff, sniff. Hey, smell does carry clear out here.",
+              "maleVariant": "",
+              "stringId": "2180972604604911616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027d I tell you?",
+              "maleVariant": "",
+              "stringId": "2180973344413028352"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

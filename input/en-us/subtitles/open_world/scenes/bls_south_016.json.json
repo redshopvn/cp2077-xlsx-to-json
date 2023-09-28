@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.7123869Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_south_016.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "OK, next well-dressed choom comes by, take him aside. We\u0027ll search him.",
+              "maleVariant": "",
+              "stringId": "2178283834666639360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "They\u0027ll sack us. Can\u0027t just klep them clean. Sooner or later, one of them\u0027s gonna talk.",
+              "maleVariant": "",
+              "stringId": "2181177136598704128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fuckin\u0027 hell. I gotta walk you gonks through everything?",
+              "maleVariant": "",
+              "stringId": "2181179076447526912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nice... Hey, aren\u0027t you with some gang in town?",
+              "maleVariant": "",
+              "stringId": "2181184670222999552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Depends what you need. \u0022With\u0022 is an overstatement. But I did make a pretty loud exit.",
+              "maleVariant": "",
+              "stringId": "2181185384680742912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Get this. Pinned some gig on me, put out a hit, but then the gonk missed. Somehow I drag my lead-filled ass out to the edge of town.",
+              "maleVariant": "",
+              "stringId": "2181195613011140608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Four days in that gutter! But hey – at least the wound drew all sorts of bugs. Had somethin\u0027 to chew on that way.",
+              "maleVariant": "",
+              "stringId": "2181197481305137152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You search the guy till he snaps or he gets bored enough to buy you off himself.",
+              "maleVariant": "",
+              "stringId": "2188026908013977600"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

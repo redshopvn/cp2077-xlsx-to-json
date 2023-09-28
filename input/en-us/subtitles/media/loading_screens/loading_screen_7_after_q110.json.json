@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:00.9800387Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\loading_screens\\loading_screen_7_after_q110.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, you! Yeah, I\u0027m talkin\u0027 to you! You connect to the Net, right? Well, I wouldn\u0027t if I were in your shoes!",
+              "maleVariant": "",
+              "stringId": "1672015204399882240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Corporations say the \u0022new\u0022 Net is safe and secure – that they\u0027ve learned from past mistakes.",
+              "maleVariant": "",
+              "stringId": "1680676070711676928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "From up in their ivory towers everything must look all nice and pretty... But they\u0027re wrong. The Net is just a rusty car with a fresh coat of paint, a heap of dog shit spritzed with perfume.",
+              "maleVariant": "",
+              "stringId": "1680676361376944128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The demons we released into the Net have not gone anywhere. Deadly viruses. Artificial intelligences that exist only to destroy. Netrunners consumed in the Net\u0027s tangled webs, their minds lost to the void.",
+              "maleVariant": "",
+              "stringId": "1680676833420693504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Have you heard of the prison of souls? About Alt Cunningham and the Soulkiller? No? Well then buckle up, because I\u0027ve got--",
+              "maleVariant": "",
+              "stringId": "1680677405389541376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hah. NetWatch never sleeps.",
+              "maleVariant": "",
+              "stringId": "1680677987978366976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mikoshi... Gotta figure out how to get us there, V. ASAP.",
+              "maleVariant": "",
+              "stringId": "1680678577848504320"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

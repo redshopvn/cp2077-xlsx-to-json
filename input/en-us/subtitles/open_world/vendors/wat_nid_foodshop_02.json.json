@@ -1,0 +1,99 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:13.3492165Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wat_nid_foodshop_02.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027ll have a drink.",
+              "maleVariant": "",
+              "stringId": "1979339413595332612"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Interesting place.",
+              "maleVariant": "",
+              "stringId": "1979340145652375552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027ll take a drink.",
+              "maleVariant": "",
+              "stringId": "1979344829112885248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Interesting haunt, this Totentanz. Old factory, isn\u0027t it?",
+              "maleVariant": "",
+              "stringId": "1979345896865243136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uh-huh.",
+              "maleVariant": "",
+              "stringId": "1979346472877400064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Don\u0027t know you.",
+              "maleVariant": "",
+              "stringId": "1979353915468337152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Likewise. But, hey, I can live with it.",
+              "maleVariant": "",
+              "stringId": "1979354218649407488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "For now. But you try anything you shouldn\u0027t, I\u0027ll smash your skull \u0027gainst the wall. Got it?",
+              "maleVariant": "",
+              "stringId": "1979354635127017472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "All clear. So, formalities all settled? Can we get to biz?",
+              "maleVariant": "All clear. So, formalities all settled, can we get to biz?",
+              "stringId": "1979356374320336896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uh-huh. What\u0027ll ya have?",
+              "maleVariant": "",
+              "stringId": "1979357078392983552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What, no... no mood to small talk?",
+              "maleVariant": "What, no mood to small talk?",
+              "stringId": "1979365399221030912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You need somethin\u0027? Or you gonna keep fuckin\u0027 around?",
+              "maleVariant": "",
+              "stringId": "1979365556641648640"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

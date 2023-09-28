@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:13.5205954Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wbr_jpn_junk_03.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Can I see what you have?",
+              "maleVariant": "",
+              "stringId": "1882226030505508864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lot of Tyger Claws around here.",
+              "maleVariant": "",
+              "stringId": "1882226030505508880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Can I see whatcha got?",
+              "maleVariant": "",
+              "stringId": "1882226031327592452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Please! I\u0027m sure you will find something you like.",
+              "maleVariant": "",
+              "stringId": "1882226031377924100"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Real hoppin\u0027 place. Lots of Tygers roaming especially.",
+              "maleVariant": "Real hoppin\u0027 place. Lot of Tygers roaming especially.",
+              "stringId": "1882226031428255748"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "From different walks of life, many of them.",
+              "maleVariant": "",
+              "stringId": "1882226031445032964"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mm-hm. Know much about \u0027em?",
+              "maleVariant": "Uh-huh. You know much about \u0027em?",
+              "stringId": "1912580973309251584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Only that they dislike questions.",
+              "maleVariant": "",
+              "stringId": "1912581215572250624"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

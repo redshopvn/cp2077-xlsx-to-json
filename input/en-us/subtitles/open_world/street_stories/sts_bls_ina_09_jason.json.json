@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:08.5297998Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_bls_ina_09_jason.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, of course, if you can\u0027t fit it in your budget...",
+              "maleVariant": "",
+              "stringId": "1653500017753108480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, not worth keepin\u0027 him here...",
+              "maleVariant": "",
+              "stringId": "1653500649197187072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nah, not gonna work. Better get goin\u0027, hear his skull callin\u0027 for a bullet.",
+              "maleVariant": "",
+              "stringId": "1653536744052011008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What...? Yeah, I\u0027m still here.",
+              "maleVariant": "",
+              "stringId": "1654628332488536064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This isn\u0027t a negotiation. You buy him or you don\u0027t.",
+              "maleVariant": "",
+              "stringId": "1932841432497541120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Then you tell him either he pays my due, or I scratch McAdams off the map for good.",
+              "maleVariant": "",
+              "stringId": "1932841949789442048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Too scary a sum for all those lightweights at Militech, I suppose.",
+              "maleVariant": "",
+              "stringId": "1932843786592604160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "OK, OK...",
+              "maleVariant": "",
+              "stringId": "1940111567563960320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So? Did you think it over?",
+              "maleVariant": "",
+              "stringId": "1944437162689449984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

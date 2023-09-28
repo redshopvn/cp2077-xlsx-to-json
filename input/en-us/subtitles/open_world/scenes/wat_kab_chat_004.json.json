@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.7665281Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_kab_chat_004.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0027Ganics make the cash disappear way before the taxman comes. Everyone knows that.",
+              "maleVariant": "",
+              "stringId": "1802462615191543808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "B-but we\u0027re talkin\u0027 whole heaps of cash here! Billions! You\u0027re tellin me nobody gives a fuck?",
+              "maleVariant": "",
+              "stringId": "1802463047171301376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fucks or not, that\u0027s the system, kid.",
+              "maleVariant": "",
+              "stringId": "1802463229740965888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "People don\u0027t... I mean, shit, even WE don\u0027t think you can do anything.",
+              "maleVariant": "",
+              "stringId": "1802463469202169856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But we got proof.",
+              "maleVariant": "",
+              "stringId": "1802464051203792896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We do. And if nobody kills us first, we show the world some gonk\u0027s skimmin\u0027 off the top. And then what?",
+              "maleVariant": "",
+              "stringId": "1802464231592419328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "He\u0027ll lose his job, for one.",
+              "maleVariant": "",
+              "stringId": "1802464425503481856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Maybe, maybe not – an\u0027 you know what the man on the street\u0027s gonna say? \u0022I was him, I\u0027da done the same.\u0022",
+              "maleVariant": "",
+              "stringId": "1802464530394636288"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

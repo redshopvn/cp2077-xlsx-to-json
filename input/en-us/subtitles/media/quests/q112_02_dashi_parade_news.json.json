@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.0323194Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\q112_02_dashi_parade_news.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hello, it\u0027s time for your local news. The Aratama-matsuri festival is nearly upon us.",
+              "maleVariant": "",
+              "stringId": "1743081712336031744"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To mark the event, the streets of Night City  will come alive with exquisite, multi-story dashi floats.",
+              "maleVariant": "",
+              "stringId": "1743083012352167936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The festival program will also include musical performances by biwa virtuosos and theatrical performances in the Noh tradition.",
+              "maleVariant": "",
+              "stringId": "1743083347997151232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The sponsor for the festival is the Arasaka Corporation. And, in an exciting development, even Hanako Arasaka has announced her participation in the dashi parade.",
+              "maleVariant": "",
+              "stringId": "1743084074937143296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "From all of us at WNS News, we wish you a safe and fun matsuri.",
+              "maleVariant": "",
+              "stringId": "1743085065044545536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Enjoy yourselves, Night City!",
+              "maleVariant": "",
+              "stringId": "1743085467999719424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "After the break... Cyberpsychosis – myth or reality? Stay tuned.",
+              "maleVariant": "",
+              "stringId": "1743087757468946432"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

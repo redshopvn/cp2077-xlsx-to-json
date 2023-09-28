@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:12.8615840Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\std_arr_foodshop_02.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027s on the menu?",
+              "maleVariant": "",
+              "stringId": "1783751526462541824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Why the long face? Not enough tips?",
+              "maleVariant": "",
+              "stringId": "1783751526462541840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027s on the menu?",
+              "maleVariant": "",
+              "stringId": "1783751526479319044"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You got eyes, don\u0027t you?",
+              "maleVariant": "",
+              "stringId": "1783751526496096260"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Why the long face? Tips not comin\u0027 in?",
+              "maleVariant": "",
+              "stringId": "1783751526512873476"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hmph. No. Today\u0027s the fourth time my boss rejected my request for a vacation.",
+              "maleVariant": "",
+              "stringId": "1783751526512873484"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Anyway... it\u0027s nice of you to ask. Nobody ever asks.",
+              "maleVariant": "",
+              "stringId": "1975166013788180480"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

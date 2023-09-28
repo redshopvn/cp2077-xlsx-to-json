@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:00.7654698Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\fluff\\n54_news_3.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This is N54 News with a breaking story. A cyberpsycho attack shocks Wellsprings.",
+              "maleVariant": "",
+              "stringId": "1751810722014748672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lester McKenzie, age 28, opened fire at the River Mall shopping center.",
+              "maleVariant": "",
+              "stringId": "1751815390258323456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The shooting lasted ten minutes before the assailant was killed shortly after MaxTac forces arrived.",
+              "maleVariant": "",
+              "stringId": "1751815607238057984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Thirty-five people were pronounced dead at the scene and another twenty remain in critical condition.",
+              "maleVariant": "",
+              "stringId": "1751815779741392896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The Implant Manufacturers\u0027 Association has issued a statement in response to the incident stating, quote, \u0022Our thoughts and prayers go the victims and their families. We at the IMA extend our sincerest condolences in the wake of this unavoidable tragedy.\u0022 End quote.",
+              "maleVariant": "",
+              "stringId": "1751815920133136384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "River Mall administration has announced plans to reopen within the hour. They have offered a fifty percent discount at participating stores to the families of the victims.",
+              "maleVariant": "",
+              "stringId": "1751816099649347584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stay tuned to N54 News for developments on this story.",
+              "maleVariant": "",
+              "stringId": "1751816253982957568"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

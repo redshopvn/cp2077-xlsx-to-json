@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.4279627Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_rcr_chat_004.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh my god, I can\u0027t...! You really thought you could plaster that shit all over your face and nobody\u0027d notice?",
+              "maleVariant": "",
+              "stringId": "1963292689041498112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Leave me alone!",
+              "maleVariant": "",
+              "stringId": "1969221971081936896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Whoa, better not laugh, or her Prince Corpo\u0027ll send his agents after you!",
+              "maleVariant": "",
+              "stringId": "1969222167559913472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I know he likes me! He\u0027ll call me, you\u0027ll see!",
+              "maleVariant": "",
+              "stringId": "1969222503104233472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Girl, corpos don\u0027t get their outputs from the factory. Be happy he had you for one night.",
+              "maleVariant": "",
+              "stringId": "1969222671027388416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "He loves me! You\u0027ll see! He\u0027ll get me outta this shithole and then... We\u0027ll see who\u0027s laughing then!",
+              "maleVariant": "",
+              "stringId": "1969222900422262784"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

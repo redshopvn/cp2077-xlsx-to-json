@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.5784516Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_east_012.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Barely made it back with the transport yesterday.",
+              "maleVariant": "",
+              "stringId": "2178186366543011840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Heh, just be glad you didn\u0027t show up empty-handed. Jumped me twice already. All I delivered was an empty truck.",
+              "maleVariant": "",
+              "stringId": "2188329559561822208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ya think that\u0027s bad. Turns out my exhaust pipe was so twisted, it\u0027s a miracle I\u0027m still breathing.",
+              "maleVariant": "",
+              "stringId": "2188349236451172352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Goddamn mechanic gave me some old Aldecaldo junk again. And I paid like it was brand spankin\u0027 new.",
+              "maleVariant": "",
+              "stringId": "2188353532374769664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ugh, mechanics... always takin\u0027 you for a ride. First on parts, then on the back of a tow truck.",
+              "maleVariant": "",
+              "stringId": "2188354571740078080"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

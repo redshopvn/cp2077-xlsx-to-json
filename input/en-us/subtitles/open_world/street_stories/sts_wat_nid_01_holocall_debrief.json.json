@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:11.3776095Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_nid_01_holocall_debrief.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "OK, I know Hal\u0027s secure, but let\u0027s not pretend it went smoothly. I expected you to be more professional, V.",
+              "maleVariant": "",
+              "stringId": "2329256372747673600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nicely done – Hal\u0027s very happy, talks about you non-stop. Only good things, of course.",
+              "maleVariant": "",
+              "stringId": "2329256889989242880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Please, no more stunts like that in the future. Closing the gig.",
+              "maleVariant": "",
+              "stringId": "2339445848403185664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And remember, V – word gets around. Closing the gig.",
+              "maleVariant": "",
+              "stringId": "2339447006702178304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hal\u0027s dead, V. Tried to make it out on his own, but that poor girl with cyberpsychosis got to him first.",
+              "maleVariant": "",
+              "stringId": "2358917713850572800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That was the fate you left him to when you abandoned him. I won\u0027t forget this.",
+              "maleVariant": "",
+              "stringId": "2362391609075929088"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

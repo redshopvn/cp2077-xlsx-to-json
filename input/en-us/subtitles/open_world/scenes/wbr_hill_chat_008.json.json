@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:07.5934117Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_hill_chat_008.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You heard? James\u0027 brother just retired.",
+              "maleVariant": "",
+              "stringId": "1806803052031238144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "On what? Stocks?",
+              "maleVariant": "",
+              "stringId": "1806806565431926784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No. Japantown. Casino. Everyone\u0027s saying he had a runner helpin\u0027 him, but I dunno. Prolly just a rumor.",
+              "maleVariant": "",
+              "stringId": "1806806700555624448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Still damn lucky. What\u0027s he gonna do with all that cash?",
+              "maleVariant": "",
+              "stringId": "1806806869116313600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Apparently goin\u0027 to… where was it? Sicily? Some place called Modica.",
+              "maleVariant": "",
+              "stringId": "1806807055209193472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Where the hell\u0027s that?",
+              "maleVariant": "",
+              "stringId": "1806807222025052160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ha ha, how the hell should I know? Just said some shit about his great-grandpa or someone bein\u0027 from there…",
+              "maleVariant": "",
+              "stringId": "1806807622010658816"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

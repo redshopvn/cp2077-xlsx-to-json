@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:03.7249853Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_gle_chat_010.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027ve changed.",
+              "maleVariant": "",
+              "stringId": "1832774546783592448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Isn\u0027t that what growing up\u0027s all about?",
+              "maleVariant": "",
+              "stringId": "1966181128498561024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You mean looking like a zombie and being obsessed with guns?",
+              "maleVariant": "",
+              "stringId": "1966181286204391424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We used to be able to talk about everything together... now it\u0027s just Militech this, Militech that.",
+              "maleVariant": "",
+              "stringId": "1966181447383105536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I miss the stuff we used to  talk about... and you, too.",
+              "maleVariant": "",
+              "stringId": "1966181829920407552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m part of something bigger now. Before Militech I used to be a nobody... like you.",
+              "maleVariant": "",
+              "stringId": "1966181956135403520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You should find a job. Clearly you\u0027ve got too much free time on your hands.",
+              "maleVariant": "",
+              "stringId": "1966182158518960128"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.1030234Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\q202_02_immigrants_shot_at_wall.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hello, I\u0027m Gillean Jordan. We begin the broadcast with troubling news from the State Line.",
+              "maleVariant": "",
+              "stringId": "1792204460723707904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "South California reportedly opened fire on an migrant caravan attempting to penetrate the wall.",
+              "maleVariant": "",
+              "stringId": "1796567487378866176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Twenty-seven people died and another forty-seven were injured. The surviving migrants are now being held at an undisclosed facility.",
+              "maleVariant": "",
+              "stringId": "1796567872315310080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This is just another in a series of similar incidents this year already. The South Californian government has, so far, declined to comment.",
+              "maleVariant": "",
+              "stringId": "1796568242487803904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This tragedy further emphasizes the need for unity under President Myers\u0027s leadership. It is only under the guiding influence of the NUS government that future bloodshed can be avoided.",
+              "maleVariant": "",
+              "stringId": "1796568551507345408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To sign a petition calling on the Night City Council to rejoin the Union, please visit the address at the bottom of your screen.",
+              "maleVariant": "",
+              "stringId": "1796568796303704064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stay tuned. More information after the break.",
+              "maleVariant": "",
+              "stringId": "1796569056971309056"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

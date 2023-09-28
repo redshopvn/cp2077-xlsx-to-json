@@ -1,0 +1,93 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:38.7983467Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\q108\\q108_15c_car_chase.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Arasaka!",
+              "maleVariant": "",
+              "stringId": "1199909368889253888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If they hit the car, we\u0027re fucked!",
+              "maleVariant": "",
+              "stringId": "1257647078372610048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gimme a hand!",
+              "maleVariant": "",
+              "stringId": "1257647445491650560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got company. On our ass.",
+              "maleVariant": "",
+              "stringId": "1682367370448773120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Think we\u0027re clear of \u0027em.",
+              "maleVariant": "",
+              "stringId": "1744408467395747840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027ll park somewhere, we\u0027ll chat.",
+              "maleVariant": "",
+              "stringId": "1744409186584666112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We\u0027ll be right behind you.",
+              "maleVariant": "",
+              "stringId": "1789415548859097088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I have no idea what the hell she saw in you.",
+              "maleVariant": "",
+              "stringId": "1789451849167708164"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Show off.",
+              "maleVariant": "",
+              "stringId": "1789451934379188228"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Bingo. Goin\u0027 down!",
+              "maleVariant": "",
+              "stringId": "1789459075987054596"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gotta lose \u0027em, quick! Next right – take it!",
+              "maleVariant": "",
+              "stringId": "2233126225495801856"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.7437302Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_cpz_chat_003.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That attack... in Paris... that was us?",
+              "maleVariant": "",
+              "stringId": "1963273693441335296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Keep it down, will ya? That\u0027s classified.",
+              "maleVariant": "",
+              "stringId": "1966148764259041280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I didn\u0027t sign up for this, man. Someone\u0027s gonna find out.",
+              "maleVariant": "",
+              "stringId": "1966149007847440384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Whoever needs to know already knows. We keep our mouths shut, OK?",
+              "maleVariant": "",
+              "stringId": "1966149272273141760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What did you think that extra seven per cent of the budget was for?",
+              "maleVariant": "",
+              "stringId": "1966149792333283328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If this gets out, no fucking seven per cent\u0027s gonna save our asses!",
+              "maleVariant": "",
+              "stringId": "1966149978661044224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How do you think it\u0027ll look? Supplying weapons for riots that our people started?",
+              "maleVariant": "",
+              "stringId": "1966150236073869312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0022Militech denies any involvement or wrongdoing.\u0022",
+              "maleVariant": "",
+              "stringId": "1966150663825768448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:13.3141662Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wat_lch_medicstore_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Looking to buy some meds.",
+              "maleVariant": "",
+              "stringId": "1957668066341187584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Write me a prescription?",
+              "maleVariant": "",
+              "stringId": "1957668066341187600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sure you know what you\u0027re doin\u0027? Medicine\u0027s come a long way since the Middle Ages.",
+              "maleVariant": "You sure you know what you\u0027re doin\u0027? Medicine\u0027s come a long way since the Middle Ages.",
+              "stringId": "1957668066659954692"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sure you know what you\u0027re doing?",
+              "maleVariant": "",
+              "stringId": "1977976307727450112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You do not need mushroom or herb – only the reunification of self. To be free of the demon never leaving.",
+              "maleVariant": "",
+              "stringId": "1977976675903455232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If not, it is only a potential source of infection. Microflora fulfilling their purpose.",
+              "maleVariant": "",
+              "stringId": "1978001956248731648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I offer what is needed. For some, it is a defibrillator. For others – dried placenta.",
+              "maleVariant": "",
+              "stringId": "1978002291457507328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Very good for impotence. Of course, only if you believe in such things.",
+              "maleVariant": "",
+              "stringId": "1978002409887875072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dried what?",
+              "maleVariant": "",
+              "stringId": "1978002425339691008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Can you write me a scrip? Maybe some ginseng or \u0027shrooms?",
+              "maleVariant": "",
+              "stringId": "1978009905645993984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hah... pfff. Where\u0027ve I heard that before? Hah...",
+              "maleVariant": "Uh, yeah... Where\u0027ve I heard that before? Heh...",
+              "stringId": "1985048457785360384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Need to buy some meds.",
+              "maleVariant": "",
+              "stringId": "2277825095508148224"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:03.8935657Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_spr_chat_017.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Just wonder why, y\u0027know? Why an NCART train? Couldn\u0027t you just blast yourself in the head?",
+              "maleVariant": "",
+              "stringId": "2162102246139736064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Seriously. Three times I was late for work last week \u0027cause of them. Be the death of me, I swear.",
+              "maleVariant": "",
+              "stringId": "2213002326738046976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aren\u0027t they scared? Like, it\u0027s gotta hurt, and you don\u0027t even know if it\u0027ll do the job. But lead? One shot and lights out.",
+              "maleVariant": "",
+              "stringId": "2218479991645376512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Zackly. \u0027Stead of stayin\u0027 home and outta everyone\u0027s biz, they fuck up the whole damn line.",
+              "maleVariant": "",
+              "stringId": "2218490505473658880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ehhh... Just don\u0027t get it.",
+              "maleVariant": "",
+              "stringId": "2218491848154255360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, I get it. Bunch of self-centered assholes!",
+              "maleVariant": "",
+              "stringId": "2218492120062595072"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

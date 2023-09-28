@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.5393796Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_rcr_chat_016.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, babe, listen I\u0027m not gonna be able to make it today-- Hahaha, yeah, no, that was a fun night.",
+              "maleVariant": "",
+              "stringId": "2167591200337186816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, y\u0027know, got a bunch of, um, corporate stuff to take care of, meetings with the board – you know how it is... Where am I? Uh... Corpo Plaza, obviously... No, no, now\u0027s not a good time... We\u0027ll meet up later...",
+              "maleVariant": "",
+              "stringId": "2228882546149920768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What am I...? Oh, um... y\u0027know, really expensive suit, crocodile-skin shoes. What\u0027re you wearing...? Mhm... and what else...? Oooh, such a naughty girl... Hahaha...",
+              "maleVariant": "",
+              "stringId": "2228923230043082752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Course I can get you a job in Arasaka. What do you wanna be...? A secretary?! C\u0027mon, babe, you can aim higher than that! How \u0027bout CEO? Hehe...",
+              "maleVariant": "",
+              "stringId": "2228925246664445952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0027Course, sweetheart. Stick with me and I\u0027ll take you places you\u0027ve never dreamed of. Nobody\u0027s got connections in Night City like I do...",
+              "maleVariant": "",
+              "stringId": "2228928024669425664"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

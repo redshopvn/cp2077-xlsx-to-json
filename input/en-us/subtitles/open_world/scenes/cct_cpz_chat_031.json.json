@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.8331853Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_cpz_chat_031.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And now, deep breath in, one, two, and slowwwly breathe ouuuut.",
+              "maleVariant": "",
+              "stringId": "2172133362346090496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Focus on your breath, feel it as it travels from your lungs to the rest of your body...",
+              "maleVariant": "",
+              "stringId": "2208324964528263168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Observe your thoughts. Let them come and go. Like little clouds floating by. Perfect.",
+              "maleVariant": "",
+              "stringId": "2208326514524917760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027re a small, smooth rock in a stream. Let the water of your thoughts wash over you, while you remain calm and still.",
+              "maleVariant": "",
+              "stringId": "2208326976703664128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Good. Keep breathing. Deep breath in. Notice any tension in your body, and then aahhhh – let it go as you breathe out.",
+              "maleVariant": "",
+              "stringId": "2208327968606228480"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.7588497Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_kab_chat_001.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We tracked down the scratch. It\u0027s safe.",
+              "maleVariant": "",
+              "stringId": "1802435321311911936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Where?",
+              "maleVariant": "",
+              "stringId": "1802437166755340288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Down at the station... guy carryin\u0027 it was white... How was we supposed to know?",
+              "maleVariant": "",
+              "stringId": "1802437348083490816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Don\u0027t think you understand the fuckin\u0027 game, pig!",
+              "maleVariant": "",
+              "stringId": "1802437612811182080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Relax, I\u0027ll take care of everything...",
+              "maleVariant": "",
+              "stringId": "1802437892806139904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "When?",
+              "maleVariant": "",
+              "stringId": "1802438215582998528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Two days. Tops. All I gotta do is...",
+              "maleVariant": "",
+              "stringId": "1802438387532685312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "All you gotta do is not fuck it up. \u0027Cause your salary sure as hell won\u0027t cover scratch like that.",
+              "maleVariant": "",
+              "stringId": "1802438793709084672"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

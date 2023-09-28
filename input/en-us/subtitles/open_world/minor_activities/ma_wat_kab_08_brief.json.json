@@ -1,0 +1,51 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.4260643Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_wat_kab_08_brief.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got word of a cyberpsycho attack, all confirmed. Even reported to MaxTac. Thing is, nobody\u0027s gonna show, \u0027cause Militech shut it right down.",
+              "maleVariant": "",
+              "stringId": "2354818377999990784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Anyway, corpo\u0027s gonna go straight into treatment.",
+              "maleVariant": "",
+              "stringId": "2354821749582872576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So make very, very sure you keep her in one piece.",
+              "maleVariant": "",
+              "stringId": "2354822019175956480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You ask me, psycho\u0027s gotta be one of theirs. My eddies are on Lieutenant Mower.",
+              "maleVariant": "",
+              "stringId": "2354822802151849984"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

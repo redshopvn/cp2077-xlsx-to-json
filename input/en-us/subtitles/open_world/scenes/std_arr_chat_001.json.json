@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.2213960Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_arr_chat_001.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Listen, I\u0027m beggin\u0027 ya. We\u0027re buddies, yeah? Don\u0027t make me call security.",
+              "maleVariant": "",
+              "stringId": "1963259367192043520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "C\u0027mon, who\u0027s it gon\u0027 hurt, me takin\u0027 a little trash. Ain\u0027t nobody wants it, but I got uses.",
+              "maleVariant": "",
+              "stringId": "1966208582348947456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Petrochem never looks kindly on thieves.",
+              "maleVariant": "",
+              "stringId": "1966209531687714816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But it\u0027s trash! The hell they gon\u0027 do with it? C\u0027mon, jus\u0027 think yo\u0027self for a minute!",
+              "maleVariant": "",
+              "stringId": "1966209868473548800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "They don\u0027t pay me to think.",
+              "maleVariant": "",
+              "stringId": "1966210127094333440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, I can fuckin\u0027 see that!",
+              "maleVariant": "",
+              "stringId": "1966210277401411584"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:07.8405431Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_jpn_chat_035.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022jpn\u0022 o=\u0022あいつら、あたしたちを何だと思ってるの？ ここがコーポ・プラザにでも見える？\u0022 t=\u0022Who do they think we are? Does this look like Corpo Plaza to you?\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2160404826850107392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Try as I might, can\u0027t imagine that. Not even fucking close.",
+              "maleVariant": "",
+              "stringId": "2196701541560590336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022jpn\u0022 o=\u0022じゃあなんでこんな堅苦しい生活をしなきゃいけないの！\u0022 t=\u0022So why do I feel like I live in goddamned Corpo Plaza?\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2196701810130264064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022jpn\u0022 o=\u0022なにが“警備”料金よ？ クロウズの奴ら、今年に入ってもう3回も値上げしやがって！\u0022 t=\u0022Think our \\\u0022security\\\u0022 fees could have something to do with it? Tygers asked for more! Again! Third time this year!\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2196705534001127424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, hey, not so loud. Walls have ears, you don\u0027t want trouble.",
+              "maleVariant": "",
+              "stringId": "2196718614542131200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022jpn\u0022 o=\u0022あたしには小さな子供が2人と、BDアクターを目指す夫がいるの。タイガークロウズでもなんでも、かかってきなさいよ\u0022 t=\u0022I have two small kids and an aspiring BD actor for a husband. The Tyger Claws are my entertainment.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2196723275554725888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I getcha. Still, wouldn\u0027t want those kids to lose their mother, would ya?",
+              "maleVariant": "",
+              "stringId": "2196729865494175744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

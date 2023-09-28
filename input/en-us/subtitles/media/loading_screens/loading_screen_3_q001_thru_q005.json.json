@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:00.9616075Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\loading_screens\\loading_screen_3_q001_thru_q005.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, everyone. Feels great to have ya back. So then, did y\u0027all hear about that Arasaka aircraft carrier docked in Night City? Called \u0022Kujira,\u0022 or the \u0022whale.\u0022",
+              "maleVariant": "",
+              "stringId": "1669211932228231168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Apparently the corp figured it wasn\u0027t safe in Japanese waters. Afraid some local fishermen might... harpoon it for scientific research.",
+              "maleVariant": "",
+              "stringId": "1670578045695873024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Anyway, I guess Hanako Arasaka\u0027s PR crack team was worried with the ship bein\u0027 here. It might stir up some bitter feelings about Pearl Harbor. Oh wait, did I say \u0022worried\u0022? \u0027Cause what I meant was \u0022havin\u0027 a fuckin\u0027 laugh.\u0022",
+              "maleVariant": "",
+              "stringId": "1670579827788533760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But honestly, it\u0027s quite the power move. Wonder what Militech\u0027ll respond with. Maybe Myers will fly a rust-bucket B-17 Flying Fortress over Arasaka HQ.",
+              "maleVariant": "",
+              "stringId": "1670580479935696896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh man, that\u0027s-- that is insensitive. I am so sorry, where are my manners? PRESIDENT Myers, I mean, of course. Gotta respect the office.",
+              "maleVariant": "",
+              "stringId": "1670582785242615808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Anywho...",
+              "maleVariant": "",
+              "stringId": "1670583295102210048"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

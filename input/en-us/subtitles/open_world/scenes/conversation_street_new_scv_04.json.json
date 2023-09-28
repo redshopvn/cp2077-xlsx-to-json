@@ -1,0 +1,45 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:02.3124726Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_scv_04.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "FM-2030. Read up on him. Now he was the man. They\u0027ve kept \u0027im in cryostasis to this day – collection of some billionaire from Bahrain or wherever the fuck.",
+              "maleVariant": "",
+              "stringId": "2276536222213120016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022rus\u0022 o=\u0022Ты про Фёдорова слышал? Это с него всё началось, он всё предсказал. Остальные уже потом присоединились.\u0022 t=\u0022Ever heard of Fyodor? It all started with him. He predicted everything. Everyone else is just a lousy imitator.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2276536222229897216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh yeah? But did they preserve your guy in cryostasis? Didn\u0027t think so. So stop tryna get smart with me and get back to work.",
+              "maleVariant": "",
+              "stringId": "2276536222229897228"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

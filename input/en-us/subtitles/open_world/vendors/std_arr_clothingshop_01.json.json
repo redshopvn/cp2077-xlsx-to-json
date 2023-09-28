@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:12.8545941Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\std_arr_clothingshop_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027re you selling?",
+              "maleVariant": "",
+              "stringId": "1783754628636889088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You peddling, or begging?",
+              "maleVariant": "",
+              "stringId": "1783754628653666308"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027re you sellin\u0027?",
+              "maleVariant": "",
+              "stringId": "1783754628670443524"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Anything you can see.",
+              "maleVariant": "",
+              "stringId": "1783754628670443532"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You sellin\u0027 threads or collecting \u0027em? Hard to tell at a glance.",
+              "maleVariant": "You selling threads or collecting \u0027em? It\u0027s hard to tell at a glance.",
+              "stringId": "1783754628703997956"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You beg on the street, they tell you to get a job, you get a job, they make fun o\u0027 you. Make up your damn minds, people!",
+              "maleVariant": "",
+              "stringId": "1783754628703997964"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027d like to change my clothes.",
+              "maleVariant": "",
+              "stringId": "3775245001835802624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027d like to use your services.",
+              "maleVariant": "",
+              "stringId": "3836297774832152644"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

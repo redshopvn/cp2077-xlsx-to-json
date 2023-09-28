@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.0217924Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\q104_02_av_down_news.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We\u0027ve just received word on a breaking story – a Kang Tao AV has crashed outside of Night City.",
+              "maleVariant": "",
+              "stringId": "1745883341299179520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The aircraft\u0027s thrusters were deactivated by a sudden EMP discharge from a nearby damaged power station in Santo Domingo. The emergency landing attempt proved unsuccessful.",
+              "maleVariant": "",
+              "stringId": "1745883713468162048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The passengers who survived the crash landing were met by a band of nomads.",
+              "maleVariant": "",
+              "stringId": "1745883970629328896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fortunately, Kang Tao\u0027s surviving security personnel managed to fend off the attack without suffering addtional losses.",
+              "maleVariant": "",
+              "stringId": "1745884119359348736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The company has already announced a forceful response against the nomads\u0027 camps.",
+              "maleVariant": "",
+              "stringId": "1745884264566153216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "After the break – President Myers has released a statement on the flow of refugees from the Netherlands.",
+              "maleVariant": "",
+              "stringId": "1745884564140122112"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

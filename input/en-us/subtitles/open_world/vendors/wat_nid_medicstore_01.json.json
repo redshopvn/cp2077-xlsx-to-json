@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:13.3541050Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wat_nid_medicstore_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Need your services.",
+              "maleVariant": "",
+              "stringId": "1979367548869124096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You sell medicine... here?",
+              "maleVariant": "",
+              "stringId": "1979368038478618624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Need your medical expertise.",
+              "maleVariant": "",
+              "stringId": "1979368703812673536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So, I... You want what exactly?",
+              "maleVariant": "",
+              "stringId": "1979370498035261440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You actually sell meds... outta this place...?",
+              "maleVariant": "",
+              "stringId": "1979381452450013184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well... call it a recent change. Used to work in electronics, didn\u0027t exactly pan out, had to shift my focus somewhere.",
+              "maleVariant": "",
+              "stringId": "1979382140768854016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But hey, it\u0027s all legit. I took a first aid course on the Net, bought a shard on pharmacy basics. Good to go, choomba. Hey, just let me know what you need.",
+              "maleVariant": "",
+              "stringId": "1979470839527297024"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:13.3568002Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wat_nid_medicstore_02.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Here to buy.",
+              "maleVariant": "",
+              "stringId": "1893796934479020036"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Like to see what you can do for me.",
+              "maleVariant": "I\u0027d like to see what you can do for me.",
+              "stringId": "1893797127115014144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wouldn\u0027t happen to be medically certified, would ya?",
+              "maleVariant": "You wouldn\u0027t happen to be medically certified, would ya?",
+              "stringId": "1893797285626150912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got a medical license?",
+              "maleVariant": "",
+              "stringId": "1893799869032202240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Plenty, I\u0027m sure.",
+              "maleVariant": "",
+              "stringId": "1893802464299745280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Certified? Well... yeah, of course.",
+              "maleVariant": "",
+              "stringId": "1893802648161255424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey. You need something?",
+              "maleVariant": "",
+              "stringId": "1893889354792058884"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ya see, I used to, uh, fly with the Trauma Team, yeah. Junior paramedic, six months. Wouldn\u0027t believe the things I\u0027ve seen.",
+              "maleVariant": "",
+              "stringId": "1984969165457256448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.1111955Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\sq006_01_elections_hook.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Night City. Our home. Our pride.",
+              "maleVariant": "",
+              "stringId": "1792227944698912768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "From the moment I became your mayor, unemployment has dropped three percent and the murder rate by five.",
+              "maleVariant": "",
+              "stringId": "1800892884618821632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But some cynics out there don\u0027t see Night City\u0027s beautiful potential as I do...",
+              "maleVariant": "",
+              "stringId": "1800893453181894656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do I love this city? Do I love its people? I have never loved anything--\u0022",
+              "maleVariant": "",
+              "stringId": "1800894075583053824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You placed your trust in me before. Let\u0027s work together again.",
+              "maleVariant": "",
+              "stringId": "1800894500482826240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m Weldon Holt, and I approve this message.",
+              "maleVariant": "",
+              "stringId": "1800894993867194368"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

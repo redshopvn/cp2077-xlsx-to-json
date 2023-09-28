@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.9133713Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_023.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027ll be fine. They got boosters for that.",
+              "maleVariant": "",
+              "stringId": "2178096400413999104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Y\u0027know, sometimes when I look down, I think... I think, what if I jumped? There, right in front of a car.",
+              "maleVariant": "",
+              "stringId": "2179547339083726848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I could just do it. Now, in a second, in a minute. But I won\u0027t.",
+              "maleVariant": "",
+              "stringId": "2179548305870798848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Weird, huh? Is this what bein\u0027 suicidal\u0027s like?",
+              "maleVariant": "",
+              "stringId": "2179548483575070720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nah, not really. They call it \u0022the call of the void.\u0022",
+              "maleVariant": "",
+              "stringId": "2179548665976963072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It\u0027s normal, nothing serious. But if you start really wanting to jump... that\u0027s when I\u0027d start worrying.",
+              "maleVariant": "",
+              "stringId": "2179548862857592832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Dunno, I\u0027m freaked. It\u0027s like the push is right there, right around the corner... right on the edge of my mind.",
+              "maleVariant": "",
+              "stringId": "2179549054956716032"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:05.1731997Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\pac_cvi_chat_033.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Couple chooms disappeared. People\u0027re sayin\u0027 Scav work.",
+              "maleVariant": "",
+              "stringId": "2179569491437187072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Where the Voodoo Boys at? This their turf, ain\u0027t it? Should be takin\u0027 a stand for once.",
+              "maleVariant": "",
+              "stringId": "2182551396966711296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, their turf, but not their biz. Got their own problems.",
+              "maleVariant": "",
+              "stringId": "2182551648457179136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How\u0027s it not their biz? Scavs bargin\u0027 into Pacifica ain\u0027t their biz?",
+              "maleVariant": "",
+              "stringId": "2182551809518452736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Couple chooms today, tomorrow they\u0027re runnin\u0027 the whole damn hood!",
+              "maleVariant": "",
+              "stringId": "2182551977290612736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Shit, choom... \u0027Fraid to even leave the house. Like we don\u0027t got enough problems.",
+              "maleVariant": "",
+              "stringId": "2182552115803308032"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

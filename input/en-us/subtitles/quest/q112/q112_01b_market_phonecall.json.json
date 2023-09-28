@@ -1,0 +1,93 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:40.4164624Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\q112\\q112_01b_market_phonecall.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V? My reconnaissance is complete.",
+              "maleVariant": "",
+              "stringId": "1712754532066279424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Everything is ready.",
+              "maleVariant": "",
+              "stringId": "1720104092217249792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It worked. Can hear it in your voice.",
+              "maleVariant": "",
+              "stringId": "1720104672323047424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I am sending you coordinates. Join me as quickly as you can.",
+              "maleVariant": "",
+              "stringId": "1720105466875219968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V?",
+              "maleVariant": "",
+              "stringId": "1904250206757601284"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We must meet.",
+              "maleVariant": "",
+              "stringId": "1904250206791155712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "In the south of Japantown there is a street market.",
+              "maleVariant": "",
+              "stringId": "1904250206824710144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It is on a footbridge above the main street. Use the elevators. It is easy to get lost.",
+              "maleVariant": "",
+              "stringId": "1904250206858264576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I am on my way there. Do not make me wait.",
+              "maleVariant": "",
+              "stringId": "1904250206875041792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The information from Okada-san... very valuable. I also learned something through my own efforts.",
+              "maleVariant": "",
+              "stringId": "1996734695352377344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Where\u0027ll it be this time? Trash processing plant? Deserted NCART station?",
+              "maleVariant": "",
+              "stringId": "2012772198345678848"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

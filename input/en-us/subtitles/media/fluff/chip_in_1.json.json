@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:00.6487261Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\fluff\\chip_in_1.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Whaddup, Night City! We\u0027ve got a great show for you today on \u0022Chip In\u0022 where we\u0027ll be testing the new Svalinn syn-skin by Militech.",
+              "maleVariant": "",
+              "stringId": "1771997587861053440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The Svalinn 9-F hit the market only a month ago, but full disclosure – I\u0027ve been wearing it for a while now.",
+              "maleVariant": "",
+              "stringId": "1790981493011828736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Like previous models in the Svalinn line, it can withstand temps of between minus 220 to positive 700 degrees Fahrenheit, and it provides excellent abrasion resistance.",
+              "maleVariant": "",
+              "stringId": "1790982297093459968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This syn-skin is a perfect match for all you motorcycle nuts out there... Or if you just like to play with fire!",
+              "maleVariant": "",
+              "stringId": "1790982653441527808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Downsides? You can\u0027t get piercings done on the 9-F. That knocks it down one star for sure. Final verdict? Four outta five.",
+              "maleVariant": "",
+              "stringId": "1790983058510630912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That\u0027s it from me, Night City! And remember, keep on chippin\u0027 in!",
+              "maleVariant": "",
+              "stringId": "1790983481279696896"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:39.3565947Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\q110\\q110_07_agent_noticed.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Cmothertongue l=\u0022creo\u0022 m=\u0022kamyonèt\u0022 b=\u0022Quickly. See to de \u0022 a=\u0022.\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "1533040390586781696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Be silent. Watch. Not fuck them up. Dat was your job.",
+              "maleVariant": "",
+              "stringId": "1682206415859814400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tough shit. They know I\u0027m here now.",
+              "maleVariant": "",
+              "stringId": "1682207867072221184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wait, who was that?",
+              "maleVariant": "",
+              "stringId": "1695430519820406784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Who you think? De \u0027runner we want try to invade you.",
+              "maleVariant": "",
+              "stringId": "1695430908498169856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And? Did he?",
+              "maleVariant": "",
+              "stringId": "1695637209064214528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wid de extra ICE we give you, it is fine for now.",
+              "maleVariant": "",
+              "stringId": "1695637620458328064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So... he knows I\u0027m here.",
+              "maleVariant": "",
+              "stringId": "1695638000680374272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No problem. Only no linking, no interfacing, nothing.",
+              "maleVariant": "",
+              "stringId": "1695638492017922048"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.5884780Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_east_016.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yooo I got real fuckin\u0027 hazed last night. Smoked till like four the morning, fell asleep in a pipe... Yeah, like one of them pipes from the sewer... Yeah man, back\u0027s killin\u0027 me...",
+              "maleVariant": "",
+              "stringId": "2178222126977589248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uh-huh, yeah, slept pretty good. Still had to get up early, cause I got the... You know, the kid.",
+              "maleVariant": "",
+              "stringId": "2228592536150446080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, yeah, they say you can\u0027t get drunk when you got kids, but that ain\u0027t true. You can, just gotta get up in the morning.",
+              "maleVariant": "",
+              "stringId": "2228594071852912640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Called bein\u0027 responsible.",
+              "maleVariant": "",
+              "stringId": "2228594876622409728"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

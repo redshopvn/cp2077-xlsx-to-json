@@ -1,0 +1,87 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:36.2242768Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\q104\\q104_07a_gas_station_infiltration.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I see cars. Nomad.",
+              "maleVariant": "",
+              "stringId": "1641739873595183104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m in.",
+              "maleVariant": "",
+              "stringId": "1641743311095746560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "OK. Covering you.",
+              "maleVariant": "",
+              "stringId": "1641745439738580992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Transceiver tower. Two guards.",
+              "maleVariant": "",
+              "stringId": "1641746755491745792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm. I recognize them. The clan\u0027s.",
+              "maleVariant": "",
+              "stringId": "1641749635485421568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hellman – he has to be here.",
+              "maleVariant": "",
+              "stringId": "1641752003035811840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Eyes wide open.",
+              "maleVariant": "",
+              "stringId": "1641773404522303488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You won\u0027t get out of this alive, you bastards.",
+              "maleVariant": "",
+              "stringId": "1767636926003568640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Know where they\u0027re keeping Hellman. Going in.",
+              "maleVariant": "",
+              "stringId": "1773383462876504064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "OK. Covering you.",
+              "maleVariant": "",
+              "stringId": "1773417475257004032"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

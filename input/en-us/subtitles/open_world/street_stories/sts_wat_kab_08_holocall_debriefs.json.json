@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:10.9860835Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_kab_08_holocall_debriefs.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Real shame about that cop. I thought you\u0027d handle things... differently. Like, I dunno, using words. Ehh... gig closed.",
+              "maleVariant": "",
+              "stringId": "2328595150718607360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V of the silver tongue, eh? Glad we got it all worked out. Contract closed.",
+              "maleVariant": "",
+              "stringId": "2328595234906677248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Supposed to use words to get her to drop the case, not your fists.",
+              "maleVariant": "",
+              "stringId": "2328595363957022720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If this was just about roughing some gonk up, I would\u0027ve just sent some Animal. Ehh... whatever. Gig closed.",
+              "maleVariant": "",
+              "stringId": "2331926207950852096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, piece of advice – finish what you start.",
+              "maleVariant": "",
+              "stringId": "2362380566429798400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Not only did you not convince Anna to drop the investigation, you might\u0027ve done the exact opposite.",
+              "maleVariant": "",
+              "stringId": "2362381410592198656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stubborn as she is, there\u0027s no way this ends well. Follow me?",
+              "maleVariant": "",
+              "stringId": "2362382262254014464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I hope so. \u0027Cause now her life\u0027s on your conscience.",
+              "maleVariant": "",
+              "stringId": "2362382907455410176"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

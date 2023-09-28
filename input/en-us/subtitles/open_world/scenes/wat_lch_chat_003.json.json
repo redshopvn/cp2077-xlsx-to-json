@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.8346909Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_lch_chat_003.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I ain\u0027t got nothin\u0027!",
+              "maleVariant": "",
+              "stringId": "1802392231784079360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Didn\u0027t say you did.",
+              "maleVariant": "",
+              "stringId": "1802393070913314816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But when Tygers come \u0027round here, y\u0027all ain\u0027t nowhere to be found!",
+              "maleVariant": "",
+              "stringId": "1802393401810345984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Shut your mouth, you little shit.",
+              "maleVariant": "",
+              "stringId": "1802393882561470464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Whoa! Look at you, the big bad PO-lice! Savin\u0027 the damn world, one fuckin\u0027 pedestrian at a time!",
+              "maleVariant": "",
+              "stringId": "1802394242214649856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yao, shut the fuck up!",
+              "maleVariant": "",
+              "stringId": "1802394788816347136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Better listen to your friend.",
+              "maleVariant": "",
+              "stringId": "1802395107801554944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0022Better listen to your friend.\u0022 No, I see how it is! You just hate us, don\u0027t you? That\u0027s what this is about.",
+              "maleVariant": "",
+              "stringId": "1802395509129338880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hate you? Boy, I couldn\u0027t give two shits about you.",
+              "maleVariant": "",
+              "stringId": "1802395780567916544"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:03.8033464Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_rey_chat_007.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Been a while since I seen Trav.",
+              "maleVariant": "",
+              "stringId": "1833110024850366464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You ain\u0027t heard? Flatlined a few days ago.",
+              "maleVariant": "",
+              "stringId": "1833112568897069056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gonk came \u0027cross this old can of God knows what sketch.",
+              "maleVariant": "",
+              "stringId": "1833112701856505856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I told him, I was like, \u0022Don\u0027t Trav, heard there\u0027s some weird-ass meat floatin\u0027 \u0027round town.\u0022",
+              "maleVariant": "",
+              "stringId": "1833113186080514048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gonk ain\u0027t listen. Ate it anyway.",
+              "maleVariant": "",
+              "stringId": "1833113591954923520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Always was a brave spirit, our Trav.",
+              "maleVariant": "",
+              "stringId": "1833113824118038528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0022What if it\u0027s \u0027ganic? Like rat, rabbit, or whatever the fuck?\u0022",
+              "maleVariant": "",
+              "stringId": "1964791856902160384"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

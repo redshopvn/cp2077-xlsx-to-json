@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.5640428Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_east_007.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Goddamn, we rode the whole damn night.",
+              "maleVariant": "",
+              "stringId": "1976299695402405888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Every muscle in my body\u0027s so tight, my head\u0027s about to split.",
+              "maleVariant": "",
+              "stringId": "1976299717934206976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Or get a nice rub-down with some passion flower oil.",
+              "maleVariant": "",
+              "stringId": "1976299741288091648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027ll be damned. We have stuff like that in camp?",
+              "maleVariant": "",
+              "stringId": "1976299768416849920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well... No. You could just smoke something, sleep it off.",
+              "maleVariant": "",
+              "stringId": "1976299792055947264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That was the plan.",
+              "maleVariant": "",
+              "stringId": "1976299819973234688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yet somehow I\u0027m standing here, listening to you ramble.",
+              "maleVariant": "",
+              "stringId": "1976299843041906688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Draw a bath with some Epsom salt, soak a while.",
+              "maleVariant": "",
+              "stringId": "1976300559714242560"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:25.9997737Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\mq015\\mq015_04_stash.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ugh. What\u0027s this? Looks like trash…",
+              "maleVariant": "Ugh. What\u0027s this? It looks like trash…",
+              "stringId": "1816999226980081664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aww, the Zetatech XPR... Top-of-the-line back in the day…",
+              "maleVariant": "",
+              "stringId": "1817076610177605632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The Afterlife, there\u0027s this little netrat – Nix… Kinda specializes in legacy Net artefacts.",
+              "maleVariant": "",
+              "stringId": "1843072635970572288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Least that. Had one, y\u0027know. Top-of-the-line back in the day…",
+              "maleVariant": "",
+              "stringId": "1843074024754958336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, fuck… a Zetatech XPR! Gotta be, like, fifty years old…",
+              "maleVariant": "",
+              "stringId": "1843075924070027264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You wanna skim any data off this heap o\u0027 junk, he\u0027s your guy.",
+              "maleVariant": "",
+              "stringId": "1843084489425997824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Take it to Nix.",
+              "maleVariant": "",
+              "stringId": "1892462086408425472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Open]",
+              "maleVariant": "",
+              "stringId": "2146297219442974724"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Take]",
+              "maleVariant": "",
+              "stringId": "2148997357420584960"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:07.6031675Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_hill_chat_014.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Have you tried DeCal45?",
+              "maleVariant": "",
+              "stringId": "2159203169977987072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ugh, don\u0027t even remind me. Stuff gives you the worst nightmares.",
+              "maleVariant": "",
+              "stringId": "2210060633406783488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Not to mention the smorgasbord of side effects – chills, shortness of breath, hallucinations...",
+              "maleVariant": "",
+              "stringId": "2210061035137220608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How \u0027bout during the day? See any effects?",
+              "maleVariant": "",
+              "stringId": "2210070020762451968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I guess, I mean... Sat at my desk sixteen hours straight, fresh as a daisy.",
+              "maleVariant": "",
+              "stringId": "2210070419674316800"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So... worth it, I guess?",
+              "maleVariant": "",
+              "stringId": "2210070993035673600"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

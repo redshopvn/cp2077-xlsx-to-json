@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:05.1681828Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\pac_cvi_chat_031.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "One big shithole. A goddamn crater of shit. That\u0027s Pacifica.",
+              "maleVariant": "",
+              "stringId": "2179548064633876480"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Eh, the Voodoos are doing their best.",
+              "maleVariant": "",
+              "stringId": "2188366581593784320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, sittin\u0027 in their little hideout, playin\u0027 cat-and-mouse with Netwatch. Call that their best?",
+              "maleVariant": "",
+              "stringId": "2188366900478328832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So you\u0027d rather have corpo police running around? Me, I\u0027m fine wi\u0027 what we got.",
+              "maleVariant": "",
+              "stringId": "2188367026391334912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Least the police would pretend to keep some sorta law an\u0027 order.",
+              "maleVariant": "",
+              "stringId": "2188367147975819264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0027Stead, whatta we got? We got the Combat Zone. The Combat Zone! Fuckin\u0027 micropocalypse right here.",
+              "maleVariant": "",
+              "stringId": "2188367360325042176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hm, fair. Heard they been findin\u0027 bodies on the edges, eyes gouged clean out.",
+              "maleVariant": "",
+              "stringId": "2188367496941912064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Seriously. Fuck this place.",
+              "maleVariant": "",
+              "stringId": "2188367858256035840"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

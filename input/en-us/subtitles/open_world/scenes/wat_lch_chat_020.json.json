@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.8741727Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_lch_chat_020.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Choom, I\u0027m tellin\u0027 ya. One puff and you\u0027re a fuckin\u0027 blur out there.",
+              "maleVariant": "",
+              "stringId": "2156504434860126208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Best thing is, come down happens way later. Just enough time to wrap up the gig and hit the sack.",
+              "maleVariant": "",
+              "stringId": "2176426751288918016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Meh, still not buyin\u0027 it.",
+              "maleVariant": "",
+              "stringId": "2176426967345905664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Somethin\u0027 new like that hits the market, mercs suddenly start dyin\u0027 off like flies.",
+              "maleVariant": "",
+              "stringId": "2176427323861745664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "One guy\u0027s heart stops tickin\u0027, another one\u0027s coprocessor overheats...",
+              "maleVariant": "",
+              "stringId": "2176427468280020992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nah, all rumors. Just \u0027cause some gonks OD doesn\u0027t mean I gotta quit. Everything in moderation.",
+              "maleVariant": "",
+              "stringId": "2176427684085350400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chem\u0027s part of the job, just like chrome. You don\u0027t use it, you don\u0027t get results. Simple as that.",
+              "maleVariant": "",
+              "stringId": "2176428217449824256"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

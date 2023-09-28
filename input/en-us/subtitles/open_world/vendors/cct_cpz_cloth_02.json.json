@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:12.3522236Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\cct_cpz_cloth_02.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wanna burn some eddies.",
+              "maleVariant": "",
+              "stringId": "1976370120235712512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You get anyone in here apart from the one percent?",
+              "maleVariant": "",
+              "stringId": "1976371012565499904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You get anyone else apart from the one percent?",
+              "maleVariant": "",
+              "stringId": "1976373637914591232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got eddies to burn. This the right place?",
+              "maleVariant": "",
+              "stringId": "1976374049140932608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Indeed. Everyone likes to show that they aren\u0027t any worse than their more... refined... compatriots.",
+              "maleVariant": "",
+              "stringId": "1976374286186217472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If you know what \u0022haute couture\u0022 means, then it certainly is.",
+              "maleVariant": "",
+              "stringId": "1979416294901661696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Here to change my look.",
+              "maleVariant": "",
+              "stringId": "3775233360763154432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Stuck on where to take my style. Anything you\u0027d recommend?",
+              "maleVariant": "Stuck on where I wanna take my style. Anything you\u0027d recommend?",
+              "stringId": "3836291529614159924"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

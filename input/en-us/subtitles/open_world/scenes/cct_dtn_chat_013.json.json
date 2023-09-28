@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.8866141Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_013.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I want a foreigner, translator shard off. I don\u0027t want him to understand me, and I don\u0027t want to understand him.",
+              "maleVariant": "",
+              "stringId": "2172133188044566528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No chit-chat. Can\u0027t take another one talking my head off.",
+              "maleVariant": "",
+              "stringId": "2182570066402709504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Any preference when it comes to looks?",
+              "maleVariant": "",
+              "stringId": "2182572439892234240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hm, twenties, decent bod but not too built. Should smell nice. Be nice if he seemed intelligent, too, but it\u0027s not a must-have.",
+              "maleVariant": "",
+              "stringId": "2182572623502086144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm. Size? Any special gear? Something new, nova?",
+              "maleVariant": "",
+              "stringId": "2182573897496760320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No nova. No surprises this time. He just needs to be good.",
+              "maleVariant": "",
+              "stringId": "2182574109007122432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, I\u0027ve got just the thing. I\u0027m sure you two will have a wonderful cruise.",
+              "maleVariant": "",
+              "stringId": "2182577887789813760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Better be wonderful. Sure paying enough.",
+              "maleVariant": "",
+              "stringId": "2182578808238215168"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

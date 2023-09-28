@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:29.2291780Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\mq041\\mq041_corpo_01_deadmans_switch.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, V. Frank here. Arasaka, \u0027member?",
+              "maleVariant": "",
+              "stringId": "1822800113761656832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, yeah, sure. Damn, you ol\u0027 bastard, been a while since--",
+              "maleVariant": "",
+              "stringId": "1822802647440039936"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Listen to the whole message, please.",
+              "maleVariant": "",
+              "stringId": "1822803091549724672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Abernathy\u0027s purging the dep. Anybody not a hundred percent with her is out.",
+              "maleVariant": "",
+              "stringId": "1822803529535725568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m on her list. No idea why. You know how it is. No prisoners, no dismissals.",
+              "maleVariant": "",
+              "stringId": "1822803896772206592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Not about to sit around, wait for the executioner. I\u0027m putting together a file. To fuck up her life.",
+              "maleVariant": "",
+              "stringId": "1822804051693019136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I know you\u0027ll know what to do with \u0027em.",
+              "maleVariant": "",
+              "stringId": "1822804282128080896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got all the documents in a, uh, hidey-hole. If I don\u0027t manage to make use of \u0027em, you\u0027ll get this message and the coords.",
+              "maleVariant": "",
+              "stringId": "1874799152169537536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fuuuck…",
+              "maleVariant": "",
+              "stringId": "1874801294016040960"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

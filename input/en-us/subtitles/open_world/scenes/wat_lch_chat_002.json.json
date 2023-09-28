@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.8323287Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_lch_chat_002.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hah, your eyes are fucked up, man! Hah hah!",
+              "maleVariant": "",
+              "stringId": "1802381095185539072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Rough night...",
+              "maleVariant": "",
+              "stringId": "1802385500781797376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This\u0027s Li\u0027l China, choom. It\u0027s too loud for ya, just slot in some earplugs and it\u0027s nighty-night.",
+              "maleVariant": "",
+              "stringId": "1802385856492331008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It\u0027s not that...",
+              "maleVariant": "",
+              "stringId": "1802386191466225664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What then, the smell? Sure, you\u0027re in that room like sardines, but fifteen minutes an\u0027 you barely notice it...",
+              "maleVariant": "",
+              "stringId": "1802386465924702208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "One guy in the room... Choom, he died.",
+              "maleVariant": "",
+              "stringId": "1802386694111617024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What? Which one?",
+              "maleVariant": "",
+              "stringId": "1802386956171730944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gray-hair guy, slept under all them rags... We thought he was sick or somethin\u0027... But then we opened his sleepin\u0027 bag and phewww... blechh.",
+              "maleVariant": "",
+              "stringId": "1802387100891996160"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

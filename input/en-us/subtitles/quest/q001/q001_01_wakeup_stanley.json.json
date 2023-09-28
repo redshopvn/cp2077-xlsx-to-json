@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:31.8375359Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\q001\\q001_01_wakeup_stanley.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Reports of a heated exchange in Santo Domingo between the 6th Street gang and Night City\u0027s finest. But who shot first? Depends who you ask.",
+              "maleVariant": "",
+              "stringId": "1599388075838627840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "In other news, Hanako Arasaka sailed in at dawn on her aircraft carrier! But just what could the heiress to the corporate throne want in Night City?",
+              "maleVariant": "",
+              "stringId": "1599388075855405056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And now, a shout-out to all the lowlifes over at the Atlantis. Ladies and gents, here\u0027s that all-time classic from Johnny Silverhand – \u0022Chippin\u0027 In.\u0022",
+              "maleVariant": "",
+              "stringId": "1599388075855405072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hello, Night City! Stan the man, here, and boy, was last night a scorcher!",
+              "maleVariant": "",
+              "stringId": "1741447545447673856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "NCPD\u0027s placed Watson on lockdown. Official word to locals – it\u0027s a drill, but I\u0027d take that with a generous pinch of salt.",
+              "maleVariant": "",
+              "stringId": "1780759276095991808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If you\u0027re down in Wats and see the NCPD doing what it does best, holler at your man Stan. We\u0027re one call away from the truth.",
+              "maleVariant": "",
+              "stringId": "1780763401328193536"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

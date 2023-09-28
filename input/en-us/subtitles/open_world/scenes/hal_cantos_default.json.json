@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:03.6980129Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hal_cantos_default.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[db_db]how things are going.",
+              "maleVariant": "",
+              "stringId": "1895193552314990596"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027s shakin\u0027, Hal?",
+              "maleVariant": "",
+              "stringId": "1895196570569703424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lemme tell you what\u0027s not shaking, V. My goddamn holo!",
+              "maleVariant": "",
+              "stringId": "1895196786375032832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The Mox\u0027ve been ghosting me for jobs. Nothing. Nada! It\u0027s prolly all going to that girl o\u0027 theirs at Lizzy\u0027s.",
+              "maleVariant": "",
+              "stringId": "1953332743595749376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Another dry month and I\u0027ll have to beg from those sick XBD fuckheads in Kabuki. Just my luck.",
+              "maleVariant": "",
+              "stringId": "1953334778621718528"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

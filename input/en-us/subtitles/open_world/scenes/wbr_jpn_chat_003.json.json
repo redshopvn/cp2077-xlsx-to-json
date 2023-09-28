@@ -1,0 +1,87 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:07.7574458Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_jpn_chat_003.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I-I\u0027m sorry, sir. Could we have a moment of your time?",
+              "maleVariant": "",
+              "stringId": "1806839159435419648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Thank you!",
+              "maleVariant": "",
+              "stringId": "1806846761443647488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Thank you!",
+              "maleVariant": "",
+              "stringId": "1806846888933711872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well? What is it this time?",
+              "maleVariant": "",
+              "stringId": "1806850354787770368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The pipe that burst in our building...",
+              "maleVariant": "",
+              "stringId": "1806850473704677376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Those city bastards still haven\u0027t sent anyone to fix it...",
+              "maleVariant": "",
+              "stringId": "1806850593980538880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Watch your language! Can\u0027t you see who you\u0027re talking to?!",
+              "maleVariant": "",
+              "stringId": "1806851069849493504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Please. What do you need?",
+              "maleVariant": "",
+              "stringId": "1806851225760161792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, we need the pipe fixed, that\u0027s for sure. Maybe something to fix up some of the units too, there\u0027s water damage all over...",
+              "maleVariant": "",
+              "stringId": "1806851433344655360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "All right. I\u0027ll take care of it.",
+              "maleVariant": "",
+              "stringId": "1806851570397732864"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

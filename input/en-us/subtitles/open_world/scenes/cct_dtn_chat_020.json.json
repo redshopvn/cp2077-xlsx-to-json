@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.9053626Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_020.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m telling you, this shit right here? Best thing for a hangover.",
+              "maleVariant": "",
+              "stringId": "2172190711699189760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Umami?",
+              "maleVariant": "",
+              "stringId": "2188357755538345984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, umami! Choom, I swear, my memory\u0027s wiped. Gotta go see a ripper.",
+              "maleVariant": "",
+              "stringId": "2188387646128361472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, think I will. You know, they called me from the airport the other day, told me my Herrera Outlaw\u0027s been sitting there a month...",
+              "maleVariant": "",
+              "stringId": "2188387801787371520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Should just get an external one. Works for me.",
+              "maleVariant": "",
+              "stringId": "2188387947363274752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Y-you got an Outlaw? Hang on... someone klep your data, buy a ride?",
+              "maleVariant": "",
+              "stringId": "2188388555285696512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Haha, better! Bought it myself on a biz trip and I fuckin\u0027 forgot!",
+              "maleVariant": "",
+              "stringId": "2188392561433219072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, what\u0027s it called, you know, that weird, uh, taste thing... Shit!",
+              "maleVariant": "",
+              "stringId": "2188406524623556608"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

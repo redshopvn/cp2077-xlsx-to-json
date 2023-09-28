@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.0056532Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\q005_01_additional_news_saburo_death.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We return to this week\u0027s biggest story – the murder of Arasaka Corporation CEO Saburo Arasaka.",
+              "maleVariant": "",
+              "stringId": "1743065729017892864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The long-time head of the Japanese megacorporation was reported slain on the premises of the Konpeki Plaza corporate hotel while attending a family gathering.",
+              "maleVariant": "",
+              "stringId": "1743067415698526208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Saburo Arasaka\u0027s son, Yorinobu Arasaka, has cast blame for his father\u0027s murder on the company\u0027s rivals, although he has not yet provided evidence supporting this claim.",
+              "maleVariant": "",
+              "stringId": "1743068079254196224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "According to market analysts, the CEO\u0027s death may have been a desperate attempt to divert attention away from the company\u0027s ongoing internal issues.",
+              "maleVariant": "",
+              "stringId": "1743068428371283968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "After the break, we ask experts how they see Arasaka rebounding from the crisis.",
+              "maleVariant": "",
+              "stringId": "1743068898670202880"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:11.7072985Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_nid_07_holocall_debriefs.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, I… I understand your decision, but you could\u0027ve handled that differently. Aaron was a bastard, but a bastard with influence. And you had dirt on him.",
+              "maleVariant": "",
+              "stringId": "2328730960470188032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ugh... Well, this situation took a rough turn. But thanks for a job well done, V. And don\u0027t worry about Aaron. Let him sleep it off.",
+              "maleVariant": "",
+              "stringId": "2328732192823812096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aaron\u0027s happy. I\u0027m happy. Always pays to be on good terms with badges, right? Gig\u0027s closed, eddies on their way.",
+              "maleVariant": "",
+              "stringId": "2328734139417075712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But what\u0027s done is done. Our client\u0027s dead and gone which means so\u0027s our payment – you understand. Gig shut and forgotten.",
+              "maleVariant": "",
+              "stringId": "2340192984807870464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "When he wakes up, he\u0027ll remember we have the recording, and then, well… Then we\u0027ve got our own inside source at the NCPD. Gig shut and sealed.",
+              "maleVariant": "",
+              "stringId": "2369388616399294464"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

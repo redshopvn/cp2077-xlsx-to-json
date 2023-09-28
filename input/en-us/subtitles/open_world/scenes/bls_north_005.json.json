@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.6443053Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_north_005.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "There\u0027s still nothing like a good dermal weave. Those polymer networks don\u0027t burn so easy.",
+              "maleVariant": "",
+              "stringId": "1973564971903131648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Me, I don\u0027t trust those acidometers. I\u0027ve seen enough people swap faces after a little drizzle.",
+              "maleVariant": "",
+              "stringId": "1974873251703930880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, the car\u0027s still got a shine to it. And that phenolograph\u0027s calm as I\u0027ve ever seen it.",
+              "maleVariant": "",
+              "stringId": "1974873264437837824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I think we got a shower the other day. You\u0027re sure it wasn\u0027t the acid kind?",
+              "maleVariant": "",
+              "stringId": "1974873283362537472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Not too much acid rain lately.",
+              "maleVariant": "",
+              "stringId": "1974873295710568448"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

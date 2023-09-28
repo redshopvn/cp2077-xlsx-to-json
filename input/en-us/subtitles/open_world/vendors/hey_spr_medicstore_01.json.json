@@ -1,0 +1,105 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:12.7431492Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\hey_spr_medicstore_01.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wanna stock up on some meds.",
+              "maleVariant": "",
+              "stringId": "1740407374411702272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do you have a medical license?",
+              "maleVariant": "",
+              "stringId": "1740407374411702288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wanna stock up on some meds.",
+              "maleVariant": "",
+              "stringId": "1740407374428479488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Choose whatever you like. As long as you can afford it.",
+              "maleVariant": "",
+              "stringId": "1740407374428479496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Umm... Got a medical license, right?",
+              "maleVariant": "Uh... You\u0027ve got a medical license, right?",
+              "stringId": "1740407374445256704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well... I finished veterinary school.",
+              "maleVariant": "",
+              "stringId": "1740407374462033924"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mm. So you\u0027re a vet. That\u0027s reassuring.",
+              "maleVariant": "So you\u0027re a vet. That\u0027s reassuring.",
+              "stringId": "1974729133657477120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "In order to understand people, you have to look at animals, too.",
+              "maleVariant": "",
+              "stringId": "1974731485789605888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How\u0027d you wind up treating people?",
+              "maleVariant": "",
+              "stringId": "1974735663467384832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Thought the whole point of a vet was treating animals, not humans.",
+              "maleVariant": "",
+              "stringId": "1974740171454992384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Look around, do you see any animals? Vets are a dying breed, too.",
+              "maleVariant": "",
+              "stringId": "1974744366732070912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027d think that the few one percenters with pets\u0027d need a vet, but no – they\u0027re implanted. They need ripperdocs.",
+              "maleVariant": "",
+              "stringId": "1974745472266719232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And farms... Well, you know. All the meat\u0027s vat-grown.",
+              "maleVariant": "",
+              "stringId": "1974747560828784640"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

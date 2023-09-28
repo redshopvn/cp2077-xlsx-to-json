@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:05.3865396Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\pac_wwd_chat_029.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0027Member when there was cars for days down there. Engines roarin\u0027, horns honkin\u0027 day an\u0027 night.",
+              "maleVariant": "",
+              "stringId": "2179643510736150528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Now look at it. Empty. Quiet.",
+              "maleVariant": "",
+              "stringId": "2211507386043265024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Kids used to sit on this bridge, get hit with a cloud of gas, that\u0027s how many of \u0027em there were.",
+              "maleVariant": "",
+              "stringId": "2212633214378504192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How the world goes. Quiet, like.",
+              "maleVariant": "",
+              "stringId": "2212635488848900096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Eh, world\u0027s done gone already. We just wasn\u0027t lookin\u0027.",
+              "maleVariant": "",
+              "stringId": "2212640937300127744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

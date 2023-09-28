@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:01.5755090Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_east_011.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Did you hear? They\u0027re supposed to put up some entertainment center around here – boutiques, shopping, the works.",
+              "maleVariant": "",
+              "stringId": "2178181591294353408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sure, great. They\u0027ll buy up the land, fence it off. You\u0027ll have to walk all the way around to avoid all that entertainment.",
+              "maleVariant": "",
+              "stringId": "2188259241702940672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Or I can waltz right in, have look at it myself. You\u0027re not even curious?",
+              "maleVariant": "",
+              "stringId": "2188270056900354048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pssh, I\u0027m not going to pay to look at things I can\u0027t afford.",
+              "maleVariant": "",
+              "stringId": "2188270345200033792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027ll see who comes out dragging an armful of bags, and who comes out dragging a long face.",
+              "maleVariant": "",
+              "stringId": "2188275437487742976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, if you don\u0027t look, how do know what you can\u0027t afford?",
+              "maleVariant": "",
+              "stringId": "2188279640046133248"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

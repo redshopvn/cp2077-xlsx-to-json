@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:07.5957509Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_hill_chat_009.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well, my friend\u0027s grandmother swears by her violet crystal. When it gets really bad, she rubs it on the spot.",
+              "maleVariant": "",
+              "stringId": "1806811334204579840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And it helps?",
+              "maleVariant": "",
+              "stringId": "1806813826409684992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Helps? Saved her life, more than once. Even had her do an interview once down at the studio. Dunno why they never aired it.",
+              "maleVariant": "",
+              "stringId": "1806815241752403968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Of course they didn\u0027t air it. The corporations are all afraid of the truth. But the results speak for themselves.",
+              "maleVariant": "",
+              "stringId": "1806815365702475776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Exactly! They get sick, they\u0027ll change their tune.",
+              "maleVariant": "",
+              "stringId": "1806815628467232768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm. These days, all this technology everywhere, I mean it\u0027s really no wonder we\u0027re all falling apart.",
+              "maleVariant": "",
+              "stringId": "1806815923796566016"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

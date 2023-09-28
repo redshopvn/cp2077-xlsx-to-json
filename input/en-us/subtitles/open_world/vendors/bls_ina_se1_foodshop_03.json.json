@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:12.2615855Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\bls_ina_se1_foodshop_03.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got anything good for me?",
+              "maleVariant": "",
+              "stringId": "1935665706222137344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wraiths often cause you trouble?",
+              "maleVariant": "",
+              "stringId": "1935665706222137360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got anything good for me?",
+              "maleVariant": "",
+              "stringId": "1935665706255691776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You betcha. Comes with a healthy discount, too.",
+              "maleVariant": "",
+              "stringId": "1935665706255691784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wraiths cause you a lotta trouble?",
+              "maleVariant": "",
+              "stringId": "1935665706289246212"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "They\u0027ve been messing around here for a while. Wasn\u0027t \u0027til now all I had to do was pull out my shotty and they\u0027d take off at full tilt. Now... now I don\u0027t know.",
+              "maleVariant": "",
+              "stringId": "1935665706306023424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Shit... Thanks, stranger. That was a close one.",
+              "maleVariant": "",
+              "stringId": "1975137452373102592"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

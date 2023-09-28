@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:03.7657410Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_gle_chat_025.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How much you put in the report? Gotta grab something, can barely focus.",
+              "maleVariant": "",
+              "stringId": "2161794101766336512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You gotta wait. Didn\u0027t have time to check all the samples yet.",
+              "maleVariant": "",
+              "stringId": "2177948568914739200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Then find some fucking time. I got three scavs to question, and I can\u0027t do that with my hands shaking!",
+              "maleVariant": "",
+              "stringId": "2177948985795002368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How much you put in the report?",
+              "maleVariant": "",
+              "stringId": "2177949212874620928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ehh... Twelve. \u0027Stead of fifteen like we found.",
+              "maleVariant": "",
+              "stringId": "2177949875373326336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Make it ten.",
+              "maleVariant": "",
+              "stringId": "2177950053346033664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You fuckin\u0027 gonked? I\u0027m not givin\u0027 you five grams.",
+              "maleVariant": "",
+              "stringId": "2177950204995289088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jesus, fine, make it three... But hurry up!",
+              "maleVariant": "",
+              "stringId": "2177950500827938816"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:07.8350103Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_jpn_chat_033.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "OK, bud, you\u0027ve had your quota for the day.",
+              "maleVariant": "",
+              "stringId": "2160398028084649984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Au contraire, my friend! Good sake\u0027s never done anybody any harm.",
+              "maleVariant": "",
+              "stringId": "2196820055193657344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Japanese have this saying, see. First toast – man drinks the sake. Second toast – sake drinks the sake. Third toast – sake drinks the man.",
+              "maleVariant": "",
+              "stringId": "2196820815134433280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aww, runny bullshit, that. I got a better saying…",
+              "maleVariant": "",
+              "stringId": "2196822989847502848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "First toast – I get the sake. Second toast – you get the sake. Third toast – sake\u0027s on the house, yeah?",
+              "maleVariant": "",
+              "stringId": "2196824330414170112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tyger Claw bar, holmes. Ain\u0027t nothin\u0027 on the house here.",
+              "maleVariant": "",
+              "stringId": "2196825220663582720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tyger Claws...? Err... best be goin\u0027, yeah? Ah.",
+              "maleVariant": "",
+              "stringId": "2196828154394681344"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

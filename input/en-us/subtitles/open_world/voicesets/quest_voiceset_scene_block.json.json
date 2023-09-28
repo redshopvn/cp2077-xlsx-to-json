@@ -1,0 +1,87 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:22.1189081Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\voicesets\\quest_voiceset_scene_block.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[db_db]Voiceset Greeting A",
+              "maleVariant": "",
+              "stringId": "1788104055950180356"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[db_db]Voiceset Greeting B",
+              "maleVariant": "",
+              "stringId": "1788104055966957572"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Your undivided attention, please.",
+              "maleVariant": "",
+              "stringId": "1788104056067620864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Shall we continue?",
+              "maleVariant": "",
+              "stringId": "1788104056084398084"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Please, make yourself at home.",
+              "maleVariant": "",
+              "stringId": "1788104056134729732"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A happy return, indeed.",
+              "maleVariant": "",
+              "stringId": "1788104056151506948"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, our business grows cold.",
+              "maleVariant": "",
+              "stringId": "1788104056168284164"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tick-tock. Time waits for no man.",
+              "maleVariant": "",
+              "stringId": "1788104056201838596"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[db_db]Voiceset Bump A",
+              "maleVariant": "",
+              "stringId": "1788118415116369920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[db_db]Voiceset Bump B",
+              "maleVariant": "",
+              "stringId": "1788118694406684672"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

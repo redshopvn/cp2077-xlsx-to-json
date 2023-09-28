@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:05.1755761Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\pac_cvi_chat_034.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m not buying a thing. If these prices were any higher, they\u0027d be in orbit.",
+              "maleVariant": "",
+              "stringId": "2179581872452169728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Come on, quit your complaining. You won\u0027t find it cheaper, not it this town.",
+              "maleVariant": "",
+              "stringId": "2188233163283349504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Here I thought LA was bad... How come it\u0027s so expensive?",
+              "maleVariant": "",
+              "stringId": "2188233299094913024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A free district in a free city – means a free market, too.",
+              "maleVariant": "",
+              "stringId": "2188233454267383808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What do we even ride here for anyway? To part ways with whatever money we\u0027ve got?",
+              "maleVariant": "",
+              "stringId": "2188233699617390592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And to earn more. The knife cuts both ways.",
+              "maleVariant": "",
+              "stringId": "2188234057693511680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "All right, all right. I\u0027ll buy it. And then you can buy me a beer, because I\u0027ll be flat broke.",
+              "maleVariant": "",
+              "stringId": "2188234204007612416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027ve got a deal.",
+              "maleVariant": "",
+              "stringId": "2188234342788743168"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

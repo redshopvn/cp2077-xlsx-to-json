@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-25T02:54:06.8851763Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_lch_chat_024.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Five years, I been giving it my all. Five years and nothing, while that bitch got bumped twice already.",
+              "maleVariant": "",
+              "stringId": "2156523842609377280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You got two options. Either accept the status quo, or take out the competition.",
+              "maleVariant": "",
+              "stringId": "2172343915632115712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You mean I gotta... shoot her?",
+              "maleVariant": "",
+              "stringId": "2172344289814364160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wouldn\u0027t be the worst idea. You\u0027d show \u0027em you\u0027ll do anything, follow any order.",
+              "maleVariant": "",
+              "stringId": "2172344537865502720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Is that what you did?",
+              "maleVariant": "",
+              "stringId": "2172344688961110016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nah, too much of a coward for that. I went status quo, made sure they saw me as no threat.",
+              "maleVariant": "",
+              "stringId": "2172344917936553984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ehh... Decisions, decisions...",
+              "maleVariant": "",
+              "stringId": "2172345079014604800"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}
