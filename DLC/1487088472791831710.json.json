@@ -1,0 +1,39 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.3529266Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\1487088472791831710.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Supposed to be a drug drop. At least that is what I hear.",
+              "maleVariant": "",
+              "stringId": "3234887973174497280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Choom, I hear that every other day.",
+              "maleVariant": "",
+              "stringId": "3242039315114213376"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

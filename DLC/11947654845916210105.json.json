@@ -1,0 +1,45 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.0249878Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\11947654845916210105.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What the fuck is this?",
+              "maleVariant": "",
+              "stringId": "2759251617120903168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We pay you for new! Our research demands it! That was our deal!",
+              "maleVariant": "",
+              "stringId": "2759254156620980224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This... shitware cannot be hacked. It is already broken!",
+              "maleVariant": "",
+              "stringId": "3273955856471203840"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,897 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.1221438Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\12924654903000922954.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Open]",
+                            "maleVariant": "",
+                            "stringId": "3231661292709961728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Turn on]",
+                            "maleVariant": "",
+                            "stringId": "3231661292793847808"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Whaat? Guys! This… How'd you know?",
+                            "maleVariant": "",
+                            "stringId": "3231661293683040300"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We read your horoscope, that time Willie had a party. You think that was hazing?",
+                            "maleVariant": "",
+                            "stringId": "3231661293699817472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You bitch! I believed every word!",
+                            "maleVariant": "",
+                            "stringId": "3231661293699817488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ahahahaha. OK, Capricorn – make a wish aaaand blow.",
+                            "maleVariant": "",
+                            "stringId": "3231661293699817504"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Better come truer than that fuckin' horoscope…",
+                            "maleVariant": "",
+                            "stringId": "3231661293699817520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Maaaaan, your first paid run… Fuck me, more eddies than all of us put together – how's it feel?",
+                            "maleVariant": "",
+                            "stringId": "3231661305175433252"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Blowin' this shithole?",
+                            "maleVariant": "",
+                            "stringId": "3231661305175433268"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "C'mon…",
+                            "maleVariant": "",
+                            "stringId": "3231661305192210444"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Could go anywhere on all them zeroes. Said you were bored here, peeps're lame, unambitious, disappointing.",
+                            "maleVariant": "",
+                            "stringId": "3231661305192210460"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Gotta be shittin' me. Not goin' anywhere with you.",
+                            "maleVariant": "",
+                            "stringId": "3231661331800875052"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Makin' me leave my home, my friends? Everything worth a damn to me?",
+                            "maleVariant": "",
+                            "stringId": "3231661331817652232"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What's ahead is important, worth so much more…",
+                            "maleVariant": "",
+                            "stringId": "3231661331817652248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, no – hard pass!",
+                            "maleVariant": "",
+                            "stringId": "3231661331817652264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Think. NetWatch rolls up here – what happens to your people, who trust you, who care about you?",
+                            "maleVariant": "",
+                            "stringId": "3231661331817652280"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "NetWatch'll know... who lent you the eddies for your deck, who let you tap into the subnet of the cafe downstairs…",
+                            "maleVariant": "",
+                            "stringId": "3231661331817652296"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Understand this – I'm your one chance at keepin' you safe, your friends safe. Or sure – let 'em get hurt.",
+                            "maleVariant": "",
+                            "stringId": "3231661331834429440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What is this place? Did you save me?",
+                            "maleVariant": "",
+                            "stringId": "3231661346212503572"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You hacked the Relic again, didn't you?",
+                            "maleVariant": "",
+                            "stringId": "3231661346229280772"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Some days, I'd open the window, sit on the sill…",
+                            "maleVariant": "",
+                            "stringId": "3231661346413830180"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And just… listen to the street sounds – y'know, life happening. Was somehow… soothing, that.",
+                            "maleVariant": "",
+                            "stringId": "3231661346413830196"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Now… I can't hear, I can't feel… anything. Can you?",
+                            "maleVariant": "",
+                            "stringId": "3231661346413830212"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Saw you with Reed, Myers, saw your past… Don't remember?",
+                            "maleVariant": "",
+                            "stringId": "3231661351161782288"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No… the Blackwall… consumes me, all…",
+                            "maleVariant": "",
+                            "stringId": "3231661351161782304"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The emptiness grows, I feel it... fill it with memories, they keep taking them away…",
+                            "maleVariant": "",
+                            "stringId": "3231661351161782320"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I know what I've done. Know the price I've paid…",
+                            "maleVariant": "",
+                            "stringId": "3231661357453238340"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So Mi? So Mi!",
+                            "maleVariant": "",
+                            "stringId": "3231661357470015488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Everything I did… the people I hurt… It's meaningless, it matters not at all…",
+                            "maleVariant": "",
+                            "stringId": "3231661374364672012"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I… I lost, didn't I?",
+                            "maleVariant": "",
+                            "stringId": "3231661374381449224"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "It's true we die this way, our memories to comfort us…?",
+                            "maleVariant": "",
+                            "stringId": "3231661377451679748"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Not gonna let you die, So Mi. We'll make it outta here – together.",
+                            "maleVariant": "",
+                            "stringId": "3231661385068535816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thank you.",
+                            "maleVariant": "",
+                            "stringId": "3231661385068535848"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No, wait, So Mi. Hold on, there's more to rec--!",
+                            "maleVariant": "",
+                            "stringId": "3231661385068535864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sorry. I wanna help you.",
+                            "maleVariant": "",
+                            "stringId": "3231661388876963860"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You tricked everyone, me included.",
+                            "maleVariant": "",
+                            "stringId": "3231661388876963880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "My unit in Brooklyn… Told you about it… 'member?",
+                            "maleVariant": "",
+                            "stringId": "3231661397282349076"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Gone and hacked the Relic again, haven't you? None of this is real.",
+                            "maleVariant": "Gone and hacked the Relic again, haven't you. None of this is real.",
+                            "stringId": "3231661416056053764"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So Mi, I… Back then – thought I was makin' the right call…",
+                            "maleVariant": "",
+                            "stringId": "3231661417767329800"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The right one? Whom for? You? Reed?",
+                            "maleVariant": "",
+                            "stringId": "3231661417767329816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Everyone involved.",
+                            "maleVariant": "",
+                            "stringId": "3231661417767329832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Win-win decisions don't exist, let alone three-way wins.",
+                            "maleVariant": "",
+                            "stringId": "3231661417784107012"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "At times… times the right choice, the brave one, is what's best for you alone.",
+                            "maleVariant": "",
+                            "stringId": "3231661417784107028"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sorry, So Mi, I am. Wanna help. Tell me how.",
+                            "maleVariant": "",
+                            "stringId": "3231661417784107044"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You still stand a chance.",
+                            "maleVariant": "",
+                            "stringId": "3231661436088049664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Honestly? I don't know anymore…",
+                            "maleVariant": "",
+                            "stringId": "3231661436104826900"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You lost – accept it.",
+                            "maleVariant": "",
+                            "stringId": "3231661436104826920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Doin' my best to survive my life, too, Song. We all make wrong turns, we all lose the way.",
+                            "maleVariant": "",
+                            "stringId": "3231661436171935772"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And we kneel to pick up the broken pieces of life, assemble them, seek meaning in the whole…",
+                            "maleVariant": "",
+                            "stringId": "3231661436188712960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "This can still end well. For you, for me.",
+                            "maleVariant": "",
+                            "stringId": "3231661436188712976"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Honestly? Dunno anymore… Maybe Reed was wrong, is wrong… maybe you took things a step too far.",
+                            "maleVariant": "",
+                            "stringId": "3231661439997141048"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Reed's been wrong about so many things. I see it so clearly now.",
+                            "maleVariant": "",
+                            "stringId": "3231661439997141064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, you lost, So Mi. Just can't tell how or when it all went so wrong…",
+                            "maleVariant": "",
+                            "stringId": "3231661442312396884"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I… I don't know either…",
+                            "maleVariant": "",
+                            "stringId": "3231661442329174020"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You lied, stabbed everyone close to you in the back.",
+                            "maleVariant": "",
+                            "stringId": "3231661442329174036"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Close to me…?",
+                            "maleVariant": "",
+                            "stringId": "3231661442329174052"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "About time you faced the truth, So Mi.",
+                            "maleVariant": "",
+                            "stringId": "3231661442329174068"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I… I thought if I could control the future, I'd feel safe, always…",
+                            "maleVariant": "",
+                            "stringId": "3231661451976073272"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But I should've looked to the past. To lessons about loss, repeated, repeated…",
+                            "maleVariant": "",
+                            "stringId": "3231661451976073288"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V… I'm-- I'm sorry… There's something that I…",
+                            "maleVariant": "",
+                            "stringId": "3231661465112633424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So Mi?",
+                            "maleVariant": "",
+                            "stringId": "3231905930825916420"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Hug] Here for you, Song.",
+                            "maleVariant": "",
+                            "stringId": "3233460312390459396"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Shake] Pull yourself together.",
+                            "maleVariant": "",
+                            "stringId": "3233460989804109824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Look around, So Mi! See what's happening? Stop it, you've gotta!",
+                            "maleVariant": "",
+                            "stringId": "3233465645179559976"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No… too late for that.",
+                            "maleVariant": "",
+                            "stringId": "3233465645196337156"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sad to see these last scraps of me… Used to have a home… Used to be… someone…",
+                            "maleVariant": "",
+                            "stringId": "3233465645196337172"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So Mi, please, snap out of it! If you don't, I can't--!",
+                            "maleVariant": "",
+                            "stringId": "3233465645196337188"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What's going on?",
+                            "maleVariant": "",
+                            "stringId": "3233501612342992896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So Mi? Where am I…?",
+                            "maleVariant": "",
+                            "stringId": "3241597999692050432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So Mi? That you?",
+                            "maleVariant": "",
+                            "stringId": "3241600467335311360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So Mi… in the lab a second ago, that machine almost, I thought… Did you save me?",
+                            "maleVariant": "",
+                            "stringId": "3241611276945911808"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "There's a me saving your life, another me talking to you. Time and space are relative here.",
+                            "maleVariant": "",
+                            "stringId": "3241611943890579456"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Here meanin' where?",
+                            "maleVariant": "",
+                            "stringId": "3241612628233220096"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Pick your truth, V. We have time. Here, in this place, there's time…",
+                            "maleVariant": "",
+                            "stringId": "3241613706421006336"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So Mi, we're still in the bunker.",
+                            "maleVariant": "",
+                            "stringId": "3241614959846813700"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We're not safe here.",
+                            "maleVariant": "",
+                            "stringId": "3241615189258465280"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So Mi… we're still in the bunker. This place… it's not real.",
+                            "maleVariant": "",
+                            "stringId": "3241616127306166272"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We're not safe here. Whatever this place is… gotta get out, stat.",
+                            "maleVariant": "",
+                            "stringId": "3241616235552763904"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I made so many mistakes… did terrible things, but here, back then… they never mattered…",
+                            "maleVariant": "",
+                            "stringId": "3241616423189147648"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I gave myself one last chance and you… stripped me of it. Why?",
+                            "maleVariant": "",
+                            "stringId": "3241620388987465728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You lied, So Mi. Stabbed everyone in the back.",
+                            "maleVariant": "",
+                            "stringId": "3241623609457963008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You saw… what I became because of them… You saw what I lost…",
+                            "maleVariant": "",
+                            "stringId": "3241626856050585600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I had to. I never wanted to join them, V… I--",
+                            "maleVariant": "",
+                            "stringId": "3241627600740872192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Blackmail, that your play? Don't know me enough.",
+                            "maleVariant": "",
+                            "stringId": "3241640670460571648"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But I do know your type. And I know your answer. Just haven't admitted it to yourself yet.",
+                            "maleVariant": "",
+                            "stringId": "3241641515914817536"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The Blackwall. We have just seconds…",
+                            "maleVariant": "",
+                            "stringId": "3241669519772676096"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What?! So Mi, where...?!",
+                            "maleVariant": "",
+                            "stringId": "3241670254128197632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The core. Look for me there and… and help me. One last time.",
+                            "maleVariant": "",
+                            "stringId": "3241670437754826752"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'll keep this moment as this memory, just one… Back home, a friend at my side…",
+                            "maleVariant": "",
+                            "stringId": "3241678807320686592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What's happening?!",
+                            "maleVariant": "",
+                            "stringId": "3241686202935603200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We're standing at the edge… you and I.",
+                            "maleVariant": "",
+                            "stringId": "3241692874697535488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Before it all goes dark… for one last second, I'll know I wasn't alone.",
+                            "maleVariant": "",
+                            "stringId": "3241708644458491904"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "It's a projection, like the others.",
+                            "maleVariant": "",
+                            "stringId": "3253574311952445444"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No, I can't.",
+                            "maleVariant": "",
+                            "stringId": "3253574563946229760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Should I? Saw other visions, illusions before this…",
+                            "maleVariant": "",
+                            "stringId": "3253575728989663232"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So Mi, this is all a kind of… projection. Like the others.",
+                            "maleVariant": "",
+                            "stringId": "3253575835910860800"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Others…?",
+                            "maleVariant": "",
+                            "stringId": "3253577882747990016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Illusions…?",
+                            "maleVariant": "",
+                            "stringId": "3253581852354736128"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What is real? The me saving your life? The me here, talking to you? The me dying?",
+                            "maleVariant": "",
+                            "stringId": "3253595189318709248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And here is...?",
+                            "maleVariant": "",
+                            "stringId": "3253598098286637056"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Felt safe here, didn't you…",
+                            "maleVariant": "",
+                            "stringId": "3253602580839985152"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Remember you tellin' me about this place. Your \"true home.\" Felt safe here. But this… So Mi, none of this is real.",
+                            "maleVariant": "",
+                            "stringId": "3253603378462388224"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What is this? Where are we?",
+                            "maleVariant": "",
+                            "stringId": "3256079013634043904"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What you don't know… is how sorry I am… How much it all hurts…",
+                            "maleVariant": "",
+                            "stringId": "3256095676781752320"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You'll see.",
+                            "maleVariant": "",
+                            "stringId": "3256100848794791936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Not all, mostly just you. But for now I'll let it slide.",
+                            "maleVariant": "",
+                            "stringId": "3256110473145413632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I think… I know… I think I know…",
+                            "maleVariant": "",
+                            "stringId": "3256145436813225984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Get it together, So Mi!",
+                            "maleVariant": "",
+                            "stringId": "3256148310800658432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "How you gonna spend the scratch?",
+                            "maleVariant": "",
+                            "stringId": "3292394208568209408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "About time.",
+                            "maleVariant": "",
+                            "stringId": "3292424045370470400"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Everybody makes mistakes.",
+                            "maleVariant": "",
+                            "stringId": "3292443163461087236"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I've made many mistakes, V. Too many to count…",
+                            "maleVariant": "",
+                            "stringId": "3292443517108023296"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Just face the consequences. We have to.",
+                            "maleVariant": "",
+                            "stringId": "3292445822196838400"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We all make mistakes. Shit, know I've made my fair share…",
+                            "maleVariant": "",
+                            "stringId": "3292453697556246528"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Not lookin' good, So Mi, that's for sure. But… you can't give up.",
+                            "maleVariant": "",
+                            "stringId": "3292453797716226048"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So what? Means you gotta quit, stop fighting for yourself?",
+                            "maleVariant": "",
+                            "stringId": "3292456198569390080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Can't change the past, So Mi. With some memories, you turn your back and walk away.",
+                            "maleVariant": "",
+                            "stringId": "3292457540897665024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Said you wanted another chance, So Mi. Here it is. Dwell all you want, but what matters is what you do. Here, now.",
+                            "maleVariant": "",
+                            "stringId": "3292462341731577856"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Some mistakes are irreparable...",
+                            "maleVariant": "",
+                            "stringId": "3292473555438202880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I don't know how, never knew… Look... look where it's gotten me…",
+                            "maleVariant": "",
+                            "stringId": "3292476006102921216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So you hopped on our neural link, used the Relic's resources and the core's computing power to, uh…",
+                            "maleVariant": "",
+                            "stringId": "3297299731390009344"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "For you, yes. For me... well, one version of me is saving your life. Another is here, talking to you. And one more is dying.",
+                            "maleVariant": "",
+                            "stringId": "3297300630833336320"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cyberspace – that's where we are.",
+                            "maleVariant": "",
+                            "stringId": "3297302384169848832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Take us to your digital mind palace? This secure, even remotely safe?",
+                            "maleVariant": "",
+                            "stringId": "3344602899346026496"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But it's no mind palace, this.",
+                            "maleVariant": "",
+                            "stringId": "3344610284055752704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What is it then?",
+                            "maleVariant": "",
+                            "stringId": "3344611045053493248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V. Answer me. Please.",
+                            "maleVariant": "",
+                            "stringId": "3359099863455981568"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Why, V?",
+                            "maleVariant": "",
+                            "stringId": "3359100536406892548"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuuuuuuuuuck!",
+                            "maleVariant": "",
+                            "stringId": "3359233768624447488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yo, keep it down! Folks tryna fuckin' sleep!",
+                            "maleVariant": "",
+                            "stringId": "3359246912398778368"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Leave me the fuck alone! All of you fuckin' leave me alone!",
+                            "maleVariant": "",
+                            "stringId": "3360479616480505856"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The fuck, So Mi! Been callin' you three straight days!",
+                            "maleVariant": "",
+                            "stringId": "3489604124159438848"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Don't worry, got everything under control.",
+                            "maleVariant": "",
+                            "stringId": "3489612874719096832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Are you fucking kidding me? Passed out in your goddamn chair last week!",
+                            "maleVariant": "",
+                            "stringId": "3489613279653982208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, well no one asked you to!",
+                            "maleVariant": "",
+                            "stringId": "3489614030434398208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ugh, you even hear yourself?",
+                            "maleVariant": "",
+                            "stringId": "3489614682933882880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Listen, got this new gig. Like, earth-shaking. If it works out... I'll be the first. Be makin' history.",
+                            "maleVariant": "",
+                            "stringId": "3489617520162435072"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "There it is – your new mantra. But where's it leave us?",
+                            "maleVariant": "",
+                            "stringId": "3489620420003557376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "It's open!",
+                            "maleVariant": "",
+                            "stringId": "3489705750635409408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fucking ICE... Hm, but what if…?",
+                            "maleVariant": "",
+                            "stringId": "3538765422478422016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck...",
+                            "maleVariant": "",
+                            "stringId": "3538766297276018688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Needed just one more sec…",
+                            "maleVariant": "",
+                            "stringId": "3538767157561323520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I spent the night makin' sure you didn't overheat an' die!",
+                            "maleVariant": "",
+                            "stringId": "3540445625663549440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Now, I just need to focus. Need time, space to think.",
+                            "maleVariant": "",
+                            "stringId": "3540449240516063232"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Know what? Fuck this, I'm done.",
+                            "maleVariant": "",
+                            "stringId": "3540452067426627584"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

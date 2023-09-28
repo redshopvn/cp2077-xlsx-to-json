@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:36.0651010Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\8218623342948382457.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Who’s this, daddy?",
+              "maleVariant": "",
+              "stringId": "3264927600670744576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "These are the Nighthawks, honey. Night City’s first football team.",
+              "maleVariant": "",
+              "stringId": "3278330120892751872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What’s a “nighthawk?”",
+              "maleVariant": "",
+              "stringId": "3278331348263542784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "They were these fast, ferocious birds of prey, relentless in their attacks. Just like our players.",
+              "maleVariant": "",
+              "stringId": "3278331479578812416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh. And what happened to them?",
+              "maleVariant": "",
+              "stringId": "3278332848800964608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The footballers or the birds? Actually, doesn’t matter. Both shared the same fate. They’re just... gone with the wind.",
+              "maleVariant": "",
+              "stringId": "3346253887224324096"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

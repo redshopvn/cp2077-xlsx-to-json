@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.9906547Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\2704550812243400387.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The fuck?! Generator gonked out again?",
+                            "maleVariant": "",
+                            "stringId": "3272209841974714368"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No, probably Nika made short circuit. She wants to get the ripper.",
+                            "maleVariant": "",
+                            "stringId": "3272306160777076736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Well, security should be good and dead now.",
+                            "maleVariant": "",
+                            "stringId": "3307283082033668096"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Heh, wish she do it earlier. Place stinks like dog piss.",
+                            "maleVariant": "",
+                            "stringId": "3307288316676055040"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

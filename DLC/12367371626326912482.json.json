@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.0565731Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\12367371626326912482.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Express condolences] Sorry. Damn sorry.",
+              "maleVariant": "",
+              "stringId": "3633914104005713920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Express condolences] Through hardships… to the stars.",
+              "maleVariant": "",
+              "stringId": "3633917854921449472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Express condolences] History\u0027ll remember.",
+              "maleVariant": "",
+              "stringId": "3633917963755249664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Express condolences] Night City\u0027ll never forget…",
+              "maleVariant": "",
+              "stringId": "3633918126443913216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Express condolences] The family – you\u0027ll forever be in their hearts.",
+              "maleVariant": "",
+              "stringId": "3633918358254706688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Deliver Dotty\u0027s letter]",
+              "maleVariant": "",
+              "stringId": "3633991697572749312"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

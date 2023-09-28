@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.1308221Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\3422642008008699176.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey, V. Recon's in our rearview now.",
+                            "maleVariant": "",
+                            "stringId": "2881076576336760832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Get yourself ready and meet me at Alex's.",
+                            "maleVariant": "",
+                            "stringId": "2881077539332182016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sure, see you there.",
+                            "maleVariant": "",
+                            "stringId": "2881080804631400448"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,1443 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:36.3562130Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\989706703698058177.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What the--? You out of your fucking mind?",
+              "maleVariant": "",
+              "stringId": "1664748120672550912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Looking for Evelyn Parker. Know where she might be?",
+              "maleVariant": "",
+              "stringId": "1664749087325405184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m looking for Evelyn Parker.",
+              "maleVariant": "",
+              "stringId": "1664749303818600452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Where\u0027ll I find Woodman?",
+              "maleVariant": "",
+              "stringId": "1664750910169923584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Who\u0027s Tom?",
+              "maleVariant": "",
+              "stringId": "1664751913782984704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Where\u0027ll I find Woodman?",
+              "maleVariant": "",
+              "stringId": "1664752183325736960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Who\u0027s this Tom?",
+              "maleVariant": "",
+              "stringId": "1664752314775224320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nuh-uh, I\u0027m done. I could get fired for all the shit I\u0027ve told you already. Just... get out.",
+              "maleVariant": "",
+              "stringId": "1664753969025499136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Parker? Oooh, that was some drama… Don\u0027t know who started it, though – client or her…",
+              "maleVariant": "",
+              "stringId": "1664765331294371840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "He and Evelyn – besties. If you wanna know more, he\u0027s your guy.",
+              "maleVariant": "",
+              "stringId": "1664766473587900416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Back office, upstairs... Are you sure you wanna do that, though?",
+              "maleVariant": "",
+              "stringId": "1664767425778794496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hi, I\u0027m Skye. And you must be... Valerie?",
+              "maleVariant": "Hi, I\u0027m Skye. And you must be... Vincent?",
+              "stringId": "1682332398692032512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So, V, you\u0027re dying.",
+              "maleVariant": "",
+              "stringId": "1682332398775918592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "OK, then. V.",
+              "maleVariant": "",
+              "stringId": "1682332398826250240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V. Just V. Only people who know me real well can use my real name.",
+              "maleVariant": "",
+              "stringId": "1682332398876581888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It\u0027s just \u0022V.\u0022",
+              "maleVariant": "",
+              "stringId": "1682332398893359104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Afterlife.",
+              "maleVariant": "",
+              "stringId": "1682332399212126208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You gotta help me. Please…",
+              "maleVariant": "",
+              "stringId": "1682332399228903424"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m no threat. But she could be in trouble. Just wanna talk to her, find out if she\u0027s OK.",
+              "maleVariant": "",
+              "stringId": "1682332399228903436"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "In case you haven\u0027t noticed, doll work\u0027s not the most secure job in the world. One day you\u0027re in, the next you\u0027re out, and maybe gone.",
+              "maleVariant": "",
+              "stringId": "1682332399245680644"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Anything out of the ordinary happen here lately?",
+              "maleVariant": "",
+              "stringId": "1682332399245680656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027s going on?",
+              "maleVariant": "",
+              "stringId": "1682332399262457856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Goddamn thing threw me out!",
+              "maleVariant": "",
+              "stringId": "1682332399279235072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Talk? You pulled the emergency brake, ripped me out just to talk?",
+              "maleVariant": "",
+              "stringId": "1682332399279235088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I need this info. Name your price.",
+              "maleVariant": "",
+              "stringId": "1682332399312789504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fuck you, your eddies and that girl of yours. I could get fired for doing something like this.",
+              "maleVariant": "",
+              "stringId": "1682332399312789516"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027ll make it worth your while.",
+              "maleVariant": "",
+              "stringId": "1682332399312789528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "All right, fine, hand it over and get out before you land me in the shit.",
+              "maleVariant": "",
+              "stringId": "1682332399312789540"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "First, tell me what you know about Evelyn.",
+              "maleVariant": "",
+              "stringId": "1682332399329566728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Stand] I\u0027ll pay for info.",
+              "maleVariant": "",
+              "stringId": "1682332399363121152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Stand] Need your help. Please.",
+              "maleVariant": "",
+              "stringId": "1682332399363121168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Stand] You\u0027re good looking. It\u0027d be a shame to lose that.",
+              "maleVariant": "",
+              "stringId": "1682332399363121184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Answer the question. Do it. And then you can get back to whatever it is you do.",
+              "maleVariant": "",
+              "stringId": "1682332399396675584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Here\u0027s what I don\u0027t do. Spill to any rando who walks in here.",
+              "maleVariant": "",
+              "stringId": "1682332399396675596"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How about those good looks of yours? Be a shame if they dipped below club standards…",
+              "maleVariant": "",
+              "stringId": "1682332399413452808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wonder what happens to a doll that suddenly goes ugly…",
+              "maleVariant": "I wonder what happens to a doll that suddenly goes ugly…",
+              "stringId": "1682332399413452820"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Now, Evelyn Parker – I know you know something. So talk.",
+              "maleVariant": "",
+              "stringId": "1682332399413452832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fine. Heard a customer did a number on her. But that\u0027s all I know.",
+              "maleVariant": "",
+              "stringId": "1682332399447007232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Shit like that happens around here way more often than anybody\u0027d care to admit.",
+              "maleVariant": "",
+              "stringId": "1682332399463784448"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You oughta ask Tom. Two of them were inseparable, gossiping for hours on end.",
+              "maleVariant": "",
+              "stringId": "1682332399463784460"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Who\u0027s Tom?",
+              "maleVariant": "",
+              "stringId": "1682332399497338880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A customer attacked her?",
+              "maleVariant": "",
+              "stringId": "1682332399497338896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Where did it happen?",
+              "maleVariant": "",
+              "stringId": "1682332399497338912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Who\u0027s Tom?",
+              "maleVariant": "",
+              "stringId": "1682332399530893312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A doll like the rest of us. What\u0027d you think – an XBD star?",
+              "maleVariant": "",
+              "stringId": "1682332399547670532"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Where\u0027ll I find him?",
+              "maleVariant": "",
+              "stringId": "1682332399547670544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "VIP area. Booth two. I think.",
+              "maleVariant": "",
+              "stringId": "1682332399547670556"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Thanks. See? You turned out to be useful after all.",
+              "maleVariant": "",
+              "stringId": "1682332399547670568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A customer attacked her?",
+              "maleVariant": "",
+              "stringId": "1682332399581224960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I guess... I dunno, real mess that was. Security barged in, handled it. Things went silent.",
+              "maleVariant": "",
+              "stringId": "1682332399598002176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You don\u0027t go around asking questions here. Better off not seeing, not hearing, keeping your head down.",
+              "maleVariant": "",
+              "stringId": "1682332399598002188"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Evelyn Parker. What do you know about her?",
+              "maleVariant": "",
+              "stringId": "1682332399698665472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Not much. Everyone\u0027s got their own booths, their own problems, their own little bubbles.",
+              "maleVariant": "",
+              "stringId": "1682332399698665484"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It\u0027s a fragile ecosystem. People like you barge in, violate it, try to rearrange. No.",
+              "maleVariant": "",
+              "stringId": "1682332399715442688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Sit] What do you know about Evelyn?",
+              "maleVariant": "",
+              "stringId": "1682332399732219904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This wasn\u0027t what I expected.",
+              "maleVariant": "",
+              "stringId": "1682332399732219920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Thanks for the chat. That was refreshing.",
+              "maleVariant": "",
+              "stringId": "1682332399748997136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gotta say, that wasn\u0027t what I expected. I was hoping for thrills, not some gloomy, soul-searching debate.",
+              "maleVariant": "",
+              "stringId": "1682332399782551552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Look, baby, I don\u0027t decide what happens in here. Your subconscious drives everything.",
+              "maleVariant": "",
+              "stringId": "1682332399782551568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mh. Next time, remind me to tell my subconscious to go fuck itself.",
+              "maleVariant": "Hm. Next time, remind me to tell my subconscious to go fuck itself.",
+              "stringId": "1682332399782551580"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Um... just don\u0027t tell anyone about this, OK?",
+              "maleVariant": "",
+              "stringId": "1682332399816105992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I came here to talk to you, Skye, not some soppy algorithm.",
+              "maleVariant": "",
+              "stringId": "1682332399816106004"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lotta things been going on in my head lately. But this was... different. Refreshing.",
+              "maleVariant": "",
+              "stringId": "1682332399849660416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That\u0027s what we do at Clouds.",
+              "maleVariant": "",
+              "stringId": "1682332399849660428"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I get why people come here, come back... but... I need something else.",
+              "maleVariant": "I get why people come here, come back... but I need something else.",
+              "stringId": "1682332399866437640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Lookin\u0027 for someone named Evelyn Parker. Used to work here. Know her? Know where she is?",
+              "maleVariant": "",
+              "stringId": "1682332399899992064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You need answers, that\u0027s clear... Just not the ones you think you need.",
+              "maleVariant": "",
+              "stringId": "1682332399899992076"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Asked you a simple question.",
+              "maleVariant": "",
+              "stringId": "1682332399899992088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Evelyn Parker… not the most important thing you\u0027re looking for, is she? I can smell your fear. You\u0027re afraid of something else.",
+              "maleVariant": "",
+              "stringId": "1682332399899992100"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Think you know me well? OK, tell me what I\u0027m so afraid of.",
+              "maleVariant": "",
+              "stringId": "1682332399933546496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It\u0027s something you don\u0027t talk about.",
+              "maleVariant": "",
+              "stringId": "1682332399950323716"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Everybody\u0027s entitled to secrets. Got my own with good reason, too.",
+              "maleVariant": "",
+              "stringId": "1682332399950323728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Say it. Say it out loud. Not for me, but for yourself.",
+              "maleVariant": "",
+              "stringId": "1682332399950323740"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I was told this place\u0027d fulfill my deepest desires. Not what I was expecting, this.",
+              "maleVariant": "",
+              "stringId": "1682332399983878144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "When true desires go unfulfilled, they turn into needs. We are here to reach for them and beyond, we are here to understand.",
+              "maleVariant": "",
+              "stringId": "1682332399983878160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So what is it I need so badly?",
+              "maleVariant": "",
+              "stringId": "1682332399983878172"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "To come to terms with the fact that you died. Now move on, already.",
+              "maleVariant": "",
+              "stringId": "1682332399983878184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That\u0027s tough. Rather let it eat away at me a bit more.",
+              "maleVariant": "",
+              "stringId": "1682332400017432576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Come to terms… Sure, lemme just curl up here on the floor and wait for... whatever.",
+              "maleVariant": "",
+              "stringId": "1682332400050987008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Give up. That\u0027s what you\u0027re saying.",
+              "maleVariant": "",
+              "stringId": "1682332400050987024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027re scared because you\u0027ve given up on your dreams.",
+              "maleVariant": "",
+              "stringId": "1682332400084541440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What happened to becoming the best in all of Night City?",
+              "maleVariant": "",
+              "stringId": "1682332400084541452"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wasn\u0027t so long ago I really wanted that.",
+              "maleVariant": "",
+              "stringId": "1682332400101318656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But then all this shit happened. Seems like I was living in dreamland.",
+              "maleVariant": "But then all this shit happened. Seems like I was living in a dreamland.",
+              "stringId": "1682332400118095880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Still wanna be the best... Never gave up on that goal.",
+              "maleVariant": "",
+              "stringId": "1682332400134873088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chances of getting there\u0027re starting to look pretty slim, though.",
+              "maleVariant": "",
+              "stringId": "1682332400134873100"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Just answer my question. Tell me where Evelyn is. Don\u0027t have time for a… debate.",
+              "maleVariant": "",
+              "stringId": "1682332400168427520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Why\u0027d the manager say she doesn\u0027t work here anymore? When was Evelyn last here? You know anything?",
+              "maleVariant": "",
+              "stringId": "1682332400168427532"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Evelyn had her own story before it collided with yours.",
+              "maleVariant": "",
+              "stringId": "1682332400168427544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Just want the world to know I was here. That I mattered.",
+              "maleVariant": "I just want the world to know I was here. That I mattered.",
+              "stringId": "1682332400218759168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Instead of a dream, you\u0027re living a nightmare. You\u0027re afraid of being erased, as if you never existed.",
+              "maleVariant": "",
+              "stringId": "1682332400218759180"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The people I\u0027ve lost live on in my thoughts. And that\u0027s what I\u0027ll be – a memory.",
+              "maleVariant": "",
+              "stringId": "1682332400252313600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Or just an annoying little voice in someone else\u0027s head.",
+              "maleVariant": "",
+              "stringId": "1682332400252313612"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Think I might just be... afraid. So I imagine these things to distract myself from the thought of... the void.",
+              "maleVariant": "",
+              "stringId": "1682332400302645248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u0027Cause that\u0027s about what greeted me before…",
+              "maleVariant": "",
+              "stringId": "1682332400302645260"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fear is your most effective weapon in the fight against death.",
+              "maleVariant": "",
+              "stringId": "1682332400319422464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I snuffed it once and I\u0027m gonna do it all over again. Got no idea how to stop it. There, happy?",
+              "maleVariant": "",
+              "stringId": "1682332400352976896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Had a true friend, once. Now he\u0027s gone.",
+              "maleVariant": "",
+              "stringId": "1682332400386531328"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Everything you need you already carry inside you.",
+              "maleVariant": "",
+              "stringId": "1682332400386531340"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Not about to have this conversation with you.",
+              "maleVariant": "",
+              "stringId": "1682332400420085760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ah, a hard shell for everyone to see. You think even thinking about it undermines you, makes you soft.",
+              "maleVariant": "",
+              "stringId": "1682332400420085772"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Don\u0027t survive in Night City by bein\u0027 weak.",
+              "maleVariant": "Don\u0027t survive in Night City by being weak.",
+              "stringId": "1682332400420085784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Death is death is death. You\u0027re gone – game over.",
+              "maleVariant": "",
+              "stringId": "1682332400453640192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You can\u0027t know that for certain. Even if you\u0027ve been there and back.",
+              "maleVariant": "",
+              "stringId": "1682332400470417408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Believe me, I\u0027ve seen it. And it\u0027s fucking boring.",
+              "maleVariant": "",
+              "stringId": "1682332400470417420"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You haven\u0027t stopped grieving since, or for what\u0027s to come.",
+              "maleVariant": "",
+              "stringId": "1682332400470417432"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Safeword] Afterlife.",
+              "maleVariant": "",
+              "stringId": "1682332400554303488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Safeword] Samurai.",
+              "maleVariant": "",
+              "stringId": "1682332400554303504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Samurai.",
+              "maleVariant": "",
+              "stringId": "1682332400587857920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How\u0027d you know I\u0027m dying?",
+              "maleVariant": "",
+              "stringId": "1682332400654966784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Deep inside... you fear this, cower before it.",
+              "maleVariant": "",
+              "stringId": "1682332400671744008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Of all the voices in your head, the loudest is that calling for help. Look around, all of this is your doing.",
+              "maleVariant": "",
+              "stringId": "1682332400671744020"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "There\u0027s something in those mirrors, way back...",
+              "maleVariant": "",
+              "stringId": "1682332400839516160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It\u0027s a projection – your inner landscape.",
+              "maleVariant": "",
+              "stringId": "1682332400839516172"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Just what I needed – therapy with a robohooker.",
+              "maleVariant": "",
+              "stringId": "1682332400856293376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m not here to analyze you. That\u0027s not something I do.",
+              "maleVariant": "",
+              "stringId": "1682332400856293388"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Where\u0027d it happen?",
+              "maleVariant": "",
+              "stringId": "1682332401007288320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Her booth. Told you, she was with a client.",
+              "maleVariant": "",
+              "stringId": "1682332401007288332"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Gonna just stand there or tell me a number?",
+              "maleVariant": "",
+              "stringId": "1682332401007288344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Eleven.",
+              "maleVariant": "",
+              "stringId": "1682332401007288356"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m afraid of becoming someone else, forgetting who I am.",
+              "maleVariant": "",
+              "stringId": "1682332401409941504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027re already becoming someone else, every second of every day.",
+              "maleVariant": "",
+              "stringId": "1682332401409941516"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Still, I feel... a connection between who I was and who I\u0027m turning into.",
+              "maleVariant": "",
+              "stringId": "1682332401409941528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What you really fear is becoming someone you don\u0027t recognize in the least.",
+              "maleVariant": "",
+              "stringId": "1682332401426718720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You don\u0027t see death as destruction, the end, but as a change.",
+              "maleVariant": "",
+              "stringId": "1682332401460273152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m not grieving.",
+              "maleVariant": "",
+              "stringId": "1682332401477050368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Grief doesn\u0027t begin to describe it.",
+              "maleVariant": "",
+              "stringId": "1682332401493827588"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What I\u0027ve been through – tough to move on from that.",
+              "maleVariant": "",
+              "stringId": "1682332401527382016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wasn\u0027t enough I died once. Have to go and do it again.",
+              "maleVariant": "",
+              "stringId": "1682332401544159232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Death\u0027s\u0027 absurdity, the futile struggle before – these terrify you.",
+              "maleVariant": "",
+              "stringId": "1682332401544159244"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027s past is past. I\u0027m over it.",
+              "maleVariant": "",
+              "stringId": "1682332401594490880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027re in denial – don\u0027t you see?",
+              "maleVariant": "",
+              "stringId": "1682332401594490892"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Would it change things even by a hair if I wasn\u0027t?",
+              "maleVariant": "",
+              "stringId": "1682332401594490904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Need to get inside that booth somehow.",
+              "maleVariant": "",
+              "stringId": "1682332401628045312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah? And do what?",
+              "maleVariant": "",
+              "stringId": "1682332401628045324"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "None of your biz. Can you open it or not?",
+              "maleVariant": "",
+              "stringId": "1682332401644822532"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sure, just don\u0027t bother me again. Ever. Talk to Tom.",
+              "maleVariant": "",
+              "stringId": "1682332401644822544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m looking for a girl.",
+              "maleVariant": "",
+              "stringId": "1682332401678376960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How do you know I\u0027m dying?",
+              "maleVariant": "",
+              "stringId": "1682332401678376976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Safeword] Afterlife.",
+              "maleVariant": "",
+              "stringId": "1682332401695154176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Safeword] Samurai.",
+              "maleVariant": "",
+              "stringId": "1682332401695154192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m looking for someone.",
+              "maleVariant": "",
+              "stringId": "1682332401745485824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "There\u0027s something in those mirrors.",
+              "maleVariant": "",
+              "stringId": "1682332401745485856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Safeword] Afterlife.",
+              "maleVariant": "",
+              "stringId": "1682332401762263052"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Safeword] Samurai.",
+              "maleVariant": "",
+              "stringId": "1682332401762263068"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How do I get in?",
+              "maleVariant": "",
+              "stringId": "1682332401795817472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Is it occupied now?",
+              "maleVariant": "",
+              "stringId": "1682332401812594700"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This booth occupied now?",
+              "maleVariant": "",
+              "stringId": "1682332401829371904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nah, I think it\u0027s been \u0022out of order\u0022 since, uh…",
+              "maleVariant": "",
+              "stringId": "1682332401846149124"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fear isn\u0027t a weakness. It\u0027s there to protect you.",
+              "maleVariant": "",
+              "stringId": "1682502130699296768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Or is it just the fear of becoming someone else, different?",
+              "maleVariant": "",
+              "stringId": "1682543201995153408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But I know you\u0027ll find her. You always get your way.",
+              "maleVariant": "",
+              "stringId": "1682548149512265728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You just gonna talk in circles, that it?",
+              "maleVariant": "",
+              "stringId": "1682559026919596032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I can\u0027t help you if you don\u0027t want to be helped.",
+              "maleVariant": "",
+              "stringId": "1682564463190564864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "From what? Losing myself? Becoming a stranger in my own body?",
+              "maleVariant": "From what? Losin\u0027 myself? Becomin\u0027 a stranger in my own body?",
+              "stringId": "1682567950888558592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027s next? Meditation?",
+              "maleVariant": "",
+              "stringId": "1682571382651314176"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Something like that. Try me.",
+              "maleVariant": "",
+              "stringId": "1682571910898737152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That thought alone could save your life.",
+              "maleVariant": "",
+              "stringId": "1682617778532212736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Need to talk to you.",
+              "maleVariant": "",
+              "stringId": "1683572766657961984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Look, I don\u0027t know anyone named Evelyn.",
+              "maleVariant": "",
+              "stringId": "1683578348085403648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027m I afraid of?",
+              "maleVariant": "",
+              "stringId": "1683637805817487364"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This is what \u0022fulfilling my deepest desires\u0022 looks like?",
+              "maleVariant": "",
+              "stringId": "1683637805817487380"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Tell me where Evelyn is.",
+              "maleVariant": "",
+              "stringId": "1683637805817487396"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Just gonna talk in circles, in riddles?",
+              "maleVariant": "",
+              "stringId": "1683637805834264580"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Safeword] Afterlife.",
+              "maleVariant": "",
+              "stringId": "1683638420434018304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Safeword] Samurai.",
+              "maleVariant": "",
+              "stringId": "1683638643554213888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I died and now I\u0027m dying again. Happy?",
+              "maleVariant": "",
+              "stringId": "1683643942805659652"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We\u0027re not having this conversation.",
+              "maleVariant": "",
+              "stringId": "1683643942805659672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m alone, got nobody left.",
+              "maleVariant": "",
+              "stringId": "1683643942805659688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Safeword] Afterlife.",
+              "maleVariant": "",
+              "stringId": "1683645825930715136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Safeword] Samurai.",
+              "maleVariant": "",
+              "stringId": "1683645916846448640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You can\u0027t come to terms with something like that.",
+              "maleVariant": "",
+              "stringId": "1683648611032457244"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So I just give up?",
+              "maleVariant": "",
+              "stringId": "1683648611049234444"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Still wanna be the best.",
+              "maleVariant": "",
+              "stringId": "1683655323714019344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pure fantasy, that.",
+              "maleVariant": "",
+              "stringId": "1683655323714019360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Safeword] Afterlife.",
+              "maleVariant": "",
+              "stringId": "1683655506904440832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Safeword] Samurai.",
+              "maleVariant": "",
+              "stringId": "1683655627532623872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Lie down] Not gonna die completely.",
+              "maleVariant": "",
+              "stringId": "1683657481297551392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Lie down] The void freaks me out.",
+              "maleVariant": "",
+              "stringId": "1683657481314328600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Safeword] Afterlife.",
+              "maleVariant": "",
+              "stringId": "1683660340269375488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Safeword] Samurai.",
+              "maleVariant": "",
+              "stringId": "1683660440748122112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m scared of the unknown, of dying again.",
+              "maleVariant": "",
+              "stringId": "1683662239047573536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Can\u0027t imagine what it\u0027s like to become someone else.",
+              "maleVariant": "",
+              "stringId": "1683662239047573552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Safeword] Afterlife.",
+              "maleVariant": "",
+              "stringId": "1683662385311342592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Safeword] Samurai.",
+              "maleVariant": "",
+              "stringId": "1683662582611402752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "There anything you DO know?",
+              "maleVariant": "",
+              "stringId": "1683708731112251392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027re talkin\u0027 to the wrong doll, honey. You really wanna know, talk to Tom. Even better – Woodman.",
+              "maleVariant": "",
+              "stringId": "1683708910259363840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "He work here?",
+              "maleVariant": "",
+              "stringId": "1683722392413364224"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pick o\u0027 the litter at Clouds. He\u0027s over in the VIP area. Booth two.",
+              "maleVariant": "",
+              "stringId": "1683722539633434624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Just said I should, didn\u0027t you?",
+              "maleVariant": "",
+              "stringId": "1683727983923912704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "They\u0027ll kill you if you try.",
+              "maleVariant": "",
+              "stringId": "1683728245614927872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And why\u0027s that? What\u0027s this Woodman do?",
+              "maleVariant": "",
+              "stringId": "1683728859442929664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It\u0027s OK. Calm down.",
+              "maleVariant": "",
+              "stringId": "1757711561405456384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Calm down. Just wanna ask you a question.",
+              "maleVariant": "",
+              "stringId": "1757711941476507648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027ll calm down when you leave me alone. Get out! Now!",
+              "maleVariant": "",
+              "stringId": "1757717292686991360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How fast I leave depends on how fast you answer.",
+              "maleVariant": "",
+              "stringId": "1757717752097497088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So what now?",
+              "maleVariant": "",
+              "stringId": "1757739582090862592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Now you find out what it is you need to do.",
+              "maleVariant": "",
+              "stringId": "1757739582090862604"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Which is? You\u0027re gonna tell me?",
+              "maleVariant": "",
+              "stringId": "1757739582090862616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027ve never backed down from anything in your life, even when you maybe should\u0027ve.",
+              "maleVariant": "",
+              "stringId": "1757739582090862628"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You go through Night City knowing a stray bullet could end you while hailing a cab.",
+              "maleVariant": "",
+              "stringId": "1757739582107639816"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But that\u0027s never stopped you from taking action, going where you needed to go. And it won\u0027t stop you now.",
+              "maleVariant": "",
+              "stringId": "1757739582107639828"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But how do I keep up with everything that\u0027s changing...?",
+              "maleVariant": "",
+              "stringId": "1757739582107639840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You have been keeping up. You\u0027ve made an impact. Not a single thing in this world isn\u0027t in the process of becoming something else. Likewise you.",
+              "maleVariant": "",
+              "stringId": "1757739582107639852"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Never look back. If you gotta kill, kill. If you gotta burn it all to the ground, then let it burn.",
+              "maleVariant": "",
+              "stringId": "1757739582107639864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So what now?",
+              "maleVariant": "",
+              "stringId": "1757739582141194240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Safeword] Afterlife.",
+              "maleVariant": "",
+              "stringId": "1757739582157971460"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Safeword] Samurai.",
+              "maleVariant": "",
+              "stringId": "1757739582157971476"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Thanks, um... for all this.",
+              "maleVariant": "",
+              "stringId": "1757739582376075264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Jeez. Don\u0027t even feel like getting up…",
+              "maleVariant": "",
+              "stringId": "1757739582376075276"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Few do. But everything has its end.",
+              "maleVariant": "",
+              "stringId": "1757739582376075288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What happened? I do something wrong?",
+              "maleVariant": "",
+              "stringId": "1758893455321030656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Death was something that happened to other people – hell, that I DEALT to others. Now my number\u0027ll be up.",
+              "maleVariant": "",
+              "stringId": "1759005532593283072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Thank you.",
+              "maleVariant": "",
+              "stringId": "1759020965249638400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So what if I do? Why do you care?",
+              "maleVariant": "",
+              "stringId": "1783717681144815616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m here to fulfill your deepest, most hidden desire.",
+              "maleVariant": "",
+              "stringId": "1783724118814253056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Soon I\u0027ll be gone too. \u0027Cept, won\u0027t have anyone by my side.",
+              "maleVariant": "",
+              "stringId": "1783750500785086464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fear of death is what drives us all to do what we do.",
+              "maleVariant": "",
+              "stringId": "1783819624089411584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Sit] This\u0027ll be interesting...",
+              "maleVariant": "",
+              "stringId": "1785360234578952192"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Welp, looks like this\u0027ll be interesting…",
+              "maleVariant": "",
+              "stringId": "1785402151480049668"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Touch] Not sure I can manage…",
+              "maleVariant": "",
+              "stringId": "2186693358705651716"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Start talking.",
+              "maleVariant": "",
+              "stringId": "2186793083618406400"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Notice anything unusual?",
+              "maleVariant": "",
+              "stringId": "2186793083635183624"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027re good looking. It\u0027d be a shame to lose that.",
+              "maleVariant": "",
+              "stringId": "2186793251373789184"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Anyone \u0027sides me come around lookin\u0027 for her?",
+              "maleVariant": "",
+              "stringId": "2186793251373789208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey... Talk to me?",
+              "maleVariant": "",
+              "stringId": "2243287608088813568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If you\u0027re done here, you should go.",
+              "maleVariant": "",
+              "stringId": "2243330233407856640"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "An enny for your thoughts.",
+              "maleVariant": "",
+              "stringId": "2243333804505391112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Silent… why?",
+              "maleVariant": "",
+              "stringId": "2243333876194435080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This some kind of seizure?",
+              "maleVariant": "",
+              "stringId": "2243335238068166664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ghost now, or I\u0027ll call security.",
+              "maleVariant": "",
+              "stringId": "2243335343764627460"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Open]",
+              "maleVariant": "",
+              "stringId": "2318106373169819648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What do you know about Evelyn?",
+              "maleVariant": "",
+              "stringId": "2438859210169724928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If it\u0027s money you want, name your price.",
+              "maleVariant": "",
+              "stringId": "2461953334948093952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Please, help me.",
+              "maleVariant": "",
+              "stringId": "2461954566009872384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wouldn\u0027t want to lose your good looks now, would you?",
+              "maleVariant": "",
+              "stringId": "2461955215204245504"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

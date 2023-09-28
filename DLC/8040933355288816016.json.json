@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:36.0351386Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\8040933355288816016.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Explosion. Big whoop. Something blows up every day in this part of the world. No reason to get excited.",
+              "maleVariant": "",
+              "stringId": "3265136564066877440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It was like something out of a movie, man. A shoot-out, some screams, and then... BAM!",
+              "maleVariant": "",
+              "stringId": "3349334108501544960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Scavs went all down! Dead and wounded everywhere... Right there, by the museum.",
+              "maleVariant": "",
+              "stringId": "3349334275116077056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey... what’s that implant you got there? Is it... singed?",
+              "maleVariant": "",
+              "stringId": "3349334617740382208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What? At least it didn’t go to waste. You gotta recycle, man.",
+              "maleVariant": "",
+              "stringId": "3349335157614415872"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You... didn’t happen to take more, did ya?",
+              "maleVariant": "",
+              "stringId": "3349341094903386112"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:35.2055349Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\373236177604676029.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, there was a massacre over at Longshore Stacks, residents murdered by one Leon Rinder – a long-serving ex-BARGHEST ghoul.",
+              "maleVariant": "",
+              "stringId": "2738666218003066880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Naturally, the victims\u0027 families want him found and appropriately dealt with.",
+              "maleVariant": "",
+              "stringId": "3343382952726073344"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Head down there and find Briana Dolson, the Stacks\u0027 unofficial representative. She\u0027ll fill you in. Happy hunting.",
+              "maleVariant": "",
+              "stringId": "3343393691520045056"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

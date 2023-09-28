@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.2222118Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\13999748934332913707.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "By the way, I played at Michael’s the other day and I actually won! The machine was shaking and ringing like at a legit casino!",
+              "maleVariant": "",
+              "stringId": "3312228472234364928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You say “shame,” I say “fuck Michael Maldonado.”",
+              "maleVariant": "",
+              "stringId": "3374363972258320384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ah, shame we won’t get to hang around there no more.",
+              "maleVariant": "",
+              "stringId": "3374365127587745792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A man’s gotta have principles. It’s what separates us from the animals. Beasts, not the gang.",
+              "maleVariant": "",
+              "stringId": "3374366293402931200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The piece of shit snitched. On his own son, no less! Should be happy the arcade’s all he lost.",
+              "maleVariant": "",
+              "stringId": "3374367263813881856"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

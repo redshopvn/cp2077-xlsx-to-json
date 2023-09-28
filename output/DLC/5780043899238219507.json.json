@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.6677658Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\5780043899238219507.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ah, his impact strength is off the charts. Smashed through that glass like paper.",
+                            "maleVariant": "",
+                            "stringId": "3234815454249144320"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Something's wrong with the TPR-35-1. Twice now someone got motion sickness after connecting.",
+                            "maleVariant": "",
+                            "stringId": "3234823171869167616"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The training these kids get here? State of the art.",
+                            "maleVariant": "",
+                            "stringId": "3234830905695981568"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ain't the bot that's the problem – it's the gonks who forget to enable sensory datasync. But sure, I'll check for like, the sixth time already.",
+                            "maleVariant": "",
+                            "stringId": "3234844557501190144"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

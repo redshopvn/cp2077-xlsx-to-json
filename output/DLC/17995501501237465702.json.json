@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.7966985Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\17995501501237465702.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Won’t get a burger better'n the ones at The Moth.",
+                            "maleVariant": "",
+                            "stringId": "3235901306468028416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But they got bacon and pickles and onions...?",
+                            "maleVariant": "",
+                            "stringId": "3242059249030512640"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All on a sesame-seed bun, choom.",
+                            "maleVariant": "",
+                            "stringId": "3242059407642312704"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

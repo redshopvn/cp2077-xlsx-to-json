@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.5296681Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\16201530731272996772.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Noodles again? Ugh. Noodles for breakfast, noodles for dinner...",
+                            "maleVariant": "",
+                            "stringId": "3266425069673938944"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I gained, like, seven pounds since we moved here from Watson.",
+                            "maleVariant": "",
+                            "stringId": "3348934888790597632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ah... ‘member them dumpsters by Konpeki Plaza?",
+                            "maleVariant": "",
+                            "stringId": "3348941171287564288"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh, yeah. Best hosomaki I’ve ever had.",
+                            "maleVariant": "",
+                            "stringId": "3348945817049669632"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

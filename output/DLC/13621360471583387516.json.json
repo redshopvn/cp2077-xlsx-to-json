@@ -1,0 +1,87 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.1897415Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\13621360471583387516.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey, cutie.",
+                            "maleVariant": "",
+                            "stringId": "3383840557197742088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hi!",
+                            "maleVariant": "",
+                            "stringId": "3383840557231296520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You're leaving me alone?",
+                            "maleVariant": "",
+                            "stringId": "3383840557449400328"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey, I'm talking to you!",
+                            "maleVariant": "",
+                            "stringId": "3383840557533286408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You going to behave now?",
+                            "maleVariant": "",
+                            "stringId": "3383840557650726920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh! Finally.",
+                            "maleVariant": "",
+                            "stringId": "3383840557701058568"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "It's rude to stare, you know…",
+                            "maleVariant": "",
+                            "stringId": "3383840557734613000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What's on your mind?",
+                            "maleVariant": "",
+                            "stringId": "3383840557768167432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hands where I can see them.",
+                            "maleVariant": "",
+                            "stringId": "3383840558254706696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Pfff, you wish.",
+                            "maleVariant": "",
+                            "stringId": "3383840558288261128"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

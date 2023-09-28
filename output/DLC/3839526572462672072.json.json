@@ -1,0 +1,81 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.2226542Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\3839526572462672072.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You fired a fucking missile at us! Innocent people, dead! A miracle Myers even survived. Wasn't the deal – not even close!",
+                            "maleVariant": "",
+                            "stringId": "3075138947496566784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chalk it up to historical necessity. Your plan lacked grit. Mine produced results.",
+                            "maleVariant": "",
+                            "stringId": "3233432568078405636"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You used me.",
+                            "maleVariant": "",
+                            "stringId": "3233432629063585824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Gimme a break.",
+                            "maleVariant": "",
+                            "stringId": "3233432666493554700"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You're backed into a corner, nowhere to run. And until I get what I want, in that corner you'll stay.",
+                            "maleVariant": "",
+                            "stringId": "3233432706423328792"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You'll let me go.",
+                            "maleVariant": "",
+                            "stringId": "3233438189133631544"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Songbird...?",
+                            "maleVariant": "",
+                            "stringId": "3233547104739528704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What the…?",
+                            "maleVariant": "",
+                            "stringId": "3328961765919559680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The data from the Cynosure mainframe – bring me that. Then, and only then…",
+                            "maleVariant": "",
+                            "stringId": "3540252261085278208"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

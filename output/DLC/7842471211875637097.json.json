@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:36.0128069Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\7842471211875637097.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V. There's a rare ripperdoc who works pro bono – Anthony Anderson. Were it not for his clinic on Montaña de Oro, Dogtown's poor and unfortunate would have nowhere to turn.",
+                            "maleVariant": "",
+                            "stringId": "3205788197288099840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And so it happened – scavengers struck. It appears they've an issue with Anderson himself. The good doctor's shut his office, lost access to all comms.",
+                            "maleVariant": "",
+                            "stringId": "3307116920704507904"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "His man, Odell Blanco, awaits you at the clinic. Discuss the matter with him and remember – Dr. Anderson's to remain unscathed.",
+                            "maleVariant": "",
+                            "stringId": "3307119608414511104"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

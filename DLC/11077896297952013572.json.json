@@ -1,0 +1,51 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:33.9429790Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\11077896297952013572.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V. A few days ago, scavengers hit a transport. The tech vanished, as did the guards – the latter, we\u0027ll presume, for good.",
+              "maleVariant": "",
+              "stringId": "3288280616483676160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Now, that would be just another day in Dogtown... Until I received word from Zetatech\u0027s CEO. The transport, though unmarked, happened to be theirs.",
+              "maleVariant": "",
+              "stringId": "3288283425677500416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Among the plethora of tech stolen, there was one precious eye implant and its schematics. The poor scavs seem unaware of its built-in GPS tracker.",
+              "maleVariant": "",
+              "stringId": "3288286353821786112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027ll follow their sig. Go to the scavs\u0027 nest in the Scraper, in the Longshore Stacks. I\u0027ve sent you more details in writing.",
+              "maleVariant": "",
+              "stringId": "3297245563628544000"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

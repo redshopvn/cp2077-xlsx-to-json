@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:33.9127079Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\1077744616042359141.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So quiet around here... Feels weird.",
+              "maleVariant": "",
+              "stringId": "3263599922277548032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I remember them working day and night around here. Nothing but the noise of excavators, drills and cement mixers. The buildings rose right in front of your eyes.",
+              "maleVariant": "",
+              "stringId": "3369972963806105600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Terra Cognita... It was supposed to be some kind of exhibition, right?",
+              "maleVariant": "",
+              "stringId": "3369973737151877120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah. A technology park or something like that. Shame they never finished it.",
+              "maleVariant": "",
+              "stringId": "3369974465165611008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No surprise there. War’s ruined so many great plans, brother.",
+              "maleVariant": "",
+              "stringId": "3369975478509457408"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:35.4991816Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\5285615370048186444.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So Mi, you OK? What\u0027s wrong?",
+              "maleVariant": "",
+              "stringId": "3375409430146658304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The matrix, the-- the stadium… the Blackwall… Just lost control for a sec.",
+              "maleVariant": "",
+              "stringId": "3375409963444023296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But… yeah, I\u0027m OK now.",
+              "maleVariant": "",
+              "stringId": "3375410145795584000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, we need to bolt…",
+              "maleVariant": "",
+              "stringId": "3375410257766723584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What the…?",
+              "maleVariant": "",
+              "stringId": "3375410960245534720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "FUUUCK...!",
+              "maleVariant": "",
+              "stringId": "3375411130601385984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Reed! They\u0027re givin\u0027 us the slip!",
+              "maleVariant": "",
+              "stringId": "3569717501480845312"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

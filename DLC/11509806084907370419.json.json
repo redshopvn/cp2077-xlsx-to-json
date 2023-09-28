@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:33.9887545Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\11509806084907370419.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I think you have to drive today, Ridhi.",
+              "maleVariant": "",
+              "stringId": "3265344602702536704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Don\u0027t tell me you drank all night again.",
+              "maleVariant": "",
+              "stringId": "3306895298915639296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, I didn’t. Something is wrong with my bloody foot.",
+              "maleVariant": "",
+              "stringId": "3306895502356160512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I thought you replaced the joint mount a week ago.",
+              "maleVariant": "",
+              "stringId": "3306895701854035968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I did! I went to see that ripper yesterday, but he\u0027s already in the wind.",
+              "maleVariant": "",
+              "stringId": "3306895914673020928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fine, I will drive. But you have to fix it soon. I get paid for shifting goods, not gears.",
+              "maleVariant": "",
+              "stringId": "3306907512292679680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Thank you, Ridhi. I don’t want my leg to get stuck on the gas pedal somewhere near the stadium. Those BARGHEST soldiers will not even fire a warning shot if that happens.",
+              "maleVariant": "",
+              "stringId": "3307046697536233472"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,765 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.9586982Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\2538147683330004899.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What the...",
+                            "maleVariant": "",
+                            "stringId": "1973425649686134788"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Uh-huh.",
+                            "maleVariant": "",
+                            "stringId": "2253214837272469512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hear that?",
+                            "maleVariant": "",
+                            "stringId": "2253304926258323464"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Gotta bad feeling, V.",
+                            "maleVariant": "",
+                            "stringId": "2253305156508835848"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh fuck…",
+                            "maleVariant": "",
+                            "stringId": "2253331246690328584"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey! Over here!",
+                            "maleVariant": "",
+                            "stringId": "2450563902790680576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Eight years? Kid enlisted at twenty, had no excuse. Fuck did he think'd happen, stuffin' himself with combat 'ware like a piñata? Matter o' time 'fore he'd burst.",
+                            "maleVariant": "",
+                            "stringId": "3359781174220017664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey, hey, relax, choom, let's talk this through. Not about to off an unarmed man, are ya?",
+                            "maleVariant": "",
+                            "stringId": "3416322151028199440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Rinder? Thought you'd look different. More... chromed.",
+                            "maleVariant": "",
+                            "stringId": "3416322152605257736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Lower weapon] Hand over your dog tag.",
+                            "maleVariant": "",
+                            "stringId": "3416322153880326144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Shoot] I made a promise.",
+                            "maleVariant": "",
+                            "stringId": "3416322153880326160"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You'll call Regina.",
+                            "maleVariant": "",
+                            "stringId": "3416322153880326176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What happens if I let you go?",
+                            "maleVariant": "",
+                            "stringId": "3416322153897103360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Made someone a promise.",
+                            "maleVariant": "",
+                            "stringId": "3416322153964212244"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And justice is served. Just like Briana ordered.",
+                            "maleVariant": "",
+                            "stringId": "3416322153964212260"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Justice, yeah...",
+                            "maleVariant": "Justice....",
+                            "stringId": "3416322153980989444"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey, you chose this merc life. Did what you were paid to do.",
+                            "maleVariant": "",
+                            "stringId": "3416322153980989456"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wonder how many gigs it'll take 'fore someone decides it's my turn to stare down the barrel.",
+                            "maleVariant": "",
+                            "stringId": "3416322153980989472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Rinder? This isn't the look I was expecting.",
+                            "maleVariant": "",
+                            "stringId": "3416322172553367552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'm here in the name of those people you killed at the Stacks.",
+                            "maleVariant": "",
+                            "stringId": "3416322177318096912"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What? Hold on. The Stacks… I was there, someone tried to rip me off, but I didn't kill no one. I've got these…",
+                            "maleVariant": "",
+                            "stringId": "3416322177334874116"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Folks over at the Stacks send their regards..",
+                            "maleVariant": "",
+                            "stringId": "3416322182049271808"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck them, and fuck you!",
+                            "maleVariant": "",
+                            "stringId": "3416322182049271820"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Got textbook cyberpsychosis, choom – you need help. Flickin' you a contact – Regina Jones. Call her and ask for her for a ride outta here.",
+                            "maleVariant": "",
+                            "stringId": "3416322228639600660"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I don't got no cyberpsychosis.",
+                            "maleVariant": "",
+                            "stringId": "3416322228639600672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Call her, or I end you where you lie.",
+                            "maleVariant": "",
+                            "stringId": "3416322228656377864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Now!",
+                            "maleVariant": "",
+                            "stringId": "3416322228656377876"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hello? Yes, I, uh... I was told I'd get help if I called this number... It's about, um... cyberpsychosis… Yeah… Yeah, sending it now… I'll wait right here…",
+                            "maleVariant": "",
+                            "stringId": "3416322228673155072"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Happy now?",
+                            "maleVariant": "",
+                            "stringId": "3416322238638821388"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Expect me to just forgive you?",
+                            "maleVariant": "",
+                            "stringId": "3416322254845612032"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Following orders? Give me a break.",
+                            "maleVariant": "",
+                            "stringId": "3416322254862389252"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "\"Whatever I did\"? Let me enlighten you.",
+                            "maleVariant": "",
+                            "stringId": "3416322254862389268"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Took a look at the scene. Only shots fired came from military-grade iron. Kind only you could carry.",
+                            "maleVariant": "",
+                            "stringId": "3416322263167111192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Then you bashed Jason's head against the ground more'n a dozen times. Tossed the rest around like ragdolls. Was blood everywhere.",
+                            "maleVariant": "",
+                            "stringId": "3416322263183888396"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No, that's impossible. I swear, I would've--!",
+                            "maleVariant": "",
+                            "stringId": "3416322263183888408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "He's tellin' the truth. Blacked out – 's why he can't remember. Combine heavy cy'ware with a short fuse and you've got a perfect recipe for carnage.",
+                            "maleVariant": "",
+                            "stringId": "3416322263183888420"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sounds like you have cyberpsychosis.",
+                            "maleVariant": "",
+                            "stringId": "3416322273954861056"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Should I call Regina?",
+                            "maleVariant": "",
+                            "stringId": "3416322273971638284"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Rinder… these blackouts, violent outbursts… Ever consider the possibility you might have cyberpsychosis?",
+                            "maleVariant": "",
+                            "stringId": "3416322278417600524"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cyberpsy--?! What, 'cause I didn't tuck tail when that Longshore trash tried to fleece me? Gimme a fuckin' break!",
+                            "maleVariant": "",
+                            "stringId": "3416322278434377736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So you say sorry, I forgive you and then what – you go on your merry way, off some more peeps?",
+                            "maleVariant": "",
+                            "stringId": "3416322282343469068"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "How? What with?! Fucking look at me!",
+                            "maleVariant": "",
+                            "stringId": "3416322282343469080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cowering behind orders now? At any point you could've hung up your iron, stopped killin' innocent peeps. But you didn't.",
+                            "maleVariant": "Cowering behind your orders now? At any point you could've hung up your iron, stopped killin' innocent peeps. But you didn't.",
+                            "stringId": "3416322286370000908"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fine, make me out to be some kinda monster! Be easier to put me down then, won't it?!",
+                            "maleVariant": "",
+                            "stringId": "3416322286386778116"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Look at me! What else've I got to lose, huh?! They fucked me over, all of 'em! Used to be a soldier and look at me now!",
+                            "maleVariant": "",
+                            "stringId": "3416322290732077056"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Had heaps o' time to walk away 'fore you dove off the deep end.",
+                            "maleVariant": "",
+                            "stringId": "3416322290748854272"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I was twenty, OK?! Put my faith in Hansen. Wasn't the first or last. That make everythin' my fuckin' fault now?",
+                            "maleVariant": "",
+                            "stringId": "3416322290748854284"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And those whiney bitches I dropped at the Stacks?! Fuck 'em! Fuck Dogtown! I'd burn this shithole to the ground if I could 'long with everyone in it!",
+                            "maleVariant": "",
+                            "stringId": "3416322290765631496"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Put gun to Rinder's head] Choose your words carefully.",
+                            "maleVariant": "",
+                            "stringId": "3416322303784751104"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Shoot] I've heard enough.",
+                            "maleVariant": "",
+                            "stringId": "3416322303784751120"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Better choose your next words carefully.",
+                            "maleVariant": "",
+                            "stringId": "3416322312156581908"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Let's say I let you walk. What happens then? Lay it out.",
+                            "maleVariant": "",
+                            "stringId": "3416322322759782416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I-I dunno! I'll… I'll look for help, hit up some big-name rippers. Not callin' it quits yet, ending up like some fuckin' cripple.",
+                            "maleVariant": "",
+                            "stringId": "3416322322776559616"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "If it's cyberpsychosis, then maybe there's still hope for him. Thinkin' Regina.",
+                            "maleVariant": "If it is cyberpsychosis, then maybe there's still hope for him. Thinkin' Regina.",
+                            "stringId": "3416322327558066180"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Knew plenty who joined the army to make a quick buck – hell, was one of 'em myself. But eight years to sprout a conscience? Nah, fuck that.",
+                            "maleVariant": "",
+                            "stringId": "3416322327574843396"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Put 'im down? That your solution?",
+                            "maleVariant": "",
+                            "stringId": "3416322327574843408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Karma. Had it comin' to 'im. 'Course, 'less you're gonna take pity on every asshole who starts feelin' blue.",
+                            "maleVariant": "",
+                            "stringId": "3416322327608397824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'm Rinder, or 'least what's left of 'im. That asshole Hansen's rottin' in the ground… so who sent you?",
+                            "maleVariant": "",
+                            "stringId": "3416322335409803272"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'm Rinder all right, or 'least what's left of 'im. Guessin' you're here on contract. Hansen send you?",
+                            "maleVariant": "",
+                            "stringId": "3416322337641173000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ain't Rinder. Just a mountain of a scav.",
+                            "maleVariant": "",
+                            "stringId": "3416322356096110600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Easy to feel sorry when there's a gun to your head. Don't let the murderin' piece o' shit tug at your heartstrings, V.",
+                            "maleVariant": "",
+                            "stringId": "3416322357555728392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dogtown chewed 'im up, shat 'im out. Place must be packed with hapless turds like him. Be simpler if it was all Hansen's fault, but that ain't how it works.",
+                            "maleVariant": "",
+                            "stringId": "3416322359468331016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Shoot] I'm here to kill you.",
+                            "maleVariant": "",
+                            "stringId": "3416327443132551168"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Blackouts… Ain't always… present. I'm sick, OK?! Sounds like you know more'n me.",
+                            "maleVariant": "",
+                            "stringId": "3420474882580123648"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You killed Jason and seven others.",
+                            "maleVariant": "",
+                            "stringId": "3420494871458582532"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Memory blackouts? How convenient.",
+                            "maleVariant": "",
+                            "stringId": "3420497012449447936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Did the scavs do this to you?",
+                            "maleVariant": "",
+                            "stringId": "3420498423060992000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You let scavs carve you up like a Thanksgiving turkey… Why?",
+                            "maleVariant": "",
+                            "stringId": "3420498736425832448"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Now you're gonna tell me that hulking slab of scav that came at me was your ripper?",
+                            "maleVariant": "Now you're gonna tell me that hulking slab of a scav that came at me was your ripper?",
+                            "stringId": "3420501638699651072"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You killed that kid, Jason, 'long with seven others. Why, what for?",
+                            "maleVariant": "",
+                            "stringId": "3420503964994867200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Everyone's makin' you out like some crazed killer – the butcher of Dogtown. And here you are hatchin' weak-ass excuses?",
+                            "maleVariant": "",
+                            "stringId": "3420504065406504960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Why did you leave BARGHEST?",
+                            "maleVariant": "",
+                            "stringId": "3420504402846650368"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'm sick, all right? Wanted to pawn my chrome, collect enough scratch to get treated. Jason was my go-between with the local scavs.",
+                            "maleVariant": "",
+                            "stringId": "3420512963471446016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cept he tried to give me the Dogtown shakedown, first! Startin' wavin' his big-dick iron. Fuckin' savage. And then… I-I can't remember…",
+                            "maleVariant": "",
+                            "stringId": "3420518075640156160"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And here you are, meanin' he did his part.",
+                            "maleVariant": "",
+                            "stringId": "3420538932873760768"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tell me – what don't I know 'bout Dogtown?",
+                            "maleVariant": "",
+                            "stringId": "3420586978424754176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You and Hansen – what happened? Left you on the rocks?",
+                            "maleVariant": "",
+                            "stringId": "3420591378165764096"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You got eyes? Tossed me to rot in the gutter – my chooms, too. Eight years I gave that asshole…",
+                            "maleVariant": "",
+                            "stringId": "3424942648271933440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wasn't the scavs tried to fuck me over – was that shit-weasel, Jason! Dogtown's teemin' with filth like him. Makes BARGHEST look good in comparison!",
+                            "maleVariant": "",
+                            "stringId": "3424997478210310144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "See how they live in those cargo containers? Bunch of fuckin' savages. Can't have folks leavin', either – nuh-huh. Want you to rot right there beside 'em!",
+                            "maleVariant": "",
+                            "stringId": "3425002185494466560"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "If anyone's a savage, it's you.",
+                            "maleVariant": "",
+                            "stringId": "3425704111647330308"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What about all those years you spent doing Hansen's dirty work?",
+                            "maleVariant": "",
+                            "stringId": "3425704301716410368"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sick with what?",
+                            "maleVariant": "",
+                            "stringId": "3425704338777280512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Rippers in Dogtown – none of 'em could help? Say what's ailin' ya?",
+                            "maleVariant": "",
+                            "stringId": "3425706447975321600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "If they did, you think I'd have myself gutted like a fish? Rippin' out third-gen combat-'ware and chippin' myself with crooked chrome for what – shits and gigs?",
+                            "maleVariant": "",
+                            "stringId": "3425733229411667968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I was there. Savage, what you did. Makes you the savage.",
+                            "maleVariant": "",
+                            "stringId": "3425749719955378176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Been doin' Hansen's dirty work for years, tyin' off loose ends. That all a blackout, too?",
+                            "maleVariant": "",
+                            "stringId": "3425749847831318528"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck you want me to say? That I admit to all the sins I've committed – remembered, forgotten and all in between? Fine!",
+                            "maleVariant": "",
+                            "stringId": "3425749940659654656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I regret it, OK? I regret all the years with Hansen… joined up when I was just a kid. Kept my head down, followed orders. Whatever I did, I'm sorry! As if you know shit about Dogtown, anyhow…",
+                            "maleVariant": "",
+                            "stringId": "3427142301763604480"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tell them Leon Rinder's dead and-- and you wouldn't even be lyin'! Do that and the gear I stashed – it's yours!",
+                            "maleVariant": "",
+                            "stringId": "3427221040459517952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Or… no, fuck it! I won't beg. Shoot if you want!",
+                            "maleVariant": "",
+                            "stringId": "3427221623769763840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "'Cause I told 'em to, what'd ya think? Sold 'em my chrome. Might be twisted fucks, but they keep their word.",
+                            "maleVariant": "",
+                            "stringId": "3427235720456409088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "That bumblin' buffoon? Heh! Just proof they can't guard for shit.",
+                            "maleVariant": "",
+                            "stringId": "3427237277465939968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Enlighten me. What's Dogtown really like?",
+                            "maleVariant": "",
+                            "stringId": "3427306660766781440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Listen to me, just listen! I'm expired goods, a walkin' corpse! Can't decomish me more than this!",
+                            "maleVariant": "",
+                            "stringId": "3436223492533882880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Gonna need your dog tag, hand it over.",
+                            "maleVariant": "",
+                            "stringId": "3436351220583075840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "H-here… Take it.",
+                            "maleVariant": "",
+                            "stringId": "3436355448206626816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So long.",
+                            "maleVariant": "",
+                            "stringId": "3436357171075715072"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Flicking you some coordinates… just go there, you'll see. And uh… thanks.",
+                            "maleVariant": "",
+                            "stringId": "3436358076357513216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Go already.",
+                            "maleVariant": "",
+                            "stringId": "3436361477183082496"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "This where Rinder came to do biz? An abandoned motel crawling with organ kleppers?",
+                            "maleVariant": "",
+                            "stringId": "3571163262837166080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Rinder's leadspitter. He got here all right.",
+                            "maleVariant": "",
+                            "stringId": "3571163705738891264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Biomonitors. Scavs're reprogrammin' them to jam signals in similar models. Just like they did with Sandra Dorsett's biomon.",
+                            "maleVariant": "",
+                            "stringId": "3571164793556799488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "One with the BARGHEST vest's got \"Rinder\" written on it... and prices on its arms and legs. Scavs sold him for parts?",
+                            "maleVariant": "",
+                            "stringId": "3571165018035949568"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Scavenger – freshly operated. Out cold, but still breathin'.",
+                            "maleVariant": "",
+                            "stringId": "3571165436325498880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wonder if we'll find him on the first floor, or on all of 'em, chopped into little bits.",
+                            "maleVariant": "",
+                            "stringId": "3571188333198807040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "One of them's Rinder's. See?",
+                            "maleVariant": "",
+                            "stringId": "3571199003088752640"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Well, well…",
+                            "maleVariant": "",
+                            "stringId": "3571199346669359104"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No clue. Only thing we do know's the fucker cost an arm and a leg.",
+                            "maleVariant": "",
+                            "stringId": "3571208042820505600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hilarious. Let's just find him, his dog tag – whatever's left of 'im.",
+                            "maleVariant": "",
+                            "stringId": "3571212187598163968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Not a second do these sickos waste. Chrome from their victims' bodies hasn't even cooled 'fore they're chippin' it.",
+                            "maleVariant": "",
+                            "stringId": "3571214643497373696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bloodstains, almost fresh. Looks like they carved someone up here recently.",
+                            "maleVariant": "",
+                            "stringId": "3571216069225189376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Guts on the walls, blood on the floor, optical on the table. Interior decoration – Scav edition.",
+                            "maleVariant": "",
+                            "stringId": "3571217896045907968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Not our guy.",
+                            "maleVariant": "",
+                            "stringId": "3572536851410817024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Killing you would be doing you a favor.",
+                            "maleVariant": "",
+                            "stringId": "3576841134809649152"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Think I've heard enough.",
+                            "maleVariant": "",
+                            "stringId": "3576849150611132416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Came to zero you. Now I think that'd just be doin' you a favor.",
+                            "maleVariant": "",
+                            "stringId": "3576927413689749504"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck you!",
+                            "maleVariant": "",
+                            "stringId": "3576927835083083776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Save it. Can yell all you want in this sad, empty room once I'm gone.",
+                            "maleVariant": "",
+                            "stringId": "3576928045502926848"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck you!",
+                            "maleVariant": "",
+                            "stringId": "3576928498051551232"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Right. Got two options. One – you hand over your dog tag and I delta. Wanna know the second?",
+                            "maleVariant": "",
+                            "stringId": "3576929747333386240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No.",
+                            "maleVariant": "",
+                            "stringId": "3576940338353639424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "If the Scavs don't carve up what's left of ya, Night City'll finish the job.",
+                            "maleVariant": "",
+                            "stringId": "3576940776826179584"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

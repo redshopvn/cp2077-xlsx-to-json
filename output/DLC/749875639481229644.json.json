@@ -1,0 +1,57 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.9424743Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\749875639481229644.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck, it hurts. God damned ripperquacks.",
+                            "maleVariant": "",
+                            "stringId": "3276588355274776576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Went to Anderson’s clinic, huh? That’s brave.",
+                            "maleVariant": "",
+                            "stringId": "3318672757428232192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Do you know any other place where they... oof... where they replace your liver for free?",
+                            "maleVariant": "",
+                            "stringId": "3318675813112913920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Shoulda hustled some eddies, choom. You still got two workin’ kidneys, right? That’s live money right there.",
+                            "maleVariant": "",
+                            "stringId": "3318678098371059712"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thing is, I only have one now. Had to sell the other one to pay for my ticket into Dogtown.",
+                            "maleVariant": "",
+                            "stringId": "3318695352026439680"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

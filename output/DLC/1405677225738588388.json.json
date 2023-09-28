@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.2284461Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\1405677225738588388.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hello! Clara Molina, Atletico Barcelona.",
+                            "maleVariant": "",
+                            "stringId": "2740454381365678080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You're all set! From what I see, your connection quality with the verbal-motoric integrated interface is excellent.",
+                            "maleVariant": "",
+                            "stringId": "2740457357526355968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Should you experience any latency, please report it to maintenance. Now, if you'll continue into the main room.",
+                            "maleVariant": "",
+                            "stringId": "2740459214562840576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Deal, on one condition – during the transfer, you loan Kowalsky out to us.",
+                            "maleVariant": "",
+                            "stringId": "3221377485997707264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fine – just remember, a loan's a loan. Don't let me hear about any poaching, got it?",
+                            "maleVariant": "",
+                            "stringId": "3221381772089856000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Listen, we're lookin' for a goalie, not a defender. We'll let you have Becker if you give us Gomez.",
+                            "maleVariant": "",
+                            "stringId": "3275193013463519232"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

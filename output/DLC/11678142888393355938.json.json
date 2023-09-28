@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.0062062Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\11678142888393355938.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We almost had it, but you just had to pull your gun out! Fucking bonehead!",
+                            "maleVariant": "",
+                            "stringId": "3265150217247858688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Didn’t like the look on that BioDyne guy’s face. He wanted to dick us over, I’m positive.",
+                            "maleVariant": "",
+                            "stringId": "3288409098768785408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Everyone’s either a thief or a liar in your world, you paranoid fuck. Should join the NCPD with that kinda mindset.",
+                            "maleVariant": "",
+                            "stringId": "3288410984729190400"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Least I’m not running to suck every corpo cock that comes my way. The Berserks he wanted to flog were clearly taken off of corpses. Come on.",
+                            "maleVariant": "",
+                            "stringId": "3288413131189428224"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

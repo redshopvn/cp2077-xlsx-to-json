@@ -1,0 +1,51 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:33.9271784Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\10924356764855577610.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022creo\u0022 o=\u0022Ki pwen ak tout fo kò sa yo? Ta ka tou met lajan moute nan bounda mwen.\u0022 t=\u0022What\u0027s the point with all these implants? Might as well shove the eddies up my ass.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2891241532145917952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Cmothertongue l=\u0022creo\u0022 m=\u0022Ratatatatatatata, alé isiya...\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2891249728134701056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022creo\u0022 o=\u0022Ou menm tande m?\u0022 t=\u0022You even listening to me?\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2891250155131625472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Cmothertongue l=\u0022creo\u0022 m=\u0022\u0027Ey?\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "2891250735136759808"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

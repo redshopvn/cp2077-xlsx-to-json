@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:36.2391625Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\9227387729266668522.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ma'am, please calm down. Tell me exactly what happened and when. This is important, OK?",
+                            "maleVariant": "",
+                            "stringId": "3288419584279375872"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "My husband, he-- w-we got in the car, talked… then he-- he grabbed his throat and started choking!",
+                            "maleVariant": "",
+                            "stringId": "3288478179377344512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I pulled him out… he--he fell over, wheezing, c-couldn't breathe… Then… Th... Then…",
+                            "maleVariant": "",
+                            "stringId": "3288479854313926656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What? N-no, I…! Do you think…?",
+                            "maleVariant": "",
+                            "stringId": "3288487570742767616"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Did he have any enemies? Do you know of any threats made against his life? Any blackmail?",
+                            "maleVariant": "",
+                            "stringId": "3377963476990730240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Collapsed chest cavity, coughed blood, bluish skin… Did your husband have problems with syn-lungs before?",
+                            "maleVariant": "",
+                            "stringId": "3377967713757863936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh, he--he was just writing a review for some!",
+                            "maleVariant": "",
+                            "stringId": "3377970339744489472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mhm… Ma'am, I'm afraid a criminal netrunner targeted your husband deliberately.",
+                            "maleVariant": "",
+                            "stringId": "3378077060924088320"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

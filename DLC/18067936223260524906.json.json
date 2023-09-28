@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.8122652Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\18067936223260524906.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022rus\u0022 o=\u0022Нейтрализую угрозу.\u0022 t=\u0022Neutralizing the threat.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "3170946979729223680"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And? They say anything?",
+              "maleVariant": "",
+              "stringId": "3235893304979337216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Said jack shit. Went in, doors shut, signal dropped. We got orders to secure the area and wait. Anyone unfamiliar comes out – zero them.",
+              "maleVariant": "",
+              "stringId": "3235903078445854720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Like I say, we open door and it explode. The bitch mined the place!",
+              "maleVariant": "",
+              "stringId": "3242101434738257920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "An\u0027 your gonk ass should\u0027ve scanned it! Where the fuck\u0027s Ribakov?",
+              "maleVariant": "",
+              "stringId": "3242142147119132672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "He disappeared. Think he went on ahead...",
+              "maleVariant": "",
+              "stringId": "3295498381838094336"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

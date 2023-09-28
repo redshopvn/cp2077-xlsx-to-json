@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.3959621Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\14988812792776868566.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Activate imprint and wait] Showtime.",
+              "maleVariant": "",
+              "stringId": "3273856680158597120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Deactivate imprint] Adiós.",
+              "maleVariant": "",
+              "stringId": "3446481438057340928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Curtain call, take a bow, V. Had our fun, but it\u0027s time we sent Aguilar off with a heartfelt \u0022adiós.\u0022",
+              "maleVariant": "",
+              "stringId": "3459335029482758144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The final act – Hansen\u0027s wake, enter Aguilar... Shit, V, got me on the edge of my seat.",
+              "maleVariant": "",
+              "stringId": "3459346280854233108"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Get this show on the road.",
+              "maleVariant": "",
+              "stringId": "3459370094786945024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Adiós, Aguilar. It\u0027s been real.",
+              "maleVariant": "",
+              "stringId": "3459371458288066560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Adiós, Aguilar. It\u0027s been real.",
+              "maleVariant": "",
+              "stringId": "3459371473018462208"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

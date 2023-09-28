@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:36.1833349Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\8990682765950840598.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Your majesty! I got a special gig for you. Drop any other routes for now, this one\u0027s gonna need your full attention.",
+              "maleVariant": "",
+              "stringId": "3466488194015584256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Meet at the dam in Santo Domingo. We\u0027ll talk it over, mano a mano.",
+              "maleVariant": "",
+              "stringId": "3479458418583035904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027s the gig?",
+              "maleVariant": "",
+              "stringId": "3520390938525798404"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uh, \u0022your majesty\u0022?",
+              "maleVariant": "",
+              "stringId": "3520391428588277760"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Cap, I\u0027m flattered, but the name\u0027s V. Where\u0027s this \u0022majesty\u0022 comin\u0027 from?",
+              "maleVariant": "",
+              "stringId": "3520405732389654528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What else do I call you? Me, your humble servant bringin\u0027 you heaps of eddies? I may be El Capitan, but you – you\u0027re my queen!",
+              "maleVariant": "What else should I call ya? Me, your humble servant bringin\u0027 you heaps of eddies? Look, I may be El Capitan, but you – you\u0027re my king!",
+              "stringId": "3520409967126745088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ughhh, shouldn\u0027t\u0027ve asked.",
+              "maleVariant": "",
+              "stringId": "3520410557869297664"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What I gotta do, exactly?",
+              "maleVariant": "",
+              "stringId": "3530535529996455936"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.5380585Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\16365021463968246568.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Come on, what’s the matter with you? Other kids bring tons of customers to their parents’ stalls.",
+                            "maleVariant": "",
+                            "stringId": "3263821893401649152"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "My mouth is dry from all the yelling.",
+                            "maleVariant": "",
+                            "stringId": "3278314772072144896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Then how come I haven’t sold anything today?",
+                            "maleVariant": "",
+                            "stringId": "3278314849549328384"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "How about we do a special offer? Like... two jackets for the price of... three?",
+                            "maleVariant": "",
+                            "stringId": "3278321800551243776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wow. How did you get so smart? ‘Cuz it ain’t your daddy’s brains, that’s for sure.",
+                            "maleVariant": "",
+                            "stringId": "3278322420301602816"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

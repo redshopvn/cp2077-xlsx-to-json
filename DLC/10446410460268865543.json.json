@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:33.7939617Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\10446410460268865543.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Reed, got the datashard from Hands – our golden ticket into the Black Sapphire.",
+              "maleVariant": "",
+              "stringId": "3337879606245875712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Perfect. Send it through. And no worries, this connection\u0027s secure.",
+              "maleVariant": "",
+              "stringId": "3338786955919777792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Transfer data] Zippin\u0027 now.",
+              "maleVariant": "",
+              "stringId": "3338787147381366788"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Catch. \u0027S on its way.",
+              "maleVariant": "",
+              "stringId": "3338807179310161920"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aaaand reception complete. I\u0027ll pass it on to Alex.",
+              "maleVariant": "",
+              "stringId": "3338807435766685696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "As soon as you\u0027re ready, join us at The Moth.",
+              "maleVariant": "",
+              "stringId": "3338807900982108160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If I\u0027m not there when you arrive, just wait. Till then.",
+              "maleVariant": "",
+              "stringId": "3338810398555922432"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

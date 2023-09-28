@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.4279442Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\1544274245342921262.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ey, choom. Choomito. Got a real nice job lined up for ya.",
+                            "maleVariant": "",
+                            "stringId": "3276708903229169664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh yeah? What kinda job?",
+                            "maleVariant": "",
+                            "stringId": "3349498035038425088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "“What kind?” You’re not gonna ask how much’s it pay?",
+                            "maleVariant": "",
+                            "stringId": "3349498198297513984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You tell me the job and I’ll give you the price tag.",
+                            "maleVariant": "",
+                            "stringId": "3349498409120010240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dodger need a runner to pick up some components from NC and haul’em down to Pacifica.",
+                            "maleVariant": "",
+                            "stringId": "3349498965905477632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh, no. No, no, no. The cops stop me for a random search, I lose the goods... and I’ve heard what Dodger’s capable of.",
+                            "maleVariant": "",
+                            "stringId": "3349500132911845376"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

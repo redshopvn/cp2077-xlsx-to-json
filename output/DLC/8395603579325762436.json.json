@@ -1,0 +1,93 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:36.0888151Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\8395603579325762436.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Wipe data logs]",
+                            "maleVariant": "",
+                            "stringId": "3407131355779485700"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Get in]",
+                            "maleVariant": "",
+                            "stringId": "3450753200854224900"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Preem wheels…",
+                            "maleVariant": "",
+                            "stringId": "3630430170933153792"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Slick wheels…",
+                            "maleVariant": "",
+                            "stringId": "3630439102669967360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh yeah…?",
+                            "maleVariant": "",
+                            "stringId": "3630441051041615872"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh yeah.",
+                            "maleVariant": "",
+                            "stringId": "3630444142948306944"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ready to roll, or what?",
+                            "maleVariant": "",
+                            "stringId": "3630472812140220416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Relax...",
+                            "maleVariant": "",
+                            "stringId": "3630473637143040000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Heads up! Roadblock!",
+                            "maleVariant": "",
+                            "stringId": "3630474872969547776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Careful, V. Or we're burnt toast.",
+                            "maleVariant": "",
+                            "stringId": "3630475918726975488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh. Interesting.",
+                            "maleVariant": "Huh. Interesting.",
+                            "stringId": "3843454549550747648"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

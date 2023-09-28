@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.4175816Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\15347757652082462605.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V, hey! Uh, I'll keep this short, huh?",
+                            "maleVariant": "",
+                            "stringId": "3439076662176817152"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Listen… it's, uh, nice you tried to reach out to Panam. It's good to know that you're whole, you're… you're all right.",
+                            "maleVariant": "",
+                            "stringId": "3449193888730562560"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But, um, well, don't expect her to return your call, no. And don't try her again, if you can…",
+                            "maleVariant": "",
+                            "stringId": "3449194095794962432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "When you disappeared, it took her a while to get back on her feet. She's not one to get attached, but when she does, the hurt comes damn easily.",
+                            "maleVariant": "",
+                            "stringId": "3449194271720849408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Now, I know it's not what you intended. So I'm countin' on you understanding.",
+                            "maleVariant": "",
+                            "stringId": "3449194385185161216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You shouldn't do that to yourself, to her. So just... don't call.",
+                            "maleVariant": "",
+                            "stringId": "3449196636502999040"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

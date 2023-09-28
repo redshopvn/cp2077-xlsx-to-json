@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:35.6686795Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\5815367212798845884.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nicely done, V. Thanks to you, our Europeans can make sure tax evaders don\u0027t go unpunished.",
+              "maleVariant": "",
+              "stringId": "2740345721511661568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, mishaps like that do not go unnoticed in Dogtown. In any case, it\u0027s your reputation that\u0027s at stake. Goodbye.",
+              "maleVariant": "",
+              "stringId": "2797036996977414144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Who\u0027s this client that cares so much about taxes?",
+              "maleVariant": "",
+              "stringId": "3134658761083768832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Who\u0027s the client?",
+              "maleVariant": "",
+              "stringId": "3134662886634737668"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You knew these athletes were kids?",
+              "maleVariant": "",
+              "stringId": "3274141545658683392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You knew they\u0027re chippin\u0027 kids there?",
+              "maleVariant": "You knew they were chippin\u0027 kids there?",
+              "stringId": "3274151832793223168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Why so dramatic? It\u0027s an open secret by now – everyone knows what goes on there. Few care.",
+              "maleVariant": "",
+              "stringId": "3274152274352771072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "If I\u0027ve offended your sense of moral decency, I do apologize. Contract closed. Until the next time, V.",
+              "maleVariant": "",
+              "stringId": "3274154577780641792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The EEC only wants what it is owed. As they pay well, I\u0027m only happy to oblige. Closing this contract.",
+              "maleVariant": "",
+              "stringId": "3274165222454431744"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

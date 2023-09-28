@@ -1,0 +1,111 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.3354595Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\14755159381083015535.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Start from begining",
+                            "maleVariant": "",
+                            "stringId": "3305788818840395780"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Outpost Exploration",
+                            "maleVariant": "",
+                            "stringId": "3305789338967646208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Interrogation room scene",
+                            "maleVariant": "",
+                            "stringId": "3305790106525278208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Escort section",
+                            "maleVariant": "",
+                            "stringId": "3305790338302517248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Escort section Archives",
+                            "maleVariant": "",
+                            "stringId": "3305790791807442944"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Dodger scene",
+                            "maleVariant": "",
+                            "stringId": "3305791111228858368"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Street kid",
+                            "maleVariant": "",
+                            "stringId": "3305817959438524420"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Nomad",
+                            "maleVariant": "",
+                            "stringId": "3305818229920800768"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Corpo",
+                            "maleVariant": "",
+                            "stringId": "3305818296442462208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Front entrance",
+                            "maleVariant": "",
+                            "stringId": "3305819979146895364"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Back entrance",
+                            "maleVariant": "",
+                            "stringId": "3305820205605756928"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]ws_ep1_11",
+                            "maleVariant": "",
+                            "stringId": "3486951678525087744"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Dodger alive",
+                            "maleVariant": "",
+                            "stringId": "3486952077873160196"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Dodger dead",
+                            "maleVariant": "",
+                            "stringId": "3486952494971527168"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

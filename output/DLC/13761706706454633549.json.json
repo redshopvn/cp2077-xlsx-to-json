@@ -1,0 +1,57 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.1956917Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\13761706706454633549.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Are we almost done?",
+                            "maleVariant": "",
+                            "stringId": "3266471692651233280"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "If you wanna go, go. Just don’t blame me for buying a million-eddie penthouse while you’re stuck in Terra fucking Cognita.",
+                            "maleVariant": "",
+                            "stringId": "3347830476236038144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fine, fine. What am I looking for again?",
+                            "maleVariant": "",
+                            "stringId": "3347856216595800064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ugh. Anything that looks less like an old beer can and more like old Militech war equipment.",
+                            "maleVariant": "",
+                            "stringId": "3347856744037916672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The Unification War ended seven years ago, brother. There’s nothing here anymore!",
+                            "maleVariant": "",
+                            "stringId": "3347889580455403520"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

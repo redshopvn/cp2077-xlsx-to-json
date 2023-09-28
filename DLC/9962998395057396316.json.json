@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:36.3730170Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\9962998395057396316.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What\u0027s on the menu?",
+              "maleVariant": "",
+              "stringId": "3449268001248460804"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How’d someone like you end up here?",
+              "maleVariant": "",
+              "stringId": "3449270601666609152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Whatcha got in stock?",
+              "maleVariant": "",
+              "stringId": "3449270891207802880"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Seen many bartenders in my time, but you...",
+              "maleVariant": "",
+              "stringId": "3449271393970634752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "My owner bought me from some junk dealers, revamped, reprogrammed and finally – infused me with her spirit.",
+              "maleVariant": "",
+              "stringId": "3449273632705560576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Best food and drink Dogtown’s got to offer, hun.",
+              "maleVariant": "",
+              "stringId": "3449274054417661952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Your programming sounds... ancient...",
+              "maleVariant": "",
+              "stringId": "3449339185495937024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "“Gape Earth, and this unhappy wretch intomb; Or change my form, whence all my sorrows come. [...] The tree still planted in th\u0027 unfinish\u0027d part. Not wholly vegetive, and heav\u0027d her heart.”",
+              "maleVariant": "",
+              "stringId": "3449339785063305216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wha’ can I get ya?",
+              "maleVariant": "",
+              "stringId": "3449354849526878208"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

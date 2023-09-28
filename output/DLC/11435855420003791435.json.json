@@ -1,0 +1,57 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:33.9881403Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\11435855420003791435.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey, V. Preem new wheels, huh? Flippin' you the delivery address now.",
+                            "maleVariant": "",
+                            "stringId": "3546525506191122432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Real beaut, isn't she? Grab the coords to my drop spot and fly!",
+                            "maleVariant": "",
+                            "stringId": "3546525881010905088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All good, all good? Let's go go go! Check the coords!",
+                            "maleVariant": "",
+                            "stringId": "3546526161391738880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Alright, V, flippin' you the coords. This little cruiser's veerry eager to swap hands.",
+                            "maleVariant": "",
+                            "stringId": "3546526381626253312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Reined her in, huh? Great – now grab the delivery coords and drive!",
+                            "maleVariant": "",
+                            "stringId": "3546526596005519360"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

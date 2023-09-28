@@ -1,0 +1,81 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.2604845Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\4102824709115305457.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Walking calms your nerves?",
+                            "maleVariant": "",
+                            "stringId": "3334767210568159240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You looking for something?",
+                            "maleVariant": "",
+                            "stringId": "3334767210601713672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Glad to have you back.",
+                            "maleVariant": "",
+                            "stringId": "3334767210685599752"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thought you were off and away.",
+                            "maleVariant": "",
+                            "stringId": "3334767210719154176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "It's your decision.",
+                            "maleVariant": "",
+                            "stringId": "3334767210752708612"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Think it through.",
+                            "maleVariant": "",
+                            "stringId": "3334767210769485832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Just go already.",
+                            "maleVariant": "",
+                            "stringId": "3334767211054698504"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What more do you want? Just go!",
+                            "maleVariant": "",
+                            "stringId": "3373964188935843840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You psycho – you'll regret this!",
+                            "maleVariant": "",
+                            "stringId": "3373964408432160768"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

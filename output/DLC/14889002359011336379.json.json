@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.3532647Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\14889002359011336379.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sure it was shitty when Hansen was around, but it was a stable kind of shitty. But now...",
+                            "maleVariant": "",
+                            "stringId": "3262378959292440576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "It’s a total shitnado, man. The man held this entire place together.",
+                            "maleVariant": "",
+                            "stringId": "3318810310064726016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck... why do things always have to change for the worse?",
+                            "maleVariant": "",
+                            "stringId": "3318812457078611968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Think it will all collapse without him?",
+                            "maleVariant": "",
+                            "stringId": "3318817223569563648"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Time will tell... Things will change for sure. And for the worse, I think.",
+                            "maleVariant": "",
+                            "stringId": "3324349030163537920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "‘Cause that’s the one thing that never changes, choom.",
+                            "maleVariant": "",
+                            "stringId": "3324355560527093760"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

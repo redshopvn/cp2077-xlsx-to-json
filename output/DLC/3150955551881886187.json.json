@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.0656355Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\3150955551881886187.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What’s this? I need a thermal vision filter. This one’s night vision.",
+                            "maleVariant": "",
+                            "stringId": "3265285282258411520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "How am I supposed to know the difference?",
+                            "maleVariant": "",
+                            "stringId": "3304560713154338816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Better focus and start learning these things. I won’t be around forever, you know.",
+                            "maleVariant": "",
+                            "stringId": "3304561698916442112"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But I don't wanna sell drones. I wanna be an AV pilot!",
+                            "maleVariant": "",
+                            "stringId": "3304562467128385536"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And what will you do if the gyro malfunctions on your shiny AV?",
+                            "maleVariant": "",
+                            "stringId": "3304566284599336960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You gotta be able to rely on your skills or you won't survive in this city. Now quit yapping and pay attention.",
+                            "maleVariant": "",
+                            "stringId": "3304567669508186112"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

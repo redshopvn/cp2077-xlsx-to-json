@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:33.9010877Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\10655779426987789459.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A spokesperson for the agency stated the illegal operation\u0027s leader was located after agents infiltrated a Voodoo Boys gang cell in Dogtown.",
+              "maleVariant": "",
+              "stringId": "3388548255117402112"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The investigation eventually led NetWatch agents to Belgrade, where they arrested a local arms dealer known only as \u0022Boris Doe.\u0022",
+              "maleVariant": "",
+              "stringId": "3388549034586857472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Unofficial sources state the operation\u0027s success is largely due to information obtained from one of the extortionists\u0027 would-be victims. The victim\u0027s identity is being kept secret at this time.",
+              "maleVariant": "",
+              "stringId": "3434659853837443072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "NetWatch agents have broken up an international network of extortionists specializing in remote implant hacks.",
+              "maleVariant": "",
+              "stringId": "3434664854940983296"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Live from the WNS studio, I\u0027m Arif Iqbal with today\u0027s top stories.",
+              "maleVariant": "",
+              "stringId": "3434670680023932928"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

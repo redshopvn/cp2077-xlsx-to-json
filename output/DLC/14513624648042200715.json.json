@@ -1,0 +1,57 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.2774770Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\14513624648042200715.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So I’s having a drink, eating locust pepperoni pizza, watching Watson Whore re-runs... maxin’ relaxin’.",
+                            "maleVariant": "",
+                            "stringId": "3263623723627388928"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "When suddenly... BAM! Huge explosion, smoke, shattered glass everywhere... I jump up, thinking BARGHEST finally came for my old man...",
+                            "maleVariant": "",
+                            "stringId": "3276823300621639680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Buuut turns out, it was that presidential shuttle that done crashed.",
+                            "maleVariant": "",
+                            "stringId": "3276827254759792640"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mmm... sounds nova.",
+                            "maleVariant": "",
+                            "stringId": "3276830019292667904"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh. Right. Fucking chaos, that was.",
+                            "maleVariant": "",
+                            "stringId": "3276837285639135232"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

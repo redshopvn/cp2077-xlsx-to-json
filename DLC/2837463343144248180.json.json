@@ -1,0 +1,111 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:35.0117159Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\2837463343144248180.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Examine] Someone\u0027s tryin\u0027 to live here?",
+              "maleVariant": "",
+              "stringId": "3092608710846595072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Looks like it was a campsite. Someone tried living here?",
+              "maleVariant": "",
+              "stringId": "3092609873373446152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Solid structure, walls, roof over your head…",
+              "maleVariant": "",
+              "stringId": "3092630589175119892"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Smugglers\u0027 paradise. Nice, bustling den – till the guards showed up to \u0022secure\u0022 the place.",
+              "maleVariant": "Smugglers\u0027 paradise, a nice, bustling den – till the guards showed up to \u0022secure\u0022 the place.",
+              "stringId": "3092955607117479948"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Guess they\u0027re bustling somewhere else now.",
+              "maleVariant": "",
+              "stringId": "3092955607117479956"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ugh... been here a while, long enough to stop smelling, kinda.",
+              "maleVariant": "",
+              "stringId": "3101112363958026248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No pattin\u0027 the pockets, V – keep moving.",
+              "maleVariant": "",
+              "stringId": "3101113640855158784"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Chooms in charge of Dogtown did their best to zero the competition.",
+              "maleVariant": "",
+              "stringId": "3101586034896027660"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sure. You control the biz, the commerce, you control it all.",
+              "maleVariant": "",
+              "stringId": "3101586034896027672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sometimes that\u0027s all you need.",
+              "maleVariant": "",
+              "stringId": "3123156866060193792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Been here a while.",
+              "maleVariant": "",
+              "stringId": "3123222101899022336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Open]",
+              "maleVariant": "",
+              "stringId": "3140575113817055232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Markings here... No sign of looting.",
+              "maleVariant": "",
+              "stringId": "3162255091524657152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Check it out if you have to. Just hope it\u0027s not dud ordnance, doesn\u0027t explode.",
+              "maleVariant": "",
+              "stringId": "3162257789670088704"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

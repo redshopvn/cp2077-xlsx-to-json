@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:36.1954760Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\9024270565247558274.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Just look at that hotel. Meant to symbolize everything great about America.",
+                            "maleVariant": "",
+                            "stringId": "3263435729569947648"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You should be happy, though – we finally live in an apartment in a gated neighborhood. Just like you always wanted.",
+                            "maleVariant": "",
+                            "stringId": "3318753818192109568"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Instead, it’s the worst and the scummiest. Us.",
+                            "maleVariant": "",
+                            "stringId": "3318773957830631424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "To be fair, you did say our lives are gonna change when you took that start-up loan.",
+                            "maleVariant": "",
+                            "stringId": "3318775819766063104"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Celebrities rubbing elbows with businesspeople, politicians making deals... The best and brightest from the entire world!",
+                            "maleVariant": "",
+                            "stringId": "3318796350884143104"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh, honey. We don’t “live.” We survive. And this is not a North Oak penthouse, but a fucking squat.",
+                            "maleVariant": "",
+                            "stringId": "3318797336830795776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Suuure, blame me for the international crisis and raising the fucking interest rates.",
+                            "maleVariant": "",
+                            "stringId": "3318797803472281600"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,609 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.9788600Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\7803342735621309725.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V, my favorite merc. Splendid.",
+                            "maleVariant": "",
+                            "stringId": "2928832545452630016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ah, if it isn't V…",
+                            "maleVariant": "",
+                            "stringId": "3021453322456309760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yes, honey bunny? Dad’s working…",
+                            "maleVariant": "",
+                            "stringId": "3021532826327490560"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mhm? Now? I see... and what is it your mother can't help you with?",
+                            "maleVariant": "",
+                            "stringId": "3021539073357422592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Not to worry. I’ll find him the moment I get home. Can that be our deal?",
+                            "maleVariant": "",
+                            "stringId": "3080970752905842688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You've my word, sugarbear... Yeah... I love you, too. Buh-bye now.",
+                            "maleVariant": "",
+                            "stringId": "3080972255456530432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Let's table politics for now, huh? Go straight to biz.",
+                            "maleVariant": "",
+                            "stringId": "3205570052190355456"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Business... Of course…",
+                            "maleVariant": "",
+                            "stringId": "3205571854516338688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The shard – Black Sapphire info and blueprints, all nooks and crannies.",
+                            "maleVariant": "",
+                            "stringId": "3205613812169293824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Take shard] Thanks.",
+                            "maleVariant": "",
+                            "stringId": "3210514747423330308"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thanks, Hands.",
+                            "maleVariant": "",
+                            "stringId": "3210516364042309632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I only hope this won't mark the end of our collaboration. Truth be told, a few new assignments seem imminent…",
+                            "maleVariant": "",
+                            "stringId": "3210521391335084032"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Lemme guess – more local politico-gaming?",
+                            "maleVariant": "",
+                            "stringId": "3210522344029294592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And V – whatever happens at the Black Sapphire... make sure you come back alive, mh?",
+                            "maleVariant": "",
+                            "stringId": "3210525305493131264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Politics – couldn't care less.",
+                            "maleVariant": "",
+                            "stringId": "3298322135282487300"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Your father must get back to work now, OK? OK.",
+                            "maleVariant": "",
+                            "stringId": "3300311214480035840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Were I to have more virtuosos like you, I wager I'd have more than Dogtown in my grasp…",
+                            "maleVariant": "",
+                            "stringId": "3300412645618880512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "How's this gonna help you with Hansen?",
+                            "maleVariant": "",
+                            "stringId": "3300433914431148032"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Gigs you had me do… how'll they solve your Hansen sitch?",
+                            "maleVariant": "",
+                            "stringId": "3300435774017769472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Take a boxer. He can't knock out his opponent. What then? He goes to work on the body.",
+                            "maleVariant": "",
+                            "stringId": "3300437038617202688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Once his adversary's stamina wanes, he looks for his opening, connects fist with jaw.",
+                            "maleVariant": "",
+                            "stringId": "3300437823405035520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hope all that hard work won't go to waste.",
+                            "maleVariant": "",
+                            "stringId": "3300439740252295168"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Profit for me means profit for you – nothing simpler.",
+                            "maleVariant": "",
+                            "stringId": "3300441187958263808"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You may not know this, but I hasten to assure you no one has ever regretted doing business with me.",
+                            "maleVariant": "",
+                            "stringId": "3300441909244334080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sure hope this'll be worth my while.",
+                            "maleVariant": "",
+                            "stringId": "3300444166350311424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The Black Sapphire... Hansen’s stronghold, guarded by elite soldiers. Military quarters are situated on lower levels while top floors are a decadent haven for the ultra-rich.",
+                            "maleVariant": "",
+                            "stringId": "3300449037195546624"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The buiding's blueprint was not easily procured, I should say…",
+                            "maleVariant": "",
+                            "stringId": "3300450501410295808"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hansen guards his hotel's secrets as if they were an embarrassing rectal itch…",
+                            "maleVariant": "",
+                            "stringId": "3300451265797033984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But given a will, ways are usually found... You help a client of mine, they reciprocate and I gain latitude... Quid pro quo in full effect.",
+                            "maleVariant": "",
+                            "stringId": "3300451793725689856"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The building plans are yours. I'll even throw in vulnerabilities to watch for. A token of my appreciation.",
+                            "maleVariant": "",
+                            "stringId": "3300453296863580160"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And – though this goes without saying – the data, its source, are completely secure. No one knows you have it.",
+                            "maleVariant": "",
+                            "stringId": "3300465398890237952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Data leaks, or lack thereof, are the difference between myself and, say, the late Mr. DeShawn.",
+                            "maleVariant": "",
+                            "stringId": "3300465858753728512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sure.",
+                            "maleVariant": "",
+                            "stringId": "3302934803291336708"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Interest you in some tea? It's my own blend.",
+                            "maleVariant": "",
+                            "stringId": "3302934990239854592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No thanks.",
+                            "maleVariant": "",
+                            "stringId": "3302937047143313408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sure, why not.",
+                            "maleVariant": "",
+                            "stringId": "3302937572119179264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "'M good, thanks.",
+                            "maleVariant": "",
+                            "stringId": "3302938180343590912"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Great, but what about our deal?",
+                            "maleVariant": "",
+                            "stringId": "3305589817132322816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "'S all well and good chit-chattin', but what about our deal? Did my part – time you did yours.",
+                            "maleVariant": "",
+                            "stringId": "3305593126790500376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ah, indeed, yes…",
+                            "maleVariant": "",
+                            "stringId": "3305593126790500392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What you completed for me… significantly shifted the playing field vis-à-vis Hansen. Excellent work, precisely as requested.",
+                            "maleVariant": "",
+                            "stringId": "3346430687137894400"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Aim to undermine Hansen, run 'im outta D-town?",
+                            "maleVariant": "",
+                            "stringId": "3346453145874206724"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sounds like politics, the grimy kind.",
+                            "maleVariant": "",
+                            "stringId": "3346453571679948800"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Take it you'd prefer Dogtown with no Hansen at the helm.",
+                            "maleVariant": "",
+                            "stringId": "3346454306119356416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hansen wields much power, greedily so. He's also clever. These traits I tolerate, even value – when occurring in isolation.",
+                            "maleVariant": "",
+                            "stringId": "3346455287502606336"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But all at once? No. Especially not in one who grips an entire district in the palm of his hand. It makes business... trying.",
+                            "maleVariant": "",
+                            "stringId": "3346456962137198592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sounds like you're out to get your hands dirty in local politics. Pun intended.",
+                            "maleVariant": "",
+                            "stringId": "3346477253760520192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I trust it's all you need to waltz in and perform your planned pirouettes. Yet, a word of caution... Even fully prepared, you’ll be marching into a pit full of vipers. Watch your step.",
+                            "maleVariant": "",
+                            "stringId": "3346481268061769728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yes, well, Dogtown is a political arena like any other. It has its relations, arrangements, power struggles…",
+                            "maleVariant": "",
+                            "stringId": "3347685598534176768"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "A careless businessman might easily drown in the mud. Me – I prefer to stay dry.",
+                            "maleVariant": "",
+                            "stringId": "3347688245307772928"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Activity is abundant in Dogtown. And behind closed doors – plots and schemes.",
+                            "maleVariant": "",
+                            "stringId": "3347713588416614400"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Should change ever occur... as it inevitably must…",
+                            "maleVariant": "",
+                            "stringId": "3347714808405430272"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Someone really ought to pave the way for a smooth transition…",
+                            "maleVariant": "",
+                            "stringId": "3347716004872589312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Get up] Lookin' forward to those new gigs.",
+                            "maleVariant": "",
+                            "stringId": "3347717065544962052"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Get up] Preem to meet you in person.",
+                            "maleVariant": "",
+                            "stringId": "3347717517120507904"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Be lookin' forward to those new gigs, then.",
+                            "maleVariant": "",
+                            "stringId": "3347718367456923648"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nice meetin' you, finally pinnin' a face on the name.",
+                            "maleVariant": "",
+                            "stringId": "3347718446829932544"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You will hear from me soon, this I guarantee you.",
+                            "maleVariant": "",
+                            "stringId": "3347719789476974592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You should count yourself lucky. Few have done so and lived to tell the tale.",
+                            "maleVariant": "",
+                            "stringId": "3347721200608612352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You're going where local and international politics mix – strong currents, both.",
+                            "maleVariant": "",
+                            "stringId": "3347722363739443200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Make sure to plant my feet firmly, then. Later, Hands.",
+                            "maleVariant": "",
+                            "stringId": "3347724251578896384"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So, how did this combat zone become \"Dogtown\" – do you know?",
+                            "maleVariant": "",
+                            "stringId": "3353389181002977280"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dunno. Unification War?",
+                            "maleVariant": "",
+                            "stringId": "3353391647253729284"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Don't really care.",
+                            "maleVariant": "",
+                            "stringId": "3353393114119278592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Heard this 'n' that… Somethin' to do with the war?",
+                            "maleVariant": "",
+                            "stringId": "3353395279940423680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Twenty-sixty-nine. Colonel Hansen led an operation colorfully called \"Midnight Storm.\" The objective – to occupy this combat zone and establish an NUSA staging ground in Night City.",
+                            "maleVariant": "",
+                            "stringId": "3353397454234062848"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Soon after, the sides agreed to a ceasefire. Hansen's force was left to fend for itself. Headquarters, the public, everyone – feigned ignorance, pretending Hansen and company were never here.",
+                            "maleVariant": "",
+                            "stringId": "3353398688550621184"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But our good colonel decided to put down roots. He declared this combat zone an NUSA territory. In our terms, he carved out an enclave for himself and went from soldier to arms dealer overnight.",
+                            "maleVariant": "",
+                            "stringId": "3353405322211495936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Marooned, he was. Two weeks for a bullet to reach his brain, everyone thought. But his brain remained intact, and he became a force to be reckoned with.",
+                            "maleVariant": "",
+                            "stringId": "3353406976679874560"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dogtown, Pacifica, then I'd line up the rest, snort and it'd be done.",
+                            "maleVariant": "",
+                            "stringId": "3359355202868219904"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Working with bona fide professionals – positively a treat.",
+                            "maleVariant": "",
+                            "stringId": "3359355901035286528"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Didn’t expect a face-to-face with the elusive Mr. Hands.",
+                            "maleVariant": "",
+                            "stringId": "3359357067337011204"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "C'mon, Hands – flattery, really? Seems a little beneath you.",
+                            "maleVariant": "",
+                            "stringId": "3359371551074029568"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Maybe the one thing I didn't expect – to see the man behind the holo-curtain. The elusive Mr. Hands in the flesh.",
+                            "maleVariant": "",
+                            "stringId": "3359371597563695104"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "An overused tactic, agreed – unnecessary. No, V, this is strictly business.",
+                            "maleVariant": "",
+                            "stringId": "3359372495916503040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "For those who do their work well, praise is a mere restating of the facts.",
+                            "maleVariant": "",
+                            "stringId": "3359373000071843840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "A man whose existence is a threat to many is a dangerous man, indeed.",
+                            "maleVariant": "",
+                            "stringId": "3359386788460367872"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Flattery? Really?",
+                            "maleVariant": "",
+                            "stringId": "3359437264476311552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Sit and drink]",
+                            "maleVariant": "",
+                            "stringId": "3363515627715510276"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Not only did you rescue those clowns in blue, you also managed to eliminate Dodger.",
+                            "maleVariant": "",
+                            "stringId": "3478118900188471296"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Not only did you rescue those clowns in blue, you also managed to reach an accord with Dodger.",
+                            "maleVariant": "",
+                            "stringId": "3478142757137965060"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Despite some setbacks, you retrieved the Zetatech blueprints.",
+                            "maleVariant": "",
+                            "stringId": "3478143494731489288"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You retrieved the Zetatech blueprints… and the coveted prototype.",
+                            "maleVariant": "",
+                            "stringId": "3478143629536419840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Take shard] Was countin' on somethin' juicier.",
+                            "maleVariant": "",
+                            "stringId": "3479773786487787520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Honestly? Was countin' on more than hotel blueprints.",
+                            "maleVariant": "",
+                            "stringId": "3479775964388528128"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I have no doubt an industrious individual like yourself will make the best of them. The same goes for some new assignments I will line up for you soon.",
+                            "maleVariant": "",
+                            "stringId": "3479778289878437888"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Take shard] Was countin' on somethin' juicier.",
+                            "maleVariant": "",
+                            "stringId": "3479786304438407168"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You have proven to be a person I can trust. Hence my decision to drop the veil and meet in person. A rare occurrence, I assure you.",
+                            "maleVariant": "",
+                            "stringId": "3530329526100955136"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Calm, collected and professional. Bravo.",
+                            "maleVariant": "",
+                            "stringId": "3530388714994929664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Your head in the game throughout. Well done.",
+                            "maleVariant": "",
+                            "stringId": "3530389274716409856"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Not all prove willing and able to follow through no matter the cost. I respect that.",
+                            "maleVariant": "",
+                            "stringId": "3530389974292762624"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Making impossible decisions under immense pressure – an invaluable skill that few possess.",
+                            "maleVariant": "",
+                            "stringId": "3530390672996700160"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I know it may not seem all that clear from where you stand, but…",
+                            "maleVariant": "",
+                            "stringId": "3530402189112643584"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The gigs you have completed will allow me to audaciously shift some of the pawns and figures on the... chessboard that is Dogtown. Checkmate is but a few moves away.",
+                            "maleVariant": "",
+                            "stringId": "3530403085401853952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Knock]",
+                            "maleVariant": "",
+                            "stringId": "3559482698268753924"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Lookin' forward to those new gigs.",
+                            "maleVariant": "",
+                            "stringId": "3873950319433093132"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Preem to meet you in person.",
+                            "maleVariant": "",
+                            "stringId": "3873950319449870336"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,45 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.9414563Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\2345729202171809163.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022creo\u0022 o=\u0022Nou gen kèk nouvo pil pou mete ajou. Sipoze ajoute yon plas nan chak nan yo.\u0022 t=\u0022We got some new decks to overhaul. Supposed to add a slot to each of \u0027em.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "3373600396547960832"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022creo\u0022 o=\u0022MK-4s? Non, batri a pa ka kenbe li.\u0022 t=\u0022MK-4s? No, the power supply can\u0027t handle it.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "3395559913426341888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022creo\u0022 o=\u0022Di sa pou fout makak BARGHEST sa yo\u0022 t=\u0022Tell it to those those fuckin\u0027 BARGHEST gonks.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "3395560322454867968"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

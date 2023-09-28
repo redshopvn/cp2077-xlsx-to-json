@@ -1,0 +1,93 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.8484632Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\18367936123873080770.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Welcome, friend! Welcome to my humble shop!",
+                            "maleVariant": "",
+                            "stringId": "3339106262767611904"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What do you sell here?",
+                            "maleVariant": "",
+                            "stringId": "3344621014516215808"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You have a lot of… stuff.",
+                            "maleVariant": "",
+                            "stringId": "3344621014532993032"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Whaddaya slingin' here?",
+                            "maleVariant": "",
+                            "stringId": "3344621014633656340"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "A little bit of everything! What's lost is found, what's old becomes new, what I sell, you buy. Such is the circle of commercial life, am I right?",
+                            "maleVariant": "",
+                            "stringId": "3344621014650433536"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Quite the eclectic mess ya got here.",
+                            "maleVariant": "",
+                            "stringId": "3344621019549380632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "That I do, hahah. Back in Night City, it woulda driven me nuts, this much stuff. I used to keep everything real tidy.",
+                            "maleVariant": "",
+                            "stringId": "3344621019549380644"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What were you doin' in Night City?",
+                            "maleVariant": "",
+                            "stringId": "3344621019549380656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Journalist, N54 News. That is, until I wrote a story about the wrong person.",
+                            "maleVariant": "",
+                            "stringId": "3344621019549380668"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Victim of searchin' for the hard truth, huh?",
+                            "maleVariant": "A victim of searchin' for the hard truth, huh?",
+                            "stringId": "3344621019549380680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nah, more like bad timing and worse judgment. I made a dumb call and was punished for it. Well deserved.",
+                            "maleVariant": "",
+                            "stringId": "3344621019549380692"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

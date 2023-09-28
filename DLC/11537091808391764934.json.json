@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:33.9893441Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\11537091808391764934.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "My daughter has already signed her contract. Now, I’m just waiting for the money transfer. What about your son? Dr. Fiona saw him yet?",
+              "maleVariant": "",
+              "stringId": "3276629899906048000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, did I mention that she’s a soccer player now? About to turn pro.",
+              "maleVariant": "",
+              "stringId": "3349532687103004672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well that’s not good. I heard you get injured a lot in soccer.",
+              "maleVariant": "",
+              "stringId": "3349532935288360960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That’s just hearsay. It’s not that bad.",
+              "maleVariant": "",
+              "stringId": "3349533219712503808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Besides, nobody watches soccer in the NUSA and European sports don’t pay as much.",
+              "maleVariant": "",
+              "stringId": "3349534597944020992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh they--they do pay, alright? We’ll finally get out of here, for sure.",
+              "maleVariant": "",
+              "stringId": "3349535049687339008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I really do hope so. Fingers crossed!",
+              "maleVariant": "",
+              "stringId": "3349535458413875200"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

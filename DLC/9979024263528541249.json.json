@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:36.3733658Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\9979024263528541249.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I know you are in Night City. And in good health, no more biochip in your head. Congratulations, V.",
+              "maleVariant": "",
+              "stringId": "3439073347535806464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Much time has passed. I did not know what to tell you. I needed the words of old samurai. He expressed my thoughts – good, strong medicine is bitter to the mouth.",
+              "maleVariant": "",
+              "stringId": "3449280753403936768"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "When you disappeared, I and Hanako-sama confronted Yorinobu, his allies. We tried to capture Arasaka Tower.",
+              "maleVariant": "",
+              "stringId": "3449280847909994496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We could not, they were strong. Hanako-sama is dead. I am called her murderer. I have been hiding for two years.",
+              "maleVariant": "",
+              "stringId": "3449280938070753280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "My life is now the trash heap where I found you. I wish for you to know this.",
+              "maleVariant": "",
+              "stringId": "3449281046971662336"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You were very strong medicine, V.",
+              "maleVariant": "",
+              "stringId": "3449281365319335936"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

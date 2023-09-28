@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.8126381Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\18075890728618318154.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "'Ey, holy shit! Look at him!",
+                            "maleVariant": "",
+                            "stringId": "3272461889798447104"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nah, scan his hand! My choom had that exact same chrome! Shit, even the same dents 'n' scratches...",
+                            "maleVariant": "",
+                            "stringId": "3272464895738683392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So it's second-hand. Aheh.",
+                            "maleVariant": "",
+                            "stringId": "3272465455711821824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah? Dead body, preem.",
+                            "maleVariant": "",
+                            "stringId": "3307295868000313344"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wait, no... the fuck? \"D\"... \"L\"... Don Laspisa! It's his initials! Choom, it's Don's, was there when he acid-carved 'em!",
+                            "maleVariant": "",
+                            "stringId": "3307299847253958656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ugh, this place gives me the creeps. Oughta just burn it down, call it a day.",
+                            "maleVariant": "",
+                            "stringId": "3307300949936480256"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

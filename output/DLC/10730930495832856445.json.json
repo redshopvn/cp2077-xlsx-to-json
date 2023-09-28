@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:33.9117362Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\10730930495832856445.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Un rifle soviético? A huevo. Lo mismo atraviesa cemento armado que un chaleco de kevlar.\" t=\"A Soviet rifle? Great choice. It will go through reinforced concrete like butter, not to mention a kevlar jacket.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "3265124318360182784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"Los servicios profesionales valen extra.\" t=\"Professional services cost extra.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "3288297879030374400"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All you need to do now is find me someone who knows how to use it.",
+                            "maleVariant": "",
+                            "stringId": "3385554126338695168"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thirty percent and my gratitude in advance. The rest after the job’s done. I will send the target deets using an encrypted connection 24 hours before the op.",
+                            "maleVariant": "",
+                            "stringId": "3386797673956155392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"Tu gratitud es lo único que me importa.\" t=\"Your gratitude is what really matters to me.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "3386804945906212864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Cuántas balas para el rifle?\" t=\"How many bullets for the rifle?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "3386812113032224768"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "One.",
+                            "maleVariant": "",
+                            "stringId": "3386813375349956608"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

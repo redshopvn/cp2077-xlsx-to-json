@@ -1,0 +1,87 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.8244204Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\18120325864515347048.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Peddlin\u0027 anything?",
+              "maleVariant": "",
+              "stringId": "3368007419673047044"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Like bein\u0027 a nomad? Relations all right?",
+              "maleVariant": "",
+              "stringId": "3368007610698428416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How\u0027s things? Hawkin\u0027 your tech out here, or did ya leave everything behind in NC?",
+              "maleVariant": "How\u0027s things? Hawkin\u0027 your tech out here, or d\u0027ya leave everything behind in NC?",
+              "stringId": "3368009868274167808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How ya like bein\u0027 an Aldecaldo? Gettin\u0027 along with peeps?",
+              "maleVariant": "",
+              "stringId": "3368010296562937856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, you know, in the beginning it was, uh… hard. They did not trust me, they thought I would make trouble rain down on them.",
+              "maleVariant": "",
+              "stringId": "3368011467713277952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I had to leave most of my treasures behind, but… but not all. Have a look.",
+              "maleVariant": "",
+              "stringId": "3368013399240601600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But when they heard you sent me, they began to treat me as their own. These are good people, V. I thank you.",
+              "maleVariant": "",
+              "stringId": "3368058812509646848"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V! Y-you – you here?!",
+              "maleVariant": "",
+              "stringId": "3368069285971947520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, Chang-Hoon.",
+              "maleVariant": "",
+              "stringId": "3368070579394637824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It is good to see you, my friend.",
+              "maleVariant": "",
+              "stringId": "3368070807279562752"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

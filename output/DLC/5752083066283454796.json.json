@@ -1,0 +1,1299 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.6514474Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\5752083066283454796.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sheesh, looks like a kinda museum…",
+                            "maleVariant": "Huh... looks like a kinda museum…",
+                            "stringId": "3028823842012815360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Heh. The Museum of Wishful Thinking.",
+                            "maleVariant": "",
+                            "stringId": "3039104178474803200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Damn... There's no way around this?",
+                            "maleVariant": "",
+                            "stringId": "3040279700638621696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Force open] Let's try together.",
+                            "maleVariant": "",
+                            "stringId": "3040297841187971076"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Work, goddammit!",
+                            "maleVariant": "",
+                            "stringId": "3040442789472329728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Got a surprise for our guests. Makin' the final adjustments now...",
+                            "maleVariant": "",
+                            "stringId": "3040453129656426496"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Could use an update, Song!",
+                            "maleVariant": "",
+                            "stringId": "3040479219703701504"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And... we're clear. I detect no more -- Oh... God…",
+                            "maleVariant": "",
+                            "stringId": "3040484079593414656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "On your feet! Run!",
+                            "maleVariant": "",
+                            "stringId": "3040576367015321600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Myers – we gotta engage 'em. Song's on the case.",
+                            "maleVariant": "",
+                            "stringId": "3044947595415085056"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey… bad news this time. Hansen's dogs caught your scent, assault incoming.",
+                            "maleVariant": "",
+                            "stringId": "3044947911313285120"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Songbird?! What's with you?!",
+                            "maleVariant": "",
+                            "stringId": "3048967140970684416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What the hell is going on, V?!",
+                            "maleVariant": "",
+                            "stringId": "3048967563672641536"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Through here!",
+                            "maleVariant": "",
+                            "stringId": "3048988275934322688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Open]",
+                            "maleVariant": "",
+                            "stringId": "3048992444854394884"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Up here! Escalator, go!",
+                            "maleVariant": "",
+                            "stringId": "3049028862603517952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Elevator on the way!",
+                            "maleVariant": "",
+                            "stringId": "3049051665490862080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Move it!",
+                            "maleVariant": "",
+                            "stringId": "3049277211990646784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Elevator!",
+                            "maleVariant": "",
+                            "stringId": "3050356501150785536"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Jump inside, go!",
+                            "maleVariant": "",
+                            "stringId": "3050356993327194112"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Open]",
+                            "maleVariant": "",
+                            "stringId": "3050358404811153412"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Agh!",
+                            "maleVariant": "",
+                            "stringId": "3050378155402813440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Where the rich bought and sold so many unfulfilled dreams.",
+                            "maleVariant": "",
+                            "stringId": "3069253172664295424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Time to roll up your sleeves.",
+                            "maleVariant": "",
+                            "stringId": "3069430997463687168"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Songbird, got a sitch. Can you jimmy the door?",
+                            "maleVariant": "",
+                            "stringId": "3069468002331484160"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V!",
+                            "maleVariant": "",
+                            "stringId": "3069508890638245888"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You're not dyin' on me today!",
+                            "maleVariant": "",
+                            "stringId": "3069515720307335168"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nope... guess not…",
+                            "maleVariant": "",
+                            "stringId": "3069516363277361152"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Right. Good.",
+                            "maleVariant": "",
+                            "stringId": "3069516868623884288"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We take it out?",
+                            "maleVariant": "",
+                            "stringId": "3069517419252113408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The fall did. About time we caught a break.",
+                            "maleVariant": "",
+                            "stringId": "3069517565431996416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ugh… can't stay here.",
+                            "maleVariant": "",
+                            "stringId": "3069518011169071104"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "That thing dead?",
+                            "maleVariant": "",
+                            "stringId": "3069527982539628548"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You OK? Injured at all?",
+                            "maleVariant": "",
+                            "stringId": "3069528468558798848"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You all right?",
+                            "maleVariant": "",
+                            "stringId": "3069531888107741184"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Think I borked a rib.",
+                            "maleVariant": "",
+                            "stringId": "3069532356645052416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Think I mighta cracked a rib.",
+                            "maleVariant": "",
+                            "stringId": "3069532551277535232"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "That's all? Pff, you'll walk it off.",
+                            "maleVariant": "",
+                            "stringId": "3069542019381944320"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nothin' serious. I got lucky.",
+                            "maleVariant": "",
+                            "stringId": "3069543346610724864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Motherfucker! Will you just die?!",
+                            "maleVariant": "",
+                            "stringId": "3070733102665261056"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Still quite a sight.",
+                            "maleVariant": "",
+                            "stringId": "3082305534119206916"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You know this place?",
+                            "maleVariant": "",
+                            "stringId": "3082305819113775104"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Buildin' seems to be in good shape. For Dogtown at least.",
+                            "maleVariant": "",
+                            "stringId": "3082312351071166464"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You been here before?",
+                            "maleVariant": "",
+                            "stringId": "3082312382696218624"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So quiet I can hear my chrome creak…",
+                            "maleVariant": "",
+                            "stringId": "3082448901687828480"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Quiet's a good sign.",
+                            "maleVariant": "",
+                            "stringId": "3082457177905258496"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V, no!",
+                            "maleVariant": "",
+                            "stringId": "3084048031962980352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Want some good news? Not detectin' any hostiles in the area.",
+                            "maleVariant": "",
+                            "stringId": "3092647630246092800"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Don't desert me!",
+                            "maleVariant": "",
+                            "stringId": "3113123663309004804"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V!",
+                            "maleVariant": "",
+                            "stringId": "3113123697366753288"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V!",
+                            "maleVariant": "",
+                            "stringId": "3114248582151364636"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Strange, isn't it? Maybe Hansen found some rich fools to fund his whims.",
+                            "maleVariant": "",
+                            "stringId": "3115720314735403008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Not quite. The place was built with Militech money. I was supposed to cut the ribbon on the opening day.",
+                            "maleVariant": "",
+                            "stringId": "3115722136137080832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Y'think so…?",
+                            "maleVariant": "",
+                            "stringId": "3115768195014041600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I generally prefer lively places.",
+                            "maleVariant": "",
+                            "stringId": "3115772965867069440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "It's bearin' down!",
+                            "maleVariant": "",
+                            "stringId": "3150647035244666880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "It's reloading! Now's our chance!",
+                            "maleVariant": "",
+                            "stringId": "3151939531379859456"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Up there! Elevator!",
+                            "maleVariant": "",
+                            "stringId": "3204110699947454472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "God Almighty, it's moving!",
+                            "maleVariant": "",
+                            "stringId": "3205678595240714240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Meet the Chimera – a combat prototype from Militech's stables.",
+                            "maleVariant": "",
+                            "stringId": "3205679282368372736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No need. Three, two, one…! Urgh!",
+                            "maleVariant": "",
+                            "stringId": "3206960366926258176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All right!",
+                            "maleVariant": "",
+                            "stringId": "3207160812429205504"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wonder what he's got stashed in here...",
+                            "maleVariant": "",
+                            "stringId": "3213027157396004864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Something as dangerous as it is illegal?",
+                            "maleVariant": "",
+                            "stringId": "3213029117494927360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Huh. One of Hansen's warehouses, it seems.",
+                            "maleVariant": "",
+                            "stringId": "3213044244621402112"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Well, well, impressive...",
+                            "maleVariant": "",
+                            "stringId": "3223123831294550056"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "\"A bright future – with the right financing.\"",
+                            "maleVariant": "",
+                            "stringId": "3223123831294550068"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But wars scare off investors.",
+                            "maleVariant": "",
+                            "stringId": "3223123831294550092"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wars don't happen out of the blue. This – no exception, orders were issued.",
+                            "maleVariant": "",
+                            "stringId": "3223123831311327236"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So Militech sank money into Dogtown, too?",
+                            "maleVariant": "",
+                            "stringId": "3223123839263727652"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "It was an urban renewal effort designed to curb Arasaka's growing influence. Militech backed most of the projects.",
+                            "maleVariant": "",
+                            "stringId": "3223123839280504832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Whale of a building. What is it?",
+                            "maleVariant": "",
+                            "stringId": "3223123843206373400"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "A gilded monument to a certain someone's bloated ego.",
+                            "maleVariant": "",
+                            "stringId": "3223123843206373412"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Shit! Missiles incoming!",
+                            "maleVariant": "",
+                            "stringId": "3231549641846005760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Faster!",
+                            "maleVariant": "",
+                            "stringId": "3237764675613859840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "C'mon, V!",
+                            "maleVariant": "",
+                            "stringId": "3237765581298311176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ah, shit!",
+                            "maleVariant": "",
+                            "stringId": "3237767421322698752"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh shit!",
+                            "maleVariant": "",
+                            "stringId": "3237776214597148680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Not good, not good!",
+                            "maleVariant": "",
+                            "stringId": "3237776797823508480"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Agh!",
+                            "maleVariant": "",
+                            "stringId": "3237778338424922124"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck!",
+                            "maleVariant": "",
+                            "stringId": "3237778976160456708"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "N-noo...",
+                            "maleVariant": "",
+                            "stringId": "3237783215796494344"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V, catch!",
+                            "maleVariant": "",
+                            "stringId": "3237783958171525120"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nicely done! Good fucking riddance.",
+                            "maleVariant": "",
+                            "stringId": "3237788814772903944"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Over there! Over there!",
+                            "maleVariant": "",
+                            "stringId": "3245125192865116168"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No prisoners!",
+                            "maleVariant": "",
+                            "stringId": "3246209033180639240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wha - what the fuck is that?!",
+                            "maleVariant": "",
+                            "stringId": "3246313662761496584"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Who the fuck woke that thing?!",
+                            "maleVariant": "",
+                            "stringId": "3246314788126814216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "It's on our side! ...I-I think!",
+                            "maleVariant": "",
+                            "stringId": "3246315088606752776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bring it on!",
+                            "maleVariant": "",
+                            "stringId": "3246316156359110664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "On paper, urban renewal. Under that cover, military infrastructure development.",
+                            "maleVariant": "",
+                            "stringId": "3247637295580864512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "This way, quick!",
+                            "maleVariant": "",
+                            "stringId": "3247714176518873088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Do you have a deathwish?!",
+                            "maleVariant": "",
+                            "stringId": "3247714525333970944"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Over here!",
+                            "maleVariant": "",
+                            "stringId": "3247717746525888512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Startin' to heat up in here, Songbird!",
+                            "maleVariant": "",
+                            "stringId": "3255228935824568324"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Working on it. Hold on tight.",
+                            "maleVariant": "",
+                            "stringId": "3255234472154853376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Almost there, still melting ICE for override.",
+                            "maleVariant": "",
+                            "stringId": "3255290141625118720"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Aim where it hurts!",
+                            "maleVariant": "",
+                            "stringId": "3257871062920425480"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Aim for its weak bits!",
+                            "maleVariant": "",
+                            "stringId": "3257871067081175052"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Armor's thinnest at the joints!",
+                            "maleVariant": "",
+                            "stringId": "3257876565528506380"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Scan it, V! Spot the gaps in the armor!",
+                            "maleVariant": "",
+                            "stringId": "3257877519363567628"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah! That's right! We got it!",
+                            "maleVariant": "",
+                            "stringId": "3257897592379764744"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Shit! Not dead yet! Look alive!",
+                            "maleVariant": "",
+                            "stringId": "3257900639642284040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tech drones! Don't let 'em gussy up the fat one!",
+                            "maleVariant": "",
+                            "stringId": "3257902027654918148"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ground those fucking drones!",
+                            "maleVariant": "",
+                            "stringId": "3257902180143034372"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Concentrate your fire on the drones! I'll cover you!",
+                            "maleVariant": "",
+                            "stringId": "3257902321809846280"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Scrap those flying toasters NOW!",
+                            "maleVariant": "",
+                            "stringId": "3257902988402192392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Look out! It could explode!",
+                            "maleVariant": "",
+                            "stringId": "3257923527523004420"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Keep moving! Don't be a sittin' target!",
+                            "maleVariant": "",
+                            "stringId": "3257929061118603272"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Watch out! Barrage coming!",
+                            "maleVariant": "",
+                            "stringId": "3257929062058127364"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "It's taking aim! Don't stop!",
+                            "maleVariant": "",
+                            "stringId": "3257929062880210952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Drop the bastard! Hit the exposed bits! It's our only chance!",
+                            "maleVariant": "",
+                            "stringId": "3258071732835414024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But abandon all hope of hearin' a word of truth.",
+                            "maleVariant": "",
+                            "stringId": "3272518869147033600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Heh… takes one to know one…",
+                            "maleVariant": "",
+                            "stringId": "3272522741496258560"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Myers, get in!",
+                            "maleVariant": "",
+                            "stringId": "3276728934152364032"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Watch the laser!",
+                            "maleVariant": "",
+                            "stringId": "3278409968579354624"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Toxic gas! Up, jump up!",
+                            "maleVariant": "",
+                            "stringId": "3278411930037231624"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The fall wrecked it! Let's go! Kick this tin can to hell!",
+                            "maleVariant": "",
+                            "stringId": "3285206692570423296"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "There has to be an exit here, somewhere…",
+                            "maleVariant": "",
+                            "stringId": "3285339387698962432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Don't get fried!",
+                            "maleVariant": "",
+                            "stringId": "3287182167440203784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Finish it]",
+                            "maleVariant": "",
+                            "stringId": "3294218235261837316"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Give it a taste!",
+                            "maleVariant": "",
+                            "stringId": "3294226470693855232"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "God fucking dammit!",
+                            "maleVariant": "",
+                            "stringId": "3297266459988029444"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Give it space!",
+                            "maleVariant": "",
+                            "stringId": "3298362680362233864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Don't get crushed! Keep moving!",
+                            "maleVariant": "",
+                            "stringId": "3298362886990426120"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Step away from it!",
+                            "maleVariant": "",
+                            "stringId": "3298363053621735432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Through here, V!",
+                            "maleVariant": "",
+                            "stringId": "3298580957294321664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What? \"Oh God\" what?",
+                            "maleVariant": "",
+                            "stringId": "3302419620300169216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck, fuck, fuck, fuck…!",
+                            "maleVariant": "",
+                            "stringId": "3302420278923337728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Let's see what this beaut can do.",
+                            "maleVariant": "",
+                            "stringId": "3302426849552211968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Rust in piss, shitbot!",
+                            "maleVariant": "",
+                            "stringId": "3302966490334322688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Know the type.",
+                            "maleVariant": "",
+                            "stringId": "3336371113721962496"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Uh-huh. Seen my fill of gonk-magnet ventures like this.",
+                            "maleVariant": "",
+                            "stringId": "3336371632054050816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Huh, in a past life? What was it – real estate? Entertainment?",
+                            "maleVariant": "",
+                            "stringId": "3336375651203915776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Arasaka, actually. Research and development, broadly speaking. Specializing in... \"data acquisition.\"",
+                            "maleVariant": "",
+                            "stringId": "3336376989086228480"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Quaint name for corporate espionage.",
+                            "maleVariant": "",
+                            "stringId": "3336382404905771008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Quaint indeed.",
+                            "maleVariant": "",
+                            "stringId": "3336394190832902144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Songbird's givin' us green for this place. We're good to go.",
+                            "maleVariant": "",
+                            "stringId": "3336400425330253824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Grab what you can. And let's head out.",
+                            "maleVariant": "",
+                            "stringId": "3339101513888145408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Grab cables]",
+                            "maleVariant": "",
+                            "stringId": "3344837991949754372"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Roll]",
+                            "maleVariant": "",
+                            "stringId": "3344840583996071940"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Jump]",
+                            "maleVariant": "",
+                            "stringId": "3344860805708734468"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What now?!",
+                            "maleVariant": "",
+                            "stringId": "3344862441185304576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V! No!",
+                            "maleVariant": "",
+                            "stringId": "3346257740130770968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They must've geolocated the car you jacked.",
+                            "maleVariant": "",
+                            "stringId": "3356439702059458560"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "That's not what it was called then, but yes.",
+                            "maleVariant": "",
+                            "stringId": "3360807297906556928"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What in the living fuck--?!",
+                            "maleVariant": "",
+                            "stringId": "3367102869494132744"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Who's controlling the thing?!",
+                            "maleVariant": "",
+                            "stringId": "3367103670371315712"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Huuh… this don't look good!",
+                            "maleVariant": "",
+                            "stringId": "3367103836901961736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Watch out!",
+                            "maleVariant": "",
+                            "stringId": "3367104089164181508"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Juuust about there!",
+                            "maleVariant": "",
+                            "stringId": "3457678013282934784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Seventy percent…",
+                            "maleVariant": "",
+                            "stringId": "3459501750598606848"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ninety…",
+                            "maleVariant": "",
+                            "stringId": "3459502556911607808"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Aaand… done!",
+                            "maleVariant": "",
+                            "stringId": "3459502973355663360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chimera… argh… losing… control!",
+                            "maleVariant": "",
+                            "stringId": "3479504980841701376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dunno, Song's havin' a fit or somethin'!",
+                            "maleVariant": "",
+                            "stringId": "3479592024544747520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Are you mobile?",
+                            "maleVariant": "",
+                            "stringId": "3479859050513276928"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "\"Safeguarding the nation\"– my ass…",
+                            "maleVariant": "",
+                            "stringId": "3479872591890849792"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Son of a bitch went haywire!",
+                            "maleVariant": "",
+                            "stringId": "3483991658096599040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "For fuck's sake, So Mi! Slap a muzzle on the thing!",
+                            "maleVariant": "",
+                            "stringId": "3483997317504540672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Eh… Phew! Close call, that. Heh, good teamwork.",
+                            "maleVariant": "",
+                            "stringId": "3484039258279616512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And luck… A pile of luck, V.",
+                            "maleVariant": "",
+                            "stringId": "3484047167780659200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You probably got spotted outside. Either way – get ready.",
+                            "maleVariant": "",
+                            "stringId": "3488451687799414784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Take cover! Pepper it, elevator on its way!",
+                            "maleVariant": "",
+                            "stringId": "3490023107782352896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Where brains fail, brawn prevails. Shall we?",
+                            "maleVariant": "",
+                            "stringId": "3521653377239179264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Call elevator] Come on!",
+                            "maleVariant": "",
+                            "stringId": "3527508803711246348"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Elevator on the way! Stay low till it gets here!",
+                            "maleVariant": "",
+                            "stringId": "3527509440507256832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuckin' move, dammit!",
+                            "maleVariant": "",
+                            "stringId": "3527530886235267072"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "There, got it!",
+                            "maleVariant": "",
+                            "stringId": "3527531578194763776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Call elevator] Let's get outta here.",
+                            "maleVariant": "",
+                            "stringId": "3540537398813630468"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "OK, here goes…",
+                            "maleVariant": "",
+                            "stringId": "3540540105884540928"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Uhh…",
+                            "maleVariant": "",
+                            "stringId": "3540541745203093504"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V… do you hear that?",
+                            "maleVariant": "",
+                            "stringId": "3540543153247723520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Keep 'em busy for a sec. Need that.",
+                            "maleVariant": "",
+                            "stringId": "3540553904037404672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And spoil the surprise? No, no. no.",
+                            "maleVariant": "",
+                            "stringId": "3540565853945044992"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Songbird, hell's goin' on?",
+                            "maleVariant": "Songbird, the hell's goin' on?",
+                            "stringId": "3540567961498918912"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Holy, jolly shit!",
+                            "maleVariant": "",
+                            "stringId": "3540570242025889792"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V! You OK there?!",
+                            "maleVariant": "",
+                            "stringId": "3540581195618557952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hangin' in!",
+                            "maleVariant": "",
+                            "stringId": "3540582281154764800"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hang in there!",
+                            "maleVariant": "",
+                            "stringId": "3540583512854077440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'm gonna strangle you, So Mi! You're done!",
+                            "maleVariant": "",
+                            "stringId": "3540584382299742208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bring it, motherfucker!",
+                            "maleVariant": "",
+                            "stringId": "3540585924545323008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Head for the elevator, just across the room.",
+                            "maleVariant": "",
+                            "stringId": "3540595714755502080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Gotta find an elevator, other side of the room.",
+                            "maleVariant": "Gotta find an elevator. Other side of the room.",
+                            "stringId": "3540596713134071808"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Locking on target.",
+                            "maleVariant": "",
+                            "stringId": "3540645459452600320"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The sucker's gonna blow! Kill it, now!",
+                            "maleVariant": "",
+                            "stringId": "3552212563972694016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Jump on top and finish it, V!",
+                            "maleVariant": "",
+                            "stringId": "3552215497032704016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Loose hatch, V! Now or never! Send it to the scrapyard!",
+                            "maleVariant": "",
+                            "stringId": "3552216620049211404"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And voilà!",
+                            "maleVariant": "",
+                            "stringId": "3562213358914871296"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Shit, bastards caught up to us again!",
+                            "maleVariant": "",
+                            "stringId": "3562246705913372672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Songbird…?",
+                            "maleVariant": "",
+                            "stringId": "3562251125736710144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What now?!...",
+                            "maleVariant": "",
+                            "stringId": "3562252567285440512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You wanna play rough? I'll show you rough!",
+                            "maleVariant": "",
+                            "stringId": "3611383594322599936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Come on, you sonuva bitch! Face me!",
+                            "maleVariant": "",
+                            "stringId": "3611393057007968260"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Feel free to ask her 'bout those exhibits. Reeaally wonder what she'll say.",
+                            "maleVariant": "",
+                            "stringId": "3620073431347077120"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "There's the Rosalind Myers I know. Never a shadow of accountability.",
+                            "maleVariant": "",
+                            "stringId": "3620079336390238208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Shit, the turret! Head low!",
+                            "maleVariant": "",
+                            "stringId": "3679528050569355264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Get ready for a barrage!",
+                            "maleVariant": "",
+                            "stringId": "3679531156636016652"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Turret's active, seek cover!",
+                            "maleVariant": "",
+                            "stringId": "3679532992365436944"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mhm, on it... Ugh, the lock jammed. Gotta brute force it, V.",
+                            "maleVariant": "",
+                            "stringId": "3726503602182004736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Shoot the cable]",
+                            "maleVariant": "",
+                            "stringId": "3728860244397613060"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Little help, Song?",
+                            "maleVariant": "",
+                            "stringId": "3743586799086559236"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Call elevator]",
+                            "maleVariant": "",
+                            "stringId": "3841011279892684800"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wanna play rough? Gonna get rough.",
+                            "maleVariant": "",
+                            "stringId": "3860859798937772032"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Heh...",
+                            "maleVariant": "",
+                            "stringId": "3873644131146637312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Shit... Not good...",
+                            "maleVariant": "",
+                            "stringId": "3943611946083803136"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck.",
+                            "maleVariant": "",
+                            "stringId": "3946736749607116800"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'ma fucking destroy you.",
+                            "maleVariant": "",
+                            "stringId": "3946738772150837248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Outta the line of fire!",
+                            "maleVariant": "",
+                            "stringId": "3965160078646960128"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hide or you'll get hit!",
+                            "maleVariant": "",
+                            "stringId": "3965161057899503616"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Watch it!",
+                            "maleVariant": "",
+                            "stringId": "3965161643977990144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "'Ey! Watch out!",
+                            "maleVariant": "",
+                            "stringId": "3965162329746694144"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

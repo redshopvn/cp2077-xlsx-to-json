@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:36.2895964Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\9494421346100994610.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Let\u0027s keep this professional.",
+              "maleVariant": "",
+              "stringId": "3334677280395431944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Allow me to finish, please.",
+              "maleVariant": "",
+              "stringId": "3334677280428986376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Let\u0027s not make this any longer than it needs to be, shall we?",
+              "maleVariant": "",
+              "stringId": "3334677280496095240"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It\u0027s an uncomfortable situation. Let\u0027s not prolong it.",
+              "maleVariant": "",
+              "stringId": "3334677280529649672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well then?",
+              "maleVariant": "",
+              "stringId": "3334677280563204104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I\u0027m listening.",
+              "maleVariant": "",
+              "stringId": "3334677280596758536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Just leave, please.",
+              "maleVariant": "",
+              "stringId": "3334677280865193992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Please be careful.",
+              "maleVariant": "",
+              "stringId": "3334677281066520584"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

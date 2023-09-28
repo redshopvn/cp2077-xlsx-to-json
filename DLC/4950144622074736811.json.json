@@ -1,0 +1,51 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:35.4274815Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\4950144622074736811.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "My dear V, how would you like to do a good deed, earn a quick eurobuck over what you usually earn - a piece of hot lead in the gut?",
+              "maleVariant": "",
+              "stringId": "3121582665000267776"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "A terrorist organization - the Crimson Harvest - plans to detonate a bomb at Biotechnica\u0027s HQ in Berlin.",
+              "maleVariant": "",
+              "stringId": "3192683328815476736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I know that because Nele Springer, my client, is one of them. She needs your help foiling the plot.",
+              "maleVariant": "",
+              "stringId": "3223022430151155712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Interested? See the attachment for details.",
+              "maleVariant": "",
+              "stringId": "3223022977776263168"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

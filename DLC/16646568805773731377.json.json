@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.5770797Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\16646568805773731377.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, wait a minute... Don’t I know you from somewhere?",
+              "maleVariant": "",
+              "stringId": "3266345156841381888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Don’t think so, friend.",
+              "maleVariant": "",
+              "stringId": "3288593626401513472"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, yeah! Your face used to be all over the wanted fugitive BBS! You got some balls to parade in the open like that, choom!",
+              "maleVariant": "",
+              "stringId": "3288594216808521728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027re confusing me with someone else.",
+              "maleVariant": "",
+              "stringId": "3288598577005633536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You have to tell me how you rewired that elevator to send the Militech unit through the roof! Please! Greatest stunt of all time!",
+              "maleVariant": "",
+              "stringId": "3288599268277264384"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I really don’t know what you’re talking about. I’m just an electrician. You better leave it at that.",
+              "maleVariant": "",
+              "stringId": "3288606010671276032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Right...",
+              "maleVariant": "",
+              "stringId": "3294262674128805888"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

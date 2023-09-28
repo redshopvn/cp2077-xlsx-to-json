@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.3517503Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\14801873327772890805.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Final question. On May sixteenth of last year, Eric Maldonado contacted you by holocall.",
+                            "maleVariant": "",
+                            "stringId": "3346312412177715200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "During your conversation, he admitted that Hector Sacristán shot and killed Marcos Ferreira.",
+                            "maleVariant": "",
+                            "stringId": "3346316724777865216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Can you confirm this is what Eric told you?",
+                            "maleVariant": "",
+                            "stringId": "3346325868780015616"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I... yes. Yes, I confirm.",
+                            "maleVariant": "",
+                            "stringId": "3346325992511983616"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Excellent, thank you. That will be all.",
+                            "maleVariant": "",
+                            "stringId": "3346326654457040896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "He also stated that Sacristán ordered Ferreira's body to be dumped in the Coronado Bay.",
+                            "maleVariant": "",
+                            "stringId": "3347845173229211648"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

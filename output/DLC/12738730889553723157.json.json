@@ -1,0 +1,555 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.1028108Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\12738730889553723157.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All units in the area - reports of additional suspicious activity.",
+                            "maleVariant": "",
+                            "stringId": "3347688199101755392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All units in the area - suspicious activity reported in City Center.",
+                            "maleVariant": "",
+                            "stringId": "3347688199638626308"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All units in the area - we have an urgent situation in Westbrook.",
+                            "maleVariant": "",
+                            "stringId": "3347688199722512388"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All available units: emergency backup requested in Heywood.",
+                            "maleVariant": "",
+                            "stringId": "3347688199806398468"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "To all nearby units: suspicious activity reported in Pacifica.",
+                            "maleVariant": "",
+                            "stringId": "3347688199907061764"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All units in the area - disorderly conduct reported in Watson.",
+                            "maleVariant": "",
+                            "stringId": "3347688199990947844"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All units in Santo Domingo - a crime has been reported.",
+                            "maleVariant": "",
+                            "stringId": "3347688200074833924"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Confirming suspect is on foot.",
+                            "maleVariant": "",
+                            "stringId": "3347688200158720004"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Suspect was last seen driving a vehicle. Transmitting further details.",
+                            "maleVariant": "",
+                            "stringId": "3347688200209051652"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All nearby units - a new disturbance has been reported.",
+                            "maleVariant": "",
+                            "stringId": "3347695750996439044"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All nearby units - suspect is still at large in the area.",
+                            "maleVariant": "",
+                            "stringId": "3347742531394351108"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Reports have confirmed suspect is still in the area.",
+                            "maleVariant": "",
+                            "stringId": "3347742531511791620"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All nearby units - we have a code three, civilian is unstable. Proceed with caution.",
+                            "maleVariant": "",
+                            "stringId": "3347745321562812420"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All units - no progress in the area. Suspect is still unstable. Code three, I repeat, code three.",
+                            "maleVariant": "",
+                            "stringId": "3347745321730584580"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All units be advised - escalating to code four. Suspect is extremely dangerous. Elite unit dispatched and en route.",
+                            "maleVariant": "",
+                            "stringId": "3347745414659584000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All units, code four is in full effect. Backup is en route. Report your progress immediately.",
+                            "maleVariant": "",
+                            "stringId": "3347745414760247300"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All units - suspect is a confirmed cyberpsycho! Do not engage! A MaxTac squad has been dispatched!",
+                            "maleVariant": "",
+                            "stringId": "3347745471366574084"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All units, be advised: maximum threat level in this area! MaxTac is en route!",
+                            "maleVariant": "",
+                            "stringId": "3347745471500791812"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All units in the area - order has been restored. All units instructed to return to patrol.",
+                            "maleVariant": "",
+                            "stringId": "3347745555470757892"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Code zero, I repeat - code zero in this area. All units resume normal duties.",
+                            "maleVariant": "",
+                            "stringId": "3347745555621752836"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Reports confirm the suspect is travelling by foot.",
+                            "maleVariant": "",
+                            "stringId": "3347836538262794244"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Suspect's vehicle has been located. Details have been sent.",
+                            "maleVariant": "",
+                            "stringId": "3347836868639731716"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Requesting backup in City Center. All units in the area respond.",
+                            "maleVariant": "",
+                            "stringId": "3347842798630612992"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All available units - disturbance reported in City Center.",
+                            "maleVariant": "",
+                            "stringId": "3347842904763281408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All units - we have a situation in Westbrook. Please respond.",
+                            "maleVariant": "",
+                            "stringId": "3347844108427866116"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We have an oh-two-eleven in Westbrook. Any units in the area - come in.",
+                            "maleVariant": "",
+                            "stringId": "3347844108461420548"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Attention, we got disturbance in Heywood.",
+                            "maleVariant": "",
+                            "stringId": "3347845329205211140"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Reporting suspicious activity in Heywood.",
+                            "maleVariant": "",
+                            "stringId": "3347845329255542788"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Disturbance reported in Pacifica. Any available units?",
+                            "maleVariant": "",
+                            "stringId": "3347846525974360068"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All units - we have a disturbance reported in Pacifica.",
+                            "maleVariant": "",
+                            "stringId": "3347846526007914500"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All units in the area: criminal activity reported in Watson.",
+                            "maleVariant": "",
+                            "stringId": "3347847337404411908"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All nearby units - we got a situation in Watson.",
+                            "maleVariant": "",
+                            "stringId": "3347847337437966340"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We have an 88-70 in Santo Domingo.",
+                            "maleVariant": "",
+                            "stringId": "3347847877244891140"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All units in the area - criminal activity confirmed in Santo Domingo.",
+                            "maleVariant": "",
+                            "stringId": "3347847877328777220"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "10-4, dispatch. We're en route.",
+                            "maleVariant": "",
+                            "stringId": "3378133652788846592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What, in Pacifica? No way...! Copy, dispatch. I'm en route.",
+                            "maleVariant": "",
+                            "stringId": "3378158385592901632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Roger that, dispatch, but we'll need backup. Dispatch... you there? Dammit, not again…",
+                            "maleVariant": "",
+                            "stringId": "3378161200088326144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "3-31, responding. On my way, dispatch, but only because I like you.",
+                            "maleVariant": "",
+                            "stringId": "3378164197505736704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Roger. Probably some cyberpsycho again, but I'll handle it. Say, any update on my overtime bonus...? Dispatch?",
+                            "maleVariant": "",
+                            "stringId": "3378167777629413376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Roger, dispatch, what else is new. We'll be right there.",
+                            "maleVariant": "",
+                            "stringId": "3378171395938033664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Roger, dispatch. On our way. Say, would you at least come to my funeral?",
+                            "maleVariant": "",
+                            "stringId": "3378175819183923200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Day like any other. Roger, dispatch.",
+                            "maleVariant": "",
+                            "stringId": "3378179054217043968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Kids causin' trouble again? OK, on our way.",
+                            "maleVariant": "",
+                            "stringId": "3378179963357601792"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Roger that, dispatch, this is three-thirty-one responding. 'S my neighborhood - I'll take you for tacos sometime.",
+                            "maleVariant": "",
+                            "stringId": "3378182511816712192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Uh, roger, dispatch... don't they got corp security there? Ugh, fine, on our way.",
+                            "maleVariant": "",
+                            "stringId": "3378186040534999040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Roger, unit responding. Any plans for the evening, dispatch?... Dispatch, you copy?... Damn, one of these days.",
+                            "maleVariant": "",
+                            "stringId": "3378189989237334016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "5-21, roger that. We are en route.",
+                            "maleVariant": "",
+                            "stringId": "3378193758423457792"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Copy, dispatch. I swear to Christ, if it's Eurodyne again…",
+                            "maleVariant": "",
+                            "stringId": "3378197002046513152"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Roger, dispatch, we're at Silk Road West. ETA three minutes. I swear, if some rich gonk's pool is clogged again, I fuckin' quit.",
+                            "maleVariant": "",
+                            "stringId": "3378201706461765632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Roger, dispatch. Standing by for coordinates.",
+                            "maleVariant": "",
+                            "stringId": "3378215547513970688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Roger. Requesting additional backup… Dispatch, do you copy?",
+                            "maleVariant": "",
+                            "stringId": "3378217747325755392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I repeat - confirmed criminal activity Santo Domingo.",
+                            "maleVariant": "",
+                            "stringId": "3378222640165920768"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "5-21, reporting. Sorry, dispatch, had to take a leak. I'm en route.",
+                            "maleVariant": "",
+                            "stringId": "3378225204395614208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Got a report of someone breakin' the rules. Transferring coordinates.",
+                            "maleVariant": "",
+                            "stringId": "3550572950173921280"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yo, patrol, the fuck's goin' on? Waitin' on a sig.",
+                            "maleVariant": "",
+                            "stringId": "3550580026451308544"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Target's motorized. Comb the streets. Don't let 'em escape!",
+                            "maleVariant": "",
+                            "stringId": "3550599661145960448"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wake the fuck up, patrol! Civilians're actin' up again. Transmitting coords.",
+                            "maleVariant": "",
+                            "stringId": "3559430347949449216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Got a tip from a \"concerned civilian\". Head over there, do what y'all gotta do.",
+                            "maleVariant": "",
+                            "stringId": "3559430541625630720"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yo, updates anyone? Hellooo? Wake up, motherfuckers!",
+                            "maleVariant": "",
+                            "stringId": "3559463354706010112"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Target's still on foot. Handle the bastard, stat.",
+                            "maleVariant": "",
+                            "stringId": "3559465474708578304"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Why the fuck is our target still breathin'? Asses in gear, now!",
+                            "maleVariant": "",
+                            "stringId": "3559466271106244608"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All units - take your dicks out your mouths 'n zero the motherfucker! Get your shit together!",
+                            "maleVariant": "",
+                            "stringId": "3559468732877479936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck more do you need to take this asshole down? Clean it up - now!",
+                            "maleVariant": "",
+                            "stringId": "3559471113212108800"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sitch's spirallin' outta control. Sendin' reinforcements.",
+                            "maleVariant": "",
+                            "stringId": "3559472465774485504"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "See it gettin' hot in there. Backup on the way.",
+                            "maleVariant": "",
+                            "stringId": "3559473434474160128"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All patrols - Colonel's gonna hang you by the balls if the target ain't dead. Got that?",
+                            "maleVariant": "",
+                            "stringId": "3559474251373584384"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All units in the area - target's still on foot.",
+                            "maleVariant": "",
+                            "stringId": "3559475720369840128"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Target's gone dark. Keep your eyes peeled. This ain't over.",
+                            "maleVariant": "",
+                            "stringId": "3559476965927133184"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Got a code red in Dogtown! Repeat - code red!",
+                            "maleVariant": "",
+                            "stringId": "3559477860672839680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Shit, sitch is getting' outta control! Need reinforcements, stat!",
+                            "maleVariant": "",
+                            "stringId": "3559478416015466496"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Target's on foot. Feel free to run their bitch-ass over.",
+                            "maleVariant": "",
+                            "stringId": "3559484936681791488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Target's walkin' around. Aim for the kneecaps, ya'll.",
+                            "maleVariant": "",
+                            "stringId": "3559486055487217664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Target's got wheels. Set up a roadblock, stat.",
+                            "maleVariant": "",
+                            "stringId": "3559487009758486528"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Confirmed suspects' presence in the area. Better find 'em soon.",
+                            "maleVariant": "",
+                            "stringId": "3559490444507586560"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Alert - Myers sighted in sector two-one. Investigate now.",
+                            "maleVariant": "",
+                            "stringId": "3559492738389221384"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Found 'em yet?! Better have good news for the Colonel.",
+                            "maleVariant": "",
+                            "stringId": "3559496633488351248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck's sake, we're workin' on it!",
+                            "maleVariant": "",
+                            "stringId": "3559497244078350336"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Target's still in the vicinity - keep up the search.",
+                            "maleVariant": "",
+                            "stringId": "3559509054449885184"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Suspect has gone off radar. Search the area.",
+                            "maleVariant": "",
+                            "stringId": "3668035689049858048"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All units be advised – suspect remains in the vicinity.",
+                            "maleVariant": "",
+                            "stringId": "3668038638383767552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All units – suspect has evaded patrols. Resume search immediately.",
+                            "maleVariant": "",
+                            "stringId": "3668039607569981440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Suspect has disappeared. All units on site – continue searching the area.",
+                            "maleVariant": "",
+                            "stringId": "3668041817045442560"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Almost got her. Initiate remote vehicle lock.",
+                            "maleVariant": "Almost got him. Initiate remote vehicle lock.",
+                            "stringId": "3668060916496572416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vehicle signature confirmed by NetWatch. You're clear to take over.",
+                            "maleVariant": "",
+                            "stringId": "3668063429589311488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "NetWatch confirmed. You're clear to neutralize the enemy vehicle.",
+                            "maleVariant": "",
+                            "stringId": "3668064527809093632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What, she crawl into a hole or somethin'? Drop the search. Over and out.",
+                            "maleVariant": "What, he crawl into a hole or somethin'? Drop the search. Over and out.",
+                            "stringId": "3668067841309253632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You lost 'er – on your own fuckin' turf. That's it, return to base.",
+                            "maleVariant": "You lost 'im – on your own fuckin' turf. That's it, return to base.",
+                            "stringId": "3668069720089010176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You gonkheads let 'er run. Now heads're gonna roll. Over and out.",
+                            "maleVariant": "You gonkheads let 'im run. Now heads're gonna roll. Over and out.",
+                            "stringId": "3668070504037982208"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

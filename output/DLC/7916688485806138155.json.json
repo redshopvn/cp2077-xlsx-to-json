@@ -1,0 +1,507 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:36.0292818Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\7916688485806138155.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sure.",
+                            "maleVariant": "",
+                            "stringId": "2262118195608117256"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The bomb - y-you take care of it?",
+                            "maleVariant": "",
+                            "stringId": "3140594617160544256"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Return shard] Arrest her. I'm clean.",
+                            "maleVariant": "",
+                            "stringId": "3142020757578297348"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "She's telling the truth.",
+                            "maleVariant": "He's telling the truth.",
+                            "stringId": "3150851637050585088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Think you'll ever come 'round to forgiving yourself?",
+                            "maleVariant": "",
+                            "stringId": "3152133653717037056"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The Crimson Harvest manipulated Nele.",
+                            "maleVariant": "",
+                            "stringId": "3193831852949090304"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Listen, fellas. You've got the wrong gal.",
+                            "maleVariant": "Listen, fellas. You got it all wrong.",
+                            "stringId": "3193833350936375296"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Draw weapon] Cuff me. I dare you.",
+                            "maleVariant": "",
+                            "stringId": "3193836975804887040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The Crimson Harvest was supposed to detonate a bomb in Biotechnica's HQ. I disarmed it.",
+                            "maleVariant": "",
+                            "stringId": "3193838157994635264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Disarmed. We're in the clear.",
+                            "maleVariant": "",
+                            "stringId": "3225878677373562880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Biotechnica! You're under arrest!",
+                            "maleVariant": "",
+                            "stringId": "3225879805976883200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What the--?",
+                            "maleVariant": "",
+                            "stringId": "3225885365006741504"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Got nothin' to do with this.",
+                            "maleVariant": "",
+                            "stringId": "3225888546587652096"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "This wasn't me.",
+                            "maleVariant": "",
+                            "stringId": "3225893397568663552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wanna cuff me? Go right ahead.",
+                            "maleVariant": "",
+                            "stringId": "3226023339656720384"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Take Springer away.",
+                            "maleVariant": "",
+                            "stringId": "3226025058985816064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Quick, hand me the shard. Gotta make tracks.",
+                            "maleVariant": "",
+                            "stringId": "3230598095129976832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Is that true?",
+                            "maleVariant": "",
+                            "stringId": "3231759108458061824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You didn't tell me the whole truth.",
+                            "maleVariant": "",
+                            "stringId": "3231762737252442112"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "That true? You the one who planted that bomb?",
+                            "maleVariant": "That true? You the one that planted that bomb?",
+                            "stringId": "3231765087035760640"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So you're a dyed-in-the-wool terrorist, after all.",
+                            "maleVariant": "",
+                            "stringId": "3231765139900768260"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nele manipulated me.",
+                            "maleVariant": "",
+                            "stringId": "3232114020178108416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They're gonna kill me, V!",
+                            "maleVariant": "",
+                            "stringId": "3232143542122356736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No, wait! I gave her that shard! I planned this. Please!",
+                            "maleVariant": "No, wait! I gave him that shard! I planned this. Please!",
+                            "stringId": "3233134794586365952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "For the record - got nothin' to do with the Paris attack or any terrorist group.",
+                            "maleVariant": "",
+                            "stringId": "3233193222281273344"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Not only that, but I happened to save a few of your pals in Berlin.",
+                            "maleVariant": "",
+                            "stringId": "3233193891188875264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Can verify the bomb's signature and subnet parameters. S'all there.",
+                            "maleVariant": "",
+                            "stringId": "3233201057274699776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dunno. Already hate myself for what I did.",
+                            "maleVariant": "",
+                            "stringId": "3233208441263005696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Got your whole life to turn things around. Today was the first step.",
+                            "maleVariant": "",
+                            "stringId": "3233210517527371776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chit-chat's over! Step out of the vehicle, hands in the air!",
+                            "maleVariant": "",
+                            "stringId": "3234559481779826688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Save it. Evidence speaks for itself.",
+                            "maleVariant": "",
+                            "stringId": "3236410284436791296"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Return shard] You can start fresh.",
+                            "maleVariant": "",
+                            "stringId": "3236454456799698948"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Return shard] Get out of here.",
+                            "maleVariant": "",
+                            "stringId": "3236455231923855360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Get outta here and don't come back.",
+                            "maleVariant": "",
+                            "stringId": "3236455967772549140"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I owe you, V. Big time.",
+                            "maleVariant": "",
+                            "stringId": "3236455967772549152"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Don't want anything from you.",
+                            "maleVariant": "",
+                            "stringId": "3236455967789326344"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sure, I get it. Thanks, V…",
+                            "maleVariant": "",
+                            "stringId": "3236455967789326356"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Couldn't have done it without you. Thanks, V.",
+                            "maleVariant": "",
+                            "stringId": "3236458861758423040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nele Springer! You're under arrest for organizing last year's bombing of a Biotechnica lab in Paris.",
+                            "maleVariant": "",
+                            "stringId": "3243419756946432000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Your bomb killed thirty-two innocent people.",
+                            "maleVariant": "",
+                            "stringId": "3243421310348861440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Woah, slow down. Know nothin' 'bout no attack. I don't consort with terrorists…",
+                            "maleVariant": "",
+                            "stringId": "3243502129084014592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Please! Don't do this!",
+                            "maleVariant": "",
+                            "stringId": "3243561777841479680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Let's go. Move it.",
+                            "maleVariant": "",
+                            "stringId": "3243562083472023552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Proof is on this.",
+                            "maleVariant": "",
+                            "stringId": "3243576700470468608"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fine, you can go.",
+                            "maleVariant": "",
+                            "stringId": "3244798474684112896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You all right?",
+                            "maleVariant": "",
+                            "stringId": "3244822481823244288"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Why did you lie to me?",
+                            "maleVariant": "",
+                            "stringId": "3244822926184587264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You hit?",
+                            "maleVariant": "",
+                            "stringId": "3244823421867433984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Could've told me you had more than the Crimson Harvest to worry about.",
+                            "maleVariant": "",
+                            "stringId": "3244823469212737540"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No, I... I don't think so. Thanks, V.",
+                            "maleVariant": "",
+                            "stringId": "3244824104482021376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I… I thought if you found out the truth, you wouldn't help.",
+                            "maleVariant": "",
+                            "stringId": "3244859144989483008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I… I'm sorry. I misjudged you.",
+                            "maleVariant": "",
+                            "stringId": "3244860641651367936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Good luck out there.",
+                            "maleVariant": "",
+                            "stringId": "3244887001543385088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What a waste. Chick had potential – coulda gone far. Pains me to see promisin' careers flushed down the drain.",
+                            "maleVariant": "",
+                            "stringId": "3246440867393085440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "This wasn't my fault, V! You have to believe me!",
+                            "maleVariant": "",
+                            "stringId": "3247683640825913344"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Did you sell me out?!",
+                            "maleVariant": "",
+                            "stringId": "3253587265590829056"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "W-w-what's goin' on?!",
+                            "maleVariant": "",
+                            "stringId": "3253590202811588608"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No, no, no... This isn't happenin'…",
+                            "maleVariant": "",
+                            "stringId": "3253601032370298880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V, do something!",
+                            "maleVariant": "",
+                            "stringId": "3253630994984902656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Find anything?",
+                            "maleVariant": "",
+                            "stringId": "3253646040892874752"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Can't do anything more for you.",
+                            "maleVariant": "",
+                            "stringId": "3253658808605908992"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Had a deal, Nele. Nothin' more I can do for you.",
+                            "maleVariant": "",
+                            "stringId": "3253694899971072000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No, this isn't over! Don’t leave me like this, please!",
+                            "maleVariant": "",
+                            "stringId": "3253726559030648832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Just stay calm.",
+                            "maleVariant": "",
+                            "stringId": "3255113534228832256"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Just stay calm, OK? We'll figure this out.",
+                            "maleVariant": "",
+                            "stringId": "3255151679896985600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I swear on my life, V! I had no idea civilians would die!",
+                            "maleVariant": "",
+                            "stringId": "3255164326746955776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nele was just following orders -  manipulated against her will by terrorists.",
+                            "maleVariant": "",
+                            "stringId": "3255168817168818176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V, please, come on, don't leave me…",
+                            "maleVariant": "",
+                            "stringId": "3292719213659463680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Get out] Do what he says.",
+                            "maleVariant": "",
+                            "stringId": "3292719450805411844"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Get in]",
+                            "maleVariant": "",
+                            "stringId": "3305729017256357892"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Get out and draw weapon] Stay in the car. I'll deal with them.",
+                            "maleVariant": "",
+                            "stringId": "3318881673546051584"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Not givin' myself up. Stay here.",
+                            "maleVariant": "",
+                            "stringId": "3318884912538595328"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Get out.",
+                            "maleVariant": "",
+                            "stringId": "3322937212622249984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They'll kill you!",
+                            "maleVariant": "",
+                            "stringId": "3322940781538746368"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Four 'gainst one, huh? Bring it.",
+                            "maleVariant": "",
+                            "stringId": "3324652653983997952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Take them.",
+                            "maleVariant": "",
+                            "stringId": "3324687169280712704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So that's why you didn't want to warn Biotechnica.",
+                            "maleVariant": "",
+                            "stringId": "3343614675186524160"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Get now why you didn't want the corporate leash.",
+                            "maleVariant": "",
+                            "stringId": "3343618292236853248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "'Cause they would've strung you up with it.",
+                            "maleVariant": "",
+                            "stringId": "3343621025396334592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Shit, the car's hacked!",
+                            "maleVariant": "",
+                            "stringId": "3344641540848263168"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

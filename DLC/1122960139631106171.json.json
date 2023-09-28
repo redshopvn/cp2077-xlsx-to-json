@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:33.9510192Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\1122960139631106171.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Johnny, did you see what happened? Somethin\u0027 feels off here.",
+              "maleVariant": "",
+              "stringId": "1756182346910048256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You don\u0027t say?",
+              "maleVariant": "",
+              "stringId": "1924292467347709952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I don\u0027t mean the wreck – mean the run. City\u0027s most courteous chauffeur up and drives away from the scene of an accident?",
+              "maleVariant": "Don\u0027t mean the wreck – mean the run. City\u0027s most courteous chauffeur ups and drives away from the scene of an accident?",
+              "stringId": "1924292847133548544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Leave damaged car]",
+              "maleVariant": "",
+              "stringId": "2424313909325504516"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ugh... What the hell happened?",
+              "maleVariant": "",
+              "stringId": "3255085116176900096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Looks like everyone in this fuckin\u0027 town\u0027s out to end you. Makes me feel like an amateur, a hack.",
+              "maleVariant": "",
+              "stringId": "3255086372370948096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ugh, shut up. Gotta find out why Night City\u0027s most courteous has upgraded to hit and runs.",
+              "maleVariant": "",
+              "stringId": "3255086943198945280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Prolly couldn\u0027t stand you anymore, either.",
+              "maleVariant": "",
+              "stringId": "3255087106961350656"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

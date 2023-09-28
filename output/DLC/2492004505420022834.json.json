@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.9576013Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\2492004505420022834.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dogtown would be unbearable without this place, man.",
+                            "maleVariant": "",
+                            "stringId": "3276659142140731392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ugh.",
+                            "maleVariant": "",
+                            "stringId": "3344758249018970112"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What crawled up your ass this time?",
+                            "maleVariant": "",
+                            "stringId": "3344758385384181760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The beer could be better.",
+                            "maleVariant": "",
+                            "stringId": "3344758490912870400"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh! The beer is not good enough for the gentleman?",
+                            "maleVariant": "",
+                            "stringId": "3344758641756819456"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Would the gentleman fancy something more exquisite? Perhaps some stadium gutter water, maybe?",
+                            "maleVariant": "",
+                            "stringId": "3344758871839559680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck off, man.",
+                            "maleVariant": "",
+                            "stringId": "3344759249259810816"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

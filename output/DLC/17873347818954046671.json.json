@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.7789910Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\17873347818954046671.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Shh! Don't look up.",
+                            "maleVariant": "",
+                            "stringId": "3276721664835117056"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What? Is it the scavs?",
+                            "maleVariant": "",
+                            "stringId": "3307091967649767424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They don't give a shit about us, girl. Night City tourists is what they’re all about.",
+                            "maleVariant": "",
+                            "stringId": "3307093340059590656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sometimes late at night, I hear these sawing noises. Uuugh. The thought alone sends chills down my spine.",
+                            "maleVariant": "",
+                            "stringId": "3307100630280036352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah. They came out of the Scraper again. Better keep our heads down.",
+                            "maleVariant": "",
+                            "stringId": "3307107725582786560"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I taught myself to block out any noises coming from the Scraper.",
+                            "maleVariant": "",
+                            "stringId": "3307117965053255680"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

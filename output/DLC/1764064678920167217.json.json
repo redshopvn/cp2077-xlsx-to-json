@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.7493988Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\1764064678920167217.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You know the man in the glasses and his girl who just moved in? They’re... strange.",
+                            "maleVariant": "",
+                            "stringId": "3276615204994211840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Newcomers always seem strange, you know?",
+                            "maleVariant": "",
+                            "stringId": "3349481143200485376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I’m telling you, they’re ex-corpos or undercover agents. My gut is telling me this and I always trust my gut.",
+                            "maleVariant": "",
+                            "stringId": "3349481815111208960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Trusting your gut has gotten you into trouble more times than I can remember.",
+                            "maleVariant": "",
+                            "stringId": "3349482451605229568"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sniffing out trouble used to be my job, remember?",
+                            "maleVariant": "",
+                            "stringId": "3349483667131305984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Spare me another round of NC police stories. Just... forget it, man. It’s Dogtown.",
+                            "maleVariant": "",
+                            "stringId": "3349487174341201920"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

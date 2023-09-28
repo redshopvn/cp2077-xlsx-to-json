@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:35.6484338Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\570182002607645450.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "%%%\u0026\u0026\u0026%!$@{o.o}!",
+              "maleVariant": "",
+              "stringId": "3865358963007942656"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "%%%\u0026\u0026\u0026%!$@{=o=}!!!",
+              "maleVariant": "",
+              "stringId": "3873808227522441216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "%%%\u0026\u0026\u0026%!$@{T.T}",
+              "maleVariant": "",
+              "stringId": "3873809643938902016"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Jack in]",
+              "maleVariant": "",
+              "stringId": "3915941128833462276"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Wipe the robot\u0027s memory]",
+              "maleVariant": "",
+              "stringId": "3925937964738539524"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Leave the robot be]",
+              "maleVariant": "",
+              "stringId": "3925939306597052416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "[Reprogram the robot]",
+              "maleVariant": "",
+              "stringId": "3925939386758590464"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

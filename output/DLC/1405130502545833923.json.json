@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.2280753Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\1405130502545833923.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey, got some place to crash tonight?",
+                            "maleVariant": "",
+                            "stringId": "3264896522320904192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I do, but you’re not invited.",
+                            "maleVariant": "",
+                            "stringId": "3347567912319098880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Come on, girl! The more, the merrier, right? We can change guard every few hours...",
+                            "maleVariant": "",
+                            "stringId": "3347568026118955008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I can’t sleep next to you. You reek like a fucking month-old corpse at the Rocky Ridge landfill.",
+                            "maleVariant": "",
+                            "stringId": "3347571141010432000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "That’s what I’m aiming at. No one bothers a dead body at night.",
+                            "maleVariant": "",
+                            "stringId": "3347574765476290560"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Just... back off, choom. Last thing I need is fucking lice on my body.",
+                            "maleVariant": "",
+                            "stringId": "3347578121087262720"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.6750025Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\17297991452370421723.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Turns out I will be staying at the stadium after all.",
+                            "maleVariant": "",
+                            "stringId": "3288455203330105344"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Got it covered. I talked to a ripper about my old chrome. There’s still a market for it. He’ll take them out and move them for me. For free, he said!",
+                            "maleVariant": "",
+                            "stringId": "3288465950579793920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ass-kicking is the only free thing in this world. You’ll end up in a storm drain with no chrome, no eddies and no pulse.",
+                            "maleVariant": "",
+                            "stringId": "3288467203854606336"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What about the BARGHEST money? You’re two months behind with your rent! How are you gonna come up with that type of cash?",
+                            "maleVariant": "",
+                            "stringId": "3294252857309962240"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

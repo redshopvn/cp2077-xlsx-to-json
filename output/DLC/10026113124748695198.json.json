@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:33.7442153Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\10026113124748695198.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No fair! You were BARGHEST yesterday! It's my turn now!",
+                            "maleVariant": "",
+                            "stringId": "3547750704200892416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fine, then I get the hotel.",
+                            "maleVariant": "",
+                            "stringId": "3547834309262524416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No! BARGHEST is in the hotel! You're a scav! Scavs go somewhere else!",
+                            "maleVariant": "",
+                            "stringId": "3561060738389905408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But that's no fair... If you get the hotel, then I don't stand a chance.",
+                            "maleVariant": "",
+                            "stringId": "3561061838622953472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Good, 'cause you'll be a scav and I'll be BARGHEST and kill you all! Kah kah ka-kah!",
+                            "maleVariant": "",
+                            "stringId": "3561063818351218688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Stupid! Ugh. Whatever.",
+                            "maleVariant": "",
+                            "stringId": "3561064562554966016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Imma call Hansen... pssht \"Hey! We're gonna zero those gonks and then delta back to base! Copy! Ten four! Over!\"",
+                            "maleVariant": "",
+                            "stringId": "3561067647499112448"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

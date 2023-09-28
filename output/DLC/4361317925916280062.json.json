@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.2893379Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\4361317925916280062.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ede m'ak hack sa? Ou dwe mete yon bloke odyo nan rafrechi optik la.\" t=\"Help me with this hack? Gotta add an audio blocker to the optics reboot.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "3373610203736682496"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Mwen pa ka senkronize yo. Optik yo tounen sou entènèt yon segond twò bonè.\" t=\"I can't sync 'em. The optics come back online a second early.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "3395566297677123584"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Hm... Oke, voye kòd la, map gade.\" t=\"Hm... Alright, send the code, I'll take a look.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "3395566426224152576"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

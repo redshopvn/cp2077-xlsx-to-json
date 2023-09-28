@@ -1,0 +1,57 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:33.9425088Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\11060508397628529580.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What if we do it quiet?",
+                            "maleVariant": "",
+                            "stringId": "3262104849312227328"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<mothertongue l=\"rus\" m=\"chuvak\" b=\"How can we be quiet around here, \" a=\"? This ain’t Terra Cognita. We’re already turning heads.\"/>",
+                            "maleVariant": "",
+                            "stringId": "3324542711696973824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nobody will do jack shit to us.",
+                            "maleVariant": "",
+                            "stringId": "3325859284378443776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck, maybe you’re right. Everyone is watching us. Let’s get the hell out of here.",
+                            "maleVariant": "",
+                            "stringId": "3326322925074636800"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You sure about that? Place is full of BARGHEST rats. They see everything. Hear everything.",
+                            "maleVariant": "",
+                            "stringId": "3336258354792095744"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

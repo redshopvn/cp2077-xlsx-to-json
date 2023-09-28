@@ -1,0 +1,651 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.3299020Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\14754164503889780934.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Welcome, Mrs. Wilson. If you'll join me, please.",
+                            "maleVariant": "Welcome, Mr. Wilson. If you'll join me, please.",
+                            "stringId": "3052084312069820416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'd rather shoot myself than fly all the way from Milan.",
+                            "maleVariant": "",
+                            "stringId": "3074918442935439360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mhm. I'd also connect remotely if I didn't have to go to Night City straight after.",
+                            "maleVariant": "",
+                            "stringId": "3085196873723990016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oohh, business or pleasure?",
+                            "maleVariant": "",
+                            "stringId": "3085204499488755712"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Can I get a double shot of Centzon Tequila?",
+                            "maleVariant": "",
+                            "stringId": "3162218960863375360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Glass of grape tears, please.",
+                            "maleVariant": "",
+                            "stringId": "3162219564960591872"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'd like to speak with Dr. Fiona Vargas in private.",
+                            "maleVariant": "",
+                            "stringId": "3172385731379265536"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hmm… Without an appointment, I'm afraid that won't be possible.",
+                            "maleVariant": "",
+                            "stringId": "3172387476746600448"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yes?",
+                            "maleVariant": "",
+                            "stringId": "3172399618283601920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Who's using these bots?",
+                            "maleVariant": "",
+                            "stringId": "3172750630508888064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Our verbal-motoric integrated interface is used by scouts such as yourself remotely. From Asia, Europe, Africa…",
+                            "maleVariant": "",
+                            "stringId": "3172751060022394880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "See a free spot on the other side with your name on it.",
+                            "maleVariant": "",
+                            "stringId": "3192873149173661696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Sit]",
+                            "maleVariant": "",
+                            "stringId": "3192878385191780356"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Be right with you, ma'am.",
+                            "maleVariant": "Be right with you, sir.",
+                            "stringId": "3192926304846544896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "These showcases happen often?",
+                            "maleVariant": "",
+                            "stringId": "3192943674617036800"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "San Diego Shredders.",
+                            "maleVariant": "",
+                            "stringId": "3192949538925117444"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Here you go. First time, I take it? Which team you scouting for?",
+                            "maleVariant": "",
+                            "stringId": "3192953000098332672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "None of your biz.",
+                            "maleVariant": "",
+                            "stringId": "3192998714656489472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'm with the San Diego Shredders – scoutin' for a wide receiver.",
+                            "maleVariant": "",
+                            "stringId": "3193904021721120768"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Rather drink than chat.",
+                            "maleVariant": "",
+                            "stringId": "3193904047205711872"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You say the Shredders? Small world! I'm Caden – worked with Tomas two seasons back.",
+                            "maleVariant": "",
+                            "stringId": "3193916655568748544"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "If he was that good, you'd remember.",
+                            "maleVariant": "",
+                            "stringId": "3193928166466977792"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Don't know you, pal.",
+                            "maleVariant": "",
+                            "stringId": "3193928228894998528"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Player that good – wouldn't forget the name.",
+                            "maleVariant": "",
+                            "stringId": "3193955558694649864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Stand] They already checked me at the entrance.",
+                            "maleVariant": "",
+                            "stringId": "3194193640257814532"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Draw weapon] Fuck this.",
+                            "maleVariant": "",
+                            "stringId": "3194200597098201088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What if I don't want to?",
+                            "maleVariant": "",
+                            "stringId": "3195648174284931072"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What if I don't feel like it?",
+                            "maleVariant": "",
+                            "stringId": "3195648600543657984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "It ain't up for debate.",
+                            "maleVariant": "",
+                            "stringId": "3195651797274394624"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Got a pat-down on the way in. I'm with the San Diego Shredders.",
+                            "maleVariant": "",
+                            "stringId": "3195652679000981504"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So you'll get another one. I don't make the rules, ma'am.",
+                            "maleVariant": "So you'll get another one. I don't make the rules, sir.",
+                            "stringId": "3195656156330655744"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hold your arm out here. I'll transmit a request to central – make sure everything's in order.",
+                            "maleVariant": "",
+                            "stringId": "3195742224925130752"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ladies and gentleman, the next junior for the twenty-seventy-seven/twenty-seventy-eight season is Katie McCannon.",
+                            "maleVariant": "",
+                            "stringId": "3197220624273571840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "That was tempered glass! What I wouldn't give to know Fiona's secret...",
+                            "maleVariant": "",
+                            "stringId": "3201452233755525120"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck this.",
+                            "maleVariant": "",
+                            "stringId": "3201467368951840768"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No booze, thanks. Make it a NiCola?",
+                            "maleVariant": "",
+                            "stringId": "3205576542507057156"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Stand] Dunno if I want to see what's there.",
+                            "maleVariant": "",
+                            "stringId": "3205650019313057796"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Stand] Johnny asking me to leave a bar?",
+                            "maleVariant": "",
+                            "stringId": "3205659964142059520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dunno if I'm gonna like what I see.",
+                            "maleVariant": "",
+                            "stringId": "3205663585839677440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Johnny Silverhand askin' me to get up from a bar? Somethin' new every day…",
+                            "maleVariant": "",
+                            "stringId": "3205663639543545856"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Scan hand]",
+                            "maleVariant": "",
+                            "stringId": "3207294438424510468"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mh, mhm… Right…",
+                            "maleVariant": "",
+                            "stringId": "3207321231101591552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Come with me unless you want trouble.",
+                            "maleVariant": "",
+                            "stringId": "3214238393575067648"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sucks to be you, choom.",
+                            "maleVariant": "",
+                            "stringId": "3214344692237258752"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Since not everyone can make a personal appearance in Dogtown, we've provided a solution.",
+                            "maleVariant": "",
+                            "stringId": "3220538170719703040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Now's our chance to sneak behind the scenes of this fuckin' circus.",
+                            "maleVariant": "",
+                            "stringId": "3220649524860391424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wait, shoppin' for another wideout after re-signing your franchise stats leader? Man's an all-time deep threat, uhh... what's his name?",
+                            "maleVariant": "",
+                            "stringId": "3220651761011625984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh come on, humor me.",
+                            "maleVariant": "",
+                            "stringId": "3220657497091444736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vicky Wilson.",
+                            "maleVariant": "Vic Wilson.",
+                            "stringId": "3220663883338715136"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Need some extra verification.",
+                            "maleVariant": "",
+                            "stringId": "3220680117660782592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Follow me, please, ma'am.",
+                            "maleVariant": "Follow me, please, sir.",
+                            "stringId": "3220680380559757312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Got a real way with words, V.",
+                            "maleVariant": "",
+                            "stringId": "3220686598128898048"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Didn't have anything smart to say when this asshole was grilling me before.",
+                            "maleVariant": "",
+                            "stringId": "3220686859132047360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Was outta respect. Gave you space to, y'know, express yourself.",
+                            "maleVariant": "",
+                            "stringId": "3220690447661109248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hm, ain't lookin' good.",
+                            "maleVariant": "",
+                            "stringId": "3221343499250405376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, you got me, hahahaha. No, but uh… seriously, uh, what's his name?",
+                            "maleVariant": "",
+                            "stringId": "3221345015961063424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Eh, won't believe it, but… it slipped my mind too.",
+                            "maleVariant": "Won't believe it, but uh... it slipped my mind too.",
+                            "stringId": "3221345134055886848"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ahhh, huh, you don't say. Hey, uh... you wouldn't remember Tom's last name, would ya?",
+                            "maleVariant": "",
+                            "stringId": "3221346986679963648"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Why do I feel like I'm bein' questioned here?",
+                            "maleVariant": "",
+                            "stringId": "3221347384887185408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Riiiight. Hey, Bill?!",
+                            "maleVariant": "",
+                            "stringId": "3221348175849033728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Both, I hope.",
+                            "maleVariant": "",
+                            "stringId": "3221351964194738176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Please, ma'am, it's just a formality for all newcomers.",
+                            "maleVariant": "Please, sir, it's just a formality for all newcomers.",
+                            "stringId": "3223486270195208192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What are these bots for?",
+                            "maleVariant": "",
+                            "stringId": "3224821973852196864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'd like to meet Dr. Fiona Vargas.",
+                            "maleVariant": "",
+                            "stringId": "3224831701315588096"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "If I may, I suggest you start your visit at our world-class bar. Drinks are on the house.",
+                            "maleVariant": "",
+                            "stringId": "3224837851725533184"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Well, then. Got my first mission for you. Need you to neutralize three shots of tequila, stat.",
+                            "maleVariant": "",
+                            "stringId": "3224840415166697472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "These ain't athletes, V. They're kids. Kids way too young for this kind o' chrome.",
+                            "maleVariant": "",
+                            "stringId": "3225746716667252736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "See that, Johnny.",
+                            "maleVariant": "",
+                            "stringId": "3225747937830473728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Heartless fucks...",
+                            "maleVariant": "",
+                            "stringId": "3225748455827017728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Only when Dr. Vargas thinks an athlete's worth showin' off, which is pretty often.",
+                            "maleVariant": "",
+                            "stringId": "3225917461414383616"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "These, uh, \"showcases\" happen often?",
+                            "maleVariant": "",
+                            "stringId": "3225917493039435776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Heh. Bill, think our friend here needs somethin' stronger to loosen up.",
+                            "maleVariant": "",
+                            "stringId": "3225937333070434304"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Work on your own drink, pal.",
+                            "maleVariant": "",
+                            "stringId": "3225942210358120448"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah – fuck yourself too.",
+                            "maleVariant": "",
+                            "stringId": "3225942794255568896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'm on it. Mike! Need you here, stat!",
+                            "maleVariant": "",
+                            "stringId": "3225949475110752256"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What the...?",
+                            "maleVariant": "",
+                            "stringId": "3226064753173827584"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sorry, I have to close the bar for a sec.",
+                            "maleVariant": "",
+                            "stringId": "3226066217724121088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Just saw a fighter that we gotta have... What...? MMA... Sure... Yeah, got all the data... Yeah, I'll make Fiona an offer. OK, bye.",
+                            "maleVariant": "",
+                            "stringId": "3226068780410310656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And the statistics are live. In just a moment you'll see another rating.",
+                            "maleVariant": "",
+                            "stringId": "3234933726137876480"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And another.",
+                            "maleVariant": "",
+                            "stringId": "3234933777962696704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Uh… what is it?",
+                            "maleVariant": "",
+                            "stringId": "3261220372436324352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Everything you see here is protected under an NDA.",
+                            "maleVariant": "",
+                            "stringId": "3261220639965810688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Should any information about our athletes be made public, our contract with the Diego Shredders will be terminated, effective immediately.",
+                            "maleVariant": "",
+                            "stringId": "3261221038525353984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ouch. Sounds serious.",
+                            "maleVariant": "",
+                            "stringId": "3261221556102467584"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Katie is a young, but extremely talented soccer player. Top-scoring position – midfielder.",
+                            "maleVariant": "",
+                            "stringId": "3261240854028062720"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "If you're interested in Katie, please see our starting offer. You can also see her latest performance statistics up on the board.",
+                            "maleVariant": "",
+                            "stringId": "3261241453343772672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "She's equipped with permanently reinforced ACLs and boasts excellent quadricep growth.",
+                            "maleVariant": "",
+                            "stringId": "3261256487524470784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Our next athlete whom you'll have the pleasure of meeting is Kelvin \"Golden\" Strickland.",
+                            "maleVariant": "",
+                            "stringId": "3307159980151771136"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Kelvin is a dyed-in-the-wool fighter with an instant knockout punch. Two thirds of all his bouts end in knockout victory.",
+                            "maleVariant": "",
+                            "stringId": "3307161344625971200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All those interested in signing with Kelvin, please feel free to review his latest performance statistics.",
+                            "maleVariant": "",
+                            "stringId": "3307161779860508672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh! And there's that knockout punch I was talking about!",
+                            "maleVariant": "",
+                            "stringId": "3307162509736513536"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Forgive me, ladies and gentlemen, but due to damaged equipment, this athlete's showcase is on hold.",
+                            "maleVariant": "",
+                            "stringId": "3307163259459964928"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Does Dr. Fiona ever show up here?",
+                            "maleVariant": "",
+                            "stringId": "3363601927313395712"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dr. Fiona ever make an appearance at these things?",
+                            "maleVariant": "",
+                            "stringId": "3363602832595193856"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nah, she's not really the type to mingle. Prefers sitting cooped up in her office downstairs.",
+                            "maleVariant": "",
+                            "stringId": "3363603089840246784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "A word of advice…",
+                            "maleVariant": "",
+                            "stringId": "3363610213513269248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "If life's taught me anythin', it's not talk to folks I don't know about biz that ain't there's. Sorry, pal, don't take it personal.",
+                            "maleVariant": "",
+                            "stringId": "3363610615042379776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Look, pal. You say you know Tomas, but I don't know you. And I don't discuss team business with randos.",
+                            "maleVariant": "",
+                            "stringId": "3363616370130784256"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Now what?",
+                            "maleVariant": "",
+                            "stringId": "3870798157272236032"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "C'mon already.",
+                            "maleVariant": "",
+                            "stringId": "3870798251644076032"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Me, I'd've handled that differently.",
+                            "maleVariant": "",
+                            "stringId": "3870798348951928832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tequila for me.",
+                            "maleVariant": "",
+                            "stringId": "3931944857666027520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Glass of wine will do.",
+                            "maleVariant": "",
+                            "stringId": "3932020762874707968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Something booze-free.",
+                            "maleVariant": "",
+                            "stringId": "3932020954470514688"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.3383977Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\4660954607761568885.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V. I'll have to do some cleaning up - nevertheless, you saved more people than you killed today.",
+                            "maleVariant": "",
+                            "stringId": "3121586560351055872"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Do you never tire, V, sitting atop your high horse of moral scruples?",
+                            "maleVariant": "",
+                            "stringId": "3224548802036146184"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "For the future, I would prefer it if my clients do not disappear without a trace.",
+                            "maleVariant": "",
+                            "stringId": "3224827661159669760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Most importantly, the client is safe and sound.",
+                            "maleVariant": "",
+                            "stringId": "3233238772775034880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'm pleased you left me no mess to clean up at the stadium.",
+                            "maleVariant": "",
+                            "stringId": "3237516768490987524"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Transferring your fee and closing the contract.",
+                            "maleVariant": "",
+                            "stringId": "3237516800569024516"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Those simpletons from BARGHEST will never know you were right under their noses.",
+                            "maleVariant": "",
+                            "stringId": "3244681949352468480"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh, and I won't inquire as to why you kept that shard. Hardly useful to you.",
+                            "maleVariant": "",
+                            "stringId": "3454751947005603840"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

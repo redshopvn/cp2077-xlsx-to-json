@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:33.7856016Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\10388033407161757240.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Heard there was some carnage at the Heavy Hearts last night. Something about a corpo flatlining while partying with the scavs?",
+              "maleVariant": "",
+              "stringId": "3368147722764349440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah. He got lockjawed, and hard. Broke all his teeth and choked on ’em.",
+              "maleVariant": "",
+              "stringId": "3368160146880000000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Looked like a joint assist malfunction. Three guys tried to pry it open.",
+              "maleVariant": "",
+              "stringId": "3368160316766089216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You and your conspiracy theories...",
+              "maleVariant": "",
+              "stringId": "3368161210270281728"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Implant malfunction is a poor man’s death. That one sounds like a hit. ‘S how NC suits go down.",
+              "maleVariant": "",
+              "stringId": "3373716324693221376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Whaaa...? Was he high or what?",
+              "maleVariant": "",
+              "stringId": "3373719082229997568"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You really have no idea, do you? Corpos are droppin\u0027 dead left and right. Someone’s really got it in for ‘em.",
+              "maleVariant": "",
+              "stringId": "3373761713504952320"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

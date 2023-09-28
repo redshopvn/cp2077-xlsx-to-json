@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.2387600Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\14145130867658404442.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "How\u0027s the drive?",
+              "maleVariant": "",
+              "stringId": "3366670459719540736"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Smooth. Sunny. Can\u0027t complain.",
+              "maleVariant": "",
+              "stringId": "3366671079587340288"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hahahaha! I got a read off my drones, says you ran into a few, uh... speed bumps.",
+              "maleVariant": "",
+              "stringId": "3366671366377070592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nah, no biggie. What\u0027s a few speed bumps in a ride like this?",
+              "maleVariant": "",
+              "stringId": "3389939367674220544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, you beautiful psycho! I can\u0027t help but like you! Pedal to the metal, don\u0027t get killed! And watch the paint job!",
+              "maleVariant": "",
+              "stringId": "3389939698051158016"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

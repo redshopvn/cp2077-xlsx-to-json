@@ -1,0 +1,87 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.8816445Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\7221716542115812524.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Well hello there, cutie.",
+                            "maleVariant": "",
+                            "stringId": "3384022889447870472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey!",
+                            "maleVariant": "",
+                            "stringId": "3384022889481424904"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Where are you going?",
+                            "maleVariant": "",
+                            "stringId": "3384022889649197064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Like talking to a wall…",
+                            "maleVariant": "",
+                            "stringId": "3384022889699528712"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So great to have you back…",
+                            "maleVariant": "",
+                            "stringId": "3384022889833746436"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh, now you want to talk?",
+                            "maleVariant": "",
+                            "stringId": "3384022889867300872"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey, eyes up!",
+                            "maleVariant": "",
+                            "stringId": "3384022889917632520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Struck by my beauty?",
+                            "maleVariant": "",
+                            "stringId": "3384022889967964160"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hands to yourself.",
+                            "maleVariant": "",
+                            "stringId": "3384022890420949000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You can look, but you can't touch.",
+                            "maleVariant": "",
+                            "stringId": "3384022890504835080"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

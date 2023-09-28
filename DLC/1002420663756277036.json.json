@@ -1,0 +1,45 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:33.7437507Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\1002420663756277036.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022creo\u0022 o=\u0022Gen kèk nouvo gwo neg Euro ki ap vini \u0027nan Heavy Hearts.\u0022 t=\u0022Some new Euro heavyweights\u0027re comin\u0027 to Heavy Hearts.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "3373604250861678592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022creo\u0022 o=\u0022Uh-huh. Pran li, yo bezwen yon kote san danje pou yo pale.\u0022 t=\u0022Uh-huh. Take it they need a safe place to chat?\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "3395562700356800512"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022creo\u0022 o=\u0022Wi. Bagay pou bloke siyal, ICE, eskanè aktif, tout bagay.\u0022 t=\u0022Yep. Signal-jamming, ICE, active scan, the works.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "3395563029441892352"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

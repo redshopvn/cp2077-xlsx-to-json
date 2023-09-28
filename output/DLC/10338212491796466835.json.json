@@ -1,0 +1,81 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:33.7816259Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\10338212491796466835.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Nomad",
+                            "maleVariant": "",
+                            "stringId": "3042018282444664836"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Streetkid",
+                            "maleVariant": "",
+                            "stringId": "3042018588595302400"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Corp",
+                            "maleVariant": "",
+                            "stringId": "3042018613945675776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Start",
+                            "maleVariant": "",
+                            "stringId": "3042021011426619396"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Bomb",
+                            "maleVariant": "",
+                            "stringId": "3042021609769250816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Final meeting",
+                            "maleVariant": "",
+                            "stringId": "3048971001323565056"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]After first meeting",
+                            "maleVariant": "",
+                            "stringId": "3070884800070660096"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]wst 08 - Nele dead",
+                            "maleVariant": "",
+                            "stringId": "3470979580785569792"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]wst 09 - Ambush",
+                            "maleVariant": "",
+                            "stringId": "3470979801372405760"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

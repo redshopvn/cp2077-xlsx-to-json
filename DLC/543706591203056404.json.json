@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:35.5861328Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\543706591203056404.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Well V, that\u0027s settled. The tale took a few twists and turns, wouldn\u0027t you say?",
+              "maleVariant": "",
+              "stringId": "3295490616302342144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Sure would.",
+              "maleVariant": "",
+              "stringId": "3295501063726403584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Nevertheless, I applaud your good sense. One thinks with the brain, not the heart. Your transfer\u0027s en route, your job complete.",
+              "maleVariant": "",
+              "stringId": "3298441973292437504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "My, my... Bana\u0027s predicament is all over the holowaves. There\u0027s no hushing it up now.",
+              "maleVariant": "",
+              "stringId": "3298443892857606144"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, well, their choice. Just hope they don\u0027t regret it.",
+              "maleVariant": "",
+              "stringId": "3298447793308667904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mm. What matters is we\u0027ve been compensated. Our work here is done.",
+              "maleVariant": "",
+              "stringId": "3298449619038867456"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.0727735Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\12482064382927304554.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Here to shop.",
+                            "maleVariant": "",
+                            "stringId": "3073880591283822596"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Everything here belongs to Orbital Air?",
+                            "maleVariant": "",
+                            "stringId": "3073884322201116672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Need somethin' to calm my nerves before a big trip.",
+                            "maleVariant": "",
+                            "stringId": "3073884761227304960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "This really an official Orbital Air outfit?",
+                            "maleVariant": "",
+                            "stringId": "3073886271411625984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Don't worry, anxiety is perfectly normal. We'll find you something.",
+                            "maleVariant": "",
+                            "stringId": "3227602648908771328"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Great question. Orbital Air is a corporation headquartered in Nairobi, Kenya, but we operate most of the orbital transport around the globe.",
+                            "maleVariant": "",
+                            "stringId": "3334933310019571712"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Not exactly what I asked...",
+                            "maleVariant": "",
+                            "stringId": "3334943493772906496"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We also have corporate offices scattered across the NUSA as well as in many free states and cities. We offer a wide array of services, including medical equipment and expertise.",
+                            "maleVariant": "",
+                            "stringId": "3334943724728061952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Welcome to Orbital Air Medical. How can I help you?",
+                            "maleVariant": "",
+                            "stringId": "3347452713864892416"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,495 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.9381851Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\74137888244760255.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Welcome to Night City International and Translunar, your gateway to the world and the stars.",
+                            "maleVariant": "",
+                            "stringId": "3001300166228029440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Which cam?",
+                            "maleVariant": "",
+                            "stringId": "3014437721999912964"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Busy day, looks like.",
+                            "maleVariant": "",
+                            "stringId": "3014439582861602816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Aw, jeez, pret-ty busy today, huh? Peeps movin', goin' places… heh.",
+                            "maleVariant": "Pff, wha… Jeez, pretty busy today, huh? Peeps movin', goin' places…",
+                            "stringId": "3014441579702628356"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All set. Go ahead, do it.",
+                            "maleVariant": "",
+                            "stringId": "3014443486936543232"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Look at the cam, please?",
+                            "maleVariant": "",
+                            "stringId": "3014443769867513856"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Done.",
+                            "maleVariant": "",
+                            "stringId": "3014443984716541952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I need to temporarily power down any unauthorized implants. Personal link in the panel, please.",
+                            "maleVariant": "",
+                            "stringId": "3014444162219487232"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "OK, now you need to let me in.",
+                            "maleVariant": "",
+                            "stringId": "3033387700936224768"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Jack out]",
+                            "maleVariant": "",
+                            "stringId": "3085298663693565952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Look straight into the camera for me.",
+                            "maleVariant": "",
+                            "stringId": "3091869429568471040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Scan's all good. Orbital Air thanks you for your cooperation and your patronage.",
+                            "maleVariant": "",
+                            "stringId": "3091871513986564096"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hm, ID unknown. Show me your ticket.",
+                            "maleVariant": "",
+                            "stringId": "3092463517061693440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Told you to wait! Be done stat.",
+                            "maleVariant": "",
+                            "stringId": "3092499500415139840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Look at the cam, please.",
+                            "maleVariant": "",
+                            "stringId": "3092509253916770304"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Scan's complete. Sorry for the hassle, thanks for your understanding.",
+                            "maleVariant": "",
+                            "stringId": "3092620986064912412"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Right.",
+                            "maleVariant": "",
+                            "stringId": "3093787960304287744"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Um, which cam'd that be?",
+                            "maleVariant": "Uh, which cam'd that be?",
+                            "stringId": "3130027848825405460"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "THAT one.",
+                            "maleVariant": "",
+                            "stringId": "3130027848825405472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Look at the camera, please. It'll be over in a few seconds.",
+                            "maleVariant": "",
+                            "stringId": "3130027848825405484"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ready. Just do what he says.",
+                            "maleVariant": "",
+                            "stringId": "3130027848842182656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Look at the cam? You takin' my pic?",
+                            "maleVariant": "",
+                            "stringId": "3134715253859196928"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Takin' my pic, Officer? I get a print if it's cute?",
+                            "maleVariant": "",
+                            "stringId": "3134716113859289088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hah, that'll do. Just look straight into the camera for me.",
+                            "maleVariant": "",
+                            "stringId": "3134716537064562688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Please look in the camera and remain still.",
+                            "maleVariant": "",
+                            "stringId": "3134729306337878016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "For biometric ID authentication, please look at the camera.",
+                            "maleVariant": "",
+                            "stringId": "3224865172465221680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wait! Don't yet!",
+                            "maleVariant": "",
+                            "stringId": "3224865172465221692"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Buy me some time. Need to link your metrics to a fake profile.",
+                            "maleVariant": "",
+                            "stringId": "3224865172465221704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Implant power-down complete.",
+                            "maleVariant": "",
+                            "stringId": "3224874380355010684"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "OK, you're full of shit. Wanna talk to your supervisor.",
+                            "maleVariant": "",
+                            "stringId": "3231998258797707264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "\"Please present your ticket...\"",
+                            "maleVariant": "",
+                            "stringId": "3231998258797707280"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Plan to stow myself away.",
+                            "maleVariant": "",
+                            "stringId": "3231998258814484488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "OK, stop puttin' up this wall of bullshit, fuckin' sop. Got any idea who I am?",
+                            "maleVariant": "",
+                            "stringId": "3232207311784214528"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Got a code yellow.",
+                            "maleVariant": "",
+                            "stringId": "3232215105891565576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dammit!",
+                            "maleVariant": "",
+                            "stringId": "3232234101340733440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nah, no ticket here. Meant to find a cozy nook in the luggage hold.",
+                            "maleVariant": "",
+                            "stringId": "3232241756264300556"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "First, what's with the attitude?",
+                            "maleVariant": "",
+                            "stringId": "3232247321820495884"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Need two more secs…",
+                            "maleVariant": "",
+                            "stringId": "3232249096933834752"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Jack out] Yellow 'cause you just pissed yourself?",
+                            "maleVariant": "",
+                            "stringId": "3232250459210219520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Jack out] So Mi, time I got my tail outta here.",
+                            "maleVariant": "",
+                            "stringId": "3232250459210219536"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'll fuckin' code yellow you!",
+                            "maleVariant": "",
+                            "stringId": "3232255300292673548"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Time to delta out!",
+                            "maleVariant": "",
+                            "stringId": "3232259287884595212"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Waaaiiit... Yeah, OK, clear. Code yellow cancelled.",
+                            "maleVariant": "",
+                            "stringId": "3232260698831683596"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Now jack out and move forward, please? We apologize for any inconvenience.",
+                            "maleVariant": "",
+                            "stringId": "3232260698831683604"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Code red!",
+                            "maleVariant": "",
+                            "stringId": "3232285520504651776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Unauthorized implants? Specifically?",
+                            "maleVariant": "",
+                            "stringId": "3234783893367390212"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Jack in] You got it.",
+                            "maleVariant": "",
+                            "stringId": "3234785735237271552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Threaten] Peeps're dangerous, implants per se aren't, ya hick.",
+                            "maleVariant": "",
+                            "stringId": "3234808993089159168"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wait, unauthorized implants? Specifically?",
+                            "maleVariant": "",
+                            "stringId": "3234855457303658512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "A detailed schedule was in the spaceport terms and conditions you acknowledged when you purchased your ticket.",
+                            "maleVariant": "",
+                            "stringId": "3234855457303658528"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V!",
+                            "maleVariant": "",
+                            "stringId": "3234855457303658544"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Right, 'course.",
+                            "maleVariant": "",
+                            "stringId": "3234858060506824704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sheesh, how backwards can you be? Should fear peeps, not the implants they wear.",
+                            "maleVariant": "",
+                            "stringId": "3234861686834954256"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "'Ey, V!",
+                            "maleVariant": "",
+                            "stringId": "3234861686834954272"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Code yellow. Got an uppity one at the gate.",
+                            "maleVariant": "",
+                            "stringId": "3234861686851731468"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Be chill, draw no attention.",
+                            "maleVariant": "",
+                            "stringId": "3234870569179643904"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tycho Terminal – go… and draw absolutely no eyes.",
+                            "maleVariant": "",
+                            "stringId": "3234927140878254080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "On the ground, hands behind your head!",
+                            "maleVariant": "",
+                            "stringId": "3241209169123049556"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Shit!",
+                            "maleVariant": "",
+                            "stringId": "3241209169123049564"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ahh, it's all that Arasaka confusion. Peeps feelin' just a little unsafe in the city.",
+                            "maleVariant": "It's all that... Arasaka confusion. Yeheh. Peeps feelin' just a... little unsafe in the city.",
+                            "stringId": "3246410512245026816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Um, not sure what you want me to do…",
+                            "maleVariant": "Um, ah, not sure what you want me to do…",
+                            "stringId": "3246599401266049024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Second, scan again. With greater care this time?",
+                            "maleVariant": "Second, scan again. With greater care this time.",
+                            "stringId": "3247606615321702400"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wanna talk to your supervisor – hop to it!",
+                            "maleVariant": "",
+                            "stringId": "3247630966595088384"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wanna make some spare eds?",
+                            "maleVariant": "",
+                            "stringId": "3292702127545835520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Seemed wasteful to buy a ticket, but... I did manage to set somethin' aside for you.",
+                            "maleVariant": "Seemed wasteful to buy a ticket. But I did manage to set somethin' aside for you.",
+                            "stringId": "3292702451899752448"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Usually enough to keep border officials happy, right?",
+                            "maleVariant": "Usually enough to keep a border official happy, right?",
+                            "stringId": "3292711919937052672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "He came close, V. You're welcome.",
+                            "maleVariant": "",
+                            "stringId": "3357934045421559808"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Don't push it, V.",
+                            "maleVariant": "",
+                            "stringId": "3364801166102056960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sorry, humor's my go-to when I'm tense.",
+                            "maleVariant": "",
+                            "stringId": "3364819891807145988"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Damn, you're tense. Got a friend with a thing for paunches…",
+                            "maleVariant": "",
+                            "stringId": "3364821048076095488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sorry, read the vibe wrong. Just, officials and their brows and their frowns – ah, it makes me tense.",
+                            "maleVariant": "Sorry, heh. Read the vibe wrong. Just, officials and their brows and their frowns, heh – makes me tense.",
+                            "stringId": "3364821646771048448"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Stressful, this job. You could use some relief. Know this girl with a thing for paunches…",
+                            "maleVariant": "Stressful, this job. You could use some relief. Know this girl with a thing for, uh, paunches…",
+                            "stringId": "3364822101735591936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hm. Will you please just do as instructed?",
+                            "maleVariant": "",
+                            "stringId": "3364824494804127744"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All good.",
+                            "maleVariant": "",
+                            "stringId": "3364825029225566208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And I know wound-up smart-asses like you. How about you unwind in a cell.",
+                            "maleVariant": "",
+                            "stringId": "3364827328710791168"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And humor's my go-to, so…",
+                            "maleVariant": "Yeah, and humor's my go-to, so… heh.",
+                            "stringId": "3364834747243384832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I truly apologize…",
+                            "maleVariant": "I... truly apologize.",
+                            "stringId": "3364835062151729152"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Please just do as instructed.",
+                            "maleVariant": "",
+                            "stringId": "3943381836790808580"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

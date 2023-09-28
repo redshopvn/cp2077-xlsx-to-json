@@ -1,0 +1,81 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:33.9506576Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\11188745053613991171.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V, V, V. Do you know why I enjoy working with you?",
+                            "maleVariant": "",
+                            "stringId": "3123153853829672960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V, you won't guess who just called. Or... perhaps you already have?",
+                            "maleVariant": "",
+                            "stringId": "3123155493030785024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I don’t have to tell you twice what needs doing.",
+                            "maleVariant": "",
+                            "stringId": "3274042020142161920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Our client can rest easy now.",
+                            "maleVariant": "",
+                            "stringId": "3274106148533739520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Job done, transfer sent, contract closed.",
+                            "maleVariant": "",
+                            "stringId": "3274110919906861056"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "My people at NetWatch have assured me they will place Indira Barazza on their witness protection list without delay.",
+                            "maleVariant": "",
+                            "stringId": "3274112675827064832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They've assigned netrunner guards, around the clock, to protect her body and mind. No hacker alive can reach her now.",
+                            "maleVariant": "",
+                            "stringId": "3274115559327178752"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "With a full heart and a fuller bank account, I'll transfer your fee. Contract closed.",
+                            "maleVariant": "",
+                            "stringId": "3274116583945314304"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You've secured the safety of your client, and elevated your fixer's standing with his corporate employers.",
+                            "maleVariant": "",
+                            "stringId": "3286752985535127552"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

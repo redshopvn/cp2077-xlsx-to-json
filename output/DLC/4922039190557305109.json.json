@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.4212071Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\4922039190557305109.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Another shootout last night. How many did we have this month alone?",
+                            "maleVariant": "",
+                            "stringId": "3265337774560174080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ugh. Don’t even start. Word of the airdrop leaked out again.",
+                            "maleVariant": "",
+                            "stringId": "3306137266581577728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What was in the drop this time?",
+                            "maleVariant": "",
+                            "stringId": "3306138077306986496"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Meds, I think. All of Dogtown’s drug fiends jumped on it. Cleaned it out in five minutes.",
+                            "maleVariant": "",
+                            "stringId": "3306138442127548416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Better drugs than ammo. When they drop that, sky’s lit up ‘till the morning.",
+                            "maleVariant": "",
+                            "stringId": "3306141954521604096"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah. My young’un collects shells and makes lil’ figurines out of them.",
+                            "maleVariant": "",
+                            "stringId": "3324317379726843904"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

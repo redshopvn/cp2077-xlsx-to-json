@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.2379370Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\14133966870496388287.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, hi! Back already? How’s the piece? Handles well, huh?",
+              "maleVariant": "",
+              "stringId": "3263781867007582208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hitting an empty beer can is hardly a challenge.",
+              "maleVariant": "",
+              "stringId": "3278124590853169152"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It does have a comfy grip...",
+              "maleVariant": "",
+              "stringId": "3385486701106733056"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Comfort is key, of course, of course... It’s so compact, it will fit in your purse! I hope it was as accurate as it was comfortable?",
+              "maleVariant": "",
+              "stringId": "3385490101076664320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I need to be sure I’m able to hit a moving target before I spend my hard-earned cash.",
+              "maleVariant": "",
+              "stringId": "3385504741999419392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I think I didn’t make myself clear. I want the target to be mobile and alive. Two-legged, if possible.",
+              "maleVariant": "",
+              "stringId": "3385510072976580608"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We could fire up the target range...",
+              "maleVariant": "",
+              "stringId": "3386691352443396096"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uhh... I think... that could be arranged.",
+              "maleVariant": "",
+              "stringId": "3386764570495721472"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

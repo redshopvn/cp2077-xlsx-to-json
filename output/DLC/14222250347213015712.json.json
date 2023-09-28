@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.2448776Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\14222250347213015712.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I have heard you are selling biohaz grenades. I am looking for something special. With soman gas.",
+                            "maleVariant": "",
+                            "stringId": "3266391489153409024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Soman? That is special. Gotta pay up front for those babies.",
+                            "maleVariant": "",
+                            "stringId": "3292516021894029312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Up front? Choom, you know me. I am always good for my credit.",
+                            "maleVariant": "",
+                            "stringId": "3292525370209116160"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Look. I’m not asking you why do scavs need chemical weapons. Don’t know, don’t care.",
+                            "maleVariant": "",
+                            "stringId": "3292525479747559424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But if BARGHEST catches me with that merch, I can either bribe them or face their firing squad.",
+                            "maleVariant": "",
+                            "stringId": "3385726163552215040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck. Fine. How much?",
+                            "maleVariant": "",
+                            "stringId": "3385727279723618304"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

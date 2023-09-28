@@ -1,0 +1,87 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.3983545Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\15207019363290362046.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "'Kay, yeah, just turn your back on me.",
+                            "maleVariant": "",
+                            "stringId": "3334565704778715144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey, what gives?",
+                            "maleVariant": "",
+                            "stringId": "3334565704812269576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Came back. Good.",
+                            "maleVariant": "",
+                            "stringId": "3334565704896155652"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thought you wouldn't be back.",
+                            "maleVariant": "",
+                            "stringId": "3334565704912932872"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You hear me?",
+                            "maleVariant": "",
+                            "stringId": "3334565704946487304"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey, say somethin'.",
+                            "maleVariant": "",
+                            "stringId": "3334565704980041736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Eh, yeah...?",
+                            "maleVariant": "",
+                            "stringId": "3334565705248477192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "That D.A.'s got my son. Go to the Heavy Hearts, talk to her.",
+                            "maleVariant": "",
+                            "stringId": "3334565705282031624"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ey, watch it, all right?",
+                            "maleVariant": "",
+                            "stringId": "3334565705449803784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sorry.",
+                            "maleVariant": "",
+                            "stringId": "3334565705483358216"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

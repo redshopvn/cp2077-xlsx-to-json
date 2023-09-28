@@ -1,0 +1,57 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.4007333Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\4883684344631462829.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Who’d you think I bring for that kinda money? Brawny twenty-year-old nomads? They know their value.",
+                            "maleVariant": "",
+                            "stringId": "3263697565137838080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<mothertongue l=\"mex\" m=\"pendejo\" b=\"Are you fucking with me, \" a=\"? I need strong, healthy bodies for construction work, not a bunch of underfed <Rich color=\\\"MainColors.ActiveBlue\\\">abuelos</>!\"/>",
+                            "maleVariant": "",
+                            "stringId": "3285734517843075072"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Where’d you get these fuckers? Hospice? Nursing home?",
+                            "maleVariant": "",
+                            "stringId": "3285746983750770688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I had to pay for the plot, eviction orders, construction materials, the machinery, the bribes...",
+                            "maleVariant": "",
+                            "stringId": "3383937570659803136"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "With all this, where am I gonna find the budget for better labor? Shit.",
+                            "maleVariant": "",
+                            "stringId": "3385386076163448832"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:35.2612110Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\4154229711241650497.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Cmothertongue l=\u0022rus\u0022 m=\u0022molodoy\u0022 b=\u0022Ribakov... dead!? The Boris Ribakov? That’s bullshit, \u0022 a=\u0022.\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "3265197232845520896"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I never lie to my comrades. Never. I am a man of principle.",
+              "maleVariant": "",
+              "stringId": "3349351044463562752"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We found him in a pool of his own blood. Looks like he didn’t \u0022poof\u0022 this time.",
+              "maleVariant": "",
+              "stringId": "3349373104740995072"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Right. Ribakov. Dead. The Spetsnaz legend. The man who knew how kill five man and poof! Disappear in plain sight.",
+              "maleVariant": "",
+              "stringId": "3349374442505867264"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Cmothertongue l=\u0022rus\u0022 m=\u0022Blyad\u0027.\u0022 b=\u0022\u0022 a=\u0022.\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "3349376116804915200"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Cmothertongue l=\u0022rus\u0022 m=\u0022Blyad\u0027.\u0022 b=\u0022Yeah. \u0022 a=\u0022.\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "3349376184568090624"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

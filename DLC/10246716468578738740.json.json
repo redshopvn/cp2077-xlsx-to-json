@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:33.7710108Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\10246716468578738740.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Boy, I really hope the Tycho Terminal construction continues forever.",
+              "maleVariant": "",
+              "stringId": "3266710311571849216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Same here. Less passengers, less overtime...",
+              "maleVariant": "",
+              "stringId": "3318983124381507584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Then again, since I’m home more often, electricity bills are through the roof.",
+              "maleVariant": "",
+              "stringId": "3318983327603924992"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I feel you, I really do. Since Coleen moved out, all my bills effectively doubled.",
+              "maleVariant": "",
+              "stringId": "3318983713412784128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You guys had a fight?",
+              "maleVariant": "",
+              "stringId": "3318986794582056960"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Not exactly. It’s just... since I have weekends off, we got to know each other well. Better than we wanted, really.",
+              "maleVariant": "",
+              "stringId": "3318986923967946752"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

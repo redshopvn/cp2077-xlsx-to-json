@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.8904176Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\1958342877583500503.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Well, check it again!",
+                            "maleVariant": "",
+                            "stringId": "3265010391936737280"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And I’m telling you again: you’re not on the list! This area is VIP only. Scram.",
+                            "maleVariant": "",
+                            "stringId": "3282339684139048960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But I have an appointment in there! Rebecca Renkoski is waiting for me. It’s a business meeting, do you understand?",
+                            "maleVariant": "",
+                            "stringId": "3282373577823133696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "She’s got a shipment in. If she doesn’t get paid today, starting tomorrow you guys are going to be digging ditches at the Stacks.",
+                            "maleVariant": "",
+                            "stringId": "3282399491004997632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh, I remember now! Rebecca left us a message for you.",
+                            "maleVariant": "",
+                            "stringId": "3282409844862525440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah? What is it?",
+                            "maleVariant": "",
+                            "stringId": "3282410727042097152"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "She’s sold the merchandise to someone else. Happy now? No? Either way, fuck off.",
+                            "maleVariant": "",
+                            "stringId": "3282410913017536512"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

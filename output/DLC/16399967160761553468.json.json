@@ -1,0 +1,57 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.5385130Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\16399967160761553468.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh, man. I’m so tired. Didn’t sleep a wink.",
+                            "maleVariant": "",
+                            "stringId": "3265095195730452480"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh, yeah? A lot going on? Animals went crazy with the juice again?",
+                            "maleVariant": "",
+                            "stringId": "3288199881650774016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nah. Some ‘runner took over our drone. He reprogrammed its route and drew dicks on the sky over the stadium all night long.",
+                            "maleVariant": "",
+                            "stringId": "3288218341638316032"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "That’s fresh. Did you manage to track him?",
+                            "maleVariant": "",
+                            "stringId": "3288219508896342016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Eventually. But we couldn’t even kick his ass since it turned out our \"master hacker\" is a fucking ten-year old.",
+                            "maleVariant": "",
+                            "stringId": "3288220219193335808"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

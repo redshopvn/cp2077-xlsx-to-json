@@ -1,0 +1,603 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.0752311Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\3175385837655176765.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Welcome, welcome. I'm Steven Santos of the Brazilian Intelligence Agency.",
+                            "maleVariant": "",
+                            "stringId": "2765121586487603200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All clear.",
+                            "maleVariant": "",
+                            "stringId": "2931661998404231172"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "How'd the scavs trace the signal?",
+                            "maleVariant": "",
+                            "stringId": "2931755600941768704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "'Kay, all clear. Guess I'll get to it.",
+                            "maleVariant": "",
+                            "stringId": "2931757300591190016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "How'd the scavs trace the signal?",
+                            "maleVariant": "",
+                            "stringId": "2931758498652184576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We have no idea.",
+                            "maleVariant": "",
+                            "stringId": "2931760787769090048"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'm sending you the coords. Ana will call once you lock in on the signal.",
+                            "maleVariant": "",
+                            "stringId": "2931768759865925632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Got more intel on this Ribakov guy?",
+                            "maleVariant": "",
+                            "stringId": "3083831983447191552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ribakov – anything I oughta know 'fore I give him a warm Night City greetin'?",
+                            "maleVariant": "",
+                            "stringId": "3083832866583064576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "He's an elite sharpshooter. One hundred and sixty-seven confirmed kills.",
+                            "maleVariant": "",
+                            "stringId": "3083834951001157632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Preem, let's see what you got.",
+                            "maleVariant": "",
+                            "stringId": "3092885108334592000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh, can't wait to see what ya dig up.",
+                            "maleVariant": "Oooh, can't wait to see what ya dig up.",
+                            "stringId": "3092890931236503556"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ah, so you were affiliated once. Arasaka counterintelligence... fired effective immediately, no severance. Tsk, ouch. That must have hurt, huh…",
+                            "maleVariant": "",
+                            "stringId": "3092891623078559744"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ah, you have some affiliations after all. A nomad... Bakker? Hmph, First I've heard of them. But really, who can keep track of all your clans, no?",
+                            "maleVariant": "",
+                            "stringId": "3092900206084161536"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Heywood? That explains your colorful CV. Theft, assault, robbery... the usual checklist. Small wonder we're meeting you here, no?",
+                            "maleVariant": "",
+                            "stringId": "3092900273260134408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Close the computer] No you won't.",
+                            "maleVariant": "",
+                            "stringId": "3094136341007499264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nope, no scannin'. Save the theatrics for the next sucker ya hire.",
+                            "maleVariant": "",
+                            "stringId": "3094139959802658816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Find Bana, please... or at least that damned biomonitor.",
+                            "maleVariant": "",
+                            "stringId": "3095723666732810240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What, all this tech and nothin' on Konpeki Plaza?",
+                            "maleVariant": "",
+                            "stringId": "3195655396473417728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hmm… encrypted, access denied. Wait – level four clearance required? Who are you, really? Hm?",
+                            "maleVariant": "",
+                            "stringId": "3195657112581287936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bana's signal is currently coming from Organitopia, the old natural history museum in Terra Cognita.",
+                            "maleVariant": "",
+                            "stringId": "3195722792563355648"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "One problem is, the scavengers are flocking to the signal like flies. And wait – there's another.",
+                            "maleVariant": "",
+                            "stringId": "3195726344199319552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The gang's with Boris Ribakov, an ex-Spetsnaz operative. That bastard killed enough people to fill a cemetery.",
+                            "maleVariant": "",
+                            "stringId": "3195727643712139264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Can't your own people find him?",
+                            "maleVariant": "",
+                            "stringId": "3197101732901138436"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Our agency policy is to scan all potential contractors.",
+                            "maleVariant": "",
+                            "stringId": "3214490303908085760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Too bad. Wanna hire me or waste my time?",
+                            "maleVariant": "",
+                            "stringId": "3236426501529636864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We'll take her.",
+                            "maleVariant": "We'll take him.",
+                            "stringId": "3236429644371955712"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ana…",
+                            "maleVariant": "",
+                            "stringId": "3236430716637384704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The signal could die at any minute. We don't have time to be picky.",
+                            "maleVariant": "",
+                            "stringId": "3236430986398240768"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hold still, please.",
+                            "maleVariant": "",
+                            "stringId": "3237847679431446528"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I have my doubts now.",
+                            "maleVariant": "",
+                            "stringId": "3237904575819517952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No Konpeki Plaza in there?",
+                            "maleVariant": "",
+                            "stringId": "3237905733111877636"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "That's it?",
+                            "maleVariant": "",
+                            "stringId": "3237905955409989632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Aw, c'mon. Sure you got access to all sorts of intelligence DBs. Why ya givin' me the boring bits?",
+                            "maleVariant": "",
+                            "stringId": "3237906504108838912"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Your missing person, I see.",
+                            "maleVariant": "",
+                            "stringId": "3239327310412091396"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So you run this op. Give me the detes.",
+                            "maleVariant": "",
+                            "stringId": "3239332958461857792"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ah, so you're the one in charge. Care to give me the detes now?",
+                            "maleVariant": "",
+                            "stringId": "3239333535765860352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You love prodding the hornet's nest, no? Good, so do we.",
+                            "maleVariant": "",
+                            "stringId": "3239333850640650240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Look, we know who you are.",
+                            "maleVariant": "",
+                            "stringId": "3241573680363704320"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Amateur hour.",
+                            "maleVariant": "",
+                            "stringId": "3241580327194693632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What sorta rookie-ass game are you two playin'?",
+                            "maleVariant": "",
+                            "stringId": "3241581076179947520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Uh… Excuse me?",
+                            "maleVariant": "",
+                            "stringId": "3241582516336168960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You run a background scan before meetin' anyone, let alone a merc. This your first assignment?",
+                            "maleVariant": "",
+                            "stringId": "3241582647684993024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Y-you don't know wh-...",
+                            "maleVariant": "",
+                            "stringId": "3241584761010229248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, you an' half of Night City. Street cred didn't earn itself.",
+                            "maleVariant": "",
+                            "stringId": "3241588555513171968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hands mentioned you're lookin' for someone. Take it that's him.",
+                            "maleVariant": "",
+                            "stringId": "3241590792788480000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bravo, merc.",
+                            "maleVariant": "",
+                            "stringId": "3241591585478381568"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "This is Mark Bana. Thirty-seven years old, worked at the agency for twelve. Six feet tall, brown hair, well-built. Combat trained.",
+                            "maleVariant": "",
+                            "stringId": "3241597669668655104"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Been a long time – think he's still alive?",
+                            "maleVariant": "",
+                            "stringId": "3241609030226251776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "See what I can do.",
+                            "maleVariant": "",
+                            "stringId": "3241726614737096704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So – scavs, ex-Spetsnaz, biomon that's been dead for the past six months… oof…",
+                            "maleVariant": "So – scavs, ex-Spetsnaz, biomon that's been dead for the past six months… Ooft…",
+                            "stringId": "3241732650256666624"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Eh, we don't like it any more than you.",
+                            "maleVariant": "",
+                            "stringId": "3241732957397159936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "His cyberware includes ocular implants linked to his weapon's enhanced targeting system. Reaction accelerators, adrenaline pumps...",
+                            "maleVariant": "",
+                            "stringId": "3242022664416890880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You can add to that some experimental Soviet tech. It seems he's able to hack his enemy's ocularware.",
+                            "maleVariant": "",
+                            "stringId": "3242028786724999168"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Khe… I'm hit… Argh, fuck… They're comin' f-for… for u-... Ugh… Send backup… pl- please… please…",
+                            "maleVariant": "",
+                            "stringId": "3246530062338854912"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "That's enough.",
+                            "maleVariant": "",
+                            "stringId": "3246530594998685696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bana went MIA in Dogtown six months ago. He sent one last call for help right before he vanished – listen.",
+                            "maleVariant": "",
+                            "stringId": "3246532251128008704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sense a surprise comin'...",
+                            "maleVariant": "",
+                            "stringId": "3246597269919993860"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You can't check the sig yourselves?",
+                            "maleVariant": "",
+                            "stringId": "3246598484959531008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Take a look at the screen, V.",
+                            "maleVariant": "",
+                            "stringId": "3246827192672686080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Any other fun surprises for me?",
+                            "maleVariant": "",
+                            "stringId": "3246834899706286080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Why not trace the sig yourselves, the two of you?",
+                            "maleVariant": "",
+                            "stringId": "3246834981948198912"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We're analysts. No clearance, no experience in fieldwork.",
+                            "maleVariant": "",
+                            "stringId": "3246835609097310208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Unfortunately, yes.",
+                            "maleVariant": "",
+                            "stringId": "3246838883724660736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'm V. Just V.",
+                            "maleVariant": "",
+                            "stringId": "3285654765451972608"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What is this place?",
+                            "maleVariant": "",
+                            "stringId": "3285671494517362688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Name's V. No affiliation.",
+                            "maleVariant": "",
+                            "stringId": "3285671845345726464"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Real chic interior, militarist. Almost like it was by design...",
+                            "maleVariant": "",
+                            "stringId": "3285671976996540416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh, is that so? Just a moment, we'll scan your details.",
+                            "maleVariant": "",
+                            "stringId": "3285679148165861376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "This is our operations base. Agency property. You'll get a taste of our tech in a moment – we'll scan you before we begin.",
+                            "maleVariant": "",
+                            "stringId": "3285698258220191744"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yes, we got those processors tracked down… mhm… we're negotiating…",
+                            "maleVariant": "",
+                            "stringId": "3287100471610019840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Look, this Bana guy… the recording's clear as day. Choom's gone. Why go after him now?",
+                            "maleVariant": "",
+                            "stringId": "3287185886463496192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What if he's not? No, we've got to check that signal. We owe him that much.",
+                            "maleVariant": "",
+                            "stringId": "3287204821263028224"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You're a big org, got plenty of agents. Don't think you need my help here.",
+                            "maleVariant": "",
+                            "stringId": "3287207273018265600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We are, and, we do, but our hands are tied. We'd risk an international incident, sending spec ops in.",
+                            "maleVariant": "",
+                            "stringId": "3287207761939894272"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Clearly your agency didn't green light this. Why you still followin' through?",
+                            "maleVariant": "Look, clearly your agency didn't green light this. Why you still followin' through?",
+                            "stringId": "3294055720795082752"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ah, I see Hands checked us out. Slimy bastard.",
+                            "maleVariant": "",
+                            "stringId": "3294056814736674816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hands is a pro. It's true, we're acting alone. Would you like to know why?",
+                            "maleVariant": "",
+                            "stringId": "3294059982023397376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ehh, his biomonitor began pinging a few days ago. The signal's coming from Dogtown, seems mobile. Any questions?",
+                            "maleVariant": "",
+                            "stringId": "3294065562779750400"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "When Bana went missing, the agency declared him KIA. His body has never been found.",
+                            "maleVariant": "",
+                            "stringId": "3294071423413620736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Then his signal returned. What did the agency say? \"Insufficient evidence. Our algorithms place his chances of survival at four percent.\"",
+                            "maleVariant": "",
+                            "stringId": "3294158019450212352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Who's Bana to you?",
+                            "maleVariant": "",
+                            "stringId": "3294161483123232772"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sounds like you're poking the hornets now.",
+                            "maleVariant": "",
+                            "stringId": "3294163805542912000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Your agency'll sweep it under the rug.",
+                            "maleVariant": "",
+                            "stringId": "3294163997423931392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Why's Bana so important to you?",
+                            "maleVariant": "",
+                            "stringId": "3294181540586950656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So you're ignoring your command. And tossin' me into whatever shitpool they're trying to avoid.",
+                            "maleVariant": "",
+                            "stringId": "3294183038406463488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Somethin' stinks. Agency's clearly tryin' to keep the Bana biz under wraps.",
+                            "maleVariant": "",
+                            "stringId": "3294183135714316288"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Only two things matter here. First, Bana is our dear friend. Second, we hired you to check on his signal. Is that clear?",
+                            "maleVariant": "",
+                            "stringId": "3294183249933602816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We'll handle the eventual fallout.",
+                            "maleVariant": "",
+                            "stringId": "3294184385281363968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But why?",
+                            "maleVariant": "",
+                            "stringId": "3294189955400962048"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Inconvenient, probably. Agencies, well, sometimes they'd rather not know things. Least not in any official capacity.",
+                            "maleVariant": "",
+                            "stringId": "3294190031217201152"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck the algorithms. Principle, integrity, naiveté... call it what you will. They don't care – we do.",
+                            "maleVariant": "",
+                            "stringId": "3294254080604868608"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "For one, we owe our careers to him. Bana introduced us to the agency.",
+                            "maleVariant": "",
+                            "stringId": "3294267836428816384"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And, well... Some matters are so unjust, you can't just sit and pretend them away.",
+                            "maleVariant": "",
+                            "stringId": "3294271395513864192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck our command.",
+                            "maleVariant": "",
+                            "stringId": "3294282745334042624"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Why're you going around the agency?",
+                            "maleVariant": "",
+                            "stringId": "3298227934687760384"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,99 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:35.6690481Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\5832432359155679648.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "She\u0027s behind us! Regroup!",
+              "maleVariant": "He\u0027s behind us! Regroup!",
+              "stringId": "3091164916253327372"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Across the roof. Wreck\u0027s straight ahead.",
+              "maleVariant": "",
+              "stringId": "3224572998845423616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ready steady. Enemy backup\u0027s on the way.",
+              "maleVariant": "",
+              "stringId": "3224574090387873792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, hit the ground! It\u0027s gonna explode!",
+              "maleVariant": "",
+              "stringId": "3224575432481267712"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Make for the wreck! And watch who you shoot! We got NUS agents there, not bogeys.",
+              "maleVariant": "",
+              "stringId": "3224577311630123008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "See the hatch? Run!",
+              "maleVariant": "",
+              "stringId": "3224578469140586496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wrong way, V! Gettin\u0027 too far away!",
+              "maleVariant": "",
+              "stringId": "3375306544724836352"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That was all of \u0027em. Keep going.",
+              "maleVariant": "",
+              "stringId": "3375389824946012160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Got somethin\u0027 for ya. See that generator? Power it up, it\u0027ll uncork gas. Bastards won\u0027t see it comin\u0027.",
+              "maleVariant": "",
+              "stringId": "3375477693433774080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fuck\u0027s goin\u0027 on here?",
+              "maleVariant": "",
+              "stringId": "3376757172344979456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, what\u0027re you waitin\u0027 for?!",
+              "maleVariant": "",
+              "stringId": "3414416743934722048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Path to the wreckage is clear.",
+              "maleVariant": "",
+              "stringId": "3414417301995257856"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

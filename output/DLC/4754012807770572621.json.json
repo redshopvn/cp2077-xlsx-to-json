@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.3690779Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\4754012807770572621.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So? Where is he? Why’s he late?",
+                            "maleVariant": "",
+                            "stringId": "3276622640421642240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Problem at Dogtown entrance, he says.",
+                            "maleVariant": "",
+                            "stringId": "3344742699542859776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Aw, fuck. The entire point of meeting here was to avoid problems. What happened there, exactly?",
+                            "maleVariant": "",
+                            "stringId": "3344742996700909568"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Some misunderstanding with Hansen’s men. They say the “import tax” increased and now they want more eddies. No worries, I’ll make it right.",
+                            "maleVariant": "",
+                            "stringId": "3344743140582313984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They don’t let him in, the next “tax” will be paid out in lead and fury. Call them and tell ‘em that.",
+                            "maleVariant": "",
+                            "stringId": "3344743340281516032"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Careful. Remember, it is still their turf.",
+                            "maleVariant": "",
+                            "stringId": "3344743460288942080"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

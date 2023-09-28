@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.9303733Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\2255615602658801514.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "People died and you\u0027re out here playing? Have some respect!",
+              "maleVariant": "",
+              "stringId": "3111459333535133696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "All right, sheesh…",
+              "maleVariant": "",
+              "stringId": "3348862655779934208"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hansen\u0027s rabid brutes are at it again. Remember seventy-five? Wasn\u0027t as bad as this, but they killed two kids then. No apology, no compensation. Nothing.",
+              "maleVariant": "",
+              "stringId": "3348873548068655104"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yo, keep it down...",
+              "maleVariant": "",
+              "stringId": "3348874393237688320"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No, I\u0027m done bein\u0027 scared of \u0027em!",
+              "maleVariant": "",
+              "stringId": "3348874526062907392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Shit, it\u0027s really soaked in there. Dunno if it\u0027ll come off.",
+              "maleVariant": "",
+              "stringId": "3348902652562214912"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ooh. I\u0027ll have someone bring us something stronger.",
+              "maleVariant": "",
+              "stringId": "3348929385126531072"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

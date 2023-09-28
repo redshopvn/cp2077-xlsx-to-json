@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.2096146Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\13956032370609161224.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Christ, could it be any more fucked up?",
+              "maleVariant": "",
+              "stringId": "3264911643642273792"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Waste of time? Why, got meetings to attend to? They miss you at Petrochem, do they?",
+              "maleVariant": "",
+              "stringId": "3318717753670492160"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah, yeah. Laugh all you want. But, if you really need to know, one – it was an accident. And two – they didn’t fire me. I quit.",
+              "maleVariant": "",
+              "stringId": "3318719397904769024"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Riiight, you quit. You quit so hard you ended up in fucking Dogtown.",
+              "maleVariant": "",
+              "stringId": "3318719631259066368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Better get to work, smart-ass. BARGHEST want us to fix it, so let’s fix it. You can get witty on your own time.",
+              "maleVariant": "",
+              "stringId": "3318721830584311808"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wait, wait, wait, wait, wait... What if we muck it here?",
+              "maleVariant": "",
+              "stringId": "3323303199570386944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I mean we could do that, but then what to do with the whatchamacallit? No effin’ way. Waste of time’s what it is.",
+              "maleVariant": "",
+              "stringId": "3323304200968855552"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

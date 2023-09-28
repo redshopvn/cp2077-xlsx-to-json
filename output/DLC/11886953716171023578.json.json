@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.0236341Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\11886953716171023578.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Daaad? When will we go to the Mooon?",
+                            "maleVariant": "",
+                            "stringId": "3266640568634605568"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And why would we go there? There’s nothing interesting on the Moon.",
+                            "maleVariant": "",
+                            "stringId": "3322882057776308224"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But Vicky’s mom goes there every week on business trips! Vicky says it’s because her mom is a Vee Aye Pee!",
+                            "maleVariant": "",
+                            "stringId": "3322884095805399040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Your mom is a VIP too, sweetie. That’s why we’re moving to Tokyo. You will love it there, you’ll see.",
+                            "maleVariant": "",
+                            "stringId": "3323036836133511168"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vicky used to live in Tokyo too, but she says Night City is better.",
+                            "maleVariant": "",
+                            "stringId": "3323041315515965440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You shouldn’t believe everything Vicky says.",
+                            "maleVariant": "",
+                            "stringId": "3323056939617132544"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

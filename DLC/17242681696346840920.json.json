@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.6648139Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\17242681696346840920.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "She look like she\u0027s breathing to you?",
+              "maleVariant": "",
+              "stringId": "3357845830648967168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No… not breathing...",
+              "maleVariant": "",
+              "stringId": "3357846116331401216"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Pretty difficult to do with a with an extra hole in your skull.",
+              "maleVariant": "",
+              "stringId": "3369418721127141376"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Uhhh… She-- She was grabbing a gun, I think.",
+              "maleVariant": "",
+              "stringId": "3369419006440476672"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "They wanted her alive, you leadheaded cunt! Now you have to call and say \u0022I flatlined Katya Karelina\u0022, because I won\u0027t cover for you this time.",
+              "maleVariant": "",
+              "stringId": "3369419326281322496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, don\u0027t forget to tell them Ribakov is dead, too. And pray, pray they won\u0027t kill the messenger.",
+              "maleVariant": "",
+              "stringId": "3369419924858834944"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

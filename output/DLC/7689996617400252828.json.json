@@ -1,0 +1,57 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.9769734Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\7689996617400252828.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I mean, look at this gate. Steel beams, barbed wire, armed guards...",
+                            "maleVariant": "",
+                            "stringId": "3262345944398929920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You know, I feel a lot safer just seeing it.",
+                            "maleVariant": "",
+                            "stringId": "3318833285623177216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "When you’re on this side... I guess you’re right. Now that we’re here, they should lay some mines, too.",
+                            "maleVariant": "",
+                            "stringId": "3318841889331863552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, it’s fucked up. I remember queueing in front of it. Never felt so helpless and small.",
+                            "maleVariant": "",
+                            "stringId": "3323197601608622080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The scum from the other side can piss themselves scared for all I care.",
+                            "maleVariant": "",
+                            "stringId": "3324336044095037440"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

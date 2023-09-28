@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.5375932Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\1633104378612806392.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, there\u0027s a job. Brazilian intelligence contacted me. Two agents need assistance locating a missing person.",
+              "maleVariant": "",
+              "stringId": "2778082549696278528"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "There is, as always, a caveat. It seems they\u0027re operating without papai\u0027s approval.",
+              "maleVariant": "",
+              "stringId": "3282664384556797952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That means what?",
+              "maleVariant": "",
+              "stringId": "3282667850394079236"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Spare me the metaphors.",
+              "maleVariant": "",
+              "stringId": "3282667976776847360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Meanin\u0027 what?",
+              "maleVariant": "",
+              "stringId": "3282669905116499968"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Simple prose, Hands. Your metaphors, they\u0027re a little heavy, uh... handed.",
+              "maleVariant": "",
+              "stringId": "3282670043830521856"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Our clients are Brazilian intelligence agents acting without said agency\u0027s knowledge.",
+              "maleVariant": "",
+              "stringId": "3282670203264405504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Huh? How come?",
+              "maleVariant": "Huh. How come?",
+              "stringId": "3285642730869723136"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Now you overestimate my knowledge, V. You\u0027ll have to ascertain that for yourself. Best of luck.",
+              "maleVariant": "",
+              "stringId": "3285642818799112192"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

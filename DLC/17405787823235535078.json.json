@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.6992226Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\17405787823235535078.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022jpn\u0022 o=\u0022第1世代サイバーデッキは？ いくらだ？\u0022 t=\u0022How much? For a first-gen cyberdeck?\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "3266477392324534272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022jpn\u0022 o=\u0022フユツキは玄人向けのテックよ。さらに、このデッキは特殊なカスタマイズが施されてて…\u0022 t=\u0022The Fuyutsuki is connoisseur tech. On top of that, this deck here is uniquely personalized for…\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "3293002169611362304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022jpn\u0022 o=\u0022まったく同じモデルをあのパキスタン人の店で見たぞ。半額で売ってた\u0022 t=\u0022I’ve seen the same exact model at the Pakistani vendor’s stand for half the price.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "3293002547098722304"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022jpn\u0022 o=\u0022アッバス？ あいつは詐欺師よ。シリアル番号を剥がして、バカに中古品のゴミを売りつけてる\u0022 t=\u0022Abbas? He’s an old crook. Files off the serial numbers and sells second-hand trash to ignorant suckers.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "3388031991571456000"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "\u003Ckiroshi l=\u0022jpn\u0022 o=\u0022おかしいな。向こうもあんたについて同じことを言ってたぞ\u0022 t=\u0022That’s funny. He said the exact same thing about you.\u0022 b=\u0022\u0022 a=\u0022\u0022/\u003E",
+              "maleVariant": "",
+              "stringId": "3388032477070532608"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

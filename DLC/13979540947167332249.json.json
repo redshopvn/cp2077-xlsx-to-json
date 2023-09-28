@@ -1,0 +1,51 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.2178570Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\13979540947167332249.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, I had a nightmare recently. My synthlungs were hacked, I choked, turned blue… Then I lost consciousness and... woke up.",
+              "maleVariant": "",
+              "stringId": "3214325641338482688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "My client, Indira Barazza, won\u0027t be so lucky if she doesn\u0027t strike a deal with her blackmailer.",
+              "maleVariant": "",
+              "stringId": "3215798088952770560"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The lowlife in question – Milko Alexis. He works for the Voodoo Boys.",
+              "maleVariant": "",
+              "stringId": "3272422120025923584"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You know what to do. If anything’s unclear, read the attached details.",
+              "maleVariant": "",
+              "stringId": "3272423147210973184"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.2662623Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\14427756063090197782.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We picked up the scav merch yesterday. Looks preem at first sight, right? Chrome’s stacked nice and neat, all shiny and shit...",
+                            "maleVariant": "",
+                            "stringId": "3265233747315294208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You’re damn fucking right something’s off. Take a few whiffs and you’ll know what we mean.",
+                            "maleVariant": "",
+                            "stringId": "3373930950098767872"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But... something’s off?",
+                            "maleVariant": "",
+                            "stringId": "3373938833024700416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We could. From the scavs beyond the wall. And believe me when I say: compared to them, our scavs are fucking paragons of virtue.",
+                            "maleVariant": "",
+                            "stringId": "3373942415564296192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I... don’t know how to describe it. But it smells of antiseptic and... fear. It actually reeks of terror. I’m not making it up, I swear.",
+                            "maleVariant": "",
+                            "stringId": "3373945472758927360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Why do we even have to deal with those fucks? Can’t we get ‘plants from elsewhere?",
+                            "maleVariant": "",
+                            "stringId": "3373946747844120576"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

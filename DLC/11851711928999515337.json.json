@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.0219933Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\11851711928999515337.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You’ll never guess who I met today. Jessica from apartment Two!",
+              "maleVariant": "",
+              "stringId": "3265294214582427648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Wasn’t she supposed to leave for Night City?",
+              "maleVariant": "",
+              "stringId": "3304587252243800064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ah, naive woman. Everyone knows what happens in Dogtown, stays in Dogtown.",
+              "maleVariant": "",
+              "stringId": "3304595210415546368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "She did! Then came back. The corpo she was supposed to move in with? Kicked her out.",
+              "maleVariant": "",
+              "stringId": "3323410147157909504"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The one who drove her home in a Rayfield?",
+              "maleVariant": "",
+              "stringId": "3323410762479083520"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The one and only! At first, soon as he was done with his stadium business, he went straight to the club and paid her for a full night. She really thought he fell for her!",
+              "maleVariant": "",
+              "stringId": "3323413314327191552"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And so will Jessica.",
+              "maleVariant": "",
+              "stringId": "3323420304336134144"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

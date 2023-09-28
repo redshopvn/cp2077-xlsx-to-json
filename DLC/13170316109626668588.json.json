@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.1407266Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\13170316109626668588.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Do you smell that? What’s that scent? Is that... cumin?",
+              "maleVariant": "",
+              "stringId": "3263739647680389120"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ha, ha. Go ahead, laugh it up.",
+              "maleVariant": "",
+              "stringId": "3294225614886051840"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Serves you right for buying cheap hash from the Moroccans, brother.",
+              "maleVariant": "",
+              "stringId": "3294227465882738688"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Those boys know what they’re doing. The customs officer at the port didn’t even peek under that tarp. And their smoke is preem, trust me. Sells like fresh Moonchies.",
+              "maleVariant": "",
+              "stringId": "3388089758898364416"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Fine, fine. Maybe I’ll buy some from you. Cumin, I mean. The wife loves the jeera rice I make.",
+              "maleVariant": "",
+              "stringId": "3388110100316463104"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

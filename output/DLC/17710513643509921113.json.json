@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.7596191Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\17710513643509921113.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The new recruit? Asking on or off the record, sir?",
+                            "maleVariant": "",
+                            "stringId": "3263468703745155072"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "On.",
+                            "maleVariant": "",
+                            "stringId": "3318735249572093952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "He’s a good boy, sir. Bit rough around the edges, but he shows potential. Hell, could be another Kurt Hansen.",
+                            "maleVariant": "",
+                            "stringId": "3318735535992725504"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I understand. What if I asked you off the record?",
+                            "maleVariant": "",
+                            "stringId": "3318736111837110272"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I would tell you he’s a ball-less piece of shit with no grit, skills or any future in the unit, sir.",
+                            "maleVariant": "",
+                            "stringId": "3318736268368535552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We need men with combat experience, not some greenhorns from the Stacks.",
+                            "maleVariant": "",
+                            "stringId": "3318739044360249344"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey! Watch your mouth. I’m from the Stacks.",
+                            "maleVariant": "",
+                            "stringId": "3318739497881952256"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You... you are different, sir. A universal soldier, really. Please don’t get mad.",
+                            "maleVariant": "",
+                            "stringId": "3318740426819624960"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

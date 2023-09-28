@@ -1,0 +1,69 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:35.9627405Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\7633042168740759377.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You’re BARGHEST, right? Javier sent me. Said you got a gig for me?",
+              "maleVariant": "",
+              "stringId": "3375183272920653824"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Can’t say I know any Javiers.",
+              "maleVariant": "",
+              "stringId": "3385677900467838976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "He knows you, though. \u0022They need a ‘runner for one quick job, I’ll recommend you\u0022 he said.",
+              "maleVariant": "",
+              "stringId": "3385677991232577536"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Interesting. And how much did you pay him for that \u0022recommendation?\u0022",
+              "maleVariant": "",
+              "stringId": "3385681221047984128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It was... ah, never mind. Told me you’ll pay me twice that.",
+              "maleVariant": "",
+              "stringId": "3385681711278235648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hate to break it to you, but you got dicked over. There\u0027s no gig.",
+              "maleVariant": "",
+              "stringId": "3385684101595308032"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You don’t just knock on BARGHEST’s door and join us. BARGHEST is the one that knocks.",
+              "maleVariant": "",
+              "stringId": "3386973985769431040"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

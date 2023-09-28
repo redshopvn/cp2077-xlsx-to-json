@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.1460442Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\3499632018621720228.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Little is known about the bloody terrorist attack perpetrated recently by an unknown organization at Night City International and Translunar. Echoes of the bloodbath continue unabated.",
+                            "maleVariant": "",
+                            "stringId": "3103332854316642328"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yes, Night Corp – it must be said! To Night Corp, the spaceport in Night City is a symbol of yet another failure in their space race against Orbital Air, the leader in orbital technology!",
+                            "maleVariant": "",
+                            "stringId": "3103332854316642336"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Here, now, I call upon Night Corp's governors and executives to accept both financial and legal responsibility for this act of barbarism!",
+                            "maleVariant": "",
+                            "stringId": "3103332854316642344"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dozens of victims, chiefly Orbital Air staff, the paralysis of air and space travel, and losses going into billions of eurodollars – these are the sad results of this senseless act of aggression.",
+                            "maleVariant": "",
+                            "stringId": "3105728975331565568"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Today, we talk to Leslie Wawuda, Orbital Air CEO, speaking to us from Nairobi, Kenya, where Mr. Wawuda did manage to travel.",
+                            "maleVariant": "",
+                            "stringId": "3105732671855566848"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mr. Wawuda, you claim to know exactly who's responsible for the recent attack on what is clearly the jewel in your corporation's crown.",
+                            "maleVariant": "",
+                            "stringId": "3105733584250904576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They would destroy us out of envy for our success! This attack was a futile attempt at sabotaging Orbital Air's pioneering research into the Alpha Centauri system, the results of which – allow me to remind you – will serve all humankind.",
+                            "maleVariant": "",
+                            "stringId": "3105756722330247168"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

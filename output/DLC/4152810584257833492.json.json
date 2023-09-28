@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.2609145Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\4152810584257833492.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "That true your commander has human skin stretched on the floor of his office?",
+                            "maleVariant": "",
+                            "stringId": "3265334548033101824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wha... What? Why? And how would I even know that?",
+                            "maleVariant": "",
+                            "stringId": "3305956635507597312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "‘Cuz I heard he called you into his office and fucking flayed you!",
+                            "maleVariant": "",
+                            "stringId": "3305956768282484736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No idea what you’re talking about.",
+                            "maleVariant": "",
+                            "stringId": "3305957010981691392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ha, ha, ha! Come on, stop pretending. All of Dogtown knows someone swiped your drop!",
+                            "maleVariant": "",
+                            "stringId": "3305957093005500416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Better watch your step. Might step in some shit. Or an empty manhole.",
+                            "maleVariant": "",
+                            "stringId": "3305958081653284864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ha, ha, ha!",
+                            "maleVariant": "",
+                            "stringId": "3305962416651018240"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.7797843Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\17887705130372352347.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Te panse li pa t 'kapab vin pi mal pase Pacifica.\" t=\"Thought it couldn't get worse than Pacifica.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "3236021341660368896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ou pral abitye ak li.\" t=\"You get used to it.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "3265111437064183808"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

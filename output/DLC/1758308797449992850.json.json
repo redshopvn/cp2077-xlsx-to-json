@@ -1,0 +1,591 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.7242214Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\1758308797449992850.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hold it!",
+                            "maleVariant": "",
+                            "stringId": "3294326179800694824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey, chill! You hired me, said to meet here!",
+                            "maleVariant": "",
+                            "stringId": "3294347608550162432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "This what you wanted?",
+                            "maleVariant": "",
+                            "stringId": "3294350456130256896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Right, let's get this over with.",
+                            "maleVariant": "",
+                            "stringId": "3294350468880941060"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "OK, let's see if this does the trick.",
+                            "maleVariant": "",
+                            "stringId": "3295583799626842116"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Shit. Card's not working.",
+                            "maleVariant": "",
+                            "stringId": "3296832653324075008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Show card] Got the card, yes.",
+                            "maleVariant": "",
+                            "stringId": "3297140067655106564"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Give card] Little paranoid there, friend.",
+                            "maleVariant": "",
+                            "stringId": "3297144312710184960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Some of the security measures might still be active, so... you go first.",
+                            "maleVariant": "",
+                            "stringId": "3298196993876836352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Got turrets, but they're offline. C'mon in!",
+                            "maleVariant": "",
+                            "stringId": "3298205793929281540"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We've been lucky so far, but watch out. Can't know what these old systems'll do.",
+                            "maleVariant": "",
+                            "stringId": "3298218353118298116"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All clear now.",
+                            "maleVariant": "",
+                            "stringId": "3298237055050072068"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Your face! Scanner didn't recognize you!",
+                            "maleVariant": "",
+                            "stringId": "3298389411297378308"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Heh. Well, at least we know the security's still up and running.",
+                            "maleVariant": "",
+                            "stringId": "3298391391679954948"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Phew, we're almost there.",
+                            "maleVariant": "",
+                            "stringId": "3298398502702956544"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We made it. The mainframe, the host.",
+                            "maleVariant": "",
+                            "stringId": "3298401087249858560"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bree, right? Hands sent me.",
+                            "maleVariant": "",
+                            "stringId": "3298489697039400960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chill! You're my client!",
+                            "maleVariant": "",
+                            "stringId": "3298492616191098884"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bree? Hands sent me.",
+                            "maleVariant": "",
+                            "stringId": "3298493126084247552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Far as I know, nobody's been here in the last decade, and the systems date back to twenty-thirteen.",
+                            "maleVariant": "",
+                            "stringId": "3298510637890650112"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fingers crossed.",
+                            "maleVariant": "",
+                            "stringId": "3298545690913914880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sorry, but uh, you know. I can't trust anyone.",
+                            "maleVariant": "",
+                            "stringId": "3298614721339572224"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ah, yes.",
+                            "maleVariant": "",
+                            "stringId": "3298620221984718848"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "This way, let's go.",
+                            "maleVariant": "",
+                            "stringId": "3298628172304728064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wait, don't I know you...? Ah! Merc at the border.",
+                            "maleVariant": "",
+                            "stringId": "3307113942631464968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Small zone, huh? If not for Hands vouching for you, would've thought you were stalking me, hehe.",
+                            "maleVariant": "",
+                            "stringId": "3307440290973990912"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chill, know exactly what I'm doin'.",
+                            "maleVariant": "",
+                            "stringId": "3324791102540234756"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Actually, system elements are linked.",
+                            "maleVariant": "",
+                            "stringId": "3324791990273064960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Actually, turrets like these operate in sequential circuits. Hacking one triggers a feedback loop that boots up others.",
+                            "maleVariant": "",
+                            "stringId": "3324792522412802048"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Please, I got this.",
+                            "maleVariant": "",
+                            "stringId": "3324792558500593668"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "S'posed to come after dark.",
+                            "maleVariant": "",
+                            "stringId": "3327368713288171520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Great, gimme the card, we'll go inside. Shouldn't remain in plain sight.",
+                            "maleVariant": "",
+                            "stringId": "3327421951085527040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "First time holding a gun?",
+                            "maleVariant": "",
+                            "stringId": "3327760094398103552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Right, clearly don't know how to use it. So stash your pop-gun, please.",
+                            "maleVariant": "",
+                            "stringId": "3327760457725493248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Give card] Here. Interesting as cards go.",
+                            "maleVariant": "",
+                            "stringId": "3327763063193583616"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Not overdoin' it with the caution?",
+                            "maleVariant": "",
+                            "stringId": "3327766967385964544"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Here. Might've mentioned this was about Militech from the get-go.",
+                            "maleVariant": "",
+                            "stringId": "3327767108079697920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fine, whatever.",
+                            "maleVariant": "",
+                            "stringId": "3327779320483659780"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nah. First, some answers.",
+                            "maleVariant": "",
+                            "stringId": "3327779514461831168"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nope. Not goin' anywhere till you explain a few things.",
+                            "maleVariant": "",
+                            "stringId": "3327779998501289984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh? Didn't think I was payin' you to ask questions, but OK. Whaddaya wanna know so badly?",
+                            "maleVariant": "",
+                            "stringId": "3327780419777183744"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Where'd you get the card?",
+                            "maleVariant": "",
+                            "stringId": "3327782421936586752"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What're we lookin' for?",
+                            "maleVariant": "",
+                            "stringId": "3327782421936586772"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Start with the card. Where'd you get it?",
+                            "maleVariant": "",
+                            "stringId": "3327782422003695632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Borrowed it from the Militech archives. Pity for it to just keep gathering dust.",
+                            "maleVariant": "",
+                            "stringId": "3327782422003695644"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Militech's not in the habit of sharing, so I'm gonna grab some of its secrets myself.",
+                            "maleVariant": "",
+                            "stringId": "3327782422003695656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Let's go get 'em, then.",
+                            "maleVariant": "",
+                            "stringId": "3327782424117624832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Why do you care?",
+                            "maleVariant": "",
+                            "stringId": "3327782424117624852"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Whaddaya plan to find down here, exactly?",
+                            "maleVariant": "",
+                            "stringId": "3327782431449268236"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Well, if the files I \"borrowed\" from Militech are up-to-date, the lab inside's teeming with secrets.",
+                            "maleVariant": "",
+                            "stringId": "3327782431449268248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I plan to learn them.",
+                            "maleVariant": "",
+                            "stringId": "3327785271311843328"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And you want to learn them because...?",
+                            "maleVariant": "",
+                            "stringId": "3327794316647186432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Aren't we curious... Militech, like any corp, has skeletons in closets. This here's one such closet.",
+                            "maleVariant": "",
+                            "stringId": "3327794493562929152"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So here we all are, chasin' each other's tails.",
+                            "maleVariant": "",
+                            "stringId": "3327795345644175360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "NetWatch's been hunting for these skeletons for ages. And I'm trying to hunt down this story.",
+                            "maleVariant": "",
+                            "stringId": "3327797534584324096"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Now, inside. Scan if it's safe.",
+                            "maleVariant": "",
+                            "stringId": "3327799620579475456"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Check if it's safe in there. Please.",
+                            "maleVariant": "",
+                            "stringId": "3327801371365851136"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hang on, lemme see if there's another route.",
+                            "maleVariant": "",
+                            "stringId": "3327805127130202112"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So don't hack any of 'em. Go in.",
+                            "maleVariant": "",
+                            "stringId": "3327810416030105600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mercs first.",
+                            "maleVariant": "Gents first.",
+                            "stringId": "3327813498793213952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You even listenin' to me?",
+                            "maleVariant": "",
+                            "stringId": "3327823712359661568"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, yeah. Let's go.",
+                            "maleVariant": "",
+                            "stringId": "3327824036076044288"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Heh. We're in!",
+                            "maleVariant": "",
+                            "stringId": "3327824939378130944"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You get the card?",
+                            "maleVariant": "",
+                            "stringId": "3328702848074629120"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hope you're not tossing me into a minefield.",
+                            "maleVariant": "",
+                            "stringId": "3328712908012109824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hello?",
+                            "maleVariant": "",
+                            "stringId": "3328810471281246208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sure did, but I'm not about to talk to the bad end of a barrel. Did ya even think to flip the safety?",
+                            "maleVariant": "Sure did, but I'm not about to talk to the bad end of a barrel. D'you even think to flip the safety?",
+                            "stringId": "3336276261853052928"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Eh, shoot. Point for you.",
+                            "maleVariant": "",
+                            "stringId": "3336282748260302848"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Doin' great, keep it up!",
+                            "maleVariant": "",
+                            "stringId": "3337311560783249408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Knew a media like you once.",
+                            "maleVariant": "",
+                            "stringId": "3338009092480417792"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Knew a media once. He liked to dig up megacorp dirt, too.",
+                            "maleVariant": "",
+                            "stringId": "3338009452704022528"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "WNS buzzer is. Don't know the man, but I envy him his job.",
+                            "maleVariant": "",
+                            "stringId": "3338009830459817984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tried to expose some veteran's aid scam, a glorified corp PR campaign. Max Jones, WNS. Any buzzers buzzin'?",
+                            "maleVariant": "",
+                            "stringId": "3338010930407653376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Think his position's vacant now.",
+                            "maleVariant": "",
+                            "stringId": "3338011834380828672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Report was never made. Poking around the material cost Max his life.",
+                            "maleVariant": "",
+                            "stringId": "3338013588086439936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Max dropped it. I forced 'im to. Corp woulda zeroed 'im for it.",
+                            "maleVariant": "",
+                            "stringId": "3338013721649856512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I see. Truly motivating tale, that. Thanks for sharing.",
+                            "maleVariant": "",
+                            "stringId": "3338014330360807424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Now go in, see if it's safe.",
+                            "maleVariant": "",
+                            "stringId": "3338015137596555264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What, report didn't generate waves?",
+                            "maleVariant": "",
+                            "stringId": "3338018313288663040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Found something.",
+                            "maleVariant": "",
+                            "stringId": "3343612978557730820"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Got some old tech in here... cores or batteries. What for, though...?",
+                            "maleVariant": "",
+                            "stringId": "3343615047205240832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hm, comp looks brand new, just this one.",
+                            "maleVariant": "",
+                            "stringId": "3343615170920431616"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Told you, a Militech research expedition came here a few years back. Probably left it behind.",
+                            "maleVariant": "",
+                            "stringId": "3343617030775488512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mhm, very nice, but can we deal with that later?",
+                            "maleVariant": "",
+                            "stringId": "3343617113772376064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "C'mon, we don't have time.",
+                            "maleVariant": "",
+                            "stringId": "3343619636948221952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "These're… huh, some kinda old heat exchangers? Yeah. Highly flammable.",
+                            "maleVariant": "",
+                            "stringId": "3389630896327507968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Not another step!",
+                            "maleVariant": "",
+                            "stringId": "3446332932230332416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Take 'em out!",
+                            "maleVariant": "",
+                            "stringId": "3549084374287400960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Holy shit!",
+                            "maleVariant": "",
+                            "stringId": "3549085709686685704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They'll hit us!",
+                            "maleVariant": "",
+                            "stringId": "3549085858282487812"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Keep it moving, let's go.",
+                            "maleVariant": "",
+                            "stringId": "3549151591733542912"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Show card] Got the card, yes.",
+                            "maleVariant": "",
+                            "stringId": "3660631057906679816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Step closer] First time holding a gun?",
+                            "maleVariant": "",
+                            "stringId": "3660631085136101384"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Can't have bad luck all the time.",
+                            "maleVariant": "",
+                            "stringId": "3855074700892123136"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

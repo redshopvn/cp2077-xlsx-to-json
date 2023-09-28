@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:35.6941207Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\5909979318127073525.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Hey, V. It didn\u0027t quite work out, our last talk, huh?",
+              "maleVariant": "",
+              "stringId": "3439087778441371648"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Whaddaya say to giving it another try? We\u0027ll drink some beers, watch a legacy fight... down time to look back upon fondly in our new lives.",
+              "maleVariant": "",
+              "stringId": "3456408848246226944"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "They\u0027re lookin\u0027 to redo the clinic. Sendin\u0027 me off to Frisco of all places.",
+              "maleVariant": "",
+              "stringId": "3456408929145962496"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aaa, a new beginning for everybody, I guess... Though I have to say some proper closure could make it all easier to bear.",
+              "maleVariant": "",
+              "stringId": "3456409006723809280"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "It would for me, at least.",
+              "maleVariant": "",
+              "stringId": "3456409098209968128"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You think you\u0027d be up for that?",
+              "maleVariant": "",
+              "stringId": "3456409152970801152"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

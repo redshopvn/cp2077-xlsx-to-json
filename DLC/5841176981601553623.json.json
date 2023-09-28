@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:35.6693726Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\5841176981601553623.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Choom, it’s been ages!",
+              "maleVariant": "",
+              "stringId": "3262192381634912256"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh. Yeah. Here I am.",
+              "maleVariant": "",
+              "stringId": "3324551308812214272"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aaah, relax! I’m just fucking with you, ha-ha! Had to skip Night City, why else would I be here?",
+              "maleVariant": "",
+              "stringId": "3324551725826695168"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So good to see a familiar face! What are you doing here?",
+              "maleVariant": "",
+              "stringId": "3325981771359576064"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "N... no... Come on... That wasn’t my...",
+              "maleVariant": "",
+              "stringId": "3325984428803481600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You’re joking, right? I came for you. Did you really think you’re gonna get away with it?",
+              "maleVariant": "",
+              "stringId": "3327312263107305472"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

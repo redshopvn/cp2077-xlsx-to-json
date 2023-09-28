@@ -1,0 +1,45 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.7291653Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\17585010752753732688.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "V, in Luxor Heights there\u0027s a... Let\u0027s call it a sports academy – clients from all around the world come there to seek fresh talent.",
+              "maleVariant": "",
+              "stringId": "2740162067552456704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Contracts are signed, while taxes allegedly go unpaid. It so happens that my client doesn\u0027t like people who cut corners.",
+              "maleVariant": "",
+              "stringId": "2740166760609533952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "With my netrunner\u0027s help, you\u0027ll enter the facility and extract the data that\u0027s of import to my client. Godspeed.",
+              "maleVariant": "",
+              "stringId": "3085219543064694784"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

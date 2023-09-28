@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.8388526Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\18154702021454334579.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Premium work, V.",
+              "maleVariant": "",
+              "stringId": "3308653360297582592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Whatever\u0027s the matter, V? Could your Sandevistan be due for an upgrade?",
+              "maleVariant": "",
+              "stringId": "3314471239963549696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You disposed of the scavengers, I\u0027ll give you that. The clinic can resume accepting patients.",
+              "maleVariant": "",
+              "stringId": "3314472667251646464"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I offered to send a hand to remove all those scavenger remains, but Anderson declined. Something about taking a look at them first.",
+              "maleVariant": "",
+              "stringId": "3314479630450597888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I can only assume he\u0027s in shock.",
+              "maleVariant": "",
+              "stringId": "3314487239052271616"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "The funds are being transferred as we speak. Your job is finished.",
+              "maleVariant": "",
+              "stringId": "3314489622490685440"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I believe that settles it.",
+              "maleVariant": "",
+              "stringId": "3335028750483365888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Odell will see to them. He may not be a doctor, but he won\u0027t leave them out in the cold, either.",
+              "maleVariant": "",
+              "stringId": "3344823350454558720"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You even spared the scavengers. Good – they\u0027ll have nothing to avenge with Anderson later.",
+              "maleVariant": "",
+              "stringId": "3438955966815969280"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.7287503Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\6077431034906305079.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Scan in progress. Please don't move.",
+                            "maleVariant": "",
+                            "stringId": "3288218299563307008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Listen, man… I-I didn't do nothin'. That's your guy. He- he beat me up.",
+                            "maleVariant": "",
+                            "stringId": "3288240761755725824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Look at that. You see these Kiroshis? They retired that model in sixty-eight.",
+                            "maleVariant": "",
+                            "stringId": "3288241689988755456"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "A walkin' museum, this guy. There's no chance anyone would use 'im as a proxy.",
+                            "maleVariant": "",
+                            "stringId": "3367992866542800896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hmm… Then I guess we're stuck. Netrunner left no trace I can find.",
+                            "maleVariant": "",
+                            "stringId": "3367995370038972416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Let's see here… a Fuyutsuki Mk. 1 cyberdeck, microrotors, blood pump. Nothin' jumps out.",
+                            "maleVariant": "",
+                            "stringId": "3368014653922037760"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:33.9486153Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\11082537286788201909.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Is the company behind with your salary as well?",
+              "maleVariant": "",
+              "stringId": "3266699358331502592"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Haven’t you heard? They are withholding salaries because we’re behind schedule. They will pay us once we catch up.",
+              "maleVariant": "",
+              "stringId": "3323121067471839232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "And have some clumsy amateur fall off a beam and break their neck? Imagine the delay that would cause!",
+              "maleVariant": "",
+              "stringId": "3323121948208570368"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Maybe we should hire some part-timers?",
+              "maleVariant": "",
+              "stringId": "3327367089337311232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "What about those nomads off the hand-for-hire BBS’s? They know what’s what.",
+              "maleVariant": "",
+              "stringId": "3327370217549897728"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

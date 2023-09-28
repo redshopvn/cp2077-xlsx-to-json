@@ -1,0 +1,57 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.8481119Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\1836057191070054972.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You’ve seen Lizzy Wizzy. Here. You sure you got your head on straight?",
+                            "maleVariant": "",
+                            "stringId": "3262167815395057664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hard to mistake her for anyone else, don't ya think? I’m telling ya, she came to HH to party the other day!",
+                            "maleVariant": "",
+                            "stringId": "3324549007213060096"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Riiight. And Us Cracks were in her posse too, huh? Or did you come down off glitter too quickly and didn’t manage to catch ‘em?",
+                            "maleVariant": "",
+                            "stringId": "3325897567351332864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck you and your disbelief. Others seen her too, you know! Ax around!",
+                            "maleVariant": "",
+                            "stringId": "3325897938228469760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, yeah. And the NUS president just crashed in Dogtown. Quit repeating every dumb tale you hear on the street, man.",
+                            "maleVariant": "",
+                            "stringId": "3325899566994153472"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

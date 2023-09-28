@@ -1,0 +1,45 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:33.7729378Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\10287375438636564540.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "This was not our arrangement, V. I give you a job, you complete the job. I trust I won\u0027t need to remind you again.",
+              "maleVariant": "",
+              "stringId": "3389837249963061248"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I am displeased, V. Each time you slip up, my reputation dwindles. I\u0027m willing to forget this incident, so long as it never repeats itself.",
+              "maleVariant": "",
+              "stringId": "3389837334285348864"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I heard what happened, V. I\u0027m a patient man, yet your failures are beginning to test my composure. I trust it won\u0027t happen again.",
+              "maleVariant": "",
+              "stringId": "3389837448672407552"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

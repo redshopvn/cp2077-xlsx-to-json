@@ -1,0 +1,87 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.7734106Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\17795293132664186345.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Think I got it.",
+                            "maleVariant": "",
+                            "stringId": "3225902679746822144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What do we have here?",
+                            "maleVariant": "",
+                            "stringId": "3288132284771352576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Take] Bingo.",
+                            "maleVariant": "",
+                            "stringId": "3288156022904602624"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Gotta be bamboo.",
+                            "maleVariant": "",
+                            "stringId": "3288405630113169408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Gotta be bamboo.",
+                            "maleVariant": "",
+                            "stringId": "3288411448317460480"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Gotta be bamboo.",
+                            "maleVariant": "",
+                            "stringId": "3288411514772013056"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Really, dickweed? That look like a bamboo to you?",
+                            "maleVariant": "",
+                            "stringId": "3288480714312007684"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck, scan that? Militech logo, 2010s. Card's gotta be at least sixty years old.",
+                            "maleVariant": "",
+                            "stringId": "3292744123329167360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Didn't find that in a Kabuki bargain bin. Makes me think – what's this Bree chick up to?",
+                            "maleVariant": "",
+                            "stringId": "3298287160726241280"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Pretty swanky pad for a media's pocket. Back in my day, the press lived in fuckin' roach closets – walk-ups both ways.",
+                            "maleVariant": "",
+                            "stringId": "3324767824270475264"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

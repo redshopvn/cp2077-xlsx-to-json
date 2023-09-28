@@ -1,0 +1,93 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:33.7545625Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\10147941288835881607.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "By the time you wake up, it\u0027ll be over and done with.",
+              "maleVariant": "",
+              "stringId": "3092691335650172928"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Shit, feelin\u0027... dizzy…",
+              "maleVariant": "",
+              "stringId": "3092933557880578048"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Think I might be scared... What if I\u0027m no… better?",
+              "maleVariant": "",
+              "stringId": "3092935075648200704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Anesthetic\u0027s kicking in.",
+              "maleVariant": "",
+              "stringId": "3092935481942040576"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "All right, So Mi, now just lie back and close your eyes.",
+              "maleVariant": "",
+              "stringId": "3092935713366958080"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Seein\u0027 this, doc? So... beautiful...",
+              "maleVariant": "",
+              "stringId": "3092935874495340544"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Now count down for me, start at ten.",
+              "maleVariant": "",
+              "stringId": "3092936018930393088"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Ten... N-nine... Eight--",
+              "maleVariant": "",
+              "stringId": "3092936140867198976"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Patient\u0027s fully sedated.",
+              "maleVariant": "",
+              "stringId": "3092936265136037888"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Let\u0027s begin.",
+              "maleVariant": "",
+              "stringId": "3092936474431807488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mhm, again, weird…",
+              "maleVariant": "",
+              "stringId": "3343221753915662340"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

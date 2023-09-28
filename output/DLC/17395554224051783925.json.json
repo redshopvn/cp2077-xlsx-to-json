@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.6927952Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\17395554224051783925.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tried it already, huh? That’s some loco shit, right?",
+                            "maleVariant": "",
+                            "stringId": "3276682007892303872"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hit me like a plush dragon, man! Where’d you get that stuff?",
+                            "maleVariant": "",
+                            "stringId": "3349512402760994816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dodger’s boys dropped it off. Good chooms.",
+                            "maleVariant": "",
+                            "stringId": "3349512873596784640"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I’m glad you’re buddies with them. Dodger really has everything going for him, doesn’t he? Drug money, HQ in Pacifica, the NC-Dogtown connection...",
+                            "maleVariant": "",
+                            "stringId": "3349513445464969216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "With Hansen out of the picture, things are looking even better for him.",
+                            "maleVariant": "",
+                            "stringId": "3360789381067427840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Everything belongs to Hansen, anyway. Dodger’s just a pup on his leash.",
+                            "maleVariant": "",
+                            "stringId": "3360789863731154944"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "There’s leashes and leashes. His seems to be a preeety loose one.",
+                            "maleVariant": "",
+                            "stringId": "3360790656622383104"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

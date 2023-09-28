@@ -1,0 +1,75 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:36.3329095Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\9757569538165290572.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh! Have you seen “Kopinsky’s Clue?”",
+              "maleVariant": "",
+              "stringId": "3266368783590653952"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh fuck yeah! It’s a classic! They don’t make classic PI BD’s like that anymore.",
+              "maleVariant": "",
+              "stringId": "3347762765757849600"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "My sister starred in that one.",
+              "maleVariant": "",
+              "stringId": "3347791274056261632"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "No fucking way! Your sister is detective Kopinsky?",
+              "maleVariant": "",
+              "stringId": "3347798786759368704"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh, choom... When I was a kid, I played it every time my dad came back home.",
+              "maleVariant": "",
+              "stringId": "3347812351507603456"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Yeah. The eldest one.",
+              "maleVariant": "",
+              "stringId": "3375242597476159488"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "That BD saved my life. For real. I still watch it from time to time.",
+              "maleVariant": "",
+              "stringId": "3375242934379433984"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I watch it once a year. On her birthday. It’s the only thing I have left of her.",
+              "maleVariant": "",
+              "stringId": "3375243019188260864"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

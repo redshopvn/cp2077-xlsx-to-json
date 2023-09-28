@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:35.1901985Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\3660312224331017667.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Oh shit… Time to go. Don\u0027t ask why.",
+              "maleVariant": "",
+              "stringId": "3479404144896143360"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Aguilar, welcome to the Black Sapphire. Hope you, uh, had a pleasant flight.",
+              "maleVariant": "",
+              "stringId": "3479713577120735232"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Thank you for coming.",
+              "maleVariant": "",
+              "stringId": "3489833623678251008"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "So, we know yet? Whose orders to follow, whose boots to shine?",
+              "maleVariant": "",
+              "stringId": "3510093130777915392"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "We\u0027ll see. Whoever proves the stronger dog, I guess.",
+              "maleVariant": "",
+              "stringId": "3510109890696605696"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "You\u0027re welcome here any time, Aguilar. We\u0027ll always have a table ready.",
+              "maleVariant": "",
+              "stringId": "3547754310912024576"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

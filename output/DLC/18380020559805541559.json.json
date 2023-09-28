@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:34.8487793Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\18380020559805541559.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They combed through my shit like they were afraid I had lice. It’s harder to get in here than into NC, man.",
+                            "maleVariant": "",
+                            "stringId": "3264951261494353920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wouldn’t know about that. Night City born ‘n’ raised. Never left it. Dogtown's furthest I've ever been from downtown NC.",
+                            "maleVariant": "",
+                            "stringId": "3323331552125902848"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But here you are, huh? What happened?",
+                            "maleVariant": "",
+                            "stringId": "3323332467826352128"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Life happened, that’s what. And now I’m here.",
+                            "maleVariant": "",
+                            "stringId": "3323332679957471232"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "There’s many ways to separate yourself from the past. Thick walls are an obvious choice.",
+                            "maleVariant": "",
+                            "stringId": "3324391981681991680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ugh, you don’t have to tell me that... But Dogtown, of all places?",
+                            "maleVariant": "",
+                            "stringId": "3324392634617683968"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

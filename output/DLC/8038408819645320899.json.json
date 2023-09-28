@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:36.0338441Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\8038408819645320899.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We’ve had everything, choom. Eddies, degrees, connections... How in the fuck did we end up here?",
+                            "maleVariant": "",
+                            "stringId": "3266512584799977472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Simple. We didn’t have a solid plan.",
+                            "maleVariant": "",
+                            "stringId": "3348989791273656320"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Guess they were right, after all.",
+                            "maleVariant": "",
+                            "stringId": "3349035632231358464"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ugh, blood’s hurting my veins. Wanna get a re-up and fly?",
+                            "maleVariant": "",
+                            "stringId": "3349058686609170432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Choom! Who says we don’t have a solid plan?",
+                            "maleVariant": "",
+                            "stringId": "3349070218361479168"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "BS. It’s because of our folks. They never believed we’d amount to anything in life.",
+                            "maleVariant": "",
+                            "stringId": "3349103076371243008"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

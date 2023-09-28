@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:33.7724092Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\10285273851957839585.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Don’t ask.",
+                            "maleVariant": "",
+                            "stringId": "3282385701057171460"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Swear to Christ, if someone asks me one more time…",
+                            "maleVariant": "",
+                            "stringId": "3282385862638538752"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Last time I do anything for the police.",
+                            "maleVariant": "",
+                            "stringId": "3282386001537110016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Lemme put it this way – this is the last time I do for a gig for the badges.",
+                            "maleVariant": "",
+                            "stringId": "3282390522728386560"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Prickly today, are we? I'll make do without details. If the client is happy, then so am I. Contract closed.",
+                            "maleVariant": "",
+                            "stringId": "3282390771970707456"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V! So tell me, what did our boys in blue do this time?",
+                            "maleVariant": "",
+                            "stringId": "3308225465875996672"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

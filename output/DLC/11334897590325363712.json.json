@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:33.9624249Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\11334897590325363712.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I’ve been selling wares from the back of my van for the better part of the year and then suddenly... bam! Vacant stand! Paid the deposit immediately.",
+                            "maleVariant": "",
+                            "stringId": "3265265640702287872"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Right.",
+                            "maleVariant": "",
+                            "stringId": "3288473906117517312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Who rented this place before? I guess they didn’t do a good job, ha, ha...",
+                            "maleVariant": "",
+                            "stringId": "3288477684078125056"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<mothertongue l=\"mex\" m=\"carnala\" b=\"Ask questions like that and your stand will be vacant in no time, \" a=\".\"/>",
+                            "maleVariant": "",
+                            "stringId": "3288478540789882880"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

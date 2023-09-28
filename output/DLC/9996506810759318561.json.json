@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:36.3736811Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\9996506810759318561.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Yo, pou kisa nap achte tout editè doulè sa yo ak kondiktè bio? Eske nap fout ouvè’ yon boutik?\" t=\"Yo, why buy all these pain editors and bioconductors? We openin’ a fucking pawnshop?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2957842792885903360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ou wap mande mwen? Ale anmède founisè a. Mwen panse li anwo.\" t=\"You askin' me? Go bother the supplier. He’s upstairs I think.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2957850582496960512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ankò? Men, li te jis la. Ki kote li jwenn tout chrome sa?\" t=\"Again? But he was just here. Where’s he get all this chrome?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2957851346548154368"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Te di ou deranje li, pa mwen.\" t=\"Told you to bother him, not me.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "3273663338579927040"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

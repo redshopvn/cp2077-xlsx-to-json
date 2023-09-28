@@ -1,0 +1,51 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.10.0",
+    "WKitJsonVersion": "0.0.8",
+    "GameVersion": 1630,
+    "ExportedDateTime": "2023-09-26T03:48:34.5973859Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\16878848664047305967.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_PC",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceSubtitleEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Mom. Mom! When will you buy me a drone?",
+              "maleVariant": "",
+              "stringId": "3266455052454797312"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "But look at this, sweetie! Kerry Eurodyne’s version of “Chippin’ In!” First print, almost mint condition! How ‘bout I buy that for you instead?",
+              "maleVariant": "",
+              "stringId": "3292760870882811904"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "I want a drone, mom! You promised!",
+              "maleVariant": "",
+              "stringId": "3292771969749393408"
+            },
+            {
+              "$type": "localizationPersistenceSubtitleEntry",
+              "femaleVariant": "Eh... Fine. I’ll take it, but I’m a little short on eddies right now... Perhaps we could work something out?",
+              "maleVariant": "",
+              "stringId": "3292782330301030400"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}

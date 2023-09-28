@@ -1,0 +1,99 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-26T03:48:35.1044280Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\DLC\\328880369878178710.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Nomad",
+                            "maleVariant": "",
+                            "stringId": "3063585779589296132"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Corpo",
+                            "maleVariant": "",
+                            "stringId": "3063585970144915456"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Street Kid",
+                            "maleVariant": "",
+                            "stringId": "3063586021869072384"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Start",
+                            "maleVariant": "",
+                            "stringId": "3063587389363171332"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Meeting Katya",
+                            "maleVariant": "",
+                            "stringId": "3063587832717881344"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Final client meeting",
+                            "maleVariant": "",
+                            "stringId": "3063588195239964672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Botanic Garden",
+                            "maleVariant": "",
+                            "stringId": "3063600611537432576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Boss fight",
+                            "maleVariant": "",
+                            "stringId": "3172429209198637056"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Katya body - wst 10",
+                            "maleVariant": "",
+                            "stringId": "3471045820539449344"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Steven default biomonitor destroyed",
+                            "maleVariant": "",
+                            "stringId": "3471054172371791872"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Steven default biomonitor Ana",
+                            "maleVariant": "",
+                            "stringId": "3471054485082320896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Katya loot",
+                            "maleVariant": "",
+                            "stringId": "3476870860690403328"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}
