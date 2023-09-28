@@ -45,7 +45,7 @@ const processOnscreensSheet = (sheet) => {
   jsonData.Data.RootChunk.root.Data.entries = entries;
 
   fse.outputFileSync(
-    "output/en-us/onscreens/onscreens.json",
+    "output/en-us/onscreens/onscreens.json.json",
     JSON.stringify(jsonData, null, 4)
   );
   console.log("done", sheet);
@@ -100,7 +100,7 @@ const processSubtitlesSheet = (sheet) => {
 
         let outputFileName = file;
         if (outputFileName.includes('.json.json')) {
-          outputFileName = outputFileName.replace('.json.json','.json')
+          // outputFileName = outputFileName.replace('.json.json','.json')
         }
         fse.outputFileSync(
           `./output/en-us/subtitles/${sheet}/${folder}/${outputFileName}`,
@@ -153,7 +153,7 @@ const processSubtitlesSheet = (sheet) => {
 
       let outputFileName = singleFileName;
       if (outputFileName.includes('.json.json')) {
-        outputFileName = outputFileName.replace('.json.json','.json')
+        // outputFileName = outputFileName.replace('.json.json','.json')
       }
       fse.outputFileSync(
         `./output/en-us/subtitles/${sheet}/${outputFileName}`,
