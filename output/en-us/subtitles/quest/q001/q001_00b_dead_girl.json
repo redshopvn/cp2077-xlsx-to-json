@@ -1,0 +1,81 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:31.3465260Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\q001\\q001_00b_dead_girl.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<mothertongue l=\"mex\" m=\"em gái\" b=\"V… kiểm tra cái này đi \" a=\".\"/>",
+                            "maleVariant": "<mothertongue l=\"mex\" m=\"chí cốt\" b=\"V… kiểm tra cái này đi \" a=\".\"/>",
+                            "stringId": "1141750414696976400"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sandra Dorsett được bảo vệ dưới khả năng miễn dịch cấp II. Cô gái mà ta tìm là hàng đỉnh đấy…",
+                            "maleVariant": "Sandra Dorsett được bảo vệ dưới khả năng miễn dịch cấp II. Cô gái mà ta tìm là hàng đỉnh đấy…",
+                            "stringId": "1141752040660865040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V - tiến lên đi. Xem có phải là cô ta không!",
+                            "maleVariant": "V - tiến lên đi. Xem có phải là cô ta không!",
+                            "stringId": "1141794090370404352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không phải mục tiêu của chúng ta. Tìm tiếp thôi. ",
+                            "maleVariant": "Không phải mục tiêu của chúng ta. Tìm tiếp thôi. ",
+                            "stringId": "1173663261609627648"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ta đến trễ rồi à?! Có phải là mục tiêu của ta không, V?!",
+                            "maleVariant": "Ta đến trễ rồi à?! Có phải là mục tiêu của ta không, V?!",
+                            "stringId": "1193657062757011456"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Còn cô gái này đến từ chợ đen Zetatech. Thường là hàng lậu rẻ tiền thôi.",
+                            "maleVariant": "Còn cô gái này đến từ chợ đen Zetatech. Thường là hàng lậu rẻ tiền thôi.",
+                            "stringId": "1630194113232957440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tuyệt! Đám vô ơn vừa mất đôi mắt cuối cùng của chúng.",
+                            "maleVariant": "Tuyệt! Đám vô ơn vừa mất đôi mắt cuối cùng của chúng.",
+                            "stringId": "1690989747161427968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ổn cả rồi! Thần chết sẽ dẫn lối cho cô!",
+                            "maleVariant": "Ổn cả rồi! Thần chết sẽ dẫn lối cho cô!",
+                            "stringId": "1690992765969788928"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thiết bị trông rẻ tiền quá...",
+                            "maleVariant": "Thiết bị trông rẻ tiền quá...",
+                            "stringId": "2177968277633142788"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

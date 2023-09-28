@@ -1,0 +1,861 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:42.8084788Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\q201\\q201_04_cabin_day_2.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Kiểm tra chức năng nhận thức.",
+                            "maleVariant": "Kiểm tra chức năng nhận thức.",
+                            "stringId": "1721925890459000832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Giải khối Rubik đi.",
+                            "maleVariant": "Giải khối Rubik đi.",
+                            "stringId": "1721925890459000844"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Giải]",
+                            "maleVariant": "[Giải]",
+                            "stringId": "1721925890559664128"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Xin hãy sẵn sàng. Sẽ bắt đầu thử nghiệm sớm thôi.",
+                            "maleVariant": "Xin hãy sẵn sàng. Sẽ bắt đầu thử nghiệm sớm thôi.",
+                            "stringId": "1730403911457267712"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có kết quả gì từ các bài kiểm tra đã làm không?",
+                            "maleVariant": "Có kết quả gì từ các bài kiểm tra đã làm không?",
+                            "stringId": "1730403911457267724"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không. Chúng ta vẫn chưa hoàn thành. Hôm nay chúng ta bắt đầu một loạt bài kiểm tra mới.",
+                            "maleVariant": "Không. Chúng ta vẫn chưa hoàn thành. Hôm nay chúng ta bắt đầu một loạt bài kiểm tra mới.",
+                            "stringId": "1730403911457267736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bệnh nhân đã sẵn sàng để được kiểm tra.",
+                            "maleVariant": "Bệnh nhân đã sẵn sàng để được kiểm tra.",
+                            "stringId": "1730403911490822156"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bắt đầu thôi.",
+                            "maleVariant": "Bắt đầu thôi.",
+                            "stringId": "1730403911541153792"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Kiểm tra rồi mà? Làm nữa hả?",
+                            "maleVariant": "Kiểm tra rồi mà? Làm nữa hả?",
+                            "stringId": "1730403911557931020"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tại sao tôi đéo thể giải khối Rubik này vậy?",
+                            "maleVariant": "Tại sao tôi đéo thể giải khối Rubik này vậy?",
+                            "stringId": "1730403911557931036"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bắt đầu chuyện này thôi.",
+                            "maleVariant": "Bắt đầu chuyện này thôi.",
+                            "stringId": "1730403911591485440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bắt đầu hiệu chuẩn thiết bị.",
+                            "maleVariant": "Bắt đầu hiệu chuẩn thiết bị.",
+                            "stringId": "1730403911591485464"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vui lòng trả lời từng từ khóa với liên tưởng lúc đầu của cô.",
+                            "maleVariant": "Vui lòng trả lời từng từ khóa với liên tưởng lúc đầu của anh.",
+                            "stringId": "1730403911591485476"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nhanh nhất có thể, không cần suy nghĩ, hiểu rồi.",
+                            "maleVariant": "Nhanh nhất có thể, không cần suy nghĩ, hiểu rồi.",
+                            "stringId": "1730403911591485488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bệnh hoạn.",
+                            "maleVariant": "Bệnh hoạn.",
+                            "stringId": "1730403911591485500"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Một bóng đen dần bao phủ mặt đất.",
+                            "maleVariant": "Một bóng đen dần bao phủ mặt đất.",
+                            "stringId": "1730403911625039888"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đủ rồi.",
+                            "maleVariant": "Đủ rồi.",
+                            "stringId": "1730403911625039904"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Các phép đo đã hoàn thành. Bây giờ chúng ta sẽ chuyển sang kiểm tra chức năng vận động.",
+                            "maleVariant": "Các phép đo đã hoàn thành. Bây giờ chúng ta sẽ chuyển sang kiểm tra chức năng vận động.",
+                            "stringId": "1730403911658594328"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Kiểm tra chức năng nhận thức.",
+                            "maleVariant": "Kiểm tra chức năng nhận thức.",
+                            "stringId": "1730403911692148736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Giải khối Rubik đi.",
+                            "maleVariant": "Giải khối Rubik đi.",
+                            "stringId": "1730403911692148748"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mấy bài kiểm tra cô làm, kết quả thế nào rồi?",
+                            "maleVariant": "Mấy bài kiểm tra cô làm, kết quả thế nào rồi?",
+                            "stringId": "1730403911742480384"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Được rồi. Làm cho xong chuyện này nào.",
+                            "maleVariant": "Được rồi. Làm cho xong chuyện này nào.",
+                            "stringId": "1730403911759257600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái quái gì vậy?",
+                            "maleVariant": "Cái quái gì vậy?",
+                            "stringId": "1730403912111579136"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Giải]",
+                            "maleVariant": "[Giải]",
+                            "stringId": "1730403912128356352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Kiểm tra rồi mà? Làm nữa hả?",
+                            "maleVariant": "Kiểm tra rồi mà? Làm nữa hả?",
+                            "stringId": "1730403912212242432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chúng tôi cần dữ liệu chính xác nhất.",
+                            "maleVariant": "Chúng tôi cần dữ liệu chính xác nhất.",
+                            "stringId": "1730403912279351304"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tại sao tôi đéo thể giải khối Rubik này vậy?",
+                            "maleVariant": "Tại sao tôi đéo thể giải khối Rubik này vậy?",
+                            "stringId": "1730403912312905728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đó là những gì tôi đang cố tìm hiểu đây.",
+                            "maleVariant": "Đó là những gì tôi đang cố tìm hiểu đây.",
+                            "stringId": "1730403912312905740"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi.",
+                            "maleVariant": "Tôi.",
+                            "stringId": "1730403912346460160"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Johnny.",
+                            "maleVariant": "",
+                            "stringId": "1730403912346460176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cuộc sống.",
+                            "maleVariant": "Cuộc sống.",
+                            "stringId": "1730403912346460192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thành phố.",
+                            "maleVariant": "Thành phố.",
+                            "stringId": "1730403912346460208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái chết.",
+                            "maleVariant": "Cái chết.",
+                            "stringId": "1730403912346460224"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không biết.",
+                            "maleVariant": "Không biết.",
+                            "stringId": "1730403912363237380"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi.",
+                            "maleVariant": "Tôi.",
+                            "stringId": "1730403912380014592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cuộc nổi loạn.",
+                            "maleVariant": "Cuộc nổi loạn.",
+                            "stringId": "1730403912413569024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Johnny.",
+                            "maleVariant": "",
+                            "stringId": "1730403912430346240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cuộc sống.",
+                            "maleVariant": "Cuộc sống.",
+                            "stringId": "1730403912463900672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thành phố.",
+                            "maleVariant": "Thành phố.",
+                            "stringId": "1730403912480677888"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái chết.",
+                            "maleVariant": "Cái chết.",
+                            "stringId": "1730403912514232320"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không biết. Không có gì cả.",
+                            "maleVariant": "Không biết. Không có gì cả.",
+                            "stringId": "1730403912547786752"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi.",
+                            "maleVariant": "Tôi.",
+                            "stringId": "1730403912581341184"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Johnny.",
+                            "maleVariant": "",
+                            "stringId": "1730403912581341200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cuộc sống.",
+                            "maleVariant": "Cuộc sống.",
+                            "stringId": "1730403912581341216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái chết.",
+                            "maleVariant": "Cái chết.",
+                            "stringId": "1730403912581341232"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không.",
+                            "maleVariant": "Không.",
+                            "stringId": "1730403912598118408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi không biết.",
+                            "maleVariant": "Tôi không biết.",
+                            "stringId": "1730403912598118424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi.",
+                            "maleVariant": "Tôi.",
+                            "stringId": "1730403912631672832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi. Tôi.",
+                            "maleVariant": "Tôi. Tôi.",
+                            "stringId": "1730403912648450048"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Johnny.",
+                            "maleVariant": "",
+                            "stringId": "1730403912732336128"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cuộc sống.",
+                            "maleVariant": "Cuộc sống.",
+                            "stringId": "1730403912765890560"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái chết.",
+                            "maleVariant": "Cái chết.",
+                            "stringId": "1730403912782667776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không có tập đoàn.",
+                            "maleVariant": "Không có tập đoàn.",
+                            "stringId": "1730403912816222208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Uh, không có đáp án nào cả.",
+                            "maleVariant": "Uh, không có đáp án nào cả.",
+                            "stringId": "1730403912849776640"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Johnny.",
+                            "maleVariant": "",
+                            "stringId": "1730403912883331072"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Trống rỗng.",
+                            "maleVariant": "Trống rỗng.",
+                            "stringId": "1730403912883331088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái chết.",
+                            "maleVariant": "Cái chết.",
+                            "stringId": "1730403912883331104"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chuyển hóa.",
+                            "maleVariant": "Chuyển hóa.",
+                            "stringId": "1730403912900108296"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô độc.",
+                            "maleVariant": "Cô độc.",
+                            "stringId": "1730403912900108312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi không biết.",
+                            "maleVariant": "Tôi không biết.",
+                            "stringId": "1730403912900108328"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Johnny.",
+                            "maleVariant": "",
+                            "stringId": "1730403912933662720"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hiện tại.",
+                            "maleVariant": "Hiện tại.",
+                            "stringId": "1730403912983994368"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Trống rỗng.",
+                            "maleVariant": "Trống rỗng.",
+                            "stringId": "1730403913017548800"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái chết.",
+                            "maleVariant": "Cái chết.",
+                            "stringId": "1730403913051103232"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chuyển hóa.",
+                            "maleVariant": "Chuyển hóa.",
+                            "stringId": "1730403913084657664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô độc.",
+                            "maleVariant": "Cô độc.",
+                            "stringId": "1730403913118212096"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không có ý kiến.",
+                            "maleVariant": "Không có ý kiến.",
+                            "stringId": "1730403913151766528"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Địa ngục.",
+                            "maleVariant": "Địa ngục.",
+                            "stringId": "1730403913185320960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ngăn ngừa.",
+                            "maleVariant": "Ngăn ngừa.",
+                            "stringId": "1730403913185320976"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Arasaka.",
+                            "maleVariant": "",
+                            "stringId": "1730403913185320992"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô độc.",
+                            "maleVariant": "Cô độc.",
+                            "stringId": "1730403913185321008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái chết.",
+                            "maleVariant": "Cái chết.",
+                            "stringId": "1730403913202098184"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không có khái niệm.",
+                            "maleVariant": "Không có khái niệm.",
+                            "stringId": "1730403913202098200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Địa ngục.",
+                            "maleVariant": "Địa ngục.",
+                            "stringId": "1730403913235652608"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ngăn ngừa.",
+                            "maleVariant": "Ngăn ngừa.",
+                            "stringId": "1730403913269207040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Arasaka.",
+                            "maleVariant": "",
+                            "stringId": "1730403913285984256"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô độc.",
+                            "maleVariant": "Cô độc.",
+                            "stringId": "1730403913319538688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái chết.",
+                            "maleVariant": "Cái chết.",
+                            "stringId": "1730403913353093120"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không. Tôi không biết.",
+                            "maleVariant": "Không. Tôi không biết.",
+                            "stringId": "1730403913369870336"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không có ý kiến.",
+                            "maleVariant": "Không có ý kiến.",
+                            "stringId": "1730403913403424768"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Arasaka.",
+                            "maleVariant": "",
+                            "stringId": "1730403913403424784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thành phố.",
+                            "maleVariant": "Thành phố.",
+                            "stringId": "1730403913403424800"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không có tập đoàn.",
+                            "maleVariant": "Không có tập đoàn.",
+                            "stringId": "1730403913420201984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cuộc nổi loạn.",
+                            "maleVariant": "Cuộc nổi loạn.",
+                            "stringId": "1730403913420202000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái chết.",
+                            "maleVariant": "Cái chết.",
+                            "stringId": "1730403913420202016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không có ý kiến.",
+                            "maleVariant": "Không có ý kiến.",
+                            "stringId": "1730403913470533632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô đang ở trong một cánh đồng ngô. Những cây xanh cao ngút tầm mắt.",
+                            "maleVariant": "Anh đang ở trong một cánh đồng ngô. Những cây xanh cao ngút tầm mắt.",
+                            "stringId": "1730403913504088064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mặt trời chói chang làm nhòe đi khóe mặt. Phần thân cây ngô vươn tới khi cô bước về phía trước.",
+                            "maleVariant": "Mặt trời chói chang làm nhòe đi khóe mặt. Phần thân cây ngô vươn tới khi anh bước về phía trước.",
+                            "stringId": "1730403913504088076"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô bắt gặp một khoảng đất trống do máy gặt ngô vừa thu hoạch xong.",
+                            "maleVariant": "Anh bắt gặp một khoảng đất trống do máy gặt ngô vừa thu hoạch xong.",
+                            "stringId": "1730403913504088088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Arasaka.",
+                            "maleVariant": "",
+                            "stringId": "1730403913554419712"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thành phố.",
+                            "maleVariant": "Thành phố.",
+                            "stringId": "1730403913587974144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không có gì xuất hiện trong tâm trí.",
+                            "maleVariant": "Không có gì xuất hiện trong tâm trí.",
+                            "stringId": "1730403913638305792"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cuộc nổi loạn.",
+                            "maleVariant": "Cuộc nổi loạn.",
+                            "stringId": "1730403913671860224"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái chết.",
+                            "maleVariant": "Cái chết.",
+                            "stringId": "1730403913705414656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tương lai.",
+                            "maleVariant": "Tương lai.",
+                            "stringId": "1730403913738969088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái nóng đã làm cho môi của cô khô và dính lại. Cô phát hiện một tổ chuột dưới chân mình.",
+                            "maleVariant": "Cái nóng đã làm cho môi của anh khô và dính lại. Anh phát hiện một tổ chuột dưới chân mình.",
+                            "stringId": "1730403913806077952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Máy gặt đã xé toạc lớp đất mềm. Cô thấy những con chuột đồng mới sinh bị mù bao quanh mẹ của chúng. Máy gặt đã vô tình cắt chuột mẹ làm đôi.",
+                            "maleVariant": "Máy gặt đã xé toạc lớp đất mềm. Anh thấy những con chuột đồng mới sinh bị mù bao quanh mẹ của chúng. Máy gặt đã vô tình cắt chuột mẹ làm đôi.",
+                            "stringId": "1730403913839632388"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chúng tương đối hoàn hảo, bộ da có những đốm nhỏ. Miệng cô bắt đầu nhiễu nước.",
+                            "maleVariant": "Chúng tương đối hoàn hảo, bộ da có những đốm nhỏ. Miệng anh bắt đầu nhiễu nước.",
+                            "stringId": "1730403913839632400"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bóng của mây đen bao phủ khắp mặt đất. Cơn mưa đầu tiên của năm.",
+                            "maleVariant": "Bóng của mây đen bao phủ khắp mặt đất. Cơn mưa đầu tiên của năm.",
+                            "stringId": "1730403913856409600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Được rồi. Đủ rồi.",
+                            "maleVariant": "Được rồi. Đủ rồi.",
+                            "stringId": "1730403913889964032"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Cắm vào]",
+                            "maleVariant": "[Cắm vào]",
+                            "stringId": "1730403914309394432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Kỹ thuật nâng cao HOC - bắt đầu thử nghiệm.",
+                            "maleVariant": "Kỹ thuật nâng cao HOC - bắt đầu thử nghiệm.",
+                            "stringId": "1730403914359726080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bài tiếp theo. Xin hãy kết nối vào người của cô.",
+                            "maleVariant": "Bài tiếp theo. Xin hãy kết nối vào người của anh.",
+                            "stringId": "1730403914997260288"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hãy bước lên máy chạy bộ.",
+                            "maleVariant": "Hãy bước lên máy chạy bộ.",
+                            "stringId": "1730403915953561600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Kết nối đi.",
+                            "maleVariant": "Kết nối đi.",
+                            "stringId": "1730403916071002112"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Cắm vào]",
+                            "maleVariant": "[Cắm vào]",
+                            "stringId": "1730403916138110976"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi đã làm chuyện này lần trước rồi, phải không?",
+                            "maleVariant": "Tôi đã làm chuyện này lần trước rồi, phải không?",
+                            "stringId": "1730403916188442624"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đi chậm thôi.",
+                            "maleVariant": "Đi chậm thôi.",
+                            "stringId": "1730403916272328704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không. Tôi thích nhanh à.",
+                            "maleVariant": "Không. Tôi thích nhanh à.",
+                            "stringId": "1730403916322660352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đến giờ cũng không tệ chứ, hả?",
+                            "maleVariant": "Đến giờ cũng không tệ chứ, hả?",
+                            "stringId": "1730403916372992000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không làm theo đâu.",
+                            "maleVariant": "Không làm theo đâu.",
+                            "stringId": "1730403916406546432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Các xét nghiệm là cần thiết, chúng phải được thực hiện.",
+                            "maleVariant": "Các xét nghiệm là cần thiết, chúng phải được thực hiện.",
+                            "stringId": "1730403916607873024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hãy thử nhanh hơn một chút.",
+                            "maleVariant": "Hãy thử nhanh hơn một chút.",
+                            "stringId": "1730403916658204672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tăng tốc lên ba.",
+                            "maleVariant": "Tăng tốc lên ba.",
+                            "stringId": "1730403916658204680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi... tôi không thể. Phải dừng lại thôi.",
+                            "maleVariant": "Tôi... tôi không thể. Phải dừng lại thôi.",
+                            "stringId": "1730403916859531264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Ngắt kết nối và đứng dậy]",
+                            "maleVariant": "[Ngắt kết nối và đứng dậy]",
+                            "stringId": "1730403916976971776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dừng máy chạy bộ đi.",
+                            "maleVariant": "Dừng máy chạy bộ đi.",
+                            "stringId": "1731534439074394112"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đã mở khóa thông tin liên lạc. Giờ cô có thể gọi về nhà. Trái đất.",
+                            "maleVariant": "Đã mở khóa thông tin liên lạc. Giờ anh có thể gọi về nhà. Trái đất.",
+                            "stringId": "1731538952665591824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Kết thúc thử nghiệm ngày hôm nay.",
+                            "maleVariant": "Kết thúc thử nghiệm ngày hôm nay.",
+                            "stringId": "1731538952665591840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Đứng dậy]",
+                            "maleVariant": "[Đứng dậy]",
+                            "stringId": "1731638061099724800"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái nóng đã làm cho môi của cô khô và dính lại. Cô phát hiện một tổ chuột dưới chân mình.",
+                            "maleVariant": "Cái nóng đã làm cho môi của anh khô và dính lại. Anh phát hiện một tổ chuột dưới chân mình.",
+                            "stringId": "1731879734913556480"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái nóng làm miệng cô khô...",
+                            "maleVariant": "Cái nóng làm miệng anh khô...",
+                            "stringId": "1731880946547318784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bóng của mây đen bao phủ khắp mặt đất. Cơn mưa đầu tiên của năm.",
+                            "maleVariant": "Bóng của mây đen bao phủ khắp mặt đất. Cơn mưa đầu tiên của năm.",
+                            "stringId": "1731909262394286080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hm.",
+                            "maleVariant": "",
+                            "stringId": "1737610241595105280"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Kiểm tra chức năng vận động.",
+                            "maleVariant": "Kiểm tra chức năng vận động.",
+                            "stringId": "1741588737833644032"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Nằm xuống]",
+                            "maleVariant": "[Nằm xuống]",
+                            "stringId": "1741754627824889856"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Ngồi]",
+                            "maleVariant": "[Ngồi]",
+                            "stringId": "1743185584847138816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi biết giới hạn của mình.",
+                            "maleVariant": "Tôi biết giới hạn của mình.",
+                            "stringId": "1783739860895371264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nghe này, tôi biết tình trạng của mình. Cứ thế này hoài, chắc chết sớm mất.",
+                            "maleVariant": "Nghe này, tôi biết tình trạng của mình. Cứ thế này hoài, chắc chết sớm mất.",
+                            "stringId": "1783740341696827392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi sắp phát bệnh vì chuyện này rồi.",
+                            "maleVariant": "Tôi sắp phát bệnh vì chuyện này rồi.",
+                            "stringId": "1857574168197554176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Các xét nghiệm có thể gây mệt, nhưng chúng rất cần thiết để đảm bảo sức khỏe và sự an toàn của bệnh nhân.",
+                            "maleVariant": "Các xét nghiệm có thể gây mệt, nhưng chúng rất cần thiết để đảm bảo sức khỏe và sự an toàn của bệnh nhân.",
+                            "stringId": "1857574519680229376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nhàm chán quá.",
+                            "maleVariant": "Nhàm chán quá.",
+                            "stringId": "1862225560516190208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Các xét nghiệm là cần thiết, chúng phải được thực hiện.",
+                            "maleVariant": "Các xét nghiệm là cần thiết, chúng phải được thực hiện.",
+                            "stringId": "1955178222206869504"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Giải]",
+                            "maleVariant": "[Giải]",
+                            "stringId": "2048954274446389248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Giải]",
+                            "maleVariant": "[Giải]",
+                            "stringId": "2048955946480513024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Giải]",
+                            "maleVariant": "[Giải]",
+                            "stringId": "2048955983776264192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Giải]",
+                            "maleVariant": "[Giải]",
+                            "stringId": "2048995014794883072"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Giải]",
+                            "maleVariant": "[Giải]",
+                            "stringId": "2048995084336443392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Giải]",
+                            "maleVariant": "[Giải]",
+                            "stringId": "2048995134215106560"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

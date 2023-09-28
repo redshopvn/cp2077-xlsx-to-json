@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.8468177Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_cpz_chat_035.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And who's her mom again?",
+                            "maleVariant": "",
+                            "stringId": "2172160189013811200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Well, she used to be a media with News 54, but now she's one of the top project managers at Kiroshi. I heard she might even step into a role on the board soon.",
+                            "maleVariant": "",
+                            "stringId": "2208535656682328064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Try living up to a mom like that.",
+                            "maleVariant": "",
+                            "stringId": "2208539025798959104"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Why would she have to live up to her? She's already got a job, a decent pad, a car.",
+                            "maleVariant": "",
+                            "stringId": "2208539240295665664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, all thanks to mommy dearest.",
+                            "maleVariant": "",
+                            "stringId": "2208540377136599040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, so? Wish I had a mom like that.",
+                            "maleVariant": "",
+                            "stringId": "2208673911998353408"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

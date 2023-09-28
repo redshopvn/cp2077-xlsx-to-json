@@ -1,0 +1,87 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.7536268Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_awf_chat_020.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hello, I was just on the line with Candice, but the call dropped.",
+                            "maleVariant": "",
+                            "stringId": "2156497193730613248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "OK, Nanda. Listen. I've been trying to file a complaint for an hour.",
+                            "maleVariant": "",
+                            "stringId": "2178055527744073728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yes, my adrenaline generator. Had it put in last week.",
+                            "maleVariant": "",
+                            "stringId": "2178055992372293632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Well, it's not working. Not generating a damn molecule.",
+                            "maleVariant": "",
+                            "stringId": "2178057779112243200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I reset... I reset it ten times. I just want to file a complaint, it is all under warranty",
+                            "maleVariant": "",
+                            "stringId": "2178058116518834176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wait, wait, wait. How's it not covered? What's not covered? A faulty implant?",
+                            "maleVariant": "",
+                            "stringId": "2178058829483405312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So what if I take meds? What's depression got to do with your generator?!",
+                            "maleVariant": "",
+                            "stringId": "2178059551574781952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No, no, this is an out-- Hello? Hello?!",
+                            "maleVariant": "",
+                            "stringId": "2178060214627135488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck. Yes, I'll wait! Yes, I'll press \"one\" to speak to an operator!",
+                            "maleVariant": "",
+                            "stringId": "2178060545356394496"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Christ, what a fucking circus!",
+                            "maleVariant": "",
+                            "stringId": "2178061219095834624"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

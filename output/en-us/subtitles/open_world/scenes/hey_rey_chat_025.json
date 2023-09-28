@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:03.8461644Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_rey_chat_025.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Well now, how's our little corpo princess?",
+                            "maleVariant": "",
+                            "stringId": "2161935480598589440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fine.",
+                            "maleVariant": "",
+                            "stringId": "2227630222672760832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You comfortable? Water ain't too hot, ain't too cold?",
+                            "maleVariant": "",
+                            "stringId": "2227630290301718528"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "It's great.",
+                            "maleVariant": "",
+                            "stringId": "2227630408010665984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And the food? You taste-test all our specialties? You savor their, uh... delicate bouquet?",
+                            "maleVariant": "",
+                            "stringId": "2227630527347003392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, wonderful.",
+                            "maleVariant": "",
+                            "stringId": "2227630706393452544"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hah! Told ya Militech wasn't the whole world, didn't I? And now? Betcha wouldn't even know what to do in your corpo-penthouse.",
+                            "maleVariant": "",
+                            "stringId": "2227630985012678656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bet I wouldn't.",
+                            "maleVariant": "",
+                            "stringId": "2227632256339775488"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

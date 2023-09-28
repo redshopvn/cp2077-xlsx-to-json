@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.6216048Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\hey_rey_foodshop_04.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có món gì ngon không?",
+                            "maleVariant": "Có món gì ngon không?",
+                            "stringId": "1863299347169820672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ăn xong có sợ bị ngộ độc không?",
+                            "maleVariant": "Ăn xong có sợ bị ngộ độc không?",
+                            "stringId": "1863299347169820688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thế, anh có món gì ngon ở đây không?",
+                            "maleVariant": "Thế, anh có món gì ngon ở đây không?",
+                            "stringId": "1863299347220152324"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Còn tùy theo cô thích ăn món gì?",
+                            "maleVariant": "Còn tùy theo cậu thích ăn món gì?",
+                            "stringId": "1863299347220152332"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vậy ăn xong có sợ bị ngộ độc thực phẩm không?",
+                            "maleVariant": "Vậy ăn xong có sợ bị ngộ độc thực phẩm không?",
+                            "stringId": "1863299347270483972"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Còn tùy. Nếu cô còn hỏi cái kiểu đấy...biết đâu lại \"được\".",
+                            "maleVariant": "Còn tùy. Nếu cậu còn hỏi cái kiểu đấy...biết đâu lại \"được\".",
+                            "stringId": "1863299347270483980"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Toàn đồ ngon đấy. Muốn tôi phục vụ gì nào?",
+                            "maleVariant": "Toàn đồ ngon đấy. Muốn tôi phục vụ gì nào?",
+                            "stringId": "1974706148871557120"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

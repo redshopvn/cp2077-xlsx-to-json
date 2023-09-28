@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.3830346Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_hey_rey_06_holocall_brief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thông báo tới tất cả các đơn vị NCPD. Hoạt động tội phạm có tổ chức được báo cáo ở Đại Lộ Martin Luther King.",
+                            "maleVariant": "Thông báo tới tất cả các đơn vị NCPD. Hoạt động tội phạm có tổ chức được báo cáo ở Đại Lộ Martin Luther King.",
+                            "stringId": "2330203770457452544"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Các thành viên băng Valentinos đã tham gia vào các hoạt động buôn lậu và buôn người.",
+                            "maleVariant": "Các thành viên băng Valentinos đã tham gia vào các hoạt động buôn lậu và buôn người.",
+                            "stringId": "2358955056559394816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dẫn đầu nhóm là Miguel Rodriguez, được biết đến là \"Gizmo\". Tội danh bao gồm giết người cấp độ hai và buôn ma túy. Thành Phố đang đưa ra phần thưởng vô hiệu hóa mối đe dọa.",
+                            "maleVariant": "Dẫn đầu nhóm là Miguel Rodriguez, được biết đến là \"Gizmo\". Tội danh bao gồm giết người cấp độ hai và buôn ma túy. Thành Phố đang đưa ra phần thưởng vô hiệu hóa mối đe dọa.",
+                            "stringId": "2358955107813789696"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

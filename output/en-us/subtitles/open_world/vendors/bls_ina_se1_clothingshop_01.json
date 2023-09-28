@@ -1,0 +1,81 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.2225790Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\bls_ina_se1_clothingshop_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cần mua vài bộ đồ trông tươm tất.",
+                            "maleVariant": "Cần mua vài bộ đồ trông tươm tất.",
+                            "stringId": "1935645915449044992"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bán đồ mới hay qua tay rồi đấy?",
+                            "maleVariant": "Bán đồ mới hay qua tay rồi đấy?",
+                            "stringId": "1935645915449045008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đang tìm vài trang phục tử tế.",
+                            "maleVariant": "Đang tìm vài trang phục tử tế.",
+                            "stringId": "1935645915751034884"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô gặp may đấy - giá của chúng tôi bỏ xa các đối thủ cạnh tranh. Hiểu không?",
+                            "maleVariant": "Anh gặp may đấy - giá của chúng tôi bỏ xa các đối thủ cạnh tranh. Hiểu không?",
+                            "stringId": "1935645915751034892"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bán đồ mới hay qua tay rồi đấy?",
+                            "maleVariant": "Bán đồ mới hay qua tay rồi đấy?",
+                            "stringId": "1935645915784589316"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hàng cũ. Chẳng ai muốn vận chuyển hàng mới đến cái nơi chó má này cả.",
+                            "maleVariant": "Hàng cũ. Chẳng ai muốn vận chuyển hàng mới đến cái nơi chó má này cả.",
+                            "stringId": "1935645915784589324"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nhưng tôi là ai mà dám ý kiến chứ? Cô chỉ cần đi trên cao tốc, nhìn vào các đống đổ nát... Đôi mắt nhạy bén sẽ luôn tìm được thứ gì để nhặt, hm?",
+                            "maleVariant": "Nhưng tôi là ai mà dám ý kiến chứ? Anh chỉ cần đi trên cao tốc, nhìn vào các đống đổ nát... Đôi mắt nhạy bén sẽ luôn tìm được thứ gì để nhặt, hm?",
+                            "stringId": "1975127889678749696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wanna change my look.",
+                            "maleVariant": "",
+                            "stringId": "3775249438369247232"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Lookin' for a change.",
+                            "maleVariant": "",
+                            "stringId": "3836279465638227976"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

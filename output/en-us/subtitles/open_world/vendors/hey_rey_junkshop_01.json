@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.6273283Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\hey_rey_junkshop_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Muốn mua đồ.",
+                            "maleVariant": "Muốn mua đồ.",
+                            "stringId": "1863331944444870656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Công việc thế nào rồi?",
+                            "maleVariant": "Công việc thế nào rồi?",
+                            "stringId": "1863331944461647884"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Muốn mua gì đó...",
+                            "maleVariant": "Muốn mua gì đó...",
+                            "stringId": "1863331944545533956"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Gì đó..? Nói thẳng đi, không phải ngại!",
+                            "maleVariant": "Gì đó..? Nói thẳng đi, không phải ngại!",
+                            "stringId": "1863331944545533964"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Công việc thế nào rồi?",
+                            "maleVariant": "Công việc thế nào rồi?",
+                            "stringId": "1863331944612642820"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Egh, không suôn sẻ lắm. Ý tôi là, không thiếu khách hàng, nhưng... có người luôn quấy rối tôi. Cô biết đấy, mấy tay truyền giáo hoặc người của văn phòng thị trưởng. \"Vi phạm thuần phong mỹ tục\".",
+                            "maleVariant": "Egh, không suôn sẻ lắm. Ý tôi là, không thiếu khách hàng, nhưng... có người luôn quấy rối tôi. Anh biết đấy, mấy tay truyền giáo hoặc người của văn phòng thị trưởng. \"Vi phạm thuần phong mỹ tục\".",
+                            "stringId": "1863331944612642828"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Điên rồ phải không? Cô có thể bày bán súng ống ở mọi ngóc ngách và chẳng có ai để mắt đến. Nhưng dựng lên một cửa hàng với máy rung thì ai cũng phát hoảng! Ặc!",
+                            "maleVariant": "Điên rồ phải không? Anh có thể bày bán súng ống ở mọi ngóc ngách và chẳng có ai để mắt đến. Nhưng dựng lên một cửa hàng với máy rung thì ai cũng phát hoảng! Ặc!",
+                            "stringId": "1975117007708016640"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

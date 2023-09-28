@@ -1,0 +1,87 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:50.6806676Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\vset\\vset_lizzies_barman.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô muốn uống gì nào?",
+                            "maleVariant": "Cậu muốn uống gì nào?",
+                            "stringId": "1796864074633428996"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chọn gì đây? Bia lạnh hay thứ gì đó mạnh hơn?",
+                            "maleVariant": "Chọn gì đây? Bia lạnh hay thứ gì đó mạnh hơn?",
+                            "stringId": "1796864074650206212"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Này, tôi đang nói chuyện với cô đấy.",
+                            "maleVariant": "Này, tôi đang nói chuyện với cậu đấy.",
+                            "stringId": "1796864074734092292"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nói chưa xong đâu.",
+                            "maleVariant": "Nói chưa xong đâu.",
+                            "stringId": "1796864074750869508"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hừm, chào mừng trở lại.",
+                            "maleVariant": "Hừm, chào mừng trở lại.",
+                            "stringId": "1796864074834755588"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thấy chưa? Đi đâu cũng về lại quầy hàng này thôi.",
+                            "maleVariant": "Thấy chưa? Đi đâu cũng về lại quầy hàng này thôi.",
+                            "stringId": "1796864074868310020"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sao?",
+                            "maleVariant": "Sao?",
+                            "stringId": "1796864074901864452"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô sẽ nói gì đó chứ?",
+                            "maleVariant": "Cậu sẽ nói gì đó chứ?",
+                            "stringId": "1796864074918641668"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Coi chừng.",
+                            "maleVariant": "Coi chừng.",
+                            "stringId": "1796864075136745472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vâng, nhường cô đó.",
+                            "maleVariant": "Vâng, nhường cậu đó.",
+                            "stringId": "1796864075153522692"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.3910044Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_hey_spr_11_holocall_brief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chú ý tất cả các đơn vị NCPD. Rà soát khẩn hoạt động tội phạm có tổ chức tại Skyline South.",
+                            "maleVariant": "Chú ý tất cả các đơn vị NCPD. Rà soát khẩn hoạt động tội phạm có tổ chức tại Skyline South.",
+                            "stringId": "2328887377406963712"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mục tiêu chính là Denzel Cryer, được biết đến là  \"Bộ Não.\" Cryer đứng đầu một nhóm nhỏ của băng đảng Animals, có tội danh vận chuyển chất bổ sung bất hợp pháp thường được gọi là \"nước trái cây\".",
+                            "maleVariant": "Mục tiêu chính là Denzel Cryer, được biết đến là  \"Bộ Não.\" Cryer đứng đầu một nhóm nhỏ của băng đảng Animals, có tội danh vận chuyển chất bổ sung bất hợp pháp thường được gọi là \"nước trái cây\".",
+                            "stringId": "2358378652922908672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thành Phố sẽ thưởng cho việc vô hiệu hóa Cryer và đám tay chân của hắn.",
+                            "maleVariant": "Thành Phố sẽ thưởng cho việc vô hiệu hóa Cryer và đám tay chân của hắn.",
+                            "stringId": "2358378682350145536"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:13.3516842Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wat_nid_gunsmith_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi cần súng.",
+                            "maleVariant": "Tôi cần súng.",
+                            "stringId": "1979351707821776900"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Trông anh không giống người bán hàng lắm.",
+                            "maleVariant": "Trông anh không giống người bán hàng lắm.",
+                            "stringId": "1979352287189377024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi đang cần mua vài khẩu súng.",
+                            "maleVariant": "Tôi đang cần mua vài khẩu súng.",
+                            "stringId": "1979352912929202176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vậy mua đi.",
+                            "maleVariant": "Vậy mua đi.",
+                            "stringId": "1979354932671127552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Trông anh không thích kinh doanh lắm nhỉ, chắc đâu phải nghề anh muốn làm. ",
+                            "maleVariant": "Trông anh không thích kinh doanh lắm nhỉ, chắc đâu phải nghề anh muốn làm. ",
+                            "stringId": "1979357082017046528"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Muốn mua thì mua. Nói xàm thì biến.",
+                            "maleVariant": "Muốn mua thì mua. Nói xàm thì biến.",
+                            "stringId": "1979357626454482944"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

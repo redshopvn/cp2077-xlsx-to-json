@@ -1,0 +1,39 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:09.7605667Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_std_arr_03_holocall_prebrief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V, tôi có một khách hàng cần giúp đỡ với vài kỹ năng đào sâu đám nội bộ tập đoàn đó.",
+                            "maleVariant": "V, tôi có một khách hàng cần giúp đỡ với vài kỹ năng đào sâu đám nội bộ tập đoàn đó.",
+                            "stringId": "2328539244270182400"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chàng trai của chúng ta muốn tìm mấy chuyện dơ bẩn của tên kẻ thù không đội trời chung, tên là Matheus Stove. Cô sẽ nói gì chứ? Đầy đủ cuốc xẻng rồi chứ? Tôi đính kèm thông tin đây.",
+                            "maleVariant": "Chàng trai của chúng ta muốn tìm mấy chuyện dơ bẩn của tên kẻ thù không đội trời chung, tên là Matheus Stove. Cậu sẽ nói gì chứ? Đầy đủ cuốc xẻng rồi chứ? Tôi đính kèm thông tin đây.",
+                            "stringId": "2334632546718695424"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

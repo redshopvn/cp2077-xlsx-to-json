@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:08.5574552Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_cct_cpz_01_holocall_debrief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Địt mẹ, V! Ý tôi là, wooo... cô làm tôi phấn khích chết đi được!",
+                            "maleVariant": "Địt mẹ, V! Ý tôi là, wooo... cậu làm tôi phấn khích chết đi được!",
+                            "stringId": "2328497106295709696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "May mắn là tất cả đã kết thúc - cô xử lý như một tay chuyên nghiệp vậy.",
+                            "maleVariant": "May mắn là tất cả đã kết thúc - cậu xử lý như một tay chuyên nghiệp vậy.",
+                            "stringId": "2333132128649986048"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô làm xong việc, còn tôi có dữ liệu rồi. Phi vụ kết thúc.",
+                            "maleVariant": "Cậu làm xong việc, còn tôi có dữ liệu rồi. Phi vụ kết thúc.",
+                            "stringId": "2333132244664434688"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

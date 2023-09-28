@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.3614474Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_bls_ina_se1_22_brief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Này, lũ Raffen đang săn ai đó ở Badlands. Từ \"psycho\" đã được nhắc đến. Kiểm tra đi nhé.",
+                            "maleVariant": "Này, lũ Raffen đang săn ai đó ở Badlands. Từ \"psycho\" đã được nhắc đến. Kiểm tra đi nhé.",
+                            "stringId": "2354993169733906432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nếu đó là một kẻ siêu loạn thần, đừng giết họ. Ít nhất là hãy cố.",
+                            "maleVariant": "Nếu đó là một kẻ siêu loạn thần, đừng giết họ. Ít nhất là hãy cố.",
+                            "stringId": "2360427035197399040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi có những người có thể đưa họ vào liệu pháp thử nghiệm. Và liệu pháp không có tác dụng với người chết đâu. Gửi cho cô thông tin chi tiết đây.",
+                            "maleVariant": "Tôi có những người có thể đưa họ vào liệu pháp thử nghiệm. Và liệu pháp không có tác dụng với người chết đâu. Gửi cho anh thông tin chi tiết đây.",
+                            "stringId": "2360427968933355520"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

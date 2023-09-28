@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:07.8461106Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_nok_chat_001.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You're not telling me something.",
+                            "maleVariant": "",
+                            "stringId": "1963352550248939520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "My, how perceptive. No wonder you won that council seat.",
+                            "maleVariant": "",
+                            "stringId": "1978228607177560064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What is it this time?",
+                            "maleVariant": "",
+                            "stringId": "1978228622226722816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "That building in Japantown – it'll sell. For the price we offered.",
+                            "maleVariant": "",
+                            "stringId": "1978232649849081856"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "That's the city's decision, not mine.",
+                            "maleVariant": "",
+                            "stringId": "1978233637943218176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No. It's my decision. And you'll do everything in your power to make it a reality.",
+                            "maleVariant": "",
+                            "stringId": "1978233672588169216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I understand.",
+                            "maleVariant": "",
+                            "stringId": "1978234081381814272"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Couldn't care less if you understand. Just do what I say.",
+                            "maleVariant": "",
+                            "stringId": "1978234347703341056"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

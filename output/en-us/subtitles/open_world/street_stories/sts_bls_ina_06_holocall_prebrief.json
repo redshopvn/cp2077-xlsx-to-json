@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:08.4098531Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_bls_ina_06_holocall_prebrief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô có thể dẫn một con ngựa đến chỗ có nước, nhưng cô không thể ép nó uống. Tôi đã cố gắng hợp tác với Iris Tanner nhiều năm rồi, nhưng con ngựa cái bướng bỉnh luôn từ chối.",
+                            "maleVariant": "Cậu có thể dẫn một con ngựa đến chỗ có nước, nhưng cậu không thể ép nó uống. Tôi đã cố gắng hợp tác với Iris Tanner nhiều năm rồi, nhưng con ngựa cái bướng bỉnh luôn từ chối.",
+                            "stringId": "2328852677377044480"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Những đề nghị tử tế, lời hứa trả lương hậu hĩnh – chẳng có ích lợi gì. Ả luôn trả lời một câu - \"Tôi không làm việc với những tay fixer.\"",
+                            "maleVariant": "Những đề nghị tử tế, lời hứa trả lương hậu hĩnh – chẳng có ích lợi gì. Ả luôn trả lời một câu - \"Tôi không làm việc với những tay fixer.\"",
+                            "stringId": "2333035102771855360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nhưng nay cô ấy lại thay đổi giọng điệu của mình, heh. Tại sao? Ả ta đã bị bọn Wraiths bắt cóc.",
+                            "maleVariant": "Nhưng nay cô ấy lại thay đổi giọng điệu của mình, heh. Tại sao? Ả ta đã bị bọn Wraiths bắt cóc.",
+                            "stringId": "2333035267540893696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi cũng chẳng nhỏ nhen, nếu cô giúp ả ta, tôi cá là cuối cùng ả cũng sẽ ném cho tôi cục xương... Tôi sẽ gửi thông tin chi tiết – đi đi, V.",
+                            "maleVariant": "Tôi cũng chẳng nhỏ nhen, nếu cậu giúp ả ta, tôi cá là cuối cùng ả cũng sẽ ném cho tôi cục xương... Tôi sẽ gửi thông tin chi tiết – đi đi, V.",
+                            "stringId": "2333035532251807744"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

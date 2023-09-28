@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:05.3122624Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\pac_wwd_chat_009.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ou te bloke la a pandan prèske karant èdtan.\" t=\"You were stuck in there for almost forty hours.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1963301793348755456"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Okenn sekirite, Okenn bakòp. Mwen pa sezi ki ou ...\" t=\"No security, no backup. No surprise that you...\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1964863901840199680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Si m mande anraje?\" t=\"That I went crazy?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1964864726876573696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ou te tande kèk bagay dròl. Ou te dezidrate epi lòlòj tap vire tout boulin.\" t=\"That you heard some weird things. You were dehydrated and overclocked.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1964865057354174464"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Se sa manzè te di m. Si mwen te ka rete pi lontan.\" t=\"That's what she told me. If I could stay longer.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1964866329855676416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Kiyès ki di w sa?\" t=\"Who told you?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1964870697266991104"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Se pa enpòtan.\" t=\"Doesn't matter.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1964870887856164864"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

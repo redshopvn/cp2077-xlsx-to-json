@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:51.6153493Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\yawen\\yawen_packard_default.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nhân tiện thì.. Cô biết gì về chip sinh học nhỉ? Đặc biệt là \"Thánh Tích\" của Arasaka.",
+                            "maleVariant": "Nhân tiện thì.. Cô biết gì về chip sinh học nhỉ? Đặc biệt là \"Thánh Tích\" của Arasaka.",
+                            "stringId": "1987755068515913728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chà, nó được thiết kế để lưu trữ engram thần kinh của một con người. Er, xin lỗi... chỉ cần tưởng tượng đến việc sao chép ký ức và tính cách của một người làm tôi...",
+                            "maleVariant": "Chà, nó được thiết kế để lưu trữ engram thần kinh của một con người. Er, xin lỗi... chỉ cần tưởng tượng đến việc sao chép ký ức và tính cách của một người làm tôi...",
+                            "stringId": "1987759630492602368"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô biết gì về \"Thánh tích\" của Arasaka?",
+                            "maleVariant": "Cô biết gì về \"Thánh tích\" của Arasaka?",
+                            "stringId": "1987799977012727812"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi hiểu rồi. Tôi thắc mắc không biết chuyện gì sẽ xảy ra nếu engram được lưu trữ ghi đè lên engram của người kế thừa con chip.",
+                            "maleVariant": "Tôi hiểu rồi. Tôi thắc mắc không biết chuyện gì sẽ xảy ra nếu engram được lưu trữ ghi đè lên engram của người kế thừa con chip.",
+                            "stringId": "2005649229918375936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ghi đè lên? Tôi... tôi thậm chí không chắc điều đó là có thể nữa...",
+                            "maleVariant": "Ghi đè lên? Tôi... tôi thậm chí không chắc điều đó là có thể nữa...",
+                            "stringId": "2005649542360469504"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sao cô hỏi vậy?",
+                            "maleVariant": "Sao cậu hỏi vậy?",
+                            "stringId": "2005649745180233728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không, đừng bận tâm... Không to tát gì đâu. Cảm ơn.",
+                            "maleVariant": "Không, đừng bận tâm... Không to tát gì đâu. Cảm ơn.",
+                            "stringId": "2005649966488489984"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

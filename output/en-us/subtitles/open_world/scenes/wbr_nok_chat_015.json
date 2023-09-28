@@ -1,0 +1,81 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:07.8750485Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_nok_chat_015.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But why? Why can't I talk to her?",
+                            "maleVariant": "",
+                            "stringId": "2159358707921035264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Because mom got really sick and had to leave. But I know she's watching you from on high, and that she loves you very much.",
+                            "maleVariant": "",
+                            "stringId": "2199701479479242752"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Preston says that his dad died and he can still see him and talk to him whenever he wants.",
+                            "maleVariant": "",
+                            "stringId": "2199702592412643328"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Because Preston's dad... he didn't go to heaven like your mom.",
+                            "maleVariant": "",
+                            "stringId": "2199706122087231488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Preston says his dad is in an even better place than heaven – he's at Arasaka.",
+                            "maleVariant": "",
+                            "stringId": "2199707602273890304"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sweetie...",
+                            "maleVariant": "",
+                            "stringId": "2199707949344157696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And he said if we had more money, then mom could also be at Arasaka instead of in heaven.",
+                            "maleVariant": "",
+                            "stringId": "2199708169981325312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And then we could go and see her together every day.",
+                            "maleVariant": "",
+                            "stringId": "2199709154065707008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Honey, I'm sorry...",
+                            "maleVariant": "",
+                            "stringId": "2199709491489075200"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

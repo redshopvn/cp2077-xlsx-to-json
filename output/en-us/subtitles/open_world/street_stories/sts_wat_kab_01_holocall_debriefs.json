@@ -1,0 +1,39 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:10.4780700Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_kab_01_holocall_debriefs.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V, tôi rất vui vì mọi chuyện đã được xử lý, nhưng lần tới phiền cô hãy HỘ TỐNG VIP RA ĐẾN XE được chứ? Ugh, phi vụ đóng lại thôi. Sẽ giữ liên lạc.",
+                            "maleVariant": "V, tôi rất vui vì mọi chuyện đã được xử lý, nhưng lần tới phiền anh hãy HỘ TỐNG VIP RA ĐẾN XE được chứ? Ugh, phi vụ đóng lại thôi. Sẽ giữ liên lạc.",
+                            "stringId": "2328505817160458240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vừa nhận được tin từ Tiny M Cảm ơn vì cô đã giúp. Tôi thích làm việc với những tay chuyên nghiệp là vì thế. Phi vụ đóng thôi.",
+                            "maleVariant": "Vừa nhận được tin từ Tiny M. Cảm ơn vì anh đã giúp. Tôi thích làm việc với những tay chuyên nghiệp là vì thế. Phi vụ đóng thôi.",
+                            "stringId": "2328506528933847040"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

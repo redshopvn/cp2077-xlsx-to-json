@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:07.8114353Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_jpn_chat_024.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tweak your aural implants to isolate my voice! You should hear me clearly!",
+                            "maleVariant": "",
+                            "stringId": "2179509518324830208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Need your attention, dammit! Isolate the gunshots, damp 'em out! Got that option in your aurals!",
+                            "maleVariant": "",
+                            "stringId": "2179510116482912256"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Got it, done!",
+                            "maleVariant": "",
+                            "stringId": "2179510261958152192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Great, now focus and fire! You're pullin' left! Too much finger through the trigger guard, big man!",
+                            "maleVariant": "",
+                            "stringId": "2179510336599986176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Elbows in, face the target, bend your knees, nice and soft on your legs!",
+                            "maleVariant": "",
+                            "stringId": "2179510482360438784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "That's it!",
+                            "maleVariant": "",
+                            "stringId": "2179510633506377728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What'd I say about that trigger guard?! Quit finger fuckin' it!",
+                            "maleVariant": "",
+                            "stringId": "2179510741669089280"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

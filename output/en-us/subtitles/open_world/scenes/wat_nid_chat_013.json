@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:07.3715016Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_nid_chat_013.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"Ey, ¿has visto a Chuckie? ¿Dónde andará metido?\" t=\"Ey, you seen Chuckie? Where's he been?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2156371184353533952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You didn't hear? Scavs got 'im.",
+                            "maleVariant": "",
+                            "stringId": "2167881766734712832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡¿Qué?! ¡¿Cómo?!\" t=\"What?! How?!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2167883624693944320"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ehh... He found a Kiroshi. New model, barely used, a real find. Told 'im to sell it... but no. Gonk had to have those peepers for himself.",
+                            "maleVariant": "",
+                            "stringId": "2167883700459851776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anyways, we was just walkin'... Suddenly this black van zooms over. They brain me, Chuck gets a bag over his head, in he goes.",
+                            "maleVariant": "",
+                            "stringId": "2167885388751097856"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Million eds say it was those optics. You know how it goes – cut 'em outta him, tossed the meat.",
+                            "maleVariant": "",
+                            "stringId": "2167886900864798720"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

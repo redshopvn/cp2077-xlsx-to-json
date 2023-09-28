@@ -1,0 +1,81 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:25.9997737Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\mq015\\mq015_04_stash.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ugh, cái gì đây? Trông như đống rác...",
+                            "maleVariant": "Ugh, cái gì đây? Trông như đống rác...",
+                            "stringId": "1816999226980081664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Aww, Zetatech XPR... Đứng đầu xu hướng thời đó đấy.",
+                            "maleVariant": "Aww, Zetatech XPR... Đứng đầu xu hướng thời đó đấy.",
+                            "stringId": "1817076610177605632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ở Afterlife, có một Tin Tặc- tên là Nix... rất có hứng thú với các đồ cổ đấy.",
+                            "maleVariant": "Ở Afterlife, có một Tin Tặc- tên là Nix... rất có hứng thú với các đồ cổ đấy.",
+                            "stringId": "1843072635970572288"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Phải lâu hơn nữa. Hồi đó ta cũng có một cái loại đứng đầu xu hướng thời đó.",
+                            "maleVariant": "Phải lâu hơn nữa. Hồi đó ta cũng có một cái loại đứng đầu xu hướng thời đó.",
+                            "stringId": "1843074024754958336"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ôi vãi... Zetatech XPR. Cũng phải được tầm... 50 năm rồi",
+                            "maleVariant": "Ôi vãi... Zetatech XPR. Cũng phải được tầm... 50 năm rồi",
+                            "stringId": "1843075924070027264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nếu cô muốn xem qua cái đống dữ liệu rác rưởi này, thì hắn là người mà cô cần.",
+                            "maleVariant": "Nếu chú mày muốn xem qua cái đống dữ liệu rác rưởi này, thì hắn là người mà chú mày cần.",
+                            "stringId": "1843084489425997824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đưa nó cho Nix.",
+                            "maleVariant": "Đưa nó cho Nix.",
+                            "stringId": "1892462086408425472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Mở]",
+                            "maleVariant": "[Mở]",
+                            "stringId": "2146297219442974724"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Lấy]",
+                            "maleVariant": "[Lấy]",
+                            "stringId": "2148997357420584960"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:16.3860233Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\voicesets\\civ_low_m_73_mex_20.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<mothertongue l=\"mex\" m=\"Hola,\" b=\"\" a=\" beautiful.\"/>",
+                            "maleVariant": "",
+                            "stringId": "1922905386908131332"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Your place or mine?",
+                            "maleVariant": "",
+                            "stringId": "1922905386924908548"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Eh, slow down, girl!",
+                            "maleVariant": "Eh, slow down, boy!",
+                            "stringId": "1922905386992017412"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What's the rush?",
+                            "maleVariant": "",
+                            "stringId": "1922905387025571840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Qué pasa?\" t=\"What's up?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1922905387059126276"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Today…? To Bodycure… About time…! Mm-hmm… The hair too… Got bored.",
+                            "maleVariant": "",
+                            "stringId": "1922905387126235140"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "For this? Always…! You should also… That's the life…! Ha, ha…! Totally.",
+                            "maleVariant": "",
+                            "stringId": "1922905387143012356"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Later.",
+                            "maleVariant": "",
+                            "stringId": "1922905387193344004"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Virgen santísima!\" t=\"Mother of God!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1922905387377893380"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Murderers!",
+                            "maleVariant": "",
+                            "stringId": "1922905387394670596"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Please, please, please!",
+                            "maleVariant": "",
+                            "stringId": "1922905387495333892"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What'd I do to you?",
+                            "maleVariant": "",
+                            "stringId": "1922905387528888324"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<mothertongue l=\"mex\" m=\"hermosa\" b=\"Not now, \" a=\". Maybe later.\"/>",
+                            "maleVariant": "<mothertongue l=\"mex\" m=\"guapo\" b=\"Not now, \" a=\". Maybe later.\"/>",
+                            "stringId": "1922905387629551616"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You look scary when you walk behind me like that.",
+                            "maleVariant": "",
+                            "stringId": "1922905387646328836"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

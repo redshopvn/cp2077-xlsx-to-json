@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:13.0422968Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wat_kab_clothingshop_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đang tìm vài món hàng tốt.",
+                            "maleVariant": "Đang tìm vài món hàng tốt.",
+                            "stringId": "1914297443719860224"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Từ khi nào các băng đảng bán quần áo vậy?",
+                            "maleVariant": "Từ khi nào các băng đảng bán quần áo vậy?",
+                            "stringId": "1914297443719860240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có hàng nào tốt cho tôi không?",
+                            "maleVariant": "Có hàng nào tốt cho tôi không?",
+                            "stringId": "1914297443753414656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nếu cô vừa tiết kiệm vừa muốn hàng \"tốt\", thì chắc chắn rồi.",
+                            "maleVariant": "Nếu cậu vừa tiết kiệm vừa muốn hàng \"tốt\", thì chắc chắn rồi.",
+                            "stringId": "1914297443753414664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đó chẳng phải hình xăm của Tyger Claw sao? Từ bao giờ các băng nhóm bán đồ vậy?",
+                            "maleVariant": "Đó chẳng phải hình xăm của Tyger Claw sao? Từ bao giờ các băng nhóm bán đồ vậy?",
+                            "stringId": "1914297443770191876"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vì một trong những đại ca của họ đã quyết định rằng không cần những người kề vai sát cánh nữa.",
+                            "maleVariant": "Vì một trong những đại ca của họ đã quyết định rằng không cần những người kề vai sát cánh nữa.",
+                            "stringId": "1914297443770191884"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wanna change my look.",
+                            "maleVariant": "",
+                            "stringId": "3775204349752242176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Need to change up my style.",
+                            "maleVariant": "I need to change my style.",
+                            "stringId": "3836253223455158296"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:22.8794847Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\voicesets\\vset_chang_hoon_nam.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Xin chào.",
+                            "maleVariant": "Xin chào.",
+                            "stringId": "1895269739531415556"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sao?",
+                            "maleVariant": "Sao?",
+                            "stringId": "1895269739548192772"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Muốn nghỉ ngơi hả?",
+                            "maleVariant": "Muốn nghỉ ngơi hả?",
+                            "stringId": "1895269739648856064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi sẽ đợi.",
+                            "maleVariant": "Tôi sẽ đợi.",
+                            "stringId": "1895269739682410500"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Khi nào sẵn sàng rồi cho tôi hay.",
+                            "maleVariant": "Khi nào sẵn sàng rồi cho tôi hay.",
+                            "stringId": "1895269739749519364"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chúng ta đã nói về vấn đề gì vậy?",
+                            "maleVariant": "Chúng ta đã nói về vấn đề gì vậy?",
+                            "stringId": "1895269739783073796"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chắc cô chẳng vội vàng đâu nhỉ.",
+                            "maleVariant": "Chắc cậu chẳng vội vàng đâu nhỉ.",
+                            "stringId": "1895269739799851012"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô cần một chút thời gian à?",
+                            "maleVariant": "Cậu cần một chút thời gian à?",
+                            "stringId": "1895269739816628228"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Xin hãy cẩn thận!",
+                            "maleVariant": "Xin hãy cẩn thận!",
+                            "stringId": "1895269740051509252"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có phải tôi đã cản đường cô không?",
+                            "maleVariant": "Có phải tôi đã cản đường cậu không?",
+                            "stringId": "1895269740068286468"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:34.4259216Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\q101\\q101_03_car_ride.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nghe tôi nói không? Tôi cần cô giúp!",
+                            "maleVariant": "Nghe tôi nói không? Tôi cần cậu giúp!",
+                            "stringId": "1147233660445134848"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"クソどもめ！\" t=\"Thằng chó đẻ!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"クソどもめ！\" t=\"Thằng chó đẻ!\" b=\"\" a=\"\"/>",
+                            "stringId": "1151343142498471936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Dùng ống sốc tim]",
+                            "maleVariant": "[Dùng ống sốc tim]",
+                            "stringId": "1293648083834552320"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bám chặt vào!",
+                            "maleVariant": "Bám chặt vào!",
+                            "stringId": "1621561898580463616"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chất tăng cường không tác dụng lâu đâu...",
+                            "maleVariant": "Chất tăng cường không tác dụng lâu đâu...",
+                            "stringId": "1629984232274284544"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bắn hắn đi!",
+                            "maleVariant": "Bắn hắn đi!",
+                            "stringId": "1629995457993396224"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bám chặt vào!",
+                            "maleVariant": "Bám chặt vào!",
+                            "stringId": "1629999004529086464"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Agh!",
+                            "maleVariant": "",
+                            "stringId": "1630001363858640896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"いい加減、死ね！\" t=\"Chết đi!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"いい加減、死ね！\" t=\"Chết đi!\" b=\"\" a=\"\"/>",
+                            "stringId": "1630006453814317056"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đồ phản bội!",
+                            "maleVariant": "Đồ phản bội!",
+                            "stringId": "1630008452635054080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"地獄に堕ちろ！\" t=\"Xuống địa ngục đi!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"地獄に堕ちろ！\" t=\"Xuống địa ngục đi!\" b=\"\" a=\"\"/>",
+                            "stringId": "1630008972175101952"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

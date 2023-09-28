@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.8978652Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_lch_chat_029.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And don't down every drink they buy you. Even if you do have a fancy filter implant.",
+                            "maleVariant": "",
+                            "stringId": "2156541085661556736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But... the bar's gotta make some eds. The boss said we have to get clients to drink.",
+                            "maleVariant": "",
+                            "stringId": "2172254098906923008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And she's right. You go to the bathroom with your drink, dump it down the toilet, pour in juice instead.",
+                            "maleVariant": "",
+                            "stringId": "2172254557377904640"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Even if it's Chateau Piquette?",
+                            "maleVariant": "",
+                            "stringId": "2172254697216000000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Look, this is a gig like any other, mostly. You drink on the job anywhere else?",
+                            "maleVariant": "",
+                            "stringId": "2172255166759944192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But – but Chateau Piquette!",
+                            "maleVariant": "",
+                            "stringId": "2172255484570746880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "OK, maybe one.",
+                            "maleVariant": "",
+                            "stringId": "2172255827882917888"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

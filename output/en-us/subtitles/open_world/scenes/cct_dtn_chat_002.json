@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.8578034Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_002.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đợi đã... đừng nói với tớ đó là váy của Jinguji nhé.",
+                            "maleVariant": "Đợi đã... đừng nói với tớ đó là váy của Jinguji nhé.",
+                            "stringId": "1963293454750171136"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cậu muốn tớ nói dối không?",
+                            "maleVariant": "Cậu muốn tớ nói dối không?",
+                            "stringId": "1963294215445921792"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Làm sao... làm thế nào cậu có được thế? Cậu bán thận hay gì vậy?",
+                            "maleVariant": "Làm sao... làm thế nào cậu có được thế? Cậu bán thận hay gì vậy?",
+                            "stringId": "1963294862945796096"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có thể vậy lắm.",
+                            "maleVariant": "Có thể vậy lắm.",
+                            "stringId": "1963295423791349760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thật sự thì, nó đẹp quá, nhưng... cũng rất đắt nữa...? Nó có xứng đáng với cái giá đó không?",
+                            "maleVariant": "Thật sự thì, nó đẹp quá, nhưng... cũng rất đắt nữa...? Nó có xứng đáng với cái giá đó không?",
+                            "stringId": "1963295761214717952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tớ không hối tiếc đâu... Chẳng có gì xấu hổ khi muốn mình hoàn hảo cả.",
+                            "maleVariant": "Tớ không hối tiếc đâu... Chẳng có gì xấu hổ khi muốn mình hoàn hảo cả.",
+                            "stringId": "1963296350296326144"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

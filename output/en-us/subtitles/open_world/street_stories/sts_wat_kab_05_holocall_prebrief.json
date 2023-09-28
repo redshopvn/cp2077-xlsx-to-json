@@ -1,0 +1,39 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:10.7716661Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_kab_05_holocall_prebrief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Giới thiệu với cô Alois Daquin - một kẻ thất bại với một cái tên kiêu căng. Thằng khốn đã phá vỡ lòng tin của tôi và bỏ qua thị trấn.",
+                            "maleVariant": "Giới thiệu với anh Alois Daquin - một kẻ thất bại với một cái tên kiêu căng. Thằng khốn đã phá vỡ lòng tin của tôi và bỏ qua thị trấn.",
+                            "stringId": "2328526912915742720"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ừ, kệ mẹ hắn. Bây giờ điều duy nhất tôi quan tâm là dữ liệu mà hắn để lại NC - đặt biệt là cái thứ trong máy tính của hắn đó. Hãy kiểm tra thông tin đính kèm và cô sẽ thấy mình cần làm gì.",
+                            "maleVariant": "Ừ, kệ mẹ hắn. Bây giờ điều duy nhất tôi quan tâm là dữ liệu mà hắn để lại NC - đặt biệt là cái thứ trong máy tính của hắn đó. Hãy kiểm tra thông tin đính kèm và anh sẽ thấy mình cần làm gì.",
+                            "stringId": "2331709031553798144"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

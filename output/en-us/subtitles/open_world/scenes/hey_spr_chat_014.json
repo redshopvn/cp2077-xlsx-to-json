@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:03.8845624Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_spr_chat_014.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ekh, ekh, ekh.",
+                            "maleVariant": "",
+                            "stringId": "2162076589666054144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ồ, nghe có vẻ không hay rồi. Mày đang xài mấy bộ lọc khói hả?",
+                            "maleVariant": "Ồ, nghe có vẻ không hay rồi. Mày đang xài mấy bộ lọc khói hả?",
+                            "stringId": "2209932055038758912"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không phải do khói đâu. Uống chút... ekh, ekh, ekh...",
+                            "maleVariant": "Không phải do khói đâu. Uống chút... ekh, ekh, ekh...",
+                            "stringId": "2217586485489930240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Xin lỗi nha... Hôm qua tôi uống ít nước từ vòi, có gì đó mắc trong cổ họng tôi, ekhh, ekhh... Tôi không thể lấy nó ra.",
+                            "maleVariant": "Xin lỗi nha... Hôm qua tôi uống ít nước từ vòi, có gì đó mắc trong cổ họng tôi, ekhh, ekhh... Tôi không thể lấy nó ra.",
+                            "stringId": "2217587775070638080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nước máy hả?!",
+                            "maleVariant": "Nước máy hả?!",
+                            "stringId": "2217589334126989312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ông lấy cái loa nói luôn đi.",
+                            "maleVariant": "Ông lấy cái loa nói luôn đi.",
+                            "stringId": "2217590374045945856"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chắc rồi, có thể ở North Oak, nhưng mà ở Wellsprings này ư? Tốt nhất nên đến gặp ripper đi - đổi lại chỉ số cổ họng gì đó.",
+                            "maleVariant": "Chắc rồi, có thể ở North Oak, nhưng mà ở Wellsprings này ư? Tốt nhất nên đến gặp ripper đi - đổi lại chỉ số cổ họng gì đó.",
+                            "stringId": "2217591236529065984"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

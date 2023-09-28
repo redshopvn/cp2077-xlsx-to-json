@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:03.7607829Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_gle_chat_023.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Is it just me, or did this use to be a better neighborhood?",
+                            "maleVariant": "",
+                            "stringId": "2161788985688535040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No, not just you. Used to be less firefights. And way less cyberpsychosis.",
+                            "maleVariant": "",
+                            "stringId": "2177914670113603584"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Y'ask me, think it's high time the mayor started arming the city.",
+                            "maleVariant": "",
+                            "stringId": "2177914831527198720"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I mean, some psycho barges in your store and boom! Everyone starts sprayin' lead at him!",
+                            "maleVariant": "",
+                            "stringId": "2177915026881101824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ah, yeah, that's how it should be. Boom! Problem solved.",
+                            "maleVariant": "",
+                            "stringId": "2177915218510462976"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Should be more guns on the street, y'know? That's the problem with Night City.",
+                            "maleVariant": "",
+                            "stringId": "2177915710569431040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But what if, you know... what if some gonk shoots someone by accident?",
+                            "maleVariant": "",
+                            "stringId": "2177915833512869888"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Then too bad. Better to make a mistake than eat lead yourself.",
+                            "maleVariant": "",
+                            "stringId": "2177916100320935936"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

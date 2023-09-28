@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:00.7449284Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\fluff\\jefferson_peralez_ad.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Năm ngoái, hội đồng thành phố Night City đã miễn trừ nghĩa vụ thuế thu nhập cho 32 tập đoàn.",
+                            "maleVariant": "",
+                            "stringId": "1793610736917716992"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Trong số đó có Kang Tao, Arasaka, Moore Technologies và Dynalar.",
+                            "maleVariant": "",
+                            "stringId": "1803789058476589056"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tổng hợp lại, tổng thu nhập của các tập đoàn này lên tới hàng chục nghìn tỷ đô la euro.",
+                            "maleVariant": "",
+                            "stringId": "1803789243176960000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dự luật thảm khốc về \"Thành phố của Cơ hội\" đã được thông qua với tỷ lệ 99:1.",
+                            "maleVariant": "",
+                            "stringId": "1803789581271416832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi là một trong những tiếng nói bất đồng chính kiến.",
+                            "maleVariant": "",
+                            "stringId": "1803789797361958912"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi có cần cho bạn thấy điều gì sẽ xảy ra với dự luật này nếu bạn, người dân của Night City, bầu tôi làm thị trưởng của bạn không?",
+                            "maleVariant": "",
+                            "stringId": "1803790006741614592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tên tôi là Jefferson Peralez, và tôi chấp thuận thông điệp này.",
+                            "maleVariant": "",
+                            "stringId": "1803790278784172032"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

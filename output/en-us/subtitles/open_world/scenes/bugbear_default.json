@@ -1,0 +1,99 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.7363083Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bugbear_default.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'll need a few things...",
+                            "maleVariant": "",
+                            "stringId": "1937441522138763268"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "How'd you feel... when you woke up?",
+                            "maleVariant": "",
+                            "stringId": "1937443779110522880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You woke up all right?",
+                            "maleVariant": "",
+                            "stringId": "1937445641230503936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'll be needing a few things...",
+                            "maleVariant": "",
+                            "stringId": "1937446264822845440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah?",
+                            "maleVariant": "",
+                            "stringId": "1937448094462136320"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thanks for saving my ass.",
+                            "maleVariant": "",
+                            "stringId": "1937537478452596736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Caught up on some sleep – no errors.",
+                            "maleVariant": "",
+                            "stringId": "1937554339705671680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So you're V. I ran the spec on you out after Wakako caught me up on what happened.",
+                            "maleVariant": "",
+                            "stringId": "1937567143875596288"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Covered in bruises though. Like someone threw me out the window...",
+                            "maleVariant": "",
+                            "stringId": "1949225070059343872"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But hey, I'm alive, right? So it was all worth it. Thanks.",
+                            "maleVariant": "",
+                            "stringId": "1949225073582559232"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Funny, isn't it? How we're only meeting now.",
+                            "maleVariant": "",
+                            "stringId": "1949226057281064960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So whaddaya need?",
+                            "maleVariant": "",
+                            "stringId": "1949228245483016192"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

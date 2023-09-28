@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:09.2456020Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_hey_rey_09_01_crowd.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vậy tôi nên dời ra ngoài bởi vì băng Tygers đã chiếm hết tầng đó rồi sao?",
+                            "maleVariant": "Vậy tôi nên dời ra ngoài bởi vì băng Tygers đã chiếm hết tầng đó rồi sao?",
+                            "stringId": "1448661890558087168"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có biết chúng đang làm gì không?",
+                            "maleVariant": "Có biết chúng đang làm gì không?",
+                            "stringId": "1937218533157785600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chỉ cần im lặng thôi và đừng chường mặt ra.",
+                            "maleVariant": "Chỉ cần im lặng thôi và đừng chường mặt ra.",
+                            "stringId": "1937221787820249088"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:09.8233419Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_std_arr_05_holocall_prebrief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yo, V. Cô sống ổn chứ? Nếu cô không bận thì tôi có một phi vụ cho cô đó - hết sức cổ điển luôn.",
+                            "maleVariant": "Yo, V. Cậu sống ổn chứ? Nếu cậu không bận thì tôi có một phi vụ cho cậu đó - hết sức cổ điển luôn.",
+                            "stringId": "2328616320833122304"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tất cả những gì cô cần làm là đột nhập vào một khu vực tập đoàn và cài một con bọ. Thông tin đã được đính kèm.",
+                            "maleVariant": "Tất cả những gì cậu cần làm là đột nhập vào một khu vực tập đoàn và cài một con bọ. Thông tin đã được đính kèm.",
+                            "stringId": "2334642076076720128"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

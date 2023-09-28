@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:13.3432879Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wat_nid_clothingshop_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đang muốn thay đổi trang phục.",
+                            "maleVariant": "Đang muốn thay đổi trang phục.",
+                            "stringId": "1979313499457167364"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Trông cô có vẻ không giống người bản địa Watson nhỉ.",
+                            "maleVariant": "Trông cô có vẻ không giống người bản địa Watson nhỉ.",
+                            "stringId": "1979314081240686592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi đang nghĩ về một cái áo khoác mới. Cô có gì giới thiệu không?",
+                            "maleVariant": "Tôi đang nghĩ về một cái áo khoác mới. Cô có gì giới thiệu không?",
+                            "stringId": "1979316089590882304"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Quan trọng đéo gì đâu? Cứ chọn hàng mua gì đó đi.",
+                            "maleVariant": "Quan trọng đéo gì đâu? Cứ chọn hàng mua gì đó đi.",
+                            "stringId": "1979317868864970752"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Trông cô có vẻ không giống người bản địa Watson nhỉ.",
+                            "maleVariant": "Trông cô có vẻ không giống người bản địa Watson nhỉ.",
+                            "stringId": "1979330263419166720"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi đây.",
+                            "maleVariant": "Tôi đây.",
+                            "stringId": "1979330947208159232"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wanna change my look.",
+                            "maleVariant": "",
+                            "stringId": "3775202941002969088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'd like to use your services.",
+                            "maleVariant": "",
+                            "stringId": "3836255736078135312"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

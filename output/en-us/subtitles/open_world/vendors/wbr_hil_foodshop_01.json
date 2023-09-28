@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:13.4332209Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wbr_hil_foodshop_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thực đơn có gì đó?",
+                            "maleVariant": "Thực đơn có gì đó?",
+                            "stringId": "1764923827777089536"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chỗ đẹp đấy.",
+                            "maleVariant": "Chỗ đẹp đấy.",
+                            "stringId": "1764924182615207936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chỗ đẹp đấy., bóng bẩy đến lạ.",
+                            "maleVariant": "Chỗ đẹp đấy., bóng bẩy đến lạ.",
+                            "stringId": "1764924610551656448"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mh. Chỗ đẹp. Người tốt. Ai cư xử. Ai trả tiền. Không khoan nhượng bất cứ điều gì đối với những người tới từ... Watson.",
+                            "maleVariant": "Mh. Chỗ đẹp. Người tốt. Ai cư xử. Ai trả tiền. Không khoan nhượng bất cứ điều gì đối với những người tới từ... Watson.",
+                            "stringId": "1764924913531400192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có thực đơn chứ?",
+                            "maleVariant": "Có thực đơn chứ?",
+                            "stringId": "1764925173796352000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vâng, chúng tôi có.",
+                            "maleVariant": "Vâng, chúng tôi có.",
+                            "stringId": "1764925400087441408"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

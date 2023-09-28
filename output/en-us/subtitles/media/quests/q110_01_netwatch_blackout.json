@@ -1,0 +1,57 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.0256165Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\q110_01_netwatch_blackout.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Xin chào, đã đến lúc cho bảng tin địa phương. Một cuộc đột kích vào đường dây buôn bán thịt hữu cơ và một đợt bùng phát bệnh sốt rét ở Glen.",
+                            "maleVariant": "Xin chào, đã đến lúc cho bảng tin địa phương. Một cuộc đột kích vào đường dây buôn bán thịt hữu cơ và một đợt bùng phát bệnh sốt rét ở Glen.",
+                            "stringId": "1744334830032183296"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hầu hết khu vực này đã bị ngắt kết nối với thế giới trong vài giờ do cư dân không thể kết nối với Net, dù là mạng cục bộ hay hệ thống chung.",
+                            "maleVariant": "Hầu hết khu vực này đã bị ngắt kết nối với thế giới trong vài giờ do cư dân không thể kết nối với Net, dù là mạng cục bộ hay hệ thống chung.",
+                            "stringId": "1744341886478901248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "NCPD đã kêu gọi mọi người hãy bình tĩnh, tuyên bố sự cố ngừng hoạt động là do bảo trì định kỳ.",
+                            "maleVariant": "NCPD đã kêu gọi mọi người hãy bình tĩnh, tuyên bố sự cố ngừng hoạt động là do bảo trì định kỳ.",
+                            "stringId": "1744350285975314432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chúng ta sẽ tiếp tục đến với bảng tin địa phương sau giờ nghỉ.",
+                            "maleVariant": "Chúng ta sẽ tiếp tục đến với bảng tin địa phương sau giờ nghỉ.",
+                            "stringId": "1744350608886390784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nhưng trước tiên, chúng ta hãy chuyển sang một lỗi kết nối bí ẩn ở Pacifica.",
+                            "maleVariant": "Nhưng trước tiên, chúng ta hãy chuyển sang một lỗi kết nối bí ẩn ở Pacifica.",
+                            "stringId": "1744352399770312704"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

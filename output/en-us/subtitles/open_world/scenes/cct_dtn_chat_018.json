@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.9000231Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_018.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What if they find it?",
+                            "maleVariant": "",
+                            "stringId": "2172181539393875968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They won't.",
+                            "maleVariant": "",
+                            "stringId": "2182615270883168256"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You sure?",
+                            "maleVariant": "",
+                            "stringId": "2182632890701287424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Choom, literally everyone goes in with boosters, everyone uses 'em. And everyone knows about it.",
+                            "maleVariant": "",
+                            "stringId": "2182632959437541376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Right, but if the huscle finds something, they won't let me in.",
+                            "maleVariant": "",
+                            "stringId": "2182633391366967296"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ughhh, listen, goes like this. You shove the stuff down your underwear or socks. They never check there.",
+                            "maleVariant": "",
+                            "stringId": "2182633523202330624"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They pretend not to know you're packing, and you pretend... Well, you pretend you aren't.",
+                            "maleVariant": "",
+                            "stringId": "2182634255175487488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, technically you're not allowed, but everyone knows you can. You think anyone would come here if they banned 'em for real?",
+                            "maleVariant": "",
+                            "stringId": "2182635449730043904"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

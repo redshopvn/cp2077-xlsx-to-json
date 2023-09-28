@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:13.5130820Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wbr_jpn_guns_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anh bán gì vậy?",
+                            "maleVariant": "Anh bán gì vậy?",
+                            "stringId": "1885075933355196416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hiện có tin gì đáng lưu ý không?",
+                            "maleVariant": "Hiện có tin gì đáng lưu ý không?",
+                            "stringId": "1885075933355196432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Để xem anh có gì nào.",
+                            "maleVariant": "Để xem anh có gì nào.",
+                            "stringId": "1885075933405528068"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anh có muốn giới thiệu loại nào không?",
+                            "maleVariant": "Anh có muốn giới thiệu loại nào không?",
+                            "stringId": "1885075933489414148"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "SOR-22. Có kẻ đã tuồng hàng ra ngoài chợ đen. Công nghệ nguy hiểm Chỉ cần một viên là cô chết.",
+                            "maleVariant": "SOR-22. Có kẻ đã tuồng hàng ra ngoài chợ đen. Công nghệ nguy hiểm Chỉ cần một viên là cậu chết.",
+                            "stringId": "1885075933489414156"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Khách mới à? Chào mừng, chào mừng...",
+                            "maleVariant": "Khách mới à? Chào mừng, chào mừng...",
+                            "stringId": "1974951213682446336"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.7785864Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\pac_cvi_techstore_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô kinh doanh gì thế?",
+                            "maleVariant": "Cô kinh doanh gì thế?",
+                            "stringId": "1715598496904040452"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đang tìm mua vài thứ.",
+                            "maleVariant": "Đang tìm mua vài thứ.",
+                            "stringId": "1715598744804184064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chính xác thì cô kinh doanh gì thế?",
+                            "maleVariant": "Chính xác thì cô kinh doanh gì thế?",
+                            "stringId": "1715599999320510464"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thực đơn hôm nay có gì vậy?",
+                            "maleVariant": "Thực đơn hôm nay có gì vậy?",
+                            "stringId": "1715616633292640256"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tình hình khó khăn quá. Tôi phải tiết kiệm từng đồng, nên buôn bán mọi thứ mình có.",
+                            "maleVariant": "Tình hình khó khăn quá. Tôi phải tiết kiệm từng đồng, nên buôn bán mọi thứ mình có.",
+                            "stringId": "1715627135091658752"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi không quan tâm nguồn gốc của hàng. Có gì bán nấy thôi, cưng à.",
+                            "maleVariant": "Tôi không quan tâm nguồn gốc của hàng. Có gì bán nấy thôi, cưng à.",
+                            "stringId": "1715641366985887744"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Để tôi cho cô xem, cưng à. Không làm cưng thất vọng đâu.",
+                            "maleVariant": "Để tôi cho cậu xem, cưng à. Không làm cưng thất vọng đâu.",
+                            "stringId": "1715642130751868928"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.7748575Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_cpz_chat_015.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Your dad's coming home today.",
+                            "maleVariant": "",
+                            "stringId": "2189789085601992704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, so?",
+                            "maleVariant": "",
+                            "stringId": "2189789192690962432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Well, if we don't see him, you'll have to wait till next week to have dinner together.",
+                            "maleVariant": "",
+                            "stringId": "2189789616047230976"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "OK.",
+                            "maleVariant": "",
+                            "stringId": "2189790346158116864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Your dad works hard. You know it's not easy for him to find some free time. You shouldn't make it even harder for him.",
+                            "maleVariant": "",
+                            "stringId": "2189790852158951424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "OK, here's the deal. If you come to dinner with me, I'll get you that BD you wanted.",
+                            "maleVariant": "",
+                            "stringId": "2189792105232437248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mhm.",
+                            "maleVariant": "",
+                            "stringId": "2189804819627479040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fine. But we go get the virtu first – then dinner.",
+                            "maleVariant": "",
+                            "stringId": "2189839191713878016"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

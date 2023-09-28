@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:05.3893063Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\pac_wwd_chat_030.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Totally new, totally nova. Got a choom, says it's been on the street a week.",
+                            "maleVariant": "",
+                            "stringId": "2179649948556582912"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, heard. 'Parently it's some Biotechnica boosters. Planned leak.",
+                            "maleVariant": "",
+                            "stringId": "2211509490577240064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Right. And we're living in a simulation, too.",
+                            "maleVariant": "",
+                            "stringId": "2212647982137012224"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Seriously. Some sorta drug for chrome tolerance. Slows down the cyberpsycho in all of us.",
+                            "maleVariant": "",
+                            "stringId": "2212648243341488128"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So they put it out on the street to see what? The side effects?",
+                            "maleVariant": "",
+                            "stringId": "2212651062702305280"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chill, chooms. Can't disappoint the corps. Take some tonight, we'll have a fresh report for 'em in the morning.",
+                            "maleVariant": "",
+                            "stringId": "2212651785078894592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Heheheh. Nice.",
+                            "maleVariant": "",
+                            "stringId": "2212656220706369536"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

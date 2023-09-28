@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.2564217Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_arr_chat_015.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ここよ、ここ！ あの人たちがライブをした店に自分がいるなんて！\" t=\"Here! Right here! One of their shows, right here!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2167890254985875456"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mmm, great. Can we go now?",
+                            "maleVariant": "",
+                            "stringId": "2214431610316886016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"もう、冷たいな\" t=\"Ughhh, you are the woooorst.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2221584187127074816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Listen, been to a million shows. I love shows. Maybe if I was a few implants short I'd think this was nova.",
+                            "maleVariant": "",
+                            "stringId": "2221584597598441472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But I'm not, and I don't.",
+                            "maleVariant": "",
+                            "stringId": "2221594023155830784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ジョニーが演ったのよ。〈Samurai〉と\" t=\"Johnny played here. With Samurai.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2221594210775437312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, so what?",
+                            "maleVariant": "",
+                            "stringId": "2221594701509005312"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

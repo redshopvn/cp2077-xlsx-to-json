@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:09.6491399Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_pac_wwd_05_holocall_prebrief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yo, có một phi vụ cho cô. Đám tập đoàn thích gọi đây là \"thanh lý tài sản con người\". Điều này có nghĩa là ai đó sẽ phải nói lời tạm biệt.",
+                            "maleVariant": "Yo, có một phi vụ cho cậu. Đám tập đoàn thích gọi đây là \"thanh lý tài sản con người\". Điều này có nghĩa là ai đó sẽ phải nói lời tạm biệt.",
+                            "stringId": "2328523162201350144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tiền công thì hấp dẫn lắm, nhưng không phải là không có lý do đâu - mục tiêu là một tên băng Animal.",
+                            "maleVariant": "Tiền công thì hấp dẫn lắm, nhưng không phải là không có lý do đâu - mục tiêu là một tên băng Animal.",
+                            "stringId": "2334615426962276352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Kiểm tra thông tin đính kèm nha.",
+                            "maleVariant": "Kiểm tra thông tin đính kèm nha.",
+                            "stringId": "2334615552053198848"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

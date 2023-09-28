@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:25.9165229Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\mq015\\mq015_02_seller_holocall.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chính xác.",
+                            "maleVariant": "Chính xác",
+                            "stringId": "1815753681951170560"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chính xác rồi.",
+                            "maleVariant": "Chính xác rồi",
+                            "stringId": "1815753681967947780"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có phải cô muốn mua \"Sách phép\" không?",
+                            "maleVariant": "Có phải anh muốn mua \"Sách phép\" không?",
+                            "stringId": "1815753682018279428"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không có mặc cả gì hết, cô sẽ phải trả đầy đủ khi lấy hàng.",
+                            "maleVariant": "Không có mặc cả gì hết, anh sẽ phải trả đầy đủ khi lấy hàng.",
+                            "stringId": "1815763652801634304"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Gọi sau nhé.",
+                            "maleVariant": "Gọi sau nhé.",
+                            "stringId": "1842959193754357760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi gọi lại sau nhé.",
+                            "maleVariant": "Tôi gọi lại sau nhé.",
+                            "stringId": "1842959381910835200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đã đặt. Tôi gửi địa chỉ rồi đấy, chỉ đi một mình, đừng có dẫn ai theo.",
+                            "maleVariant": "Đã đặt. Tôi gửi địa chỉ rồi đấy, chỉ đi một mình, đừng có dẫn ai theo.",
+                            "stringId": "1842960760461119488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đã hiểu, hoàn toàn đồng ý.",
+                            "maleVariant": "Đã hiểu, hoàn toàn đồng ý.",
+                            "stringId": "1842961087566499840"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

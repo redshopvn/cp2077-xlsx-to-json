@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:03.8789217Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_spr_chat_010.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<mothertongue l=\"mex\" m=\"thực sự\" b=\"Trời ạ, Julio đó là một thằng khốn \" a=\", mày à.\"/>",
+                            "maleVariant": "<mothertongue l=\"mex\" m=\"thực sự\" b=\"Trời ạ, Julio đó là một thằng khốn \" a=\", mày à.\"/>",
+                            "stringId": "1963298421765873664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có lẽ Santa Muerte nên đến thăm nó, hehehe.",
+                            "maleVariant": "Có lẽ Santa Muerte nên đến thăm nó, hehehe.",
+                            "stringId": "1966203539990233088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Này! Coi chừng cái lưỡi của mày đó!",
+                            "maleVariant": "Này! Coi chừng cái lưỡi của mày đó!",
+                            "stringId": "1966315462878543872"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Gì...? Cái quái gì vậy, anh bạn?",
+                            "maleVariant": "Gì...? Cái quái gì vậy, anh bạn?",
+                            "stringId": "1966315844207886336"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<mothertongue l=\"mex\" m=\"má mày\" b=\"Bộ \" a=\" không dạy mày hả? Santa Muerte đéo đùa được đâu!\"/>",
+                            "maleVariant": "<mothertongue l=\"mex\" m=\"má mày\" b=\"Bộ \" a=\" không dạy mày hả? Santa Muerte đéo đùa được đâu!\"/>",
+                            "stringId": "1966316107006197760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô ta nghe thấy mọi thứ đấy, phán quyết của cô ta là cuối cùng.",
+                            "maleVariant": "Cô ta nghe thấy mọi thứ đấy, phán quyết của cô ta là cuối cùng.",
+                            "stringId": "1966317552313024512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nếu cô ta mà nghe mày nói thế, thì trên tay mày nhuốm máu Julio đấy.",
+                            "maleVariant": "Nếu cô ta mà nghe mày nói thế, thì trên tay mày nhuốm máu Julio đấy.",
+                            "stringId": "1966317763320070144"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

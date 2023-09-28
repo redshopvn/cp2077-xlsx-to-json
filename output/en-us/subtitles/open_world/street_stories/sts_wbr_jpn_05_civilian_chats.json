@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.0897891Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_wbr_jpn_05_civilian_chats.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi nghe thấy tiếng la rất lạ và kéo dài...",
+                            "maleVariant": "Tôi nghe thấy tiếng la rất lạ và kéo dài...",
+                            "stringId": "1715835099826696192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có lẽ ai đó chiên đồ ăn bị bắn dầu.",
+                            "maleVariant": "Có lẽ ai đó chiên đồ ăn bị bắn dầu.",
+                            "stringId": "1715835099826696200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không, không, nó yên ắng lắm, như từ tầng hầm phát ra vậy.",
+                            "maleVariant": "Không, không, nó yên ắng lắm, như từ tầng hầm phát ra vậy.",
+                            "stringId": "1924381494049787904"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đến đây để ăn dim sum hay kể chuyện ma hả?",
+                            "maleVariant": "Đến đây để ăn dim sum hay kể chuyện ma hả?",
+                            "stringId": "1924383912166707200"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

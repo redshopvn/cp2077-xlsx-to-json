@@ -1,0 +1,81 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:39.3565947Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\q110\\q110_07_agent_noticed.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<mothertongue l=\"creo\" m=\"chiếc xe tải\" b=\"Nhanh lên. Hãy kiếm \" a=\".\"/>",
+                            "maleVariant": "<mothertongue l=\"creo\" m=\"chiếc xe tải\" b=\"Nhanh lên. Hãy kiếm \" a=\".\"/>",
+                            "stringId": "1533040390586781696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hãy im lặng. Quan sát. Chứ không phải đập nhau với chúng. Đó là nhiệm vụ của cô.",
+                            "maleVariant": "Hãy im lặng. Quan sát. Chứ không phải đập nhau với chúng. Đó là nhiệm vụ của cậu.",
+                            "stringId": "1682206415859814400"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đám khó ăn. Chúng biết là tôi đang ở đây.",
+                            "maleVariant": "Đám khó ăn. Chúng biết là tôi đang ở đây.",
+                            "stringId": "1682207867072221184"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chờ đã, người đó là ai vậy?",
+                            "maleVariant": "Chờ đã, người đó là ai vậy?",
+                            "stringId": "1695430519820406784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô nghĩ là ai chứ? Là tên tin tặc mà bọn ta muốn thử lên vụ của cô đó.",
+                            "maleVariant": "Cậu nghĩ là ai chứ? Là tên tin tặc mà bọn ta muốn thử lên vụ của cậu đó.",
+                            "stringId": "1695430908498169856"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Và? Anh ta đã làm được chứ?",
+                            "maleVariant": "Và? Anh ta đã làm được chứ?",
+                            "stringId": "1695637209064214528"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Với một ít ICE bọn ta thêm vào cho cô, giờ thì nó ổn.",
+                            "maleVariant": "Với một ít ICE bọn ta thêm vào cho cậu, giờ thì nó ổn.",
+                            "stringId": "1695637620458328064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vậy là... hắn ta biết tôi ở đây.",
+                            "maleVariant": "Vậy là... hắn ta biết tôi ở đây.",
+                            "stringId": "1695638000680374272"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không vấn đề gì cả. Chỉ là không kết nối, không có giao diện, không gì cả.",
+                            "maleVariant": "Không vấn đề gì cả. Chỉ là không kết nối, không có giao diện, không gì cả.",
+                            "stringId": "1695638492017922048"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

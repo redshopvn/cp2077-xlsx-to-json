@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:02.2639253Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_ani_04.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có gì khó đâu mà anh bạn. Chỉ cần tiếp tục tăng cân, uống nước ép của mày và tuân thủ theo chế độ tập của mình.",
+                            "maleVariant": "Có gì khó đâu mà anh bạn. Chỉ cần tiếp tục tăng cân, uống nước ép của mày và tuân thủ theo chế độ tập của mình.",
+                            "stringId": "2276532206771019792"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đụ mẹ, mày ơi, nhưng tao thấy như cứt vậy! Lúc nào tao cũng nổi nóng hết!",
+                            "maleVariant": "Đụ mẹ, mày ơi, nhưng tao thấy như cứt vậy! Lúc nào tao cũng nổi nóng hết!",
+                            "stringId": "2276532206771019804"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thì cứ thế đi! Làm một thằng khốn nạn như cứt!",
+                            "maleVariant": "Thì cứ thế đi! Làm một thằng khốn nạn như cứt!",
+                            "stringId": "2276532206787796992"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

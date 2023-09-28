@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.6142458Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\hey_rey_foodshop_02.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có gì để uống thế?",
+                            "maleVariant": "Có gì để uống thế?",
+                            "stringId": "1863266873962283008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chỗ của anh thú vị đấy.",
+                            "maleVariant": "Chỗ của anh thú vị đấy.",
+                            "stringId": "1863266873962283024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anh bán gì uống thế?",
+                            "maleVariant": "Anh bán gì uống thế?",
+                            "stringId": "1863266874029391876"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đủ loại luôn, phục vụ mọi sở thích của khách hàng. Người ta để tới đây để thư giãn, hay chỉ để nhảy nhót cho vui ấy mà.",
+                            "maleVariant": "Đủ loại luôn, phục vụ mọi sở thích của khách hàng. Người ta để tới đây để thư giãn, hay chỉ để nhảy nhót cho vui ấy mà.",
+                            "stringId": "1863266874029391884"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nghe hay nhỉ. Anh thích làm việc ở đây chứ?",
+                            "maleVariant": "Nghe hay nhỉ. Anh thích làm việc ở đây chứ?",
+                            "stringId": "1863266874096500740"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chắc là thế. Điểm không thích thì ít lắm. Dù tôi khó thể ngưng nghĩ về nó, làm kiểu gì cũng vậy à.",
+                            "maleVariant": "Chắc là thế. Điểm không thích thì ít lắm. Dù tôi khó thể ngưng nghĩ về nó, làm kiểu gì cũng vậy à.",
+                            "stringId": "1863266874096500748"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

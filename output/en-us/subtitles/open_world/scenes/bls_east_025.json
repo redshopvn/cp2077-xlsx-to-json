@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.6143947Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_east_025.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I've got a sweet new jacket, looking to sell.",
+                            "maleVariant": "",
+                            "stringId": "2189788081919057920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Huh. Where from?",
+                            "maleVariant": "",
+                            "stringId": "2189788572803620864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Down at the market. I couldn't even look at that old coat of mine anymore, so I swiped it. It's too small, though.",
+                            "maleVariant": "",
+                            "stringId": "2189788764936298496"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No way. Out in the Badlands, a fancy-ass jacket is like wearing a target on your back. You'd better lose it, quick.",
+                            "maleVariant": "",
+                            "stringId": "2189789918302789632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, well, with that face, anyone can tell you're from here. Nobody's going to target you.",
+                            "maleVariant": "",
+                            "stringId": "2189790658647777280"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hah, pretty soon your mom won't even recognize your stupid face.",
+                            "maleVariant": "",
+                            "stringId": "2189791078581493760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Relax, I just meant that stunning windswept look you got. You're no blanched, red-eyed corpo from town.",
+                            "maleVariant": "",
+                            "stringId": "2189792209147748352"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

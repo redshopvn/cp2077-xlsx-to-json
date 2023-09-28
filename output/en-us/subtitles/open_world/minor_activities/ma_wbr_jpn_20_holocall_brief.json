@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.4540434Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_wbr_jpn_20_holocall_brief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chú ý tất cả các đơn vị NCPD - hoạt động tội phạm có tổ chức được báo cáo ở Đường Willow.",
+                            "maleVariant": "Chú ý tất cả các đơn vị NCPD - hoạt động tội phạm có tổ chức được báo cáo ở Đường Willow.",
+                            "stringId": "2329306669280960512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Truy nã khẩn Shinobu Imai, bị kết án về nhiều tội buôn bán người và lao động cưỡng bức.",
+                            "maleVariant": "Truy nã khẩn Shinobu Imai, bị kết án về nhiều tội buôn bán người và lao động cưỡng bức.",
+                            "stringId": "2358364346269405184"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "City officials offering a reward for neutralizing Imai's criminal network in the Willow Street area.",
+                            "maleVariant": "",
+                            "stringId": "2358364668123516928"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

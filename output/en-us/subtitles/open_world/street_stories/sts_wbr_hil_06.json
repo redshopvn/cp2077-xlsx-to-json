@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:11.7985450Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_wbr_hil_06.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey, Wyatt really knows how to move up the ladder, huh?",
+                            "maleVariant": "",
+                            "stringId": "1318377528401293312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Could say that again. Did everything legit too – garage is approved and everything.",
+                            "maleVariant": "",
+                            "stringId": "1318383482752692224"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "For real? Man, head's screwed straight on that choom.",
+                            "maleVariant": "",
+                            "stringId": "1624225864327065600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Gorgeous hunk o' metal, choom.",
+                            "maleVariant": "",
+                            "stringId": "1760773975902023680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Risk big, win big.",
+                            "maleVariant": "",
+                            "stringId": "1760778456844759040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Got a buyer yet?",
+                            "maleVariant": "",
+                            "stringId": "1760778658825662464"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nah, I'm keepin' her with me. Just gotta repaint her and put in some new wheels.",
+                            "maleVariant": "",
+                            "stringId": "1760778842250964992"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

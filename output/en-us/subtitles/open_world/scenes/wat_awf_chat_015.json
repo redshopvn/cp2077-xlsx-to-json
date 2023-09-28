@@ -1,0 +1,81 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.7396628Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_awf_chat_015.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You hear Kerry Eurodyne's making a new album?",
+                            "maleVariant": "",
+                            "stringId": "2156475910439608320"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Eh, not into music.",
+                            "maleVariant": "",
+                            "stringId": "2177889701086818304"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ah, so you're more of a BD person? Scroll anything good lately?",
+                            "maleVariant": "",
+                            "stringId": "2177890124174651392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Braindance weakens your synapses. Not into brain damage, either.",
+                            "maleVariant": "",
+                            "stringId": "2177891074167730176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Uh-huh. Yeah, sure... Neither am I.",
+                            "maleVariant": "",
+                            "stringId": "2177893192106700800"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Maybe we could go for a walk sometime?",
+                            "maleVariant": "",
+                            "stringId": "2177894022947991552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hmm. Not a bad idea.",
+                            "maleVariant": "",
+                            "stringId": "2177894648100614144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Really?",
+                            "maleVariant": "",
+                            "stringId": "2177895651260690432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Of course. About time we did another patrol round.",
+                            "maleVariant": "",
+                            "stringId": "2177896106275565568"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:48.4644739Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\sq027\\sq027_05b_holocall_basilisk_ready.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V, chiếc Basilisk - sẵn sàng rồi.",
+                            "maleVariant": "V, chiếc Basilisk - sẵn sàng rồi.",
+                            "stringId": "1787031423702290432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chắc chắn rồi.",
+                            "maleVariant": "Chắc chắn rồi.",
+                            "stringId": "1787031612479524868"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Giờ thì chị không thể.",
+                            "maleVariant": "Giờ thì anh không thể.",
+                            "stringId": "1787032303818264576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chắc chắn rồi! Sẽ đến đó ngay.",
+                            "maleVariant": "Chắc chắn rồi! Sẽ đến đó ngay.",
+                            "stringId": "1787032929474203652"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Giờ thì chị không thể, Panam. Chị sẽ tới ngay khi chị có thể.",
+                            "maleVariant": "Giờ thì anh không thể, Panam. Anh sẽ tới ngay khi anh có thể.",
+                            "stringId": "1787033082180423684"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mẹ kiếp, V. Nó thật sự tuyệt lắm!",
+                            "maleVariant": "Mẹ kiếp, V. Nó thật sự tuyệt lắm!",
+                            "stringId": "1787034871353069568"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chắc chắn rồi. Bọn em sẽ đợi.",
+                            "maleVariant": "Chắc chắn rồi. Bọn em sẽ đợi.",
+                            "stringId": "1787036031011016704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chị có muốn lái nó không?",
+                            "maleVariant": "Anh có muốn lái nó không?",
+                            "stringId": "1806985522639605760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chị nghe đây.",
+                            "maleVariant": "Anh nghe đây.",
+                            "stringId": "1806987150063112192"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

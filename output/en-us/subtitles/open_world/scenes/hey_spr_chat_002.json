@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:03.8571993Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_spr_chat_002.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What'll I… what'll I do now?",
+                            "maleVariant": "",
+                            "stringId": "1831668612518764544"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Told you you weren't cut out for it.",
+                            "maleVariant": "",
+                            "stringId": "1831671789116841984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I saw how Price was looking at me. They wanna zero me.",
+                            "maleVariant": "",
+                            "stringId": "1831671941286191104"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Go over to Ziggy's program. Like that one guy, the one whose arm they took.",
+                            "maleVariant": "",
+                            "stringId": "1831672094260846592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Say Arasaka tossed you.",
+                            "maleVariant": "",
+                            "stringId": "1831672318706442240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Militech'll be there in a heartbeat. They'll do anything, just to spite 'em.",
+                            "maleVariant": "",
+                            "stringId": "1831672542212513792"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Just don't say you tried to poison Price.",
+                            "maleVariant": "",
+                            "stringId": "1831672980013965312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nobody likes a careerist.",
+                            "maleVariant": "",
+                            "stringId": "1831673362198945792"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

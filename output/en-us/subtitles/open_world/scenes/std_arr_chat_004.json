@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.2306196Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_arr_chat_004.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Traitor...",
+                            "maleVariant": "",
+                            "stringId": "1963261042296397824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh, save it... If Zetatech offered you a job right now, you'd take it in a heartbeat.",
+                            "maleVariant": "",
+                            "stringId": "1966240424145960960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Who's gonna keep watch in this shitstorm of a city if everyone starts signin' on with the corps?",
+                            "maleVariant": "",
+                            "stringId": "1966240587723816960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "C'mon, stay. Reconsider.",
+                            "maleVariant": "",
+                            "stringId": "1966241348285349888"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Reconsider what? My paid vacation and health insurance?",
+                            "maleVariant": "",
+                            "stringId": "1966241582210072576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "D'you even know the last time I took my little girl to the park?",
+                            "maleVariant": "",
+                            "stringId": "1966241902420017152"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sorry, you fellas'll have to find a new martyr.",
+                            "maleVariant": "",
+                            "stringId": "1966242133190623232"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

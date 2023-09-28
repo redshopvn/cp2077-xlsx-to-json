@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:45.4681380Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\sq017\\sq017_17_pachinko.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thang máy này không thể sử dụng được. Tôi xin lỗi.",
+                            "maleVariant": "Thang máy này không thể sử dụng được. Tôi xin lỗi.",
+                            "stringId": "1339984088743809024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có một cuộc hẹn với Kerry.",
+                            "maleVariant": "Có một cuộc hẹn với Kerry.",
+                            "stringId": "1339986038541520916"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Khách của Kerry cũng không dùng được sao? Anh ta đang chờ gặp tôi đó.",
+                            "maleVariant": "Khách của Kerry cũng không dùng được sao? Anh ta đang chờ gặp tôi đó.",
+                            "stringId": "1339994563900608512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Trong trường hợp đó, thì chúc cô tận hưởng buổi tối nay.",
+                            "maleVariant": "Trong trường hợp đó, thì chúc cô tận hưởng buổi tối nay.",
+                            "stringId": "1339995028210061312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vậy thì tại sao anh lại ở đây?",
+                            "maleVariant": "Vậy thì tại sao anh lại ở đây?",
+                            "stringId": "1818663045486567424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nó không thể sử dụng được, thì tại sao anh đứng đây làm gì?",
+                            "maleVariant": "Nó không thể sử dụng được, thì tại sao anh đứng đây làm gì?",
+                            "stringId": "1818664320353656832"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

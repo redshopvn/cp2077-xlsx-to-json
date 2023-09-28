@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:32.0977684Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\q001\\q001_03_vendor_phone.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ồ, không, không, không. 14 không được đâu, không đủ.",
+                            "maleVariant": "Ồ, không, không, không. 14 không được đâu, không đủ.",
+                            "stringId": "1193926420556378112"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đợi đã, ý anh là mười bốn một ngày hả? Vậy thì được đấy.",
+                            "maleVariant": "Đợi đã, ý anh là mười bốn một ngày hả? Vậy thì được đấy.",
+                            "stringId": "1195200967854313472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vâng, tôi sẽ gọi cho anh. Chúc anh ngày tốt lành ạ.",
+                            "maleVariant": "Vâng, tôi sẽ gọi cho anh. Chúc anh ngày tốt lành ạ.",
+                            "stringId": "1195202135062007808"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cần bàn lại với đối tác đang bị truy nã của tôi.",
+                            "maleVariant": "Cần bàn lại với đối tác đang bị truy nã của tôi.",
+                            "stringId": "1263612560799997952"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:49.9861336Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\totentanz\\totentanz_bouncer_default.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We're fucking closed  – can't you see?",
+                            "maleVariant": "",
+                            "stringId": "1802342029536960512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Heard someone shot Royce.",
+                            "maleVariant": "",
+                            "stringId": "1802342295388725252"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cause any trouble and you'll kiss the curb.",
+                            "maleVariant": "",
+                            "stringId": "1802342721513234436"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Heard someone shot Royce.",
+                            "maleVariant": "",
+                            "stringId": "1802355493135360000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anything interesting happen in Totentanz?",
+                            "maleVariant": "",
+                            "stringId": "1802357723968217088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anything interesting ever happen in Totentanz?",
+                            "maleVariant": "",
+                            "stringId": "1802357972170350596"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Not \"someone\"  – cocksuckin' Militech agents did it.",
+                            "maleVariant": "",
+                            "stringId": "1802359046952361984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Not today you don't. Get lost.",
+                            "maleVariant": "",
+                            "stringId": "1956146762027442180"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I look like a fucking encyclopedia to you? Something \"interesting's\" always goin' on here.",
+                            "maleVariant": "",
+                            "stringId": "1956163220526669824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "None o' your fuckin' biz, anyway.",
+                            "maleVariant": "",
+                            "stringId": "1975272928558522368"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

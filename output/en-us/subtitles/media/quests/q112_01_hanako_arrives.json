@@ -1,0 +1,57 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.0298113Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\q112_01_hanako_arrives.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Night City vẫn đang trong tình trạng thương tiếc sau cái chết của vị CEO Arasaka, ngài Saburo Arasaka.",
+                            "maleVariant": "Night City vẫn đang trong tình trạng thương tiếc sau cái chết của vị CEO Arasaka, ngài Saburo Arasaka.",
+                            "stringId": "1743075249131671552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cờ trên tất cả các tòa nhà của thành phố đã được hạ xuống một nửa và tất cả các sự kiện công cộng lớn đã bị hoãn lại cho đến khi có thông báo mới.",
+                            "maleVariant": "Cờ trên tất cả các tòa nhà của thành phố đã được hạ xuống một nửa và tất cả các sự kiện công cộng lớn đã bị hoãn lại cho đến khi có thông báo mới.",
+                            "stringId": "1743077386448326656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Con gái và người thừa kế, Hanako Arasaka, gần đây đã đến thành phố sau thảm kịch.",
+                            "maleVariant": "Con gái và người thừa kế, Hanako Arasaka, gần đây đã đến thành phố sau thảm kịch.",
+                            "stringId": "1743077839198277632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tang lễ sẽ được tổ chức tại Trụ sở Arasaka vào trưa mai, sau đó di hài của cố CEO sẽ được đưa về nơi an nghỉ cuối cùng tại quê hương Nhật Bản của ông.",
+                            "maleVariant": "Tang lễ sẽ được tổ chức tại Trụ sở Arasaka vào trưa mai, sau đó di hài của cố CEO sẽ được đưa về nơi an nghỉ cuối cùng tại quê hương Nhật Bản của ông.",
+                            "stringId": "1743078341826891776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ご冥福をお祈りいたします\" t=\"Hãy yên nghỉ.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"ご冥福をお祈りいたします\" t=\"Hãy yên nghỉ.\" b=\"\" a=\"\"/>",
+                            "stringId": "1743078834137518080"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

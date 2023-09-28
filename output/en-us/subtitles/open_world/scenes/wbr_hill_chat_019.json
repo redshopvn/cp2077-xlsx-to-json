@@ -1,0 +1,87 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:07.7462924Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_hill_chat_019.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So you're the one who borrowed the gear last night, hm?",
+                            "maleVariant": "",
+                            "stringId": "2159290644905816064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "'Scuse me? What gear? Nothing's missing.",
+                            "maleVariant": "",
+                            "stringId": "2221770839928946688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh, sure, not anymore it isn't. I also happen to know what you scrolled.",
+                            "maleVariant": "",
+                            "stringId": "2221771252682014720"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Even if you swap out the data shard, it automatically copies it to the drive. Temporarily.",
+                            "maleVariant": "",
+                            "stringId": "2221772302952513536"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "OK, listen, there's no need to make a big deal out of...",
+                            "maleVariant": "",
+                            "stringId": "2221804746464378880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Out of what? Chopping up a kid alive?",
+                            "maleVariant": "",
+                            "stringId": "2221805351014580224"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Now wait, jus' hold on. I've already got a buyer.",
+                            "maleVariant": "",
+                            "stringId": "2221806137161367552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We can split it down the middle – second I get the eddies, I swear.",
+                            "maleVariant": "",
+                            "stringId": "2221806609205116928"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hmmmm... No. You're going to give it to me now. I really doubt you have a buyer.",
+                            "maleVariant": "",
+                            "stringId": "2221807121396744192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Honestly, it's the worst XBD I've ever seen. No realfeel to it whatsoever.",
+                            "maleVariant": "",
+                            "stringId": "2221807862698033152"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

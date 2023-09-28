@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.8545941Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\std_arr_clothingshop_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Em bán gì đó?",
+                            "maleVariant": "Em bán gì đó?",
+                            "stringId": "1783754628636889088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Em bán hàng rong, hay ăn xin thế?",
+                            "maleVariant": "Em bán hàng rong, hay ăn xin thế?",
+                            "stringId": "1783754628653666308"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Em bán gì đó?",
+                            "maleVariant": "Em bán gì đó?",
+                            "stringId": "1783754628670443524"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mọi thứ chị thấy.",
+                            "maleVariant": "Mọi thứ anh thấy.",
+                            "stringId": "1783754628670443532"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Em bán đồ hay sưu tầm chúng vậy? Chị cảm thấy hoang mang quá.",
+                            "maleVariant": "Em bán đồ hay sưu tầm chúng vậy? Anh cảm thấy hoang mang quá.",
+                            "stringId": "1783754628703997956"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Khi mình cầu xin họ giúp, họ bảo có làm mới có ăn, khi có việc làm rồi, họ vẫn đem mình ra làm trò cười. Giàu thì chúng ghét, nghèo thì chúng khinh.",
+                            "maleVariant": "Khi mình cầu xin họ giúp, họ bảo có làm mới có ăn, khi có việc làm rồi, họ vẫn đem mình ra làm trò cười. Giàu thì chúng ghét, nghèo thì chúng khinh.",
+                            "stringId": "1783754628703997964"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'd like to change my clothes.",
+                            "maleVariant": "",
+                            "stringId": "3775245001835802624"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'd like to use your services.",
+                            "maleVariant": "",
+                            "stringId": "3836297774832152644"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.7961244Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_cpz_chat_024.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Choom, your eyes are fucked... Get some contacts or something, the bosses'll see.",
+                            "maleVariant": "",
+                            "stringId": "2172056382439284736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The bosses? Who do you think I get it from?",
+                            "maleVariant": "",
+                            "stringId": "2192573717917569024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thought they banned that stuff.",
+                            "maleVariant": "",
+                            "stringId": "2198357636038365184"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, yeah, just from unknown dealers.",
+                            "maleVariant": "",
+                            "stringId": "2198357764082077696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And your kidneys?",
+                            "maleVariant": "",
+                            "stringId": "2198357845938114560"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They give me dialysis nights, and days I'ma machine. A corpomachine. Can't stop me now.",
+                            "maleVariant": "",
+                            "stringId": "2198357939353653248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nah, it'll come back to bite you. At some point even your implants won't help.",
+                            "maleVariant": "",
+                            "stringId": "2198360104050724864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "\"At some point even your implants won't help.\" Quit bein' a little bitch. I'm fine.",
+                            "maleVariant": "",
+                            "stringId": "2198360370909122560"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

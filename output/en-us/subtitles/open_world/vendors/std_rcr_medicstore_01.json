@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.9695179Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\std_rcr_medicstore_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đang định mua sắm.",
+                            "maleVariant": "Đang định mua sắm.",
+                            "stringId": "1828465360056528896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có bán gì \"ngon\" không?",
+                            "maleVariant": "Có bán gì \"ngon\" không?",
+                            "stringId": "1828465360056528912"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mở bán cho doanh nghiệp à?",
+                            "maleVariant": "Mở bán cho doanh nghiệp à?",
+                            "stringId": "1828465360090083332"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hừm. Đang tìm hàng đặc biệt à?",
+                            "maleVariant": "Hừm. Đang tìm hàng đặc biệt à?",
+                            "stringId": "1828465360090083340"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có bán gì đặc biệt không? Có lẽ là hàng tuồn của công ty ấy? ",
+                            "maleVariant": "Có bán gì đặc biệt không? Có lẽ là hàng tuồn của công ty ấy? ",
+                            "stringId": "1828465360123637764"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Để tôi nghĩ... Hầu hết mọi người ở Bắc Carolina đều có súng dưới quầy. Tôi không nói tôi có, cũng không nói tôi không có, nhưng cô cảm nhận được mà, nên bớt pha trò đi nhé?",
+                            "maleVariant": "Để tôi nghĩ... Hầu hết mọi người ở Bắc Carolina đều có súng dưới quầy. Tôi không nói tôi có, cũng không nói tôi không có, nhưng anh cảm nhận được mà, nên bớt pha trò đi nhé?",
+                            "stringId": "1828465360157192196"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

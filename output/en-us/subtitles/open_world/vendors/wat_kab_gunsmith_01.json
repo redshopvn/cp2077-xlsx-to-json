@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:13.1227306Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wat_kab_gunsmith_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cần tìm vài món đồ chơi mới.",
+                            "maleVariant": "Cần tìm vài món đồ chơi mới.",
+                            "stringId": "1866067841231114240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có vấn đề với đám scavenger ở đây à?",
+                            "maleVariant": "Có vấn đề với đám scavenger ở đây à?",
+                            "stringId": "1866067841231114256"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đang tìm vài khẩu súng mới hàng khủng.",
+                            "maleVariant": "Đang tìm vài khẩu súng mới hàng khủng.",
+                            "stringId": "1866067841247891460"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái địt, khách hàng của tôi đây rồi.",
+                            "maleVariant": "Cái địt, khách hàng của tôi đây rồi.",
+                            "stringId": "1866067841247891468"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đám Scav gây cho anh nhiều rắc rối quanh đây lắm à?",
+                            "maleVariant": "Đám Scav gây cho anh nhiều rắc rối quanh đây lắm à?",
+                            "stringId": "1866067841264668676"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cũng thỉnh thoảng thôi à... không nhiều lắm. Nhưng là chuyện cá nhân thôi... chúng biết rõ hơn.",
+                            "maleVariant": "Cũng thỉnh thoảng thôi à... không nhiều lắm. Nhưng là chuyện cá nhân thôi... chúng biết rõ hơn.",
+                            "stringId": "1866067841264668684"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

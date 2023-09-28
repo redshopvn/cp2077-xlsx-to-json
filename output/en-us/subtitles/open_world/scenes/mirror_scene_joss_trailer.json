@@ -1,0 +1,87 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:04.6136041Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\mirror_scene_joss_trailer.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Nhìn vào gương]",
+                            "maleVariant": "[Nhìn vào gương]",
+                            "stringId": "2413972943627247616"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Ngừng nhìn]",
+                            "maleVariant": "[Ngừng nhìn]",
+                            "stringId": "2413972943828574208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Cười]",
+                            "maleVariant": "[Cười]",
+                            "stringId": "2520253623914356736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Cau có]",
+                            "maleVariant": "[Cau có]",
+                            "stringId": "2520253623914356748"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Bĩu môi]",
+                            "maleVariant": "[Bĩu môi]",
+                            "stringId": "2520253623914356760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Rụt rè]",
+                            "maleVariant": "[Rụt rè]",
+                            "stringId": "2520253623914356772"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Nhìn chằm chằm]",
+                            "maleVariant": "[Nhìn chằm chằm]",
+                            "stringId": "2520253623931133960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Thay đổi ngoại hình]",
+                            "maleVariant": "[Thay đổi ngoại hình]",
+                            "stringId": "3151840484787642368"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Thay đổi nét mặt]",
+                            "maleVariant": "[Thay đổi nét mặt]",
+                            "stringId": "3151840484787642388"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Trở về]",
+                            "maleVariant": "[Trở về]",
+                            "stringId": "3151963043441041408"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

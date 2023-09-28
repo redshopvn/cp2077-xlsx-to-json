@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:04.7208500Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\pac_cvi_chat_007.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ou pa ka aksepte kaka konsa lè ou sou nèt la.\" t=\"You can't take dat shit when you in da net.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1963269004930883584"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Tout bagay, telman, yon jan…sèk…..\" t=\"But den everything is so... dry...\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1966367326134358016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Bon, fwa sa a, sa w wè?\" t=\"So den what you see this time?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1966368247169961984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Se tanp Elamou a. Li gen fòm yon zigourat.\" t=\"The Elamu Temple. Shaped like a ziggurat.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1966370160443674624"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:04.3320251Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_spr_chat_019.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"El güey de al lado estiró la pata. Murió de joven, además. Apenas pasaba los cuarenta.\" t=\"Ehhh, guy next door croaked. Dead, and young, too. Just over forty.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2162117537582264320"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"Pues no era tan joven.\" t=\"Forty's not that young.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2213022632756219904"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"Oye, que ya pasé la flor de la vida pero nunca me sentí tan viva.\" t=\"Hey now, I'm over the hill, never felt younger!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2218651103259889664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"Y... ¿Qué le pasó?\" t=\"Well, I... What happened to him?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2218651296550195200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"Una neurodanza. Se pasaba sentado en su casa viviendo las vidas de otros. Estaba días enteros sin salir.\" t=\"Braindance. Just sat at home all the time, binging other people's lives. Wouldn't go out for days.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2218651901301723136"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"Sí, pero todos lo hacen a veces... ¿Cuánto tardaron en encontrarlo?\" t=\"Yeah, but everyone does that sometimes... How long before they found him?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2218658762679750656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"No sé, no me dijeron. Parece que cuando la policía tiró la puerta abajo, ¡estaba repleto de bichos!\" t=\"Dunno. Wouldn't tell me. Apparently, when the cops busted down the door, the whole floor was crawling!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2218658893961465856"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

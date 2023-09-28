@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.7841777Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\pac_wwd_melee_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đang tìm vài trang bị - anh có gì vậy?",
+                            "maleVariant": "Đang tìm vài trang bị - anh có gì vậy?",
+                            "stringId": "1886584609891758080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anh chuyên về môn võ nào thế?",
+                            "maleVariant": "Anh chuyên về môn võ nào thế?",
+                            "stringId": "1886584609908535300"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thắc mắc không biết anh đang bán gì.",
+                            "maleVariant": "Thắc mắc không biết anh đang bán gì.",
+                            "stringId": "1886584609958866948"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anh chuyên về môn võ nào thế?",
+                            "maleVariant": "Anh chuyên về môn võ nào thế?",
+                            "stringId": "1886584609992421380"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Võ thuật. Hân hạnh...",
+                            "maleVariant": "Võ thuật. Hân hạnh...",
+                            "stringId": "1886584610009198596"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<mothertongue l=\"mex\" m=\"A huevo.\" b=\"Đấm vào mặt kẻ khác đéo phải võ thuật. Làm cho nó bất động mới là người chiến thắng. \" a=\"\"/>",
+                            "maleVariant": "<mothertongue l=\"mex\" m=\"A huevo.\" b=\"Đấm vào mặt kẻ khác đéo phải võ thuật. Làm cho nó bất động mới là người chiến thắng. \" a=\"\"/>",
+                            "stringId": "1983444773822058496"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

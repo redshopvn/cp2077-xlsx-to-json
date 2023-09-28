@@ -1,0 +1,57 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.8088298Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_kab_chat_20.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái này giá bao nhiêu vậy?",
+                            "maleVariant": "Cái này giá bao nhiêu vậy?",
+                            "stringId": "2156459956411801600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái này không phải để bán. Cút - ông đang làm khách tôi sợ đó.",
+                            "maleVariant": "Cái này không phải để bán. Cút - ông đang làm khách tôi sợ đó.",
+                            "stringId": "2169196822621638656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "T-tôi là gì? K-không phải khách hàng à? Tôi có tiền mà!",
+                            "maleVariant": "T-tôi là gì? K-không phải khách hàng à? Tôi có tiền mà!",
+                            "stringId": "2169197143938879488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Xin chúc mừng. Biến đi, trước khi tôi tống ông đi đấy.",
+                            "maleVariant": "Xin chúc mừng. Biến đi, trước khi tôi tống ông đi đấy.",
+                            "stringId": "2169197406737190912"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Rồi ông sẽ thấy! Cái kết của việc xem thường chủ tịch! Đánh giá 0 sao cho chừa nhé!",
+                            "maleVariant": "Rồi ông sẽ thấy! Cái kết của việc xem thường chủ tịch! Đánh giá 0 sao cho chừa nhé!",
+                            "stringId": "2169198323830149120"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

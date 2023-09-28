@@ -1,0 +1,57 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.3941667Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_pac_cvi_08_01_briefing.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Này, V, tôi nghe nói một tên lính nào đó vừa nổ súng vào người đi bộ ở bến tàu.",
+                            "maleVariant": "Này, V, tôi nghe nói một tên lính nào đó vừa nổ súng vào người đi bộ ở bến tàu.",
+                            "stringId": "2352060765460144128"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nếu cô có thể ghé qua, thì tôi muốn anh ta dừng lại, nhưng đừng có giết nhé. Sau đó tôi sẽ gọi những người phù hợp đến đón anh ta.",
+                            "maleVariant": "Nếu anh có thể ghé qua, thì tôi muốn anh ta dừng lại, nhưng đừng có giết nhé. Sau đó tôi sẽ gọi những người phù hợp đến đón anh ta.",
+                            "stringId": "2352064951727857664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thông tin chi tiết đang được gửi đến đây.",
+                            "maleVariant": "Thông tin chi tiết đang được gửi đến đây.",
+                            "stringId": "2352065370453614592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Và V này... Chúc may mắn.",
+                            "maleVariant": "Và V này... Chúc may mắn.",
+                            "stringId": "2360805887367143424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hắn ta bị loạn trí rồi!",
+                            "maleVariant": "Hắn ta bị loạn trí rồi!",
+                            "stringId": "2537420031229337600"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

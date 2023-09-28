@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:02.4551471Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_val_08.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"Es un policía. Un pinche culero.\" t=\"He's a badge. Gonk as they come.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2276542007668285456"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"No, pues ahora si que… ¿Hay alguno que no lo sea?\" t=\"They come any other way?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2276542007668285468"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"Tienes razón. Ahora ve y haz lo que hay que hacer.\" t=\"Atta girl. Now do what needs to be done.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2276542007685062660"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

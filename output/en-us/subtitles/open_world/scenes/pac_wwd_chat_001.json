@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:05.1781160Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\pac_wwd_chat_001.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Mwen pap mande li anyen ankò.\" t=\"I won't ask him for anything anymore.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1959255275444391936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Mwen te kwè se te yonn renmen lòt.\" t=\"I thought you liked each other.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1964698558920413184"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Se sa menm. Mwen pa vle kraze sa a.\" t=\"Exactly. I don't want to fuck it up.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1964699379527602176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Si mesye di non, li pral santi li wont, si mesye di wi se mwen kap santi m dròl.\" t=\"If he says no, he'll feel ashamed, and if he says yes, then I'll feel awkward.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1964700019477729280"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Wa p ekzajere. An jeneral, Jean-ki-ri... Renmen tout moun.\" t=\"You're exaggerating. In general, Jean-ki-ri... likes everyone.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1964700768395874304"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"creo\" o=\"Se konsa sa ye? E ben ou pral pale ak mesye.\" t=\"Is that so? Then you go talk to him.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1964701993552072704"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

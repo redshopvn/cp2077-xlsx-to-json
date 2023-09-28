@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.0192012Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\q104_01_power_outage_news.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chúng ta quay trở lại với tin nóng hổi ngày hôm nay về cuộc tấn công vào nhà máy điện Santo Domingo.",
+                            "maleVariant": "Chúng ta quay trở lại với tin nóng hổi ngày hôm nay về cuộc tấn công vào nhà máy điện Santo Domingo.",
+                            "stringId": "1744501745799192576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Những kẻ tấn công, hiện vẫn chưa được xác định danh tính, đã đột nhập vào trạm và làm hỏng hệ thống làm mát nghiêm trọng, dẫn đến lượng khí thải EMP tăng đột biến.",
+                            "maleVariant": "Những kẻ tấn công, hiện vẫn chưa được xác định danh tính, đã đột nhập vào trạm và làm hỏng hệ thống làm mát nghiêm trọng, dẫn đến lượng khí thải EMP tăng đột biến.",
+                            "stringId": "1744506598827024384"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ngay sau vụ tấn công, nhiều cư dân gần nhà máy điện nhất đã bị lỗi cấy ghép nghiêm trọng.",
+                            "maleVariant": "Ngay sau vụ tấn công, nhiều cư dân gần nhà máy điện nhất đã bị lỗi cấy ghép nghiêm trọng.",
+                            "stringId": "1744506840989360128"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "EMP mạnh đến mức, toàn bộ thành phố chìm trong bóng tối trong vài giờ.",
+                            "maleVariant": "EMP mạnh đến mức, toàn bộ thành phố chìm trong bóng tối trong vài giờ.",
+                            "stringId": "1744507208863375360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Các báo cáo từ NCPD cho thấy những kẻ du mục có khả năng là hung thủ đã gây ra vụ việc và hiện đang cân nhắc các kế hoạch trả đũa.",
+                            "maleVariant": "Các báo cáo từ NCPD cho thấy những kẻ du mục có khả năng là hung thủ đã gây ra vụ việc và hiện đang cân nhắc các kế hoạch trả đũa.",
+                            "stringId": "1744507349540331520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chúng tôi sẽ tiếp tục cập nhật thông tin đến với các bạn khi có tin gì mới.",
+                            "maleVariant": "Chúng tôi sẽ tiếp tục cập nhật thông tin đến với các bạn khi có tin gì mới.",
+                            "stringId": "1744507582273871872"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "May mắn thay, hầu hết các khu vực đông dân cư lân cận đều không tiếp xúc với EMP. Xem xét quy mô thiệt hại, hiện số thương vong về người vẫn ở mức thấp.",
+                            "maleVariant": "May mắn thay, hầu hết các khu vực đông dân cư lân cận đều không tiếp xúc với EMP. Xem xét quy mô thiệt hại, hiện số thương vong về người vẫn ở mức thấp.",
+                            "stringId": "1902236446178463744"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

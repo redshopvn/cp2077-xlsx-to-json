@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:09.6520015Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_std_arr_01_civilians.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có ai đó mời cô đến đây à?",
+                            "maleVariant": "Có ai đó mời anh đến đây à?",
+                            "stringId": "1499335486287720448"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chúng ta vẫn còn cả tiếng ở đây phải không?",
+                            "maleVariant": "Chúng ta vẫn còn cả tiếng ở đây phải không?",
+                            "stringId": "1499335586951016448"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đang chờ ai đó sao.",
+                            "maleVariant": "Đang chờ ai đó sao.",
+                            "stringId": "1499335605120741376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cút mẹ đi!",
+                            "maleVariant": "Cút mẹ đi!",
+                            "stringId": "1499346648135970816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Xin cô đó, hãy ra khỏi đây giúp tôi.",
+                            "maleVariant": "Xin anh đó, hãy ra khỏi đây giúp tôi.",
+                            "stringId": "1660396025227563008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ahem - \"Đừng có làm phiền con mẹ nó\"...?",
+                            "maleVariant": "Ahem - \"Đừng có làm phiền con mẹ nó\"...?",
+                            "stringId": "1660399427697299456"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

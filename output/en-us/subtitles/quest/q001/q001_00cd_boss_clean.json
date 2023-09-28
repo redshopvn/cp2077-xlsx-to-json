@@ -1,0 +1,81 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:31.3593346Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\q001\\q001_00cd_boss_clean.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hạ gục hắn!",
+                            "maleVariant": "Hạ gục hắn!",
+                            "stringId": "1650497555567460352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chúng ta hết lựa chọn rồi, ở đây! Bug, có thấy cái lỗ chết tiệt này không? Có không?!",
+                            "maleVariant": "Chúng ta hết lựa chọn rồi, ở đây! Bug, có thấy cái lỗ chết tiệt này không? Có không?!",
+                            "stringId": "1653073643615272960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Phòng hắn ở nhìn ra ban công.",
+                            "maleVariant": "Phòng hắn ở nhìn ra ban công.",
+                            "stringId": "1653073643615272976"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "OK, V, tiếp cận và cầm chân hắn! Anh sẽ làm phần còn lại!",
+                            "maleVariant": "OK, V, tiếp cận và cầm chân hắn! Tao sẽ làm phần còn lại!",
+                            "stringId": "1653073643632050176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có một cửa sổ ở bên trái. Cho tôi hai giây để bôi trơn ổ khóa.",
+                            "maleVariant": "Có một cửa sổ ở bên trái. Cho tôi hai giây để bôi trơn ổ khóa.",
+                            "stringId": "1653076167042777088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không cảm thấy bất kỳ chuyển động nào trên cảm biến. Có vẻ cô đã hạ hắn. Đi tiếp được rồi đấy.",
+                            "maleVariant": "Không cảm thấy bất kỳ chuyển động nào trên cảm biến. Có vẻ anh đã hạ hắn. Đi tiếp được rồi đấy.",
+                            "stringId": "1653096651570528256"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vãi cứt, mục tiêu của ta ở chỗ đéo nào thế?!",
+                            "maleVariant": "Vãi cứt, mục tiêu của ta ở chỗ đéo nào thế?!",
+                            "stringId": "1653098456983519232"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tìm đi, ở đâu quanh đó thôi.",
+                            "maleVariant": "Tìm đi, ở đâu quanh đó thôi.",
+                            "stringId": "1653098618749435904"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hack trên cánh cửa vừa bị phá. Hãy cẩn thận.",
+                            "maleVariant": "Hack trên cánh cửa vừa bị phá. Hãy cẩn thận.",
+                            "stringId": "1703910314692734976"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

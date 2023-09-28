@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:31.7639625Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\q001\\q001_00g_broken_gate.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ugh, cánh cổng ngu này lại bị kẹt nữa. Lần thứ ba rồi.",
+                            "maleVariant": "Ugh, cánh cổng ngu này lại bị kẹt nữa. Lần thứ ba rồi.",
+                            "stringId": "1877791194262695936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đã phí tiền cho hai lần sửa rồi. Chắc hẳn là lừa đảo.",
+                            "maleVariant": "Đã phí tiền cho hai lần sửa rồi. Chắc hẳn là lừa đảo.",
+                            "stringId": "1877791669947101184"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cần phải tìm hắn nói cho rõ, oh yeah...",
+                            "maleVariant": "Cần phải tìm hắn nói cho rõ, oh yeah...",
+                            "stringId": "1968055614796918784"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

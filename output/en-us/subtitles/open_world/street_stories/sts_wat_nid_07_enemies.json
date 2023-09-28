@@ -1,0 +1,39 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:11.6998433Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_nid_07_enemies.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cấy ghép, dây điện, nanoid... Nhưng chúng ta vẫn phải chịu đựng, phải không?",
+                            "maleVariant": "Cấy ghép, dây điện, nanoid... Nhưng chúng ta vẫn phải chịu đựng, phải không?",
+                            "stringId": "1303900006285549568"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Im đi, nếu không mày cũng sẽ ỉa ra máu đấy.",
+                            "maleVariant": "Im đi, nếu không mày cũng sẽ ỉa ra máu đấy.",
+                            "stringId": "1711044819084091392"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

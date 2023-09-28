@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:07.7547830Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_jpn_chat_002.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mom! Mom! I wanna Kiroshi!",
+                            "maleVariant": "",
+                            "stringId": "1806832832411721728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No.",
+                            "maleVariant": "",
+                            "stringId": "1806834059245641728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But Keiko has one! AND Sakura! Mom, even that loser Kate has one. Pleeease?",
+                            "maleVariant": "",
+                            "stringId": "1806834237168017408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And if Keiko, Sakura and Kate all jumped off a megabuilding, you would too?",
+                            "maleVariant": "",
+                            "stringId": "1806834455389265920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But mooommm, they can record and playback anything! Everyone makes fun of me 'cause I have to study and they don't!",
+                            "maleVariant": "",
+                            "stringId": "1806834614319833088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You've got your laptop.",
+                            "maleVariant": "",
+                            "stringId": "1806834854452125696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "It's not the same.",
+                            "maleVariant": "",
+                            "stringId": "1806835050728775680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And if your implant breaks, then what? Better to keep the data in your own brain.",
+                            "maleVariant": "",
+                            "stringId": "1806835239371792384"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

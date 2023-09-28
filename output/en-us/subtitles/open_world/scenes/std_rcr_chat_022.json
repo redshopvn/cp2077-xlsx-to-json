@@ -1,0 +1,81 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.5550583Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_rcr_chat_022.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "War's comin'. Just you wait.",
+                            "maleVariant": "",
+                            "stringId": "2167643396420423680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Where'd I hear that one before?",
+                            "maleVariant": "",
+                            "stringId": "2196993252096958464"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'm serious. Heard it on TV!",
+                            "maleVariant": "",
+                            "stringId": "2197005577126371328"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Where the fuck you get a TV?",
+                            "maleVariant": "",
+                            "stringId": "2197005845561827328"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Window was open at the bar yesterday. Could hear the whole thing. Arasaka and Militech are beefin', war's comin'.",
+                            "maleVariant": "",
+                            "stringId": "2197006086449094656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And so what? Think they're gonna send you an AV, take you straight to the front line?",
+                            "maleVariant": "",
+                            "stringId": "2197008299430993920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Well, yeah.",
+                            "maleVariant": "",
+                            "stringId": "2197019720889884672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hahahah! Look at you. Nothin' but a bag of bones on two stanky legs. Nobody's gonna recruit that.",
+                            "maleVariant": "",
+                            "stringId": "2197019815781818368"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nobody asked for your shit opinion, either. Took me once, they'll take me again.",
+                            "maleVariant": "",
+                            "stringId": "2197046364484624384"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

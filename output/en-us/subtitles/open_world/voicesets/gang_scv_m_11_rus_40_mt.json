@@ -1,0 +1,417 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:19.8647924Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\voicesets\\gang_scv_m_11_rus_40_mt.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Нет у меня времени на болтовню.\" t=\"Không có thời gian tán gẫu đâu.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Нет у меня времени на болтовню.\" t=\"Không có thời gian tán gẫu đâu.\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039435680407556"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Ты ссыкло. Я это чувствую.\" t=\"Mày yếu ớt. Tao có thể cảm nhận được.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Ты ссыкло. Я это чувствую.\" t=\"Mày yếu ớt. Tao có thể cảm nhận được.\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039435697184772"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Слышь, тебе тут не рады.\" t=\"Mày không thuộc về nơi này, rác rưởi.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Слышь, тебе тут не рады.\" t=\"Mày không thuộc về nơi này, rác rưởi.\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039435747516420"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Отъебись.\" t=\"Biến đi.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Отъебись.\" t=\"Biến đi.\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039435764293636"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"А ну убери это!\" t=\"Đem thứ đó ra khỏi đây!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"А ну убери это!\" t=\"Đem thứ đó ra khỏi đây!\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039435814625284"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Я тебе эту херню в жопу запихаю!\" t=\"Tao sẽ gắn nó vào đít mày!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Я тебе эту херню в жопу запихаю!\" t=\"Tao sẽ gắn nó vào đít mày!\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039435831402500"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Я тебе ракету в жопу запихаю и в космос запущу, будешь новым спутником.\" t=\"Tao sẽ gắn tên lửa vào đít mày rồi bắn mày lên mặt trăng như Soyuz.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Я тебе ракету в жопу запихаю и в космос запущу, будешь новым спутником.\" t=\"Tao sẽ gắn tên lửa vào đít mày rồi bắn mày lên mặt trăng như Soyuz.\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039435881734148"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Ща получишь.\" t=\"Muốn mù hả?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Ща получишь.\" t=\"Muốn mù hả?\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039435898511364"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Тебе в табло прописать?\" t=\"Biến hoặc tao đập chết mẹ mày!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Тебе в табло прописать?\" t=\"Biến hoặc tao đập chết mẹ mày!\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039435932065796"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Чё ждёшь-то? Проваливай!\" t=\"Mày còn đợi cái đéo gì nữa? Biến!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Чё ждёшь-то? Проваливай!\" t=\"Mày còn đợi cái đéo gì nữa? Biến!\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039435948843012"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Ну, чё там ещё?\" t=\"Giờ sao!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Ну, чё там ещё?\" t=\"Giờ sao!\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039435999174660"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Э-э-эх...\" t=\"Uhh…\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1898039436015951876"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Ложная тревога.\" t=\"Báo động sai.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Ложная тревога.\" t=\"Báo động sai.\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436066283524"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"А-а, бля, нужен перекур.\" t=\"Tao cần nghỉ ngơi chút.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"А-а, бля, нужен перекур.\" t=\"Tao cần nghỉ ngơi chút.\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436083060740"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Вот ты гнида.\" t=\"Đụ má thằng lồn.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Вот ты гнида.\" t=\"Đụ má thằng lồn.\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436133392388"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Молись, чтобы мы тебя не нашли.\" t=\"Cầu nguyện là bọn tao không tìm thấy mày đi.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Молись, чтобы мы тебя не нашли.\" t=\"Cầu nguyện là bọn tao không tìm thấy mày đi.\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436150169604"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Пацаны, у нас жмур!\" t=\"Cái này đã chín muồi để hái rồi!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Пацаны, у нас жмур!\" t=\"Cái này đã chín muồi để hái rồi!\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436183724036"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Лады, лады.\" t=\"Được, được.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Лады, лады.\" t=\"Được, được.\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436217278468"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Пиздец тебе, подруга!\" t=\"Tao sẽ tiễn mày, cô gái!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Пиздец тебе, подруга!\" t=\"Tao sẽ tiễn mày, bạn à!\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436267610116"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Я тебя урою нахер!\" t=\"Tao sẽ giết mày!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Я тебя урою нахер!\" t=\"Tao sẽ giết mày!\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436284387332"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"На, паскуда!\" t=\"Ăn trọn đi, đồ khốn!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"На, паскуда!\" t=\"Ăn trọn đi, đồ khốn!\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436317941764"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Не сдаёмся, блядь!\" t=\"Bắn đi, lũ ngu!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Не сдаёмся, блядь!\" t=\"Bắn đi, lũ ngu!\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436385050628"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Долбоёбы, в укрытие!\" t=\"Lũ ngu bọn mày lo núp đi!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Долбоёбы, в укрытие!\" t=\"Lũ ngu bọn mày lo núp đi!\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436401827844"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Блядь, нет!\" t=\"Ôi trời không!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Блядь, нет!\" t=\"Ôi trời không!\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436452159492"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Нет, сука, только не это!\" t=\"Không, không, chết tiệt, không!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Нет, сука, только не это!\" t=\"Không, không, chết tiệt, không!\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436485713924"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Я тебя запомнил.\" t=\"Tao sẽ ghi nhớ mày.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Я тебя запомнил.\" t=\"Tao sẽ ghi nhớ mày.\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436519268356"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Мы ещё встретимся.\" t=\"Ta sẽ còn gặp nhau nữa.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Мы ещё встретимся.\" t=\"Ta sẽ còn gặp nhau nữa.\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436552822788"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Слушаю тебя.\" t=\"Nói với tao nè.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Слушаю тебя.\" t=\"Nói với tao nè.\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436569600004"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"А откуда дровишки? Если хороший товар, я ещё закажу...\" t=\"Nguồn…? Nếu nó tốt, mày sẽ nhận được nhiều hơn…\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"А откуда дровишки? Если хороший товар, я ещё закажу...\" t=\"Nguồn…? Nếu nó tốt, mày sẽ nhận được nhiều hơn…\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436619931652"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Да, да, ясно... Ага... Вот мы «Сайтеху» жопу-то надерём.\" t=\"Yeah… yeah… Uh-huh… Chúng ta có thể sử dụng chúng để đánh bại các con số của Cytech…\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Да, да, ясно... Ага... Вот мы «Сайтеху» жопу-то надерём.\" t=\"Yeah… yeah… Uh-huh… Chúng ta có thể sử dụng chúng để đánh bại các con số của Cytech…\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436636708868"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Шевелитесь, придурки!\" t=\"Nhấc cái đít chó mày lên!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Шевелитесь, придурки!\" t=\"Nhấc cái đít chó mày lên!\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436687040516"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Да слышу я, слышу!\" t=\"Yeah, yeah, tao nghe rồi!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Да слышу я, слышу!\" t=\"Yeah, yeah, tao nghe rồi!\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436720594948"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Все назад!\" t=\"Lùi lại!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Все назад!\" t=\"Lùi lại!\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436754149380"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Ладно, на связи.\" t=\"Giữ liên lạc đi.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Ладно, на связи.\" t=\"Giữ liên lạc đi.\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436770926596"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Не нравится мне это.\" t=\"Tao không thích thế này.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Не нравится мне это.\" t=\"Tao không thích thế này.\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436787703812"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Эй, слышь, с предохранителя сними.\" t=\"Này, quái vật, tắt báo động đi.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Эй, слышь, с предохранителя сними.\" t=\"Này, quái vật, tắt báo động đi.\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436871589892"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Двинули.\" t=\"Bọn tao đang lên đây.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Двинули.\" t=\"Bọn tao đang lên đây.\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436888367108"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"В темпе вальса! Ну, вперёд!\" t=\"Nhấc cái mông mày lên! Nhanh!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"В темпе вальса! Ну, вперёд!\" t=\"Nhấc cái mông mày lên! Nhanh!\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436921921540"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Мочи суку, мочи!\" t=\"Chạy con mẹ mày xuống!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Мочи суку, мочи!\" t=\"Chạy con mẹ mày xuống!\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436955475972"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Ах-х-х... Ну давай... давай.\" t=\"Ekhh… ekkhhh… argh… nữa… nữa.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Ах-х-х... Ну давай... давай.\" t=\"Ekhh… ekkhhh… argh… nữa… nữa.\" b=\"\" a=\"\"/>",
+                            "stringId": "1898039436989030400"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Хм... Пиздец какой... Да, беру, беру.\" t=\"Hừm… Thật là một mớ hỗn độn…. Ừ, ừ, tao sẽ lấy nó.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Хм... Пиздец какой... Да, беру, беру.\" t=\"Hừm… Thật là một mớ hỗn độn…. Ừ, ừ, tao sẽ lấy nó.\" b=\"\" a=\"\"/>",
+                            "stringId": "1898049857754095616"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Да прокатит. Прокатит, отвечаю. Не парься ваще. Угу.\" t=\"Nó sẽ trôi qua. Sẽ qua thôi, đừng lo… Hmm.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Да прокатит. Прокатит, отвечаю. Не парься ваще. Угу.\" t=\"Nó sẽ trôi qua. Sẽ qua thôi, đừng lo… Hmm.\" b=\"\" a=\"\"/>",
+                            "stringId": "1898050677555978240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"А?\" t=\"Hả?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"А?\" t=\"Hả?\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151299427803140"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Бей падлу!\" t=\"Tấn công!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Бей падлу!\" t=\"Tấn công!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151299612352516"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"У нас тут крыса! Глядеть в оба!\" t=\"Chúng ta không cô độc đâu!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"У нас тут крыса! Глядеть в оба!\" t=\"Chúng ta không cô độc đâu!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151299713015812"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Ох ты ж господи...\" t=\"Chúa Jesus ơi...\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Ох ты ж господи...\" t=\"Chúa Jesus ơi...\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151299763347460"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Съебите отсюда! Ну? Быстро!\" t=\"Cút ra khỏi đây! Thôi nào, nhảy vào nó!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Съебите отсюда! Ну? Быстро!\" t=\"Cút ra khỏi đây! Thôi nào, nhảy vào nó!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151299947896836"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Да не высовывайтесь, придурки!\" t=\"Cúi cái đầu chó mày xuống!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Да не высовывайтесь, придурки!\" t=\"Cúi cái đầu chó mày xuống!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151300199555076"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Я сам тебя урою!\" t=\"Tao sẽ tự tay giết mày!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Я сам тебя урою!\" t=\"Tao sẽ tự tay giết mày!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151300283441156"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Пора тебя кончать!\" t=\"Đến lúc kết thúc chuyện này rồi!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Пора тебя кончать!\" t=\"Đến lúc kết thúc chuyện này rồi!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151300350550020"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Подбил!\" t=\"Tao trúng đạn rồi!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Подбил!\" t=\"Tao trúng đạn rồi!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151300669317124"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Ха-ха-ха! Есть! Попал!\" t=\"Hahaha! Tao làm được! Nó trúng đạn rồi!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Ха-ха-ха! Есть! Попал!\" t=\"Hahaha! Tao làm được! Nó trúng đạn rồi!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151300769980420"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Мы ей кровь пустили! Добиваем!\" t=\"Nó sắp chết rồi! Đừng dừng lại!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Мы ей кровь пустили! Добиваем!\" t=\"Nó sắp chết rồi! Đừng dừng lại!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151301004861444"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Вот так!\" t=\"Ổn rồi!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Вот так!\" t=\"Ổn rồi!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151301071970308"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Сразу обоссалась!\" t=\"Nó tè dầm luôn rồi!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Сразу обоссалась!\" t=\"Nó tè dầm luôn rồi!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151301139079172"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Прикройте! Перезаряжаюсь!\" t=\"Hỗ trợ tao! Tao nạp đạn cái!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Прикройте! Перезаряжаюсь!\" t=\"Hỗ trợ tao! Tao nạp đạn cái!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151301206188036"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Это уже всё, только пристрелить!\" t=\"Đừng buồn nữa! Không giúp chúng được đâu!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Это уже всё, только пристрелить!\" t=\"Đừng buồn nữa! Không giúp chúng được đâu!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151301273296896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Ничего не вижу! Она меня ослепила!\" t=\"Không thấy gì hết! Nó làm tao mù rồi!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Ничего не вижу! Она меня ослепила!\" t=\"Không thấy gì hết! Nó làm tao mù rồi!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151301474623492"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Опять нетраннер!\" t=\"Đụ má có tin tặc\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Опять нетраннер!\" t=\"Đụ má có tin tặc\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151301541732356"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Ну чё, я как новенький! Ха-ха!\" t=\"Ahh! Cảm giác não như mới vậy! Haha!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Ну чё, я как новенький! Ха-ха!\" t=\"Ahh! Cảm giác não như mới vậy! Haha!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151301625618436"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Наших всех сюда!\" t=\"Cần quân tiếp viện!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Наших всех сюда!\" t=\"Cần quân tiếp viện!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151301709504516"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Всё, тебе каюк!\" t=\"Mày xong đời rồi!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Всё, тебе каюк!\" t=\"Mày xong đời rồi!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151301776613380"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Шутки кончились!\" t=\"Niềm vui và trò chơi kết thúc!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Шутки кончились!\" t=\"Niềm vui và trò chơi kết thúc!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151301877276676"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Прикрываю огнём!\" t=\"Bảo kê tao bắn cái!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Прикрываю огнём!\" t=\"Bảo kê tao bắn cái!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151301944385540"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Потому что нельзя подставляться.\" t=\"Đụ mẹ bọn nghiệp dư!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"rus\" o=\"Потому что нельзя подставляться.\" t=\"Đụ mẹ bọn nghiệp dư!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232151302045048836"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

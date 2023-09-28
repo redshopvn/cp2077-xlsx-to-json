@@ -1,0 +1,87 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:50.5844563Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\vset\\vset_joshua.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "À, cô đây rồi.",
+                            "maleVariant": "À, cậu đây rồi.",
+                            "stringId": "1964650103891267588"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V.",
+                            "maleVariant": "",
+                            "stringId": "1964650103924822020"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô đang... đi à?",
+                            "maleVariant": "Cậu đang... đi à?",
+                            "stringId": "1964650103991930884"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có chuyện gì vậy?",
+                            "maleVariant": "Có chuyện gì vậy?",
+                            "stringId": "1964650104008708100"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hừm?",
+                            "maleVariant": "Hừm?",
+                            "stringId": "1964650104059039748"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Về những gì chúng ta đã nói trước đó ...",
+                            "maleVariant": "Về những gì chúng ta đã nói trước đó ...",
+                            "stringId": "1964650104075816964"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chúng ta không có nhiều thời gian đâu.",
+                            "maleVariant": "Chúng ta không có nhiều thời gian đâu.",
+                            "stringId": "1964650104092594180"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ừm... V?",
+                            "maleVariant": "Ừm... V?",
+                            "stringId": "1964650104109371396"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hả?",
+                            "maleVariant": "Hả?",
+                            "stringId": "1964650104310697988"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sao?",
+                            "maleVariant": "Sao?",
+                            "stringId": "1964650104344252420"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

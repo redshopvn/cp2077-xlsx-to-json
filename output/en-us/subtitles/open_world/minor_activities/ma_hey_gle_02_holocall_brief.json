@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.3799592Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_hey_gle_02_holocall_brief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thông báo tới tất cả các đơn vị NCPD. Hoạt động tội phạm có tổ chức được báo cáo ở Skyline South.",
+                            "maleVariant": "Thông báo tới tất cả các đơn vị NCPD. Hoạt động tội phạm có tổ chức được báo cáo ở Skyline South.",
+                            "stringId": "2328559804983881728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Một nhóm Valentinos dẫn đầu bởi Zoe Alonzo đang lộng hành. Tội danh của cô ta bao gồm cướp có vũ trang, tống tiền, bắt cóc và giết người cấp độ một.",
+                            "maleVariant": "Một nhóm Valentinos dẫn đầu bởi Zoe Alonzo đang lộng hành. Tội danh của cô ta bao gồm cướp có vũ trang, tống tiền, bắt cóc và giết người cấp độ một.",
+                            "stringId": "2358398281930084352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Các nhà chức trách NC đang đưa ra phần thưởng cho việc vô hiệu hóa mạng lưới tội phạm của Alonzo.",
+                            "maleVariant": "Các nhà chức trách NC đang đưa ra phần thưởng cho việc vô hiệu hóa mạng lưới tội phạm của Alonzo.",
+                            "stringId": "2358398341002661888"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

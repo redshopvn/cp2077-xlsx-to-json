@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.9317903Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_030.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck, to fuck up a gig that bad... Man, really thought we'd get him outta there.",
+                            "maleVariant": "",
+                            "stringId": "2172268298303680512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All that blood...! We're fucked. We were supposed to bring him in alive!",
+                            "maleVariant": "",
+                            "stringId": "2180750530634825728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Well, we didn't. Not the first time, won't be the last. Might be a merc, but you're still human.",
+                            "maleVariant": "",
+                            "stringId": "2180750733857243136"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They'll zero us, just wait. Maybe in an hour, maybe in a week...",
+                            "maleVariant": "",
+                            "stringId": "2180750875289174016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey, chill. Long as we're here, they can't touch us.",
+                            "maleVariant": "",
+                            "stringId": "2180750987545526272"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hate to ruin your fuckin' airtight plan, there, but we can't just sit here forever!",
+                            "maleVariant": "",
+                            "stringId": "2180751121998135296"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And we won't. But first, need to calm down and think.",
+                            "maleVariant": "",
+                            "stringId": "2180751226687963136"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

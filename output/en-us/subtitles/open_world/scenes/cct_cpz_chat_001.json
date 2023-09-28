@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.7386940Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_cpz_chat_001.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Why did he mention Morris all of a sudden?",
+                            "maleVariant": "",
+                            "stringId": "1963272610757255168"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Morris...? Doesn't ring any bells.",
+                            "maleVariant": "",
+                            "stringId": "1965118425461932032"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ohhh, that's right! This was a month before you came. Morris was already in the psycho ward by that time.",
+                            "maleVariant": "",
+                            "stringId": "1965118740336721920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Morris was... a nosy little rat. Watched us through his blinds, snitched on us...",
+                            "maleVariant": "",
+                            "stringId": "1965119318395699200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Popped eppy tabs like candy to stay awake every morning... The poor guy – turned out he had fatal insomnia.",
+                            "maleVariant": "",
+                            "stringId": "1965119740443344896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Little did he know those tabs only sped up the process. Went into a real deep sleep just last week.",
+                            "maleVariant": "",
+                            "stringId": "1965120148398129152"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Finally – the fucking weasel. Good riddance.",
+                            "maleVariant": "",
+                            "stringId": "1965120546907340800"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

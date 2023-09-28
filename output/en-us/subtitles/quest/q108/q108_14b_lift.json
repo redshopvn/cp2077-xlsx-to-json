@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:38.5658915Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\q108\\q108_14b_lift.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thang máy, nhanh lên.",
+                            "maleVariant": "Thang máy, nhanh lên.",
+                            "stringId": "1199713875651371008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nào.",
+                            "maleVariant": "Nào.",
+                            "stringId": "1780446051313819648"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Muốn giữ cửa cho chúng à?! Di chuyển đi!",
+                            "maleVariant": "Muốn giữ cửa cho chúng à?! Di chuyển đi!",
+                            "stringId": "1789366170710614016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thôi nào, thôi nào.",
+                            "maleVariant": "Thôi nào, thôi nào.",
+                            "stringId": "1789367420999081984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vào trong!",
+                            "maleVariant": "Vào trong!",
+                            "stringId": "1789372393531023364"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chắc thang máy đầy rồi. Hãy sẵn sàng đi, đừng để chúng bắt được.",
+                            "maleVariant": "Chắc thang máy đầy rồi. Hãy sẵn sàng đi, đừng để chúng bắt được.",
+                            "stringId": "2233328576890486784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cần phải cho nổ tung nơi này. Làm nhanh.",
+                            "maleVariant": "Cần phải cho nổ tung nơi này. Làm nhanh.",
+                            "stringId": "2233356649551708160"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mệt rồi hả?",
+                            "maleVariant": "Mệt rồi hả?",
+                            "stringId": "2237419660830654464"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

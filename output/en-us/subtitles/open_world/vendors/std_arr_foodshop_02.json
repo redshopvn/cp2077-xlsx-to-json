@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.8615840Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\std_arr_foodshop_02.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thực đơn có gì đó?",
+                            "maleVariant": "Thực đơn có gì đó?",
+                            "stringId": "1783751526462541824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sao trông anh sầu thế? Không đủ tiền bo à?",
+                            "maleVariant": "Sao trông anh sầu thế? Không đủ tiền bo à?",
+                            "stringId": "1783751526462541840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thực đơn có gì đó?",
+                            "maleVariant": "Thực đơn có gì đó?",
+                            "stringId": "1783751526479319044"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô có mắt mà, phải không?",
+                            "maleVariant": "Anh có mắt mà, phải không?",
+                            "stringId": "1783751526496096260"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sao trông anh sầu thế? Không có tiền bo à?",
+                            "maleVariant": "Sao trông anh sầu thế? Không có tiền bo à?",
+                            "stringId": "1783751526512873476"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hừm. Không. Hôm nay là lần thứ tư sếp từ chối yêu cầu xin nghỉ của tôi.",
+                            "maleVariant": "Hừm. Không. Hôm nay là lần thứ tư sếp từ chối yêu cầu xin nghỉ của tôi.",
+                            "stringId": "1783751526512873484"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dù sao thì... thật tuyệt khi cô hỏi. Không ai quan tâm cả.",
+                            "maleVariant": "Dù sao thì... thật tuyệt khi anh hỏi. Không ai quan tâm cả.",
+                            "stringId": "1975166013788180480"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

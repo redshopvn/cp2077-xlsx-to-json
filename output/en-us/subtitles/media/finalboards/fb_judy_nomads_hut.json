@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:00.5912733Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\finalboards\\fb_judy_nomads_hut.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Heeeeey, V!",
+                            "maleVariant": "",
+                            "stringId": "1790638455853588484"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I know what you're thinkin' – why's my crazy output leaving a message on the machine while I'm making breakfast?",
+                            "maleVariant": "",
+                            "stringId": "1800990085298765824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Well, you know me – I get mushy when it comes to sharing... feelings.",
+                            "maleVariant": "",
+                            "stringId": "1800990262734602240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So, uh – ahem – what the hell, I figured I'd just tell you here.",
+                            "maleVariant": "",
+                            "stringId": "1800990552510676992"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V, I just wanted you to know that... I'm happy. For the first time in my life. And I wanted to--",
+                            "maleVariant": "",
+                            "stringId": "1800990722178662400"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Rise and shine! Breakfast on the table!",
+                            "maleVariant": "",
+                            "stringId": "1800991008465076224"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Speak o' the devil... See you soon. Mwah!",
+                            "maleVariant": "",
+                            "stringId": "1800993210306904064"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

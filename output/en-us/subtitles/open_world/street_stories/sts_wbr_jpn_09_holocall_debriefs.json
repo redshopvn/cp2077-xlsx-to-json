@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.1499922Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_wbr_jpn_09_holocall_debriefs.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi nhận được thông tin là phi vụ đã thành công và cô đã tiến hành vụ này hết sức tuyệt vời, là một người chuyên nghiệp thực thụ.",
+                            "maleVariant": "Tôi nhận được thông tin là phi vụ đã thành công và cậu đã tiến hành vụ này hết sức tuyệt vời, là một người chuyên nghiệp thực thụ.",
+                            "stringId": "2328618844492914688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vụ này còn lâu mới gọi là thành công V ạ. Cô làm tôi rất thất vọng. Những chuyện đã xảy ra hôm nay. Đừng lặp lại trong tương lai nữa.",
+                            "maleVariant": "Vụ này còn lâu mới gọi là thành công V ạ. Cậu làm tôi rất thất vọng. Những chuyện đã xảy ra hôm nay. Đừng lặp lại trong tương lai nữa.",
+                            "stringId": "2328620321626120196"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nếu cứ thấy một khuôn mẫu như thế, tôi sẽ dần mất niềm tin nơi cô đó. Và khi niềm tin mất đi, tôi cũng sẽ ngừng gọi cô. Hãy nhớ rõ đó, V.",
+                            "maleVariant": "Nếu cứ thấy một khuôn mẫu như thế, tôi sẽ dần mất niềm tin nơi cậu đó. Và khi niềm tin mất đi, tôi cũng sẽ ngừng gọi cậu. Hãy nhớ rõ đó, V.",
+                            "stringId": "2343097402704367616"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tuyệt vời quá, V ạ. Mong rằng những lần sau cũng thế. Tôi sẽ đóng vụ này ở đây và chuyển phí cho cô.",
+                            "maleVariant": "Tuyệt vời quá, V ạ. Mong rằng những lần sau cũng thế. Tôi sẽ đóng vụ này ở đây và chuyển phí cho cậu.",
+                            "stringId": "2343104436870942720"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.3994558Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_pac_cvi_15_brief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V, gần GIM có con đường đi bộ nơi mà mọi người hay bị mất tích.",
+                            "maleVariant": "V, gần GIM có con đường đi bộ nơi mà mọi người hay bị mất tích.",
+                            "stringId": "2357883179909656576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hãy tìm hiểu xem chuyện gì đang xảy ra ở đó. Đừng có mà mất tích như bọn họ luôn nhé.",
+                            "maleVariant": "Hãy tìm hiểu xem chuyện gì đang xảy ra ở đó. Đừng có mà mất tích như bọn họ luôn nhé.",
+                            "stringId": "2357884615015936000"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

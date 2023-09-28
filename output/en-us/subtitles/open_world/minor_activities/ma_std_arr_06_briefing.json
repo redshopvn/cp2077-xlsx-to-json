@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.4068800Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_std_arr_06_briefing.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Này, nghe nói có một vụ thảm sát tại một trại vô gia cư.",
+                            "maleVariant": "Này, nghe nói có một vụ thảm sát tại một trại vô gia cư.",
+                            "stringId": "2360743743485337600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Gửi cho cô thông tin mà tôi đang có đây, nhưng ít lắm. Chắc cô cũng biết là vụ siêu loạn thần rồi.",
+                            "maleVariant": "Gửi cho anh thông tin mà tôi đang có đây, nhưng ít lắm. Chắc anh cũng biết là vụ siêu loạn thần rồi.",
+                            "stringId": "2360745435954110464"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "À, và tôi muốn anh ta còn sống hơn.",
+                            "maleVariant": "À, và tôi muốn anh ta còn sống hơn.",
+                            "stringId": "2360745766633037824"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

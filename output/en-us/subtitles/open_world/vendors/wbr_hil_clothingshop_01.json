@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:13.4303484Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wbr_hil_clothingshop_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chị bán gì đấy?",
+                            "maleVariant": "Chị bán gì đấy?",
+                            "stringId": "1764841085785780224"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có gì muốn giới thiệu không?",
+                            "maleVariant": "Có gì muốn giới thiệu không?",
+                            "stringId": "1764841085802557444"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ở đây có hàng nào tốt?",
+                            "maleVariant": "Ở đây có hàng nào tốt?",
+                            "stringId": "1764914950096465920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô muốn gì cũng có.",
+                            "maleVariant": "Cậu muốn gì cũng có.",
+                            "stringId": "1764915472387977216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi cứ bị kẹt với cái gu thời trang hiện tại. Cô có muốn giới thiệu gì không?",
+                            "maleVariant": "Tôi cứ bị kẹt với cái gu thời trang hiện tại. Cô có muốn giới thiệu gì không?",
+                            "stringId": "1764915916011122688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đôi mắt của em làm chị nhớ đến mùa thu. Chị có thể gợi ý một tác phẩm từ Chiaki Kyoto không?",
+                            "maleVariant": "Đôi mắt của em làm chị nhớ đến mùa thu. Chị có thể gợi ý một tác phẩm từ Chiaki Kyoto không?",
+                            "stringId": "1764916180420046848"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wanna change my look.",
+                            "maleVariant": "",
+                            "stringId": "3775244115176714240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'd like to use your services.",
+                            "maleVariant": "",
+                            "stringId": "3836305297266044968"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

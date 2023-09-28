@@ -1,0 +1,39 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:10.7008116Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_kab_04_holocall_prebrief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Như cô biết đó, Kabuki vừa có một fixer mới - từ USSR. Anh ta đang tiến hành một số phi vụ khá tầm cỡ ở NC khoảng vài tuần nay. Tôi không chắc đó chính xác là gì, nhưng chúng ta sẽ tìm ra thôi.",
+                            "maleVariant": "Như anh biết đó, Kabuki vừa có một fixer mới - từ USSR. Anh ta đang tiến hành một số phi vụ khá tầm cỡ ở NC khoảng vài tuần nay. Tôi không chắc đó chính xác là gì, nhưng chúng ta sẽ tìm ra thôi.",
+                            "stringId": "2328784116614721536"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô sẽ cần đánh cắp mảnh dữ liệu của anh ta - nó chứa tất cả mọi thứ. Thông tin chi tiết về người đồng chí đó và phi vụ của chúng ta như đính kèm.",
+                            "maleVariant": "Anh sẽ cần đánh cắp mảnh dữ liệu của anh ta - nó chứa tất cả mọi thứ. Thông tin chi tiết về người đồng chí đó và phi vụ của chúng ta như đính kèm.",
+                            "stringId": "2331535184816869376"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

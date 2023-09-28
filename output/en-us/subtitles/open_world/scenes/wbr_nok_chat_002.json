@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:07.8487072Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_nok_chat_002.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mẹ nó chứ... Tôi vừa bán hết cổ phiếu của Arasaka thì hai tuần sau họ công bố về dự án con chip sinh học.",
+                            "maleVariant": "",
+                            "stringId": "1963353980103950336"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chà, tôi có nghe là cậu đã quyết định đầu tư sang lĩnh vực khác.",
+                            "maleVariant": "",
+                            "stringId": "1978243692713316352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cậu á, Mike?",
+                            "maleVariant": "",
+                            "stringId": "1978243823995031552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ừ, tôi đấy.",
+                            "maleVariant": "",
+                            "stringId": "1978243987740659712"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Giống như lấy em gái tôi ý hả?",
+                            "maleVariant": "",
+                            "stringId": "1978244080870985728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Về mặt tài chính ý hả? Tôi thấy nó hợp lý hơn cái mớ cổ phần của cậu đấy.",
+                            "maleVariant": "",
+                            "stringId": "1978244254297067520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cũng phải ha. Dù sao thì cậu cũng sẽ mua một bản khi họ phát hành chứ hả?",
+                            "maleVariant": "",
+                            "stringId": "1978244661211664384"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Huh...? À, con chip sinh học á? Naaah. Tôi đã đủ bận với bên North Oak rồi.",
+                            "maleVariant": "",
+                            "stringId": "1978245217963577344"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.4018474Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_pac_wwd_02_holocall_brief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thông báo khẩn tới các đơn vị NCPD. Hoạt động tội phạm có tổ chức được báo cáo tại Đại Lộ Pacific.",
+                            "maleVariant": "Thông báo khẩn tới các đơn vị NCPD. Hoạt động tội phạm có tổ chức được báo cáo tại Đại Lộ Pacific.",
+                            "stringId": "2348979256648261636"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anton Kolev, một tên cầm đầu nổi tiếng của lũ scavenger, được cho là đang có mặt ở đó và bị truy nã về bốn tội danh giết người cấp độ một.",
+                            "maleVariant": "Anton Kolev, một tên cầm đầu nổi tiếng của lũ scavenger, được cho là đang có mặt ở đó và bị truy nã về bốn tội danh giết người cấp độ một.",
+                            "stringId": "2352368516274163712"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chính quyền Night City đã hứa sẽ thưởng cho việc vô hiệu hóa Kolev và đám tay sai của hắn.",
+                            "maleVariant": "Chính quyền Night City đã hứa sẽ thưởng cho việc vô hiệu hóa Kolev và đám tay sai của hắn.",
+                            "stringId": "2352370305648136192"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

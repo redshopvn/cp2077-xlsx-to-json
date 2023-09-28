@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.4121869Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_std_rcr_11_01_briefing.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V, một chuyện kinh khủng đã xảy ra ở một công trường. Người chịu trách nhiệm được trang bị vũ khí rất nặng.",
+                            "maleVariant": "V, một chuyện kinh khủng đã xảy ra ở một công trường. Người chịu trách nhiệm được trang bị vũ khí rất nặng.",
+                            "stringId": "2353305428175265792"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anh ta sẽ là một ứng cử viên tuyệt vời cho việc nghiên cứu tâm lý đấy nếu anh ta còn sống sau khi cô xong việc.",
+                            "maleVariant": "Anh ta sẽ là một ứng cử viên tuyệt vời cho việc nghiên cứu tâm lý đấy nếu anh ta còn sống sau khi anh xong việc.",
+                            "stringId": "2353306930524626944"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sending you the details.",
+                            "maleVariant": "",
+                            "stringId": "2353307098011574272"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

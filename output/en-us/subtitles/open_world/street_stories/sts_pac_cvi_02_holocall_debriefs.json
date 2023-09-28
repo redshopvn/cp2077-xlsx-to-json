@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:09.5193914Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_pac_cvi_02_holocall_debriefs.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô vừa cào được cả đống tiền đấy, còn bọn Animals thì rất cay cú.",
+                            "maleVariant": "Cậu vừa cào được cả đống tiền đấy, còn bọn Animals thì rất cay cú.",
+                            "stringId": "2328516045172105220"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nghe thấy không? Đó là tiếng vỗ tay cho mớ hỗn độn mà cô gây ra đấy.",
+                            "maleVariant": "Nghe thấy không? Đó là tiếng vỗ tay cho mớ hỗn độn mà cậu gây ra đấy.",
+                            "stringId": "2328517932726345732"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chiếc xe đó trị giá khá nhiều tiền, và vì \"ai đó\" đã làm hỏng nó - nên ai đó sẽ không được trả tiền thù lao luôn.",
+                            "maleVariant": "Chiếc xe đó trị giá khá nhiều tiền, và vì \"ai đó\" đã làm hỏng nó - nên ai đó sẽ không được trả tiền thù lao luôn.",
+                            "stringId": "2334598287324856320"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thấy chưa, tôi thích những người biết cách để lại ấn tượng sâu đậm. Chắc tôi sẽ kết thúc hợp động và lưu số cô lại.",
+                            "maleVariant": "Thấy chưa, tôi thích những người biết cách để lại ấn tượng sâu đậm. Chắc tôi sẽ kết thúc hợp động và lưu số cậu lại.",
+                            "stringId": "2334599227100610560"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

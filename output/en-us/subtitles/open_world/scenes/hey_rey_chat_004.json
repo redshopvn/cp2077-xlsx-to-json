@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:03.7948103Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_rey_chat_004.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Y'know, I draw my lines, then I end up movin' 'em myself.",
+                            "maleVariant": "",
+                            "stringId": "1833097056163061760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "It's normal, chum. What else you gonna do? You don't bend a little, you break.",
+                            "maleVariant": "",
+                            "stringId": "1833099182960402432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, yeah, I know. But then, how's that make me any better than those stiff-collar fucks from Glen or downtown?",
+                            "maleVariant": "",
+                            "stringId": "1833099317312348160"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You're better. Trust.",
+                            "maleVariant": "",
+                            "stringId": "1833099644837158912"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<mothertongue l=\"mex\" m=\"Mierda\" b=\"\" a=\", but how?\"/>",
+                            "maleVariant": "",
+                            "stringId": "1833099827205496832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dunno? I mean, you got your people. Brothers, sisters.",
+                            "maleVariant": "",
+                            "stringId": "1833099984978436096"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<mothertongue l=\"mex\" m=\"Hijos de puta\" b=\"Those suits? \" a=\" got only themselves. Fuck their scratch.\"/>",
+                            "maleVariant": "",
+                            "stringId": "1833100136174706688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dunno, choom. I just dunno.",
+                            "maleVariant": "",
+                            "stringId": "1833100312855568384"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

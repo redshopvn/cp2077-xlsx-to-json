@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.5813276Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_east_013.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"La carcelera de mi mujer me pidió que gorroneara un filtro de aire, como si tuviera edis de sobra tirados por ahí.\" t=\"The ol' ball and chain told me to scrounge up an air filter. Like I got the eds just lyin' around somewhere.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2178197413232451584"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"Además, ¿para qué chingados necesito un filtro? Se va a tapar a la primera tormenta que azote.\" t=\"Besides... What in the hell do I need a filter for? First good storm and it'll clog right up.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2188375757337354240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I could give you one. For free, too. Bulldozers razed my trailer yesterday... But goddamn, if that filter didn't make it through in one piece.",
+                            "maleVariant": "",
+                            "stringId": "2188376222099791872"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"Ah, chingao. ¿Qué pasó?\" t=\"Oh, shit. What happened?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2189428516987822080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ehh, got up to my ears in debt, ended up losing the house. But then they said the ground might actually be worth more.",
+                            "maleVariant": "",
+                            "stringId": "2189432968436211712"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"Güey, eso... es una pinche mierda.\" t=\"Man, that is... That is fucked up.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2189434094204182528"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, I dunno. First time for months I'm not worried about another eviction notice, at least.",
+                            "maleVariant": "",
+                            "stringId": "2189434306150752256"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I haven't felt this free in... I dunno how long.",
+                            "maleVariant": "",
+                            "stringId": "2189437641041862656"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

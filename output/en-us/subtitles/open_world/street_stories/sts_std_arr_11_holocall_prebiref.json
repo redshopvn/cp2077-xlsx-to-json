@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:09.8936407Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_std_arr_11_holocall_prebiref.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Này, V. Có một phi vụ cực kỳ nghiêm trọng cho cô này, điều này có nghĩa là tôi thực sự cần một lính đánh thuê nghiêm túc đó.",
+                            "maleVariant": "Này, V. Có một phi vụ cực kỳ nghiêm trọng cho cậu này, điều này có nghĩa là tôi thực sự cần một lính đánh thuê nghiêm túc đó.",
+                            "stringId": "2328805864433639424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Muốn cô ghé qua chỗ băng 6th Street và thả một chú virus vào trong thiết bị của chúng. Tin vào cô đó, nhà vô địch à.",
+                            "maleVariant": "Muốn cậu ghé qua chỗ băng 6th Street và thả một chú virus vào trong thiết bị của chúng. Tin vào cậu đó, nhà vô địch à.",
+                            "stringId": "2341735102865051648"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh, và thêm một điều nữa - có một tên chuyên gia công nghệ, Lucius Thoran. Và tôi sẽ không phiền nếu hắn ăn một viên vào đầu đâu - được chứ? Tốt. Thông tin đính kèm đây.",
+                            "maleVariant": "Oh, và thêm một điều nữa - có một tên chuyên gia công nghệ, Lucius Thoran. Và tôi sẽ không phiền nếu hắn ăn một viên vào đầu đâu - được chứ? Tốt. Thông tin đính kèm đây.",
+                            "stringId": "2341852475060228096"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

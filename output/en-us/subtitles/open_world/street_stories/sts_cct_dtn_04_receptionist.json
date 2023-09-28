@@ -1,0 +1,87 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:08.8025727Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_cct_dtn_04_receptionist.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi có hẹn với Koch.",
+                            "maleVariant": "Tôi có hẹn với Koch.",
+                            "stringId": "1408088290545135616"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chào, tôi có cuộc hẹn với Bà Koch.",
+                            "maleVariant": "Chào, tôi có cuộc hẹn với Bà Koch.",
+                            "stringId": "1408091328093646848"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Xin đợi em một chút để kiểm tra ạ.",
+                            "maleVariant": "Xin đợi em một chút để kiểm tra ạ.",
+                            "stringId": "1408092557276377088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi muốn thuê phòng.",
+                            "maleVariant": "Tôi muốn thuê phòng.",
+                            "stringId": "1419935019515015168"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Xin chào. Em có thể giúp gì cho chị ạ?",
+                            "maleVariant": "Xin chào. Em có thể giúp gì cho anh ạ?",
+                            "stringId": "1935891931595067392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi muốn thuê một phòng qua đêm. Giường đơn cũng được.",
+                            "maleVariant": "Tôi muốn thuê một phòng qua đêm. Giường đơn cũng được.",
+                            "stringId": "1935892937053622272"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sao nãy không nói vậy đi.",
+                            "maleVariant": "Sao nãy không nói vậy đi.",
+                            "stringId": "1935899340698865664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Em e rằng không thể rồi. Khách sạn tập đoàn chỉ dành cho nhân viên Biotechnica thôi ạ.",
+                            "maleVariant": "Em e rằng không thể rồi. Khách sạn tập đoàn chỉ dành cho nhân viên Biotechnica thôi ạ.",
+                            "stringId": "1935899944544423936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "À, tiếc thật. Nơi này đẹp quá.",
+                            "maleVariant": "À, tiếc thật. Nơi này đẹp quá.",
+                            "stringId": "1946250435674607616"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không, em e là không. Chắc hẳn có một sự hiểu lầm.",
+                            "maleVariant": "Không, em e là không. Chắc hẳn có một sự hiểu lầm.",
+                            "stringId": "2523106879086055424"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

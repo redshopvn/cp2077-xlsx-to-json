@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:05.1184622Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\pac_cvi_chat_015.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck, I dunno 'bout you all, but I'ma dig my own chrome out myself.",
+                            "maleVariant": "",
+                            "stringId": "2179396891616505856"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wait, what? You need the eds or somethin'?",
+                            "maleVariant": "",
+                            "stringId": "2182439668946358272"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nah, I just don't need them scavs. They already grabbed five on my street. Just come in at night, drag 'em out to the van... and that's it, gone without a trace.",
+                            "maleVariant": "",
+                            "stringId": "2182442139357859840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What, think if you ain't got implants, they'll leave you be?",
+                            "maleVariant": "",
+                            "stringId": "2182442405360619520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Uh, yeah.",
+                            "maleVariant": "",
+                            "stringId": "2218390946335477760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ain't like they ask what you packin' first. They just slice 'n' dice. So keep your chrome, and get you some iron, too.",
+                            "maleVariant": "",
+                            "stringId": "2218391033291788288"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

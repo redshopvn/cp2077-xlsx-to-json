@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.8553884Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_001.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Choom, listen, I know they say virtus've peaked, but this is some next-level shit.",
+                            "maleVariant": "",
+                            "stringId": "1963242833007329280"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "C'mon, man, everyone knows that was faked!",
+                            "maleVariant": "",
+                            "stringId": "1963245719477010432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You didn't relive it, so you can't say shit. They don't fake virtus like these.",
+                            "maleVariant": "",
+                            "stringId": "1963245999186755584"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You don't ride a bike down a vertical fuckin'  wall and live!",
+                            "maleVariant": "There's no way he rode a bike on a wall and fuckin' survived.",
+                            "stringId": "1963246445058048000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "This was scrolled by N54 News! They don't do fakes! I mean, what good it do them to...",
+                            "maleVariant": "",
+                            "stringId": "1963247034408091648"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Holy shit... I think that's her!",
+                            "maleVariant": "Holy shit... I think that's him!",
+                            "stringId": "1963247994333282304"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Should I get an autograph...?",
+                            "maleVariant": "",
+                            "stringId": "1964622555163377664"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

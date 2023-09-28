@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.5471231Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_rcr_chat_019.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Left your \"lunch\" in the usual place.",
+                            "maleVariant": "",
+                            "stringId": "2167621766914789376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All right, yeah, preem, still got time to squeeze in a quick line. Oh, and tell your mom she's got the best stims in the whole city.",
+                            "maleVariant": "",
+                            "stringId": "2214562282616492032"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Change the subject. Talk about school stuff.",
+                            "maleVariant": "",
+                            "stringId": "2229078090105327616"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Say what now?",
+                            "maleVariant": "",
+                            "stringId": "2229078409140867072"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Case someone's listenin'...",
+                            "maleVariant": "",
+                            "stringId": "2229078468867756032"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Uhh, right, so... did you know in the old days schools didn't have braindances? Everyone had to, uhh, y'know, read books instead of just absorbing all the, uh, y'know, all the things.",
+                            "maleVariant": "",
+                            "stringId": "2229079029226770432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No virtus? Seriously? Wow, that must've been suuuuper boring.",
+                            "maleVariant": "",
+                            "stringId": "2229080389926096896"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

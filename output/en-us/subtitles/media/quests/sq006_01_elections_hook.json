@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.1111955Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\sq006_01_elections_hook.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Night City. Nhà của chúng ta. Niềm tự hào của chúng ta.",
+                            "maleVariant": "Night City. Nhà của chúng ta. Niềm tự hào của chúng ta.",
+                            "stringId": "1792227944698912768"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Kể từ thời điểm tôi trở thành thị trưởng, tỷ lệ thất nghiệp đã giảm ba phần trăm và tỷ lệ giết người giảm năm.",
+                            "maleVariant": "Kể từ thời điểm tôi trở thành thị trưởng, tỷ lệ thất nghiệp đã giảm ba phần trăm và tỷ lệ giết người giảm năm.",
+                            "stringId": "1800892884618821632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nhưng một số người hoài nghi ngoài kia không nhìn thấy tiềm năng tuyệt đẹp của Night City như tôi...",
+                            "maleVariant": "Nhưng một số người hoài nghi ngoài kia không nhìn thấy tiềm năng tuyệt đẹp của Night City như tôi...",
+                            "stringId": "1800893453181894656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi có yêu thành phố này không? Tôi có yêu dân cư của nó không? Tôi chưa bao giờ yêu bất cứ điều gì cả--\"",
+                            "maleVariant": "Tôi có yêu thành phố này không? Tôi có yêu dân cư của nó không? Tôi chưa bao giờ yêu bất cứ điều gì cả--\"",
+                            "stringId": "1800894075583053824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bạn đã đặt niềm tin vào tôi trước đây. Hãy làm việc cùng nhau một lần nữa.",
+                            "maleVariant": "Bạn đã đặt niềm tin vào tôi trước đây. Hãy làm việc cùng nhau một lần nữa.",
+                            "stringId": "1800894500482826240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi là Weldon Holt, và tôi chấp thuận thông điệp này.",
+                            "maleVariant": "Tôi là Weldon Holt, và tôi chấp thuận thông điệp này.",
+                            "stringId": "1800894993867194368"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

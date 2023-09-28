@@ -1,0 +1,81 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.7484518Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_awf_chat_018.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'm sorry, sir. You're not showing up in the system.",
+                            "maleVariant": "",
+                            "stringId": "2177920697144373248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "This must be a joke! I'm in charge of the entire logistics department for warehouse four! How on earth am I not in the system?",
+                            "maleVariant": "",
+                            "stringId": "2177921938406699008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Warehouse four? Just a moment. I think I know what's going on.",
+                            "maleVariant": "",
+                            "stringId": "2177922972671733760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "About time.",
+                            "maleVariant": "",
+                            "stringId": "2177923397336625152"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mhm, right. Here it is.",
+                            "maleVariant": "",
+                            "stringId": "2177923974758068224"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All management positions at warehouse four have been eliminated.",
+                            "maleVariant": "",
+                            "stringId": "2177926208409497600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What?!",
+                            "maleVariant": "",
+                            "stringId": "2177926760581230592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Your contract has been terminated, effective immediately.",
+                            "maleVariant": "",
+                            "stringId": "2177926920551985152"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck. No, that can't be right...",
+                            "maleVariant": "",
+                            "stringId": "2177932435860418560"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

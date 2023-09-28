@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.5445205Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_rcr_chat_018.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Por dios, these kids don't know shit...",
+                            "maleVariant": "",
+                            "stringId": "2167613373089075200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<mothertongue l=\"mex\" m=\"chavos de la calle\" b=\"Yeah, not like the \" a=\" – ain't no better school than the streets.\"/>",
+                            "maleVariant": "",
+                            "stringId": "2214561007262863360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<mothertongue l=\"mex\" m=\"Pinches chavos...\" b=\"\" a=\" They come to me – the baddest <Rich color=\\\"MainColors.ActiveBlue\\\">cabrón</> on the block – for free samples? Free?! Where the fuck they get that idea from, eh?\"/>",
+                            "maleVariant": "",
+                            "stringId": "2229115825604104192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Prolly the movies.",
+                            "maleVariant": "",
+                            "stringId": "2229117406940598272"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<mothertongue l=\"mex\" m=\"Sí\" b=\"\" a=\", or the media.\"/>",
+                            "maleVariant": "",
+                            "stringId": "2229117820901625856"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Who the fuck knows.",
+                            "maleVariant": "",
+                            "stringId": "2229118006222753792"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "There is no such thing as \"free\" in this life.",
+                            "maleVariant": "",
+                            "stringId": "2229119472836644864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ey, man, you preachin' to the converted.",
+                            "maleVariant": "",
+                            "stringId": "2229119634971660288"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

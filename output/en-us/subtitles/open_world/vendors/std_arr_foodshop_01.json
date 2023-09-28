@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.8580158Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\std_arr_foodshop_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi muốn xem qua thực đơn của anh.",
+                            "maleVariant": "Tôi muốn xem qua thực đơn của anh.",
+                            "stringId": "1783748166422384640"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chẳng phải Samurai đã biểu diễn buổi ra mắt của họ ở đây sao?",
+                            "maleVariant": "Chẳng phải Samurai đã biểu diễn buổi ra mắt của họ ở đây sao?",
+                            "stringId": "1783748166439161860"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi muốn xem qua thực đơn của anh.",
+                            "maleVariant": "Tôi muốn xem qua thực đơn của anh.",
+                            "stringId": "1783748166439161884"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeeehaaw! Có ngay, khách ơi!",
+                            "maleVariant": "Yeeehaaw! Có ngay, khách ơi!",
+                            "stringId": "1783748166439161892"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đợi đã, đây không phải là nơi Samurai biểu diễn buổi ra mắt sao?",
+                            "maleVariant": "Đợi đã, đây không phải là nơi Samurai biểu diễn buổi ra mắt sao?",
+                            "stringId": "1783748166472716292"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ah, một đêm tuyệt vời. Dân chúng vẫn còn đồn thổi về nó. Nhạc to đến nỗi họ phải thay tất cả các cửa sổ... Còn đưa ra một quy tắc mới từ chối phục vụ những khách hàng khỏa thân nữa.",
+                            "maleVariant": "Ah, một đêm tuyệt vời. Dân chúng vẫn còn đồn thổi về nó. Nhạc to đến nỗi họ phải thay tất cả các cửa sổ... Còn đưa ra một quy tắc mới từ chối phục vụ những khách hàng khỏa thân nữa.",
+                            "stringId": "1783748166472716300"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có một món đặc biệt trên thực đơn chỉ dành cho những người hâm mộ Samurai. Sườn à la Silverhand. Đắt lắm nhưng cô sẽ nghiện đó.",
+                            "maleVariant": "Có một món đặc biệt trên thực đơn chỉ dành cho những người hâm mộ Samurai. Sườn à la Silverhand. Đắt lắm nhưng cậu sẽ nghiện đó.",
+                            "stringId": "1976545601390956544"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

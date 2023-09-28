@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:08.8659624Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_cct_dtn_05_johnny.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thấy chưa V? Người trong thành phố này ăn rác, ngủ nướng... Dơ như cứt vây.",
+                            "maleVariant": "Thấy chưa V? Người trong thành phố này ăn rác, ngủ nướng... Dơ như cứt vây.",
+                            "stringId": "1918542684152213504"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Xẩu hổ ở đâu? Địt mẹ biết hổ thẹn không chứ?",
+                            "maleVariant": "Xẩu hổ ở đâu? Địt mẹ biết hổ thẹn không chứ?",
+                            "stringId": "1924377343921803264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi không biết, Johny. Để tôi hỏi tỷ phú tiếp theo mà tôi tình cờ gặp trên phố – tôi sẽ nhắn là Johnny Silverhand đã hỏi.",
+                            "maleVariant": "Tôi không biết, Johny. Để tôi hỏi tỷ phú tiếp theo mà tôi tình cờ gặp trên phố – tôi sẽ nhắn là Johnny Silverhand đã hỏi.",
+                            "stringId": "1924383785785544704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không cần phải hỏi cái đéo gì hết. Phun nước bọt vào mặt hắn là được.",
+                            "maleVariant": "Không cần phải hỏi cái đéo gì hết. Phun nước bọt vào mặt hắn là được.",
+                            "stringId": "1924385458138435584"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

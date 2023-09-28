@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:03.7115073Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_gle_chat_005.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Whaddaya think – who is Doc Paradox, really?",
+                            "maleVariant": "",
+                            "stringId": "1832717649556660224"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nobody. Y'ask me, it's all another one of them weird ad campaigns.",
+                            "maleVariant": "",
+                            "stringId": "1832725763269976064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ad campaign? But i-it's a pirate broadcast!",
+                            "maleVariant": "",
+                            "stringId": "1832725948473663488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Guy hacks the signal, cuts off the other programs!",
+                            "maleVariant": "",
+                            "stringId": "1832726182566158336"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ah, yeah, and how d'you know it ain't all set up with the station owners?",
+                            "maleVariant": "",
+                            "stringId": "1832726371309838336"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tellin' ya, choom, just one of them stealth ads. Grab your attention first, then they spill all the lame details later.",
+                            "maleVariant": "",
+                            "stringId": "1832726522405445632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Can't believe everything ya see on TV!",
+                            "maleVariant": "",
+                            "stringId": "1964907639154130944"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

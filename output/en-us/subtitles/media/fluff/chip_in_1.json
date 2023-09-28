@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:00.6487261Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\fluff\\chip_in_1.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Xin chào, Night City! Hôm nay chúng tôi muốn cho bạn xem một chương trình rất tuyệt vời mang tên \"Chip In\", nơi chúng tôi sẽ thử nghiệm mẫu Svalinn mới nhất của Militech.",
+                            "maleVariant": "",
+                            "stringId": "1771997587861053440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Svalinn 9-F được tung ra thị trường chỉ một tháng trước, nhưng bật mí chút - tôi đã mặc nó được một thời gian rồi.",
+                            "maleVariant": "",
+                            "stringId": "1790981493011828736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Giống như các mẫu trước đây của dòng Svalinn, nó có thể chịu được nhiệt độ từ âm 220 đến 700 độ F, và mang khả năng chống mài mòn tuyệt vời.",
+                            "maleVariant": "",
+                            "stringId": "1790982297093459968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mẫu Svalinn này là một sự kết hợp hoàn hảo cho các dân chơi moto ngoài kia... Hoặc nếu bạn là người thích chơi với lửa!",
+                            "maleVariant": "",
+                            "stringId": "1790982653441527808"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nhược điểm à? Bạn không thể thực hiện xỏ khuyên trên 9-F được. Như thế sẽ làm hư nó mất. Kết quả cuối cùng hở? 4/5 điểm.",
+                            "maleVariant": "",
+                            "stringId": "1790983058510630912"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi tự chấm đó, Night City! Và nhớ rằng, hãy luôn tiếp tục theo dõi nhé!",
+                            "maleVariant": "",
+                            "stringId": "1790983481279696896"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

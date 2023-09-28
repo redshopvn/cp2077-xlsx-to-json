@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:08.5544330Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_cct_cpz_01_guards_chat.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ê, anh bạn, mày lên sóng kìa - \"Theo quan điểm của vụ việc gần đây, trong đó các nhân viên an ninh của Militech...\"",
+                            "maleVariant": "Ê, anh bạn, mày lên sóng kìa - \"Theo quan điểm của vụ việc gần đây, trong đó các nhân viên an ninh của Militech...\"",
+                            "stringId": "1441435902891077632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chúng ước như vậy mà.",
+                            "maleVariant": "Chúng ước như vậy mà.",
+                            "stringId": "1441487222062788608"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "gây thương tật dã man một sĩ quan NCPD, cảnh sát Night City đang yêu cầu sự hỗ trợ của Militech trong việc tìm ra những cá nhân chịu trách nhiệm...",
+                            "maleVariant": "gây thương tật dã man một sĩ quan NCPD, cảnh sát Night City đang yêu cầu sự hỗ trợ của Militech trong việc tìm ra những cá nhân chịu trách nhiệm...",
+                            "stringId": "1541974214353195008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mày đập hắn nhừ tử vậy. Bộ nó làm gì mày à?",
+                            "maleVariant": "Mày đập hắn nhừ tử vậy. Bộ nó làm gì mày à?",
+                            "stringId": "1541978775239364608"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không làm gì hết.",
+                            "maleVariant": "Không làm gì hết.",
+                            "stringId": "1541978904541368320"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hahaha…!",
+                            "maleVariant": "",
+                            "stringId": "1541979104290902016"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:00.5475064Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\animated_billboards\\ab_q115_01_arasaka_propaganda.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vì Night City là bằng chứng sống của chính nó, Tập Đoàn Arasaka sẽ vụt lên và phát triển mạnh mẽ hơn bao giờ, hơn cả điều nó làm được vào năm mươi năm trước.",
+                            "maleVariant": "",
+                            "stringId": "1993675234355761152"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Điều đó đang xảy ra, ngay bây giờ, ngay chính nơi đây.",
+                            "maleVariant": "",
+                            "stringId": "1993676216728866816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Xin hãy lắng nghe, vì chúng ta sẽ không giữ mình im lặng nữa.",
+                            "maleVariant": "",
+                            "stringId": "1993676724625526784"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

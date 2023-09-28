@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.4214634Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_rcr_chat_002.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'm gonna be the best nomad in the world!",
+                            "maleVariant": "",
+                            "stringId": "1963291900445237248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh yeah? And what kind? Just a regular ol' nomad – or maybe a scout?",
+                            "maleVariant": "",
+                            "stringId": "1969142892513181696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, a scout! An' I'll have a Yaiba bike, an' I'll be the fastest one in the convoy!",
+                            "maleVariant": "",
+                            "stringId": "1969143248206938112"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'm gonna shoot behind me, too, that'll make me go faster. Pow pow!",
+                            "maleVariant": "",
+                            "stringId": "1969143666966249472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You're not gonna be a nomad. You're gonna work for Petrochem, like your grandpa and--",
+                            "maleVariant": "",
+                            "stringId": "1969143905605369856"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey, come on. Let the kid dream a little, while he still can.",
+                            "maleVariant": "",
+                            "stringId": "1969144417780219904"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.0712748Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\q201_01_saburo_announcement.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Một tin tức nóng hổi vừa thổi vừa ăn từ Bảng Tin WNS đây. Saburo Arasaka sống lại một lần nữa, mặc dù trong cơ thể của con trai mình.",
+                            "maleVariant": "Một tin tức nóng hổi vừa thổi vừa ăn từ Bảng Tin WNS đây. Saburo Arasaka sống lại một lần nữa, mặc dù trong cơ thể của con trai mình.",
+                            "stringId": "1744677149109444608"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vị CEO được cho là đã chết cách đây vài tháng, nhưng bây giờ có nguồn tin rằng một bản sao bản thể của ông đã được tạo ra trước khi ông qua đời.",
+                            "maleVariant": "Vị CEO được cho là đã chết cách đây vài tháng, nhưng bây giờ có nguồn tin rằng một bản sao bản thể của ông đã được tạo ra trước khi ông qua đời.",
+                            "stringId": "1744679276426878976"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có vẻ như bản thể của ông đã được sử dụng để ghi đè lên bản thể của con trai và người thừa kế của ông, Yorinobu Arasaka. Diễn biến gây sốc này đã được tiết lộ trong cuộc họp báo vào sáng hôm nay.",
+                            "maleVariant": "Có vẻ như bản thể của ông đã được sử dụng để ghi đè lên bản thể của con trai và người thừa kế của ông, Yorinobu Arasaka. Diễn biến gây sốc này đã được tiết lộ trong cuộc họp báo vào sáng hôm nay.",
+                            "stringId": "1744680663063781376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"皆さん、いらっしゃい\" t=\"Chào mừng mọi người.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"皆さん、いらっしゃい\" t=\"Chào mừng mọi người.\" b=\"\" a=\"\"/>",
+                            "stringId": "1751657247951876096"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hôm nay thực sự là một ngày lịch sử. Ngày nay, công nghệ đã thực hiện được lời hứa mà tôn giáo đã sáo rỗng.",
+                            "maleVariant": "Hôm nay thực sự là một ngày lịch sử. Ngày nay, công nghệ đã thực hiện được lời hứa mà tôn giáo đã sáo rỗng.",
+                            "stringId": "1751658368971894784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"祖父はよく、「枯れ落ちた花は枝に戻らない」と言っていました\" t=\"Ông ta đã từng nói với ta rằng: \"Một bông hoa rụng không thể trở lại cành của nó.\\\" \" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"祖父はよく、「枯れ落ちた花は枝に戻らない」と言っていました\" t=\"Ông tôi đã từng nói với ta rằng: \"Một bông hoa rụng không thể trở lại cành của nó.\\\" \" b=\"\" a=\"\"/>",
+                            "stringId": "1751659440532680704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"人は誰も、物心ついた瞬間から、死を恐れるものです\" t=\"Từ lúc một người ý thức được về bản thể của mình, họ sống trong nỗi sợ về cái chết.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"人は誰も、物心ついた瞬間から、死を恐れるものです\" t=\"Từ lúc một người ý thức được về bản thể của mình, họ sống trong nỗi sợ về cái chết.\" b=\"\" a=\"\"/>",
+                            "stringId": "1751659477476110336"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ついに、人類最大の恐怖が克服されました。私、サブロウ・アラサカは今、息子の体を使い、みなさんの前に立っています\" t=\"Nỗi sợ hãi lâu đời nhất và lớn nhất của nhân loại đã được khắc phục. Giờ đây ta đứng trước mọi người - Saburo Arasaka - sống trong cơ thể của con trai ta.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"ついに、人類最大の恐怖が克服されました。私、サブロウ・アラサカは今、息子の体を使い、みなさんの前に立っています\" t=\"Nỗi sợ hãi lâu đời nhất và lớn nhất của nhân loại đã được khắc phục. Giờ đây ta đứng trước mọi người - Saburo Arasaka - sống trong cơ thể của con trai ta.\" b=\"\" a=\"\"/>",
+                            "stringId": "1751659894893244416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"私はかつてヨリノブに生を与えました。彼は愛する父のために、それを返してくれたのです\" t=\"Ta đã từng trao sự sống cho Yorinobu của mình. Đổi lại, thằng bé đã thể hiện lòng hiếu thảo sâu sắc của một đứa con trai và trả lại món quà này cho ta.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"私はかつてヨリノブに生を与えました。彼は愛する父のために、それを返してくれたのです\" t=\"Ta đã từng trao sự sống cho Yorinobu của mình. Đổi lại, thằng bé đã thể hiện lòng hiếu thảo sâu sắc của một đứa con trai và trả lại món quà này cho ta.\" b=\"\" a=\"\"/>",
+                            "stringId": "1751661212642897920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"私のいない間、ヨリノブは会社を変革しようといくつかの決定を下しましたが、これらは過ちでした\" t=\"Khi ta vắng mặt, Yorinobu đã đưa ra một số quyết định nhằm thay đổi tập đoàn của chúng tôi. Trong chuyện này, thì thằng bé đã mắc phải sai lầm.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"私のいない間、ヨリノブは会社を変革しようといくつかの決定を下しましたが、これらは過ちでした\" t=\"Khi ta vắng mặt, Yorinobu đã đưa ra một số quyết định nhằm thay đổi tập đoàn của chúng tôi. Trong chuyện này, thì thằng bé đã mắc phải sai lầm.\" b=\"\" a=\"\"/>",
+                            "stringId": "1751661577195024384"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"私の指揮のもと、アラサカ社は元の姿を取り戻します。決して揺らぐことのない、強いアラサカが帰ってくることを、約束いたします。\" t=\"Dưới sự lãnh đạo của ta, Tập đoàn Arasaka sẽ trở về cội nguồn - gốc rễ đủ mạnh để di chuyển những viên đá nặng nhất.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"私の指揮のもと、アラサカ社は元の姿を取り戻します。決して揺らぐことのない、強いアラサカが帰ってくることを、約束いたします。\" t=\"Dưới sự lãnh đạo của ta, Tập đoàn Arasaka sẽ trở về cội nguồn - gốc rễ đủ mạnh để di chuyển những viên đá nặng nhất.\" b=\"\" a=\"\"/>",
+                            "stringId": "1751661620413132800"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ご清聴ありがとうございました\" t=\"Xin cảm ơn.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"ご清聴ありがとうございました\" t=\"Xin cảm ơn.\" b=\"\" a=\"\"/>",
+                            "stringId": "1751661940371419136"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"サブロウ様、誠におめでとうございます\" t=\"Cảm ơn con, Saburo. Con là nguồn cảm hứng.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"サブロウ様、誠におめでとうございます\" t=\"Cảm ơn con, Saburo. Con là nguồn cảm hứng.\" b=\"\" a=\"\"/>",
+                            "stringId": "1751662785154576384"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:40.2312721Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\q112\\q112_000_setup.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[GT] Chọn một phần khác của nhiệm vụ",
+                            "maleVariant": "[GT] Chọn một phần khác của nhiệm vụ",
+                            "stringId": "1651925268530479120"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Tank",
+                            "maleVariant": "",
+                            "stringId": "3508655611262087172"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]MidArmor",
+                            "maleVariant": "",
+                            "stringId": "3508656301845852160"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]GlassCanon",
+                            "maleVariant": "",
+                            "stringId": "3508656609976201216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]MaxAllSkillsWeapon",
+                            "maleVariant": "",
+                            "stringId": "3508657110188896256"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]10lv",
+                            "maleVariant": "",
+                            "stringId": "3508662555066576900"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]20lv",
+                            "maleVariant": "",
+                            "stringId": "3508663549838045184"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]30lv",
+                            "maleVariant": "",
+                            "stringId": "3508663717643759616"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]40lv",
+                            "maleVariant": "",
+                            "stringId": "3508663858756923392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]20lv",
+                            "maleVariant": "",
+                            "stringId": "3508668143322345472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]30lv",
+                            "maleVariant": "",
+                            "stringId": "3508668294971600896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]40lv",
+                            "maleVariant": "",
+                            "stringId": "3508668583170617344"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]10lv",
+                            "maleVariant": "",
+                            "stringId": "3508669604903071748"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]20lv",
+                            "maleVariant": "",
+                            "stringId": "3508670113571483648"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]30lv",
+                            "maleVariant": "",
+                            "stringId": "3508670251832520704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]40lv",
+                            "maleVariant": "",
+                            "stringId": "3508670388164177920"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

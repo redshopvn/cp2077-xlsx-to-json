@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.5419163Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_rcr_chat_017.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So... Militech made me an offer.",
+                            "maleVariant": "",
+                            "stringId": "2167595004638023680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Pipe the fuck down...",
+                            "maleVariant": "",
+                            "stringId": "2214549718478196736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Think I should take it? Should I tell Tom? Feel like I kinda owe it to him – after all, he hired me…",
+                            "maleVariant": "",
+                            "stringId": "2229135248905834496"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What? Don't be gonk. How much more they offer you?",
+                            "maleVariant": "",
+                            "stringId": "2229137906702061568"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sixty percent.",
+                            "maleVariant": "",
+                            "stringId": "2229139635845828608"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sixty?! All right, here's what's gonna happen. You get them to make me the same offer, or I'll tell everyone you contacted Militech. I don't have to remind you what Arasaka does to spies, do I?",
+                            "maleVariant": "",
+                            "stringId": "2229139870458417152"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wait... what? You're joking, right?",
+                            "maleVariant": "",
+                            "stringId": "2229143487072538624"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What can I say... shoulda kept your mouth shut.",
+                            "maleVariant": "",
+                            "stringId": "2229144870169448448"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

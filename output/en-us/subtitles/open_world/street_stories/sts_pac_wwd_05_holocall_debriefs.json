@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:09.6296882Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_pac_wwd_05_holocall_debriefs.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Này, tôi vừa mới nhận thông tin là giờ Logan Garcia đang trên đường đến chỗ tôi rồi.",
+                            "maleVariant": "Này, tôi vừa mới nhận thông tin là giờ Logan Garcia đang trên đường đến chỗ tôi rồi.",
+                            "stringId": "2328531507121479680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Này, tôi vừa mới có thông tin là tên Logan Garcia đã vừa gõ cửa thiên đường rồi. Khách hàng thì hài lòng lắm, và tôi cũng thế.",
+                            "maleVariant": "Này, tôi vừa mới có thông tin là tên Logan Garcia đã vừa gõ cửa thiên đường rồi. Khách hàng thì hài lòng lắm, và tôi cũng thế.",
+                            "stringId": "2328535053858496516"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tuyệt vời nhất trong tất cả loại tuyệt vời. Cô xử lý vụ này xuất sắc lắm, V ạ.",
+                            "maleVariant": "Tuyệt vời nhất trong tất cả loại tuyệt vời. Cậu xử lý vụ này xuất sắc lắm, V ạ.",
+                            "stringId": "2334617013399044096"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đóng hợp đồng và gửi cô tiền tươi nhé.",
+                            "maleVariant": "Đóng hợp đồng và gửi cậu tiền tươi nhé.",
+                            "stringId": "2334617911080763392"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

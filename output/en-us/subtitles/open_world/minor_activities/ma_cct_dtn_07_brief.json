@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.3742604Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_cct_dtn_07_brief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Này, cách đây ít lâu một tên Tyger Claw đã gọi trợ giúp. Hắn bị tấn công bởi một \"Akki\".",
+                            "maleVariant": "Này, cách đây ít lâu một tên Tyger Claw đã gọi trợ giúp. Hắn bị tấn công bởi một \"Akki\".",
+                            "stringId": "2357683923642888192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ít ra thì đó là những gì họ gọi một thợ săn Tyger phản bội - anh ta tấn công những thành viên cùng băng một cách âm thầm nhưng rất ngoạn mục.",
+                            "maleVariant": "Ít ra thì đó là những gì họ gọi một thợ săn Tyger phản bội - anh ta tấn công những thành viên cùng băng một cách âm thầm nhưng rất ngoạn mục.",
+                            "stringId": "2357691500569178112"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ruột gan của tôi nghĩ rằng tên Akki này đã bị loạn trí... nhưng tôi muốn biết chắc chắn hơn.",
+                            "maleVariant": "Ruột gan của tôi nghĩ rằng tên Akki này đã bị loạn trí... nhưng tôi muốn biết chắc chắn hơn.",
+                            "stringId": "2357691866010497024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đừng giết anh ta nếu không cần thiết. Và hãy nhớ cẩn thận sau lưng mình đấy.",
+                            "maleVariant": "Đừng giết anh ta nếu không cần thiết. Và hãy nhớ cẩn thận sau lưng mình đấy.",
+                            "stringId": "2357692621035548672"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

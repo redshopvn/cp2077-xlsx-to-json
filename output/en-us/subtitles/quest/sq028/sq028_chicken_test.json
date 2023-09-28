@@ -1,0 +1,81 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:48.8367654Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\sq028\\sq028_chicken_test.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "From the start.",
+                            "maleVariant": "[db_db]From the start.",
+                            "stringId": "1368987833829691392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "On the cabin cruiser.",
+                            "maleVariant": "[db_db]On the cabin cruiser.",
+                            "stringId": "1368987985562832896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "On the beach.",
+                            "maleVariant": "[db_db]On the beach.",
+                            "stringId": "1368988636887912448"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Was there kissu kissu with Kerry?",
+                            "maleVariant": "",
+                            "stringId": "1743057479914385408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]After quest - sms",
+                            "maleVariant": "",
+                            "stringId": "2070517436308033536"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Yacht in marina.",
+                            "maleVariant": "",
+                            "stringId": "2166441404088487936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]spawn near",
+                            "maleVariant": "",
+                            "stringId": "2415688967998705668"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]spawn far",
+                            "maleVariant": "",
+                            "stringId": "2415689514382299136"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]default workspot",
+                            "maleVariant": "",
+                            "stringId": "2543383174829084672"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

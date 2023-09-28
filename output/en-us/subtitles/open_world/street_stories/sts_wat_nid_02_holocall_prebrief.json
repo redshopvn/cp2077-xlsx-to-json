@@ -1,0 +1,39 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:11.4295834Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_nid_02_holocall_prebrief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V, có một phi vụ đơn giản cho cô đây. Có một chiếc xe tải nằm ở cơ sở của Dịch Vụ Chuyển Phát Nhanh Revere - cô sẽ phải đột nhập vào và đánh cắp nó.",
+                            "maleVariant": "V, có một phi vụ đơn giản cho anh đây. Có một chiếc xe tải nằm ở cơ sở của Dịch Vụ Chuyển Phát Nhanh Revere - anh sẽ phải đột nhập vào và đánh cắp nó.",
+                            "stringId": "2328684713621925888"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nếu cô muốn biết có gì trong chiếc xe, thì hãy kiểm tra thông tin đính kèm đi.",
+                            "maleVariant": "Nếu anh muốn biết có gì trong chiếc xe, thì hãy kiểm tra thông tin đính kèm đi.",
+                            "stringId": "2339463960565485568"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

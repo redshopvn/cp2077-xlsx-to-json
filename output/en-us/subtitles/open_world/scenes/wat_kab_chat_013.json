@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.7899907Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_kab_chat_013.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Scroll anything good lately?",
+                            "maleVariant": "",
+                            "stringId": "2156355141694365696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You know, I did! \"Home Again.\" Preem BD, super chill.",
+                            "maleVariant": "",
+                            "stringId": "2169009110404878336"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ah, cool. What's it about? Action? Comedy?",
+                            "maleVariant": "",
+                            "stringId": "2169010367890771968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "None of the above. You're a vet, just got back from the war. Haven't been home for five years. Got your wife, kids, dog all waitin' for you at the airport.",
+                            "maleVariant": "",
+                            "stringId": "2169010470164680704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh, OK. A feel-good one.",
+                            "maleVariant": "",
+                            "stringId": "2169012349900738560"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, exactly. And I got all those reductions going on in my team, so a little escape is good.",
+                            "maleVariant": "",
+                            "stringId": "2169012581057220608"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ehhh, yeah, know what you mean.",
+                            "maleVariant": "",
+                            "stringId": "2169013057093947392"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

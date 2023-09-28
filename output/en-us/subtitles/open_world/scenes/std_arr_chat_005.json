@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.2332405Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_arr_chat_005.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sir, how do you respond to recent allegations that your power plant is causing people nearby to get rare disorders?",
+                            "maleVariant": "",
+                            "stringId": "1963261700214923264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I can assure you that Petrochem acts in the best interests of every Night Citizen.",
+                            "maleVariant": "",
+                            "stringId": "1966348923576238080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "People in Arroyo are reporting memory loss, strange burn-marks... I think they'd disagree.",
+                            "maleVariant": "",
+                            "stringId": "1966349165285588992"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You know... you remind me of another journalist who ask a similar question about half a year ago.",
+                            "maleVariant": "",
+                            "stringId": "1966349418286006272"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Last I hear, she is still in a coma. Supposedly, the suspects are still at large.",
+                            "maleVariant": "",
+                            "stringId": "1966349634007449600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sir, are you threatening me?",
+                            "maleVariant": "",
+                            "stringId": "1966349818389053440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You should find something more profitable to write about. How about Ziggy Q's new necktie?",
+                            "maleVariant": "",
+                            "stringId": "1966350112845971456"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Your readers will enjoy it... and you can enjoy a longer life.",
+                            "maleVariant": "",
+                            "stringId": "1967630927592669184"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

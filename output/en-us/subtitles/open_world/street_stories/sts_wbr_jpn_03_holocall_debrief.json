@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.0415154Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_wbr_jpn_03_holocall_debrief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô vào và ra như một bóng ma, V ạ. Không ai ở ngôi đền đó thậm chí biết được đến sự tồn tại của cô.",
+                            "maleVariant": "Cậu vào và ra như một bóng ma, V ạ. Không ai ở ngôi đền đó thậm chí biết được đến sự tồn tại của cậu.",
+                            "stringId": "2328866891067273216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô lẽ ra đã phải làm chuyện này trong âm thầm. Giờ thì chẳng có gì ngoài việc cả cái thành phố này nghe được chuyện đã xảy ra ở đền rồi đó.",
+                            "maleVariant": "Cậu lẽ ra đã phải làm chuyện này trong âm thầm. Giờ thì chẳng có gì ngoài việc cả cái thành phố này nghe được chuyện đã xảy ra ở đền rồi đó.",
+                            "stringId": "2328867270702116864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tiền thanh toán của tôi phản ảnh sự bất cẩn của cô. Tôi sẽ đóng phi vụ này lại.",
+                            "maleVariant": "Tiền thanh toán của tôi phản ảnh sự bất cẩn của cậu. Tôi sẽ đóng phi vụ này lại.",
+                            "stringId": "2343078450154541056"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Làm xuất sắc lắm. Đóng phi vụ lại và chuyển tiền cho cô thôi.",
+                            "maleVariant": "Làm xuất sắc lắm. Đóng phi vụ lại và chuyển tiền cho cậu thôi.",
+                            "stringId": "2343080627468079104"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

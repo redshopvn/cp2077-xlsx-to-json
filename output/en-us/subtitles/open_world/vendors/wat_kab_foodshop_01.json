@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:13.0455564Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wat_kab_foodshop_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Muốn ăn nhanh món nào đó.",
+                            "maleVariant": "Muốn ăn nhanh món nào đó.",
+                            "stringId": "1864894420312936448"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái bánh đó có đuôi con gì kìa...",
+                            "maleVariant": "Cái bánh đó có đuôi con gì kìa...",
+                            "stringId": "1864894420312936464"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có gì ăn ngon mà nhanh không anh?",
+                            "maleVariant": "Có gì ăn ngon mà nhanh không anh?",
+                            "stringId": "1864894420329713668"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Như mọi người nói đấy. Cô có thể ăn ngon, hoặc ăn nhanh cho xong bữa. Ở đây cô sẽ có tất cả. Hai trong một! Hừm ...",
+                            "maleVariant": "Như mọi người nói đấy. Anh có thể ăn ngon, hoặc ăn nhanh cho xong bữa. Ở đây anh sẽ có tất cả. Hai trong một! Hừm ...",
+                            "stringId": "1864894420346490880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi có nhìn lầm không, hay cái bánh đó có đuôi con gì vậy?",
+                            "maleVariant": "Tôi có nhìn lầm không, hay cái bánh đó có đuôi con gì vậy?",
+                            "stringId": "1864894420363268100"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đó là bữa ăn của trẻ em đấy. Vì lũ trẻ luôn thích những gì bất ngờ.",
+                            "maleVariant": "Đó là bữa ăn của trẻ em đấy. Vì lũ trẻ luôn thích những gì bất ngờ.",
+                            "stringId": "1864894420363268108"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

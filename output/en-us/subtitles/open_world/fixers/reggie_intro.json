@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.3401696Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\fixers\\reggie_intro.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đừng lo. Không bắn đâu. Cô ở trong hệ thống rồi. Vào đi.",
+                            "maleVariant": "Đừng lo. Không bắn đâu. Cậu ở trong hệ thống rồi. Vào đi.",
+                            "stringId": "1795358798019854360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Xin chào? Ồ là cô. Họ gọi cô là V, đúng không nhỉ?",
+                            "maleVariant": "Xin chào? Ồ là cậu. Họ gọi cậu là V, đúng không nhỉ?",
+                            "stringId": "1908455793905606656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sao cô lại biết tôi?",
+                            "maleVariant": "Sao cô lại biết tôi?",
+                            "stringId": "1908456223536553984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thành phố này nhỏ hơn cậu biết đấy. Dù sao thì cũng vào đi.",
+                            "maleVariant": "Thành phố này nhỏ hơn cậu biết đấy. Dù sao thì cũng vào đi.",
+                            "stringId": "1908456389127675904"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

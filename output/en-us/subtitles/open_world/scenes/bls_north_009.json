@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.6541556Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_north_009.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ugh... Fucking desert.",
+                            "maleVariant": "",
+                            "stringId": "1973569779229827072"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, just like any other. Just got the sun beatin' down on you, just got nothin' to do but pick sand outta your teeth.",
+                            "maleVariant": "",
+                            "stringId": "1975078611001786368"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They just sent me... Somebody's gotta guard the border. Post like any other.",
+                            "maleVariant": "",
+                            "stringId": "1975078621588209664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And you? How'd you land here?",
+                            "maleVariant": "",
+                            "stringId": "1975078634590552064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Had a whole thing going – resold 'em on the street, cheap. Choom, I was swimmin' in eddies.",
+                            "maleVariant": "",
+                            "stringId": "1975078648029102080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Eh, caught me klepping some Crushers from storage.",
+                            "maleVariant": "",
+                            "stringId": "1975078657759887360"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

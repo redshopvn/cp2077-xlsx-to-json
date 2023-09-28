@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:10.2358815Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_std_rcr_04_holocall_prebrief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yo, V. Kiểm tra này thử xem - có một trang trên mạng đang bôi nhọ thị trưởng, Weldon Holt. Chà, thị trưởng được ủy quyền thôi, vì cô biết là anh ta đang tái tranh cử hay gì đó đó mà.",
+                            "maleVariant": "Yo, V. Kiểm tra này thử xem - có một trang trên mạng đang bôi nhọ thị trưởng, Weldon Holt. Chà, thị trưởng được ủy quyền thôi, vì cậu biết là anh ta đang tái tranh cử hay gì đó đó mà.",
+                            "stringId": "2328627941136060416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, chuyện chính trị đó, đúng chứ? Mấy cái chuyện không công bằng này chưa bao giờ dừng lại cả - thậm chí là chỉ một phút thôi.",
+                            "maleVariant": "Yeah, chuyện chính trị đó, đúng chứ? Mấy cái chuyện không công bằng này chưa bao giờ dừng lại cả - thậm chí là chỉ một phút thôi.",
+                            "stringId": "2342039394134102016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dù gì đi nữa, khách hàng của tôi muốn là trang mạng này phải bị tế sống và mắc kẹt mãi mãi trong không gian mạng. Quét qua bản tóm tắt nếu cô cần gì thêm.",
+                            "maleVariant": "Dù gì đi nữa, khách hàng của tôi muốn là trang mạng này phải bị tế sống và mắc kẹt mãi mãi trong không gian mạng. Quét qua bản tóm tắt nếu cậu cần gì thêm.",
+                            "stringId": "2342040251131072512"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.7311139Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_south_023.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Security sys crashed again.",
+                            "maleVariant": "",
+                            "stringId": "2178301430946324480"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Lemme guess, the bypass diodes disappeared again, too?",
+                            "maleVariant": "",
+                            "stringId": "2188083722547085312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They did indeed.",
+                            "maleVariant": "",
+                            "stringId": "2188084092669247488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Got us runnin' in circles here. They klep the parts, we fix 'em, they klep the parts...",
+                            "maleVariant": "",
+                            "stringId": "2188084399725854720"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fucking nomads. Typical. Think the whole world revolves around them. All theirs for the taking!",
+                            "maleVariant": "",
+                            "stringId": "2188084834608070656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "A solar farm?! More like an all-you-can-eat buffet! Be a real shame to let all these panels go to waste, huh?",
+                            "maleVariant": "",
+                            "stringId": "2188085055513673728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah... And no worries, some poor gonk out there'll fix it!",
+                            "maleVariant": "",
+                            "stringId": "2188085530644430848"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

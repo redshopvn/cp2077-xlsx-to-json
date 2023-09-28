@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:13.5055519Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wbr_jpn_food_03.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi có thể cắn một miếng không?",
+                            "maleVariant": "Tôi có thể cắn một miếng không?",
+                            "stringId": "1884976962712518656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ở đây có bán thịt thật không?",
+                            "maleVariant": "Ở đây có bán thịt thật không?",
+                            "stringId": "1884976962712518672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có gì để ăn vậy?",
+                            "maleVariant": "Có gì để ăn vậy?",
+                            "stringId": "1884976962762850308"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tự xem đi.",
+                            "maleVariant": "Tự xem đi.",
+                            "stringId": "1884976962762850316"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chị, uh, có loại thịt thật nào ở đó không?",
+                            "maleVariant": "Chị, uh, có loại thịt thật nào ở đó không?",
+                            "stringId": "1884976962846736388"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ý cô là... từ động vật à? Đừng ngu vậy chứ!",
+                            "maleVariant": "Ý cậu là... từ động vật à? Đừng ngu vậy chứ!",
+                            "stringId": "1884976962846736396"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

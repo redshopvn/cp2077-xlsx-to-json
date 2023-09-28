@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.8946610Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_016.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"Es lo mismo con Emilio. Siempre me ayuda con las compras.\" t=\"Same with Emilio. Always helps me with my groceries.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2172172634114732032"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Especially young men like them.",
+                            "maleVariant": "",
+                            "stringId": "2181106406106959872"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Exactly. They're good eggs, all of 'em. So what if they get into some mischief sometimes? Boys will be boys.",
+                            "maleVariant": "",
+                            "stringId": "2181123114301493248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"Si no lo haces mientras eres joven, entonces ¿cuándo?\" t=\"If you can't when you're young, when can you?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2181123232127881216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"Y te diré una cosa, esos agentes prefieren acosar a nuestros muchachos en lugar de ocuparse de los criminales de verdad.\" t=\"And those officers, I'm telling you, instead of worrying about real criminals, they decide to harrass our boys.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2181123659493904384"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"El otro día, un policía me dijo que Emilio estaba con los Valentinos. ¿Lo puedes creer?\" t=\"One cop told me the other day, he said Emilio was with the Valentinos. Can you imagine?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2181124645708992512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh, that's just rumors. Boys're just having a little fun.",
+                            "maleVariant": "",
+                            "stringId": "2181124829067186176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"mex\" o=\"Recuerdo cuando Emilio tenía cinco años, era un angelito. No mataba ni a una mosca.\" t=\"Now, I remember when Emilio was five years old, what an angel. Wouldn't hurt a fly.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2181128622076956672"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.5676283Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_rcr_chat_026.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What's got you down, papi?",
+                            "maleVariant": "",
+                            "stringId": "2167684992423710720"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nothin'... just that corporat-fuck that ran over my daughter – saw it with my own eyes, but... he pays every month. Pays a lot...",
+                            "maleVariant": "",
+                            "stringId": "2198372816127746048"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "He'll pay when you redecorate the highway with his fuckin' brains...",
+                            "maleVariant": "",
+                            "stringId": "2198373788635848704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<mothertongue l=\"mex\" m=\"Mira\" b=\"\" a=\", if I kill him or sell him out to the badges, I won't make the rent. Besides, the <Rich color=\\\"MainColors.ActiveBlue\\\">pinche cabrón</>has connections to Grove Street.\"/>",
+                            "maleVariant": "",
+                            "stringId": "2198374283798601728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You think that's what Lisa would've wanted? Revenge? She wasn't like that...",
+                            "maleVariant": "",
+                            "stringId": "2198375332810809344"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Papi, you're killin' me. Fuck the eddies. Be a man and drag that piece o' dog shit 'round the streets for everyone to see.",
+                            "maleVariant": "",
+                            "stringId": "2198375610272407552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<mothertongue l=\"mex\" m=\"¡nomás hazlo!\" b=\"You mean 6th Street? See? You're gettin' everythin' mixed up now! Don't overthink this – \" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2227316616891949056"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

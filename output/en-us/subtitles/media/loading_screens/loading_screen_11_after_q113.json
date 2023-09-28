@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:00.9534401Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\loading_screens\\loading_screen_11_after_q113.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chào buổi tối, Night City. Câu chuyện chính của tối ngày hôm nay - Arasaka tiếp theo sẽ làm gì? Siêu công ty Nhật Bản sẽ vực dậy như thế nào sau cuộc khủng hoảng này?",
+                            "maleVariant": "Chào buổi tối, Night City. Câu chuyện chính của tối ngày hôm nay - Arasaka tiếp theo sẽ làm gì? Siêu công ty Nhật Bản sẽ vực dậy như thế nào sau cuộc khủng hoảng này?",
+                            "stringId": "1672053263212388352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"皆さん、ご苦労感謝する\" t=\"Chúc mọi người một ngày tốt lành. Chào mừng.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"皆さん、ご苦労感謝する\" t=\"Chúc mọi người một ngày tốt lành. Chào mừng.\" b=\"\" a=\"\"/>",
+                            "stringId": "1680726200143892480"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"なぜなら、アラサカはただの一企業ではないからだ\" t=\"Đó là bởi vì Arasaka không chỉ là một tập đoàn.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"なぜなら、アラサカはただの一企業ではないからだ\" t=\"Đó là bởi vì Arasaka không chỉ là một tập đoàn.\" b=\"\" a=\"\"/>",
+                            "stringId": "1680726428431470592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tập đoàn gần đây đã bị sốc bởi một loạt các sự kiện thảm khốc - trong đó đáng kể nhất là một cuộc tấn công vào trụ sở chính của họ vào đêm qua.",
+                            "maleVariant": "Tập đoàn gần đây đã bị sốc bởi một loạt các sự kiện thảm khốc - trong đó đáng kể nhất là một cuộc tấn công vào trụ sở chính của họ vào đêm qua.",
+                            "stringId": "1680727482325848064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"どうも我々の敵は、アラサカを潰せると考えたらしい\" t=\"Có vẻ như kẻ thù của chúng ta tin rằng Arasaka có thể bị tiêu diệt.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"どうも我々の敵は、アラサカを潰せると考えたらしい\" t=\"Có vẻ như kẻ thù của chúng ta tin rằng Arasaka có thể bị tiêu diệt.\" b=\"\" a=\"\"/>",
+                            "stringId": "1680728991738417152"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"だが私は、彼らにこう伝えたい… 不可能であると。太陽を消し去り、海を干上がらせるほうがまだ簡単だろう\" t=\"Nhưng tôi có lời nhắn dành cho họ... Việc đó không bao giờ xảy ra đâu. Họ nên dập tắt mặt trời hoặc làm cạn nước biển nghe còn thực tế hơn.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"だが私は、彼らにこう伝えたい… 不可能であると。太陽を消し去り、海を干上がらせるほうがまだ簡単だろう\" t=\"Nhưng tôi có lời nhắn dành cho họ... Việc đó không bao giờ xảy ra đâu. Họ nên dập tắt mặt trời hoặc làm cạn nước biển nghe còn thực tế hơn.\" b=\"\" a=\"\"/>",
+                            "stringId": "1680729275122372608"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"アラサカという強大な存在は誰にも止められない。アラサカは力そのものなのだ\" t=\"Arasaka là một sức mạnh - thứ mà không thể dừng lại hoặc bị làm chậm lại. Arasaka là sức mạnh.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"アラサカという強大な存在は誰にも止められない。アラサカは力そのものなのだ\" t=\"Arasaka là một sức mạnh - thứ mà không thể dừng lại hoặc bị làm chậm lại. Arasaka là sức mạnh.\" b=\"\" a=\"\"/>",
+                            "stringId": "1680730020366307328"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

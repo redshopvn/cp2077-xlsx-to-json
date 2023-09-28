@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.8008640Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_kab_chat_17.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tygers're comin' today. For the rent. Just got a message.",
+                            "maleVariant": "",
+                            "stringId": "2156428633030762496"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck. Fucking fuck.",
+                            "maleVariant": "",
+                            "stringId": "2169128396360306688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You don't got the eds...?",
+                            "maleVariant": "",
+                            "stringId": "2169130664103038976"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Had a bad week... First my kid's sick, then that firefight scared people off...",
+                            "maleVariant": "",
+                            "stringId": "2169130891870523392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Maybe they'll let it go? I always pay on time. Anyone can slip up once, right?",
+                            "maleVariant": "",
+                            "stringId": "2169131659075833856"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Listen to me. Get the eds. Now. Dunno how, maybe you gotta yank out some implants, sell a kidney. Otherwise, they'll take it out on all of us! Got it?",
+                            "maleVariant": "",
+                            "stringId": "2169133135688945664"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

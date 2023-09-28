@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.3466858Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\bls_ina_se5_junkshop_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chú bán gì đấy?",
+                            "maleVariant": "Chú bán gì đấy?",
+                            "stringId": "1935698783862435840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chú tự mình quản lý à?",
+                            "maleVariant": "Chú tự mình quản lý à?",
+                            "stringId": "1935698783879213060"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chú bán gì đấy?",
+                            "maleVariant": "Chú bán gì đấy?",
+                            "stringId": "1935698784449638404"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nhiều mặt hàng khác nhau. Xin... xin hãy xem qua.",
+                            "maleVariant": "Nhiều mặt hàng khác nhau. Xin... xin hãy xem qua.",
+                            "stringId": "1935698784449638412"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chú tự mình quản lý chỗ này à?",
+                            "maleVariant": "Chú tự mình quản lý chỗ này à?",
+                            "stringId": "1935698784483192836"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đúng vậy. Ừm, tất cả... Tất cả đều... biến mất rồi. Chẳng còn ai nữa.",
+                            "maleVariant": "Đúng vậy. Ừm, tất cả... Tất cả đều... biến mất rồi. Chẳng còn ai nữa.",
+                            "stringId": "1935698784483192844"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô có mua gì đó không? Nếu không... hãy để tôi yên!",
+                            "maleVariant": "Cậu có mua gì đó không? Nếu không... hãy để tôi yên!",
+                            "stringId": "1976362317302255616"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

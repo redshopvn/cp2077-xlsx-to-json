@@ -1,0 +1,39 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:09.8879498Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_std_arr_10_holocall_prebrief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Công việc tới rồi đây V ạ. Cô sẽ đột nhập vào nhà máy Cytech và đánh cắp vài mẫu thiết kế mà chắc chắn là thuộc về Rihanna Kumar. Ngạc nhiên, ngạc nhiên chứ - khách hàng chúng ta chính là Kumar.",
+                            "maleVariant": "Công việc tới rồi đây V ạ. Cậu sẽ đột nhập vào nhà máy Cytech và đánh cắp vài mẫu thiết kế mà chắc chắn là thuộc về Rihanna Kumar. Ngạc nhiên, ngạc nhiên chứ - khách hàng chúng ta chính là Kumar.",
+                            "stringId": "2341747408031936512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đoán là cô sẽ cần tập trung cao độ cho vụ lần này đó, vậy nên hãy chắc rằng sẽ cần quét dữ liệu.",
+                            "maleVariant": "Đoán là cậu sẽ cần tập trung cao độ cho vụ lần này đó, vậy nên hãy chắc rằng sẽ cần quét dữ liệu.",
+                            "stringId": "2342060731565182976"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

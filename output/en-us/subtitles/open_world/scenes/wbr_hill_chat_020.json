@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:07.7492867Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_hill_chat_020.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tyger Claws swung by again yesterday, fresh meat in tow...",
+                            "maleVariant": "",
+                            "stringId": "2159304484917833728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Eight persons. One: woman, around twenty years of age, eye color--",
+                            "maleVariant": "",
+                            "stringId": "2221839058622562304"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You fucking gonk, you're writing all this down?! What for?",
+                            "maleVariant": "",
+                            "stringId": "2221839866646839296"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Y'know... case someone asks. Badges, for instance.",
+                            "maleVariant": "",
+                            "stringId": "2221840367681617920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Heard they dish out eds for preem info...",
+                            "maleVariant": "",
+                            "stringId": "2221840933040242688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Jesus christ... For the bajillionth time – the Tygers pay the badges. Got that?",
+                            "maleVariant": "",
+                            "stringId": "2221841556867465216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So you didn't hear nothin', didn't see nothin', and don't know nothin'.",
+                            "maleVariant": "",
+                            "stringId": "2221842577089970176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And we don't fuckin' know each other, OK?",
+                            "maleVariant": "",
+                            "stringId": "2221843076799348736"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

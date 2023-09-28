@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.6491215Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_north_007.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What do you think? Should we take it?",
+                            "maleVariant": "",
+                            "stringId": "1973566015613739008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We will have to discuss it. Me, I don't see a problem. Money is money.",
+                            "maleVariant": "",
+                            "stringId": "1974940029184360448"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I heard they could be here a while. Starting up some modified hydroponics.",
+                            "maleVariant": "",
+                            "stringId": "1974940111912812544"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So why are we standing here, talking what-ifs? We should make a deal.",
+                            "maleVariant": "",
+                            "stringId": "1974940146742312960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Screw yourself. You sure have a lot to say for someone who wasn't there.",
+                            "maleVariant": "",
+                            "stringId": "1974940175582347264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Well, how much they offer? If it's not much, I say screw them. I never liked Biotechnica.",
+                            "maleVariant": "",
+                            "stringId": "1974940203432525824"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

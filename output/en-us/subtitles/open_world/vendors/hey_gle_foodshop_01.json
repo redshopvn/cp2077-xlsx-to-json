@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.5470277Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\hey_gle_foodshop_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có gì ngon ăn không?",
+                            "maleVariant": "Có gì ngon ăn không?",
+                            "stringId": "1752047456349138944"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có mùi clo ở đây.",
+                            "maleVariant": "Có mùi clo ở đây.",
+                            "stringId": "1752047456349138960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có gì ngon ăn không?",
+                            "maleVariant": "Có gì ngon ăn không?",
+                            "stringId": "1752047456382693376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đủ thứ hết luôn. Đây là thực đơn của chúng tôi.",
+                            "maleVariant": "Đủ thứ hết luôn. Đây là thực đơn của chúng tôi.",
+                            "stringId": "1752047456399470592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ugh... Sao tôi lại ngửi thấy mùi clo nhỉ...?",
+                            "maleVariant": "Ugh... Sao tôi lại ngửi thấy mùi clo nhỉ...?",
+                            "stringId": "1752047456416247808"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ồ, ừm, cô biết đấy, gần đây tôi phải lau sàn nhà. Có vài vết bẩn cứng đầu quá. Không có gì to tát đâu.",
+                            "maleVariant": "Ồ, ừm, anh biết đấy, gần đây tôi phải lau sàn nhà. Có vài vết bẩn cứng đầu quá. Không có gì to tát đâu.",
+                            "stringId": "1752047456433025024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vậy... ahem... Cô dùng gì đây?",
+                            "maleVariant": "Vậy... ahem... Anh dùng gì đây?",
+                            "stringId": "1976330283104129024"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

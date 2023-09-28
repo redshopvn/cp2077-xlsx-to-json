@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.7413533Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_cpz_chat_002.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Spoke with Miguel. Valentinos've accepted our terms.",
+                            "maleVariant": "",
+                            "stringId": "1963273134877483008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And Stevenson? He gonna give us the code to the cell? Almost got busted last time.",
+                            "maleVariant": "",
+                            "stringId": "1966137044216037376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Key word – \"almost.\" Could've happened to anyone.",
+                            "maleVariant": "",
+                            "stringId": "1966137389910573056"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Luckily, Stevenson gives second chances. Besides, if everything goes smoothly, he gets a nice, juicy cut.",
+                            "maleVariant": "",
+                            "stringId": "1966137709231325184"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Still – if we get caught with our dicks out, we're on our own. His hands'll be clean.",
+                            "maleVariant": "",
+                            "stringId": "1966138107539210240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, never misses an opportunity to make that clear.",
+                            "maleVariant": "",
+                            "stringId": "1966138517725364224"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

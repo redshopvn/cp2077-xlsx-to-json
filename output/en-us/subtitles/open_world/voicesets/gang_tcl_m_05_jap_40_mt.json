@@ -1,0 +1,417 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:20.0958863Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\voicesets\\gang_tcl_m_05_jap_40_mt.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"気に入らねえな\" t=\"Tao đéo ưa gì mày đâu.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"気に入らねえな\" t=\"Tao đéo ưa gì mày đâu.\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211031384530948"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"次は誰だ！ 虎が腹を空かせてるぞ\" t=\"Người tiếp theo! Hổ đói rồi này.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"次は誰だ！ 虎が腹を空かせてるぞ\" t=\"Người tiếp theo! Hổ đói rồi này.\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211031418085380"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"下がれ\" t=\"Lùi lại đi.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"下がれ\" t=\"Lùi lại đi.\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211031468417028"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"今すぐここを離れろ\" t=\"Mày lùi lại ngay.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"今すぐここを離れろ\" t=\"Mày lùi lại ngay.\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211031501971460"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"誰が武器を出していいと言った\" t=\"Mày không được phép rút vũ khí của mình ra.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"誰が武器を出していいと言った\" t=\"Mày không được phép rút vũ khí của mình ra.\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211031569080324"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"しまえ\" t=\"Cất súng vào đi.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"しまえ\" t=\"Cất súng vào đi.\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211031602634756"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"お前に勝ち目はねえぞ\" t=\"đừng bắt đầu một cuộc chiến mà mày không thể thắng.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"お前に勝ち目はねえぞ\" t=\"đừng bắt đầu một cuộc chiến mà mày không thể thắng.\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211031652966404"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"今ならまだ… 生きて帰れる。よく考えろ\" t=\"Mày nghĩ đi. Mày chưa biết thế nào là đau đâu.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"今ならまだ… 生きて帰れる。よく考えろ\" t=\"Mày nghĩ đi. Mày chưa biết thế nào là đau đâu.\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211031686520836"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"いい判断だ\" t=\"Rất khôn ngoan.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"いい判断だ\" t=\"Rất khôn ngoan.\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211031720075268"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"それでいい\" t=\"Tốt lắm.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"それでいい\" t=\"Tốt lắm.\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211031753629696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ん？\" t=\"Hả?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"ん？\" t=\"Hả?\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211031803961348"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"誰だ？ なめた真似をしやがって\" t=\"Có kẻ thèm ăn đòn lắm này…\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"誰だ？ なめた真似をしやがって\" t=\"Có kẻ thèm ăn đòn lắm này…\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211031820738564"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"もう十分だろ\" t=\"Thế là quá đủ cho ngày hôm nay rồi.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"もう十分だろ\" t=\"Thế là quá đủ cho ngày hôm nay rồi.\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211031887847428"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"もういい\" t=\"Sẽ được việc đấy.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"もういい\" t=\"Sẽ được việc đấy.\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211031921401860"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ニンジャごっこはお終いにしようぜ！\" t=\"Này, ninja! Ra ngoài đi nào!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"ニンジャごっこはお終いにしようぜ！\" t=\"Này, ninja! Ra ngoài đi nào!\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211031988510724"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"どこに隠れてやがる？\" t=\"Mày trốn vào trong hốc nào đấy?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"どこに隠れてやがる？\" t=\"Mày trốn vào trong hốc nào đấy?\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032072396804"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"トラブル発生だ\" t=\"Có vẻ chúng ta có vấn đề rồi.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"トラブル発生だ\" t=\"Có vẻ chúng ta có vấn đề rồi.\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032105951236"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"了解\" t=\"Rõ.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"了解\" t=\"Rõ.\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032156282884"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"念仏を唱えるんだな\" t=\"Mày lo cầu nguyện đi\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"念仏を唱えるんだな\" t=\"Mày lo cầu nguyện đi\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032206614532"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"クソが！\" t=\"Cái đéo gì thế?!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"クソが！\" t=\"Cái đéo gì thế?!\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032223391748"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"グレネード、いくぞ！\" t=\"Chú ý, lựu đạn!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"グレネード、いくぞ！\" t=\"Chú ý, lựu đạn!\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032273723396"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ここがお前の墓場だ！\" t=\"Hôm nay, mày sẽ chết!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"ここがお前の墓場だ！\" t=\"Hôm nay, mày sẽ chết!\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032324055044"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"頭をブッ飛ばしてやれ！\" t=\"Bắn nát đầu nó đi!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"頭をブッ飛ばしてやれ！\" t=\"Bắn nát đầu nó đi!\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032357609476"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"援護を頼む！\" t=\"Chúng ta cần cứu viện!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"援護を頼む！\" t=\"Chúng ta cần cứu viện!\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032407941124"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"バカ野郎、逃げるな！ 戦え！\" t=\"Đừng chạy, lũ hèn nhát! Tấn công!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"バカ野郎、逃げるな！ 戦え！\" t=\"Đừng chạy, lũ hèn nhát! Tấn công!\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032424718340"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ただじゃ済まさねえぞ\" t=\"Mày sẽ phải trả giá, cưng à.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"ただじゃ済まさねえぞ\" t=\"Mày sẽ phải trả giá, cưng à.\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032491827204"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"気をつけろや！\" t=\"Mày coi chừng đấy!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"気をつけろや！\" t=\"Mày coi chừng đấy!\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032508604420"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"誰だ？\" t=\"Ai đang nói vậy?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"誰だ？\" t=\"Ai đang nói vậy?\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032575713280"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"もちろん… ああ、俺が直接やる…\" t=\"Of course…Ừ, tao sẽ tự mình xem xét…\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"もちろん… ああ、俺が直接やる…\" t=\"Of course…Ừ, tao sẽ tự mình xem xét…\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032659599364"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ああ… 女は見つける。心配するな…\" t=\"Ừ… Bọn tao sẽ xác định vị trí của nó, đừng lo lắng…\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"ああ… 女は見つける。心配するな…\" t=\"Ừ… Bọn tao sẽ xác định vị trí của nó, đừng lo lắng…\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032676376580"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"左だ！\" t=\"Theo tao!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"左だ！\" t=\"Theo tao!\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032743485444"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"了解！\" t=\"Quyết đoán vào!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"了解！\" t=\"Quyết đoán vào!\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032793817092"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"全員、伏せろ！\" t=\"Tất cả bọn mày cúi xuống.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"全員、伏せろ！\" t=\"Tất cả bọn mày cúi xuống.\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032844148740"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"じゃあな\" t=\"Tạm biệt\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"じゃあな\" t=\"Tạm biệt\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032860925956"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"何だ！？\" t=\"Cái gì thế!?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"何だ！？\" t=\"Cái gì thế!?\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032894480388"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"行け\" t=\"Đi nào.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"行け\" t=\"Đi nào.\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032944812036"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ちゃんとついてこいよ\" t=\"Hướng 6 giờ.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"ちゃんとついてこいよ\" t=\"Hướng 6 giờ.\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211032961589252"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"行け！ 行け！\" t=\"Di chuyển! Di chuyển!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"行け！ 行け！\" t=\"Di chuyển! Di chuyển!\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211033011920896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"くらえ、メス犬！\" t=\"Do mày chọn nhé, con đĩ!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"くらえ、メス犬！\" t=\"Do mày chọn nhé, con đĩ!\" b=\"\" a=\"\"/>",
+                            "stringId": "1876211033028698116"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ああっ… うっ… くっ…\" t=\"Aaaargh…ekhh… kkkk…\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "1876211033062252548"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"壊れやすいのか？ 運ぶときに… 多少雑に扱っても…？ なるほど… わかった…\" t=\"Gói hàng có dễ vỡ không? Hay nó có thể bị … hư hỏng… trong quá trình vận chuyển…? Uh-huh… Hiểu rồi…\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"壊れやすいのか？ 運ぶときに… 多少雑に扱っても…？ なるほど… わかった…\" t=\"Gói hàng có dễ vỡ không? Hay nó có thể bị … hư hỏng… trong quá trình vận chuyển…? Uh-huh… Hiểu rồi…\" b=\"\" a=\"\"/>",
+                            "stringId": "1876234547437772800"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"まだ5時間だろ… わかってる… 約束する…\" t=\"Mới có 5 tiếng thôi... Tao biết...Tao hứa mà…\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"まだ5時間だろ… わかってる… 約束する…\" t=\"Mới có 5 tiếng thôi... Tao biết...Tao hứa mà…\" b=\"\" a=\"\"/>",
+                            "stringId": "1876235642402775040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"あ…？\" t=\"Cái gì...?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"あ…？\" t=\"Cái gì...?\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170364754075648"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"撃ちまくれ！\" t=\" Bắn tự do!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"撃ちまくれ！\" t=\" Bắn tự do!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170364921847808"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"クソ！ 1人やられた！\" t=\"Một người của ta gục rồi!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"クソ！ 1人やられた！\" t=\"Một người của ta gục rồi!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170365005733892"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"くっ… またオプティクスがイカレやがった…\" t=\"Grrr... Cái thứ quang học chết tiệt hoạt động trở lại rồi này...\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"くっ… またオプティクスがイカレやがった…\" t=\"Grrr... Cái thứ quang học chết tiệt hoạt động trở lại rồi này...\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170365039288320"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"あ？ なんだよ？\" t=\"Hả? Cái gì?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"あ？ なんだよ？\" t=\"Hả? Cái gì?\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170365123174404"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"クソ！ 頭を出すな！ 集中しろ！\" t=\"bắn! Cúi đầu xuống! Giữ tập trung vào!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"クソ！ 頭を出すな！ 集中しろ！\" t=\"bắn! Cúi đầu xuống! Giữ tập trung vào!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170365173506052"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"おい！ お前ら、根性見せろ！\" t=\"Tập hợp lại, hoặc tất cả chúng ta đều chết!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"おい！ お前ら、根性見せろ！\" t=\"Tập hợp lại, hoặc tất cả chúng ta đều chết!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170365324500996"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"後悔させてやるよ\" t=\"Mày sẽ hối tiếc đấy.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"後悔させてやるよ\" t=\"Mày sẽ hối tiếc đấy.\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170365374832644"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"クソ、やってられるかよ！\" t=\"Địt mẹ mấy thứ này!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"クソ、やってられるかよ！\" t=\"Địt mẹ mấy thứ này!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170365425164292"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"どうだ！ ハハハハ！\" t=\"Mày muốn thêm nữa hả? Hahaha!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"どうだ！ ハハハハ！\" t=\"Mày muốn thêm nữa hả? Hahaha!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170365626490884"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"回り込んで叩け！\" t=\"Giết nó!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"回り込んで叩け！\" t=\"Giết nó!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170365676822532"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"今がチャンスだ！ クソアマをぶっ殺せ！\" t=\"Đừng dừng lại, nó yếu lắm rồi!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"今がチャンスだ！ クソアマをぶっ殺せ！\" t=\"Đừng dừng lại, nó yếu lắm rồi!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170365794263044"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"俺がやってやる！\" t=\"Theo tao!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"俺がやってやる！\" t=\"Theo tao!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170365844594692"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"お前とかくれんぼをする気はねえんだよ！\" t=\"Giờ ta đang chơi trò trốn tìm à?!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"お前とかくれんぼをする気はねえんだよ！\" t=\"Giờ ta đang chơi trò trốn tìm à?!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170365911703556"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"リロードする！\" t=\"Đang nạp đạn!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"リロードする！\" t=\"Đang nạp đạn!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170365962035204"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"おい、何してんだよ！\" t=\"Mày bị mất trí à?!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"おい、何してんだよ！\" t=\"Mày bị mất trí à?!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170366012366852"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"オプティクスがハックされてる！\" t=\"Nó đang giỡn mặt với tao kìa!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"オプティクスがハックされてる！\" t=\"Nó đang giỡn mặt với tao kìa!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170366129807360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"気をつけろ！ ハックされてるぞ！\" t=\"Coi chừng! Nó biết hack đấy!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"気をつけろ！ ハックされてるぞ！\" t=\"Coi chừng! Nó biết hack đấy!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170366213693444"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ハッ、キクねえ！\" t=\"Vãi cứt, mạnh đấy!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"ハッ、キクねえ！\" t=\"Vãi cứt, mạnh đấy!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170366264025092"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"かかってこいよ！ ぶちのめしてやる！\" t=\"Mày và tao! Chơi nào!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"かかってこいよ！ ぶちのめしてやる！\" t=\"Mày và tao! Chơi nào!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170366415020036"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"いい加減、死ね！\" t=\"Bú con cặc tao này!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"いい加減、死ね！\" t=\"Bú con cặc tao này!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170366482128896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"お前ら、気をつけろ！ 巻き込まれても知らねえぞ！\" t=\"Cúi xuống! Tao sẽ giết nó!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"お前ら、気をつけろ！ 巻き込まれても知らねえぞ！\" t=\"Cúi xuống! Tao sẽ giết nó!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170366532460548"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"仲間に手を出すんじゃねえ！\" t=\"Để chúng yên! Đụ mẹ mày nghe tao nói không?!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"仲間に手を出すんじゃねえ！\" t=\"Để chúng yên! Đụ mẹ mày nghe tao nói không?!\" b=\"\" a=\"\"/>",
+                            "stringId": "2232170366582792196"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

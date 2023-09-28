@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:03.8376057Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_rey_chat_022.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "See, you think you can make your scratch dealin' in shit, but you won't get any on ya.",
+                            "maleVariant": "",
+                            "stringId": "2161904328059940864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Heh, the fuck's she talkin' 'bout?",
+                            "maleVariant": "",
+                            "stringId": "2227410684245020672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Don't look at me, choom. I'm just the fuckin' huscle.",
+                            "maleVariant": "",
+                            "stringId": "2227411668614615040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You think you're better'n us, 'cause you don't get your hands dirty. Well get this, I can drag you into shit so deep you'll fuckin' choke.",
+                            "maleVariant": "",
+                            "stringId": "2227411956243206144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Enough.",
+                            "maleVariant": "",
+                            "stringId": "2227412958027550720"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No, it ain't. We change the rules. You give us access to your data, you ride with us on the job, or... you know the rest. We clear?",
+                            "maleVariant": "",
+                            "stringId": "2227413064613203968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All clear, Mr. Fixer?",
+                            "maleVariant": "",
+                            "stringId": "2227492232185090048"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah. Clear as day.",
+                            "maleVariant": "",
+                            "stringId": "2227492476343914496"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

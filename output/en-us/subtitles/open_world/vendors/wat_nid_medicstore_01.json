@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:13.3541050Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wat_nid_medicstore_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cần được phục vụ.",
+                            "maleVariant": "Cần được phục vụ.",
+                            "stringId": "1979367548869124096"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anh bán thuốc...ở đây à?",
+                            "maleVariant": "Anh bán thuốc...ở đây à?",
+                            "stringId": "1979368038478618624"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi cần được chăm sóc y tế.",
+                            "maleVariant": "Tôi cần được chăm sóc y tế.",
+                            "stringId": "1979368703812673536"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vậy, Tôi.... Cô muốn tôi bán cái gì nữa?",
+                            "maleVariant": "Vậy, Tôi.... Cậu muốn tôi bán cái gì nữa?",
+                            "stringId": "1979370498035261440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anh thật sự bán dụng cụ y tế.....ở nơi như này à?",
+                            "maleVariant": "Anh thật sự bán dụng cụ y tế.....ở nơi như này à?",
+                            "stringId": "1979381452450013184"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ừ thì...nó gọi là thay đổi định hướng. Tôi từng làm về bên điện tử, nhưng không khả quan lắm, nên phải chuyển trọng tâm sang thứ khác.",
+                            "maleVariant": "Ừ thì...nó gọi là thay đổi định hướng. Tôi từng làm về bên điện tử, nhưng không khả quan lắm, nên phải chuyển trọng tâm sang thứ khác.",
+                            "stringId": "1979382140768854016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nhưng mà này, tất cả đều hợp pháp nhé. Tôi tham gia một khóa học sơ cứu trên mạng, mua một cuốn sách hướng dẫn những điều cơ bản về dược phẩm. Thực hành tốt rồi, khỏi lo. Cứ cho tôi biết cô cần gì đi.",
+                            "maleVariant": "Nhưng mà này, tất cả đều hợp pháp nhé. Tôi tham gia một khóa học sơ cứu trên mạng, mua một cuốn sách hướng dẫn những điều cơ bản về dược phẩm. Thực hành tốt rồi, người anh em. Cứ cho tôi biết cậu cần gì đi.",
+                            "stringId": "1979470839527297024"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

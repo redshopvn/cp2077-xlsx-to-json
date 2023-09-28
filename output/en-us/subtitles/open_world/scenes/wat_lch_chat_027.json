@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.8927520Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_lch_chat_027.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "It isn't right! It's like they forgot people live here!",
+                            "maleVariant": "",
+                            "stringId": "2156532550940782592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They think AVs don't make noise? I can barely sleep.",
+                            "maleVariant": "",
+                            "stringId": "2172120706013970432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ugh, same here. The kids're still out like a light, but I can barely stand it. Must have to do with age.",
+                            "maleVariant": "",
+                            "stringId": "2172121053604331520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I went to the council to file a complaint. You know what they said?",
+                            "maleVariant": "",
+                            "stringId": "2172121474527903744"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "\"If it bothers you so much, go get some cochlear plugs.\"",
+                            "maleVariant": "",
+                            "stringId": "2172121682833817600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "My windows rattle when they fly by. Wonder if they'll think up an implant for that!",
+                            "maleVariant": "",
+                            "stringId": "2172121878523265024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ehhh... That damn landing pad...",
+                            "maleVariant": "",
+                            "stringId": "2172122344795652096"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

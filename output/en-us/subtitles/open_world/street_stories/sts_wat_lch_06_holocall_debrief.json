@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:11.3016312Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_lch_06_holocall_debrief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Giỏi lắm! Không còn phòng thí nghiệm nào cả! Giống y như những gì được đặt hàng vậy.",
+                            "maleVariant": "Giỏi lắm! Không còn phòng thí nghiệm nào cả! Giống y như những gì được đặt hàng vậy.",
+                            "stringId": "2328758690523099136"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dĩ nhiên là, đừng có tự mình đùa. Glitter thì vẫn còn đó. Nhưng ít ra chúng ta cũng đã khiến đám làm ra chúng bị đau đớn.",
+                            "maleVariant": "Dĩ nhiên là, đừng có tự mình đùa. Glitter thì vẫn còn đó. Nhưng ít ra chúng ta cũng đã khiến đám làm ra chúng bị đau đớn.",
+                            "stringId": "2334853652173656064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ồ, và điều cuối cùng là - Arati nhờ tôi cảm ơn cô, và nói rằng cô ấy rất biết ơn cô. Vậy nên, cảm ơn cô nha. Sẽ liên lạc cô sau.",
+                            "maleVariant": "Ồ, và điều cuối cùng là - Arati nhờ tôi cảm ơn anh, và nói rằng cô ấy rất biết ơn anh. Vậy nên, cảm ơn anh nha. Sẽ liên lạc anh sau.",
+                            "stringId": "2334860713737424896"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

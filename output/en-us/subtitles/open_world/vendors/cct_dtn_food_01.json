@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.4540814Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\cct_dtn_food_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cho tôi thứ gì uống đi.",
+                            "maleVariant": "Cho tôi thứ gì uống đi.",
+                            "stringId": "1979191361760894976"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ở đây có bia gì ngon?",
+                            "maleVariant": "Ở đây có bia gì ngon?",
+                            "stringId": "1979191702573260800"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cho tôi thứ gì uống đi.",
+                            "maleVariant": "Cho tôi thứ gì uống đi.",
+                            "stringId": "1979192270549131264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chắc rồi. Cô muốn gì cũng được.",
+                            "maleVariant": "Chắc rồi. Anh muốn gì cũng được.",
+                            "stringId": "1979193755081089024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ở đây có bia gì ngon?",
+                            "maleVariant": "Ở đây có bia gì ngon?",
+                            "stringId": "1979195265936498688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hừm... Calavera Feliz có vị trầm tinh tế, mùi mạch nha. Sau đó là Abydos, có mùi thơm thảo dược độc đáo.",
+                            "maleVariant": "Hừm... Calavera Feliz có vị trầm tinh tế, mùi mạch nha. Sau đó là Abydos, có mùi thơm thảo dược độc đáo.",
+                            "stringId": "1979196494079041536"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi sẽ né loại Broseph. Vị như nước đái có ga ấy.",
+                            "maleVariant": "Tôi sẽ né loại Broseph. Vị như nước đái có ga ấy.",
+                            "stringId": "1979196930689310720"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:07.5517369Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_nid_chat_020.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Jeez, mom... Mommm, stop being so twentieth-century!",
+                            "maleVariant": "",
+                            "stringId": "2156416211431710720"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No, ugh, I'm not tryin' to be \"nova.\" It's about expression, Mom. You won't let me express myself!",
+                            "maleVariant": "",
+                            "stringId": "2170615755093819392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They're like, chemical implants. Put 'em under a few layers of skin, they emit whatever light they absorb.",
+                            "maleVariant": "",
+                            "stringId": "2170616557464174592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Why not? Kelsey's cousin is a Microtech agent, nobody cares that she has one.",
+                            "maleVariant": "",
+                            "stringId": "2170616882539511808"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "When I'm older? Let's see if I live that long first. And if I change my mind, I can just swap my skin.",
+                            "maleVariant": "",
+                            "stringId": "2170617485445545984"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mom, seriously, really don't see what the big deal is.",
+                            "maleVariant": "",
+                            "stringId": "2170618013709746176"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

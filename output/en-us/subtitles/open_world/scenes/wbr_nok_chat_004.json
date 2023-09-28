@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:07.8644255Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_nok_chat_004.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Have you ever done something like that?",
+                            "maleVariant": "",
+                            "stringId": "1963357883776237568"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Do not worry about me. 2023, 2051, 2070 – that was a bad one – all natural fluctuations in the market.",
+                            "maleVariant": "",
+                            "stringId": "1979130653959360512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Three times. Sometimes, to win, you must go back to start.",
+                            "maleVariant": "",
+                            "stringId": "1979130834582867968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Do not make things complicated. People are greedy and power-hungry.",
+                            "maleVariant": "",
+                            "stringId": "1979131256882171904"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But I-I don't want to lose my job. I can't lose my job.",
+                            "maleVariant": "",
+                            "stringId": "1979133866611675136"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "At worst, they will transfer you. But you have much to gain from the chaos.",
+                            "maleVariant": "",
+                            "stringId": "1979134272788074496"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What about your investments?",
+                            "maleVariant": "",
+                            "stringId": "1979135397952065536"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We must simply react appropriately.",
+                            "maleVariant": "",
+                            "stringId": "1979147904460623872"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

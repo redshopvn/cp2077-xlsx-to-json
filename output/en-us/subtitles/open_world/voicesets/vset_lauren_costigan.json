@@ -1,0 +1,87 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:23.0509603Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\voicesets\\vset_lauren_costigan.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Làm ơn, xin đừng mà.",
+                            "maleVariant": "Làm ơn, xin đừng mà.",
+                            "stringId": "1895312872628961284"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi chỉ muốn về nhà.",
+                            "maleVariant": "Tôi chỉ muốn về nhà.",
+                            "stringId": "1895312872662515716"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "O-OK... Tôi sẽ đợi ở đây.",
+                            "maleVariant": "O-OK... Tôi sẽ đợi ở đây.",
+                            "stringId": "1895312872763179012"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đừng rời xa tôi, làm ơn mà.",
+                            "maleVariant": "Đừng rời xa tôi, làm ơn mà.",
+                            "stringId": "1895312872779956228"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô đã trở lại, tạ ơn Chúa.",
+                            "maleVariant": "Cậu đã trở lại, tạ ơn Chúa.",
+                            "stringId": "1895312872863842308"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đừng làm thế nữa mà.",
+                            "maleVariant": "Đừng làm thế nữa mà.",
+                            "stringId": "1895312872897396740"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chúng ta cần nhanh lên!",
+                            "maleVariant": "Chúng ta cần nhanh lên!",
+                            "stringId": "1895312872914173956"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nhanh hơn chút đi, làm ơn!",
+                            "maleVariant": "Nhanh hơn chút đi, làm ơn!",
+                            "stringId": "1895312872947728388"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ôi!",
+                            "maleVariant": "Ôi!",
+                            "stringId": "1895312873165832196"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cẩn thận!",
+                            "maleVariant": "Cẩn thận!",
+                            "stringId": "1895312873199386628"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

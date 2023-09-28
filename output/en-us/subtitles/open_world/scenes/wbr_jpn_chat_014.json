@@ -1,0 +1,57 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:07.7835915Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_jpn_chat_014.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey choom, listen... BDs – you done any, ever?",
+                            "maleVariant": "",
+                            "stringId": "2159541901230907392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sure, yeah, maybe a couple. Why you askin'?",
+                            "maleVariant": "",
+                            "stringId": "2167915006325477376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thinking of taking a dip, you know...? Money's better.",
+                            "maleVariant": "",
+                            "stringId": "2167915155844026368"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "True that... but I can't recommend that gig. Here, you just sellin' your body. There, you givin' up thoughts, your soul – feel me? Get strange motherfuckers thrashin' around in your bean.",
+                            "maleVariant": "",
+                            "stringId": "2167915361734021120"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "An' that ain't no good feelin, nuh-uh, not no way.",
+                            "maleVariant": "",
+                            "stringId": "2167915904124637184"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

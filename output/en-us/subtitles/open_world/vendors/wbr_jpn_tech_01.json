@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:13.7177425Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wbr_jpn_tech_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có phiền nếu tôi xem hàng không?",
+                            "maleVariant": "Có phiền nếu tôi xem hàng không?",
+                            "stringId": "1885295659150884864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chị tìm thấy những thứ này ở đâu?",
+                            "maleVariant": "Chị tìm thấy những thứ này ở đâu?",
+                            "stringId": "1885295659150884880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có phiền nếu tôi xem hàng không?",
+                            "maleVariant": "Có phiền nếu tôi xem hàng không?",
+                            "stringId": "1885295659352211460"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nếu xem mà không mua thì - có.",
+                            "maleVariant": "Nếu xem mà không mua thì - có.",
+                            "stringId": "1885295659352211468"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tất cả những thứ này đến từ đâu vậy?",
+                            "maleVariant": "Tất cả những thứ này đến từ đâu vậy?",
+                            "stringId": "1885295659402543108"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bí mật kinh doanh. Có mua hay không đây? Không thì tránh ra, đừng cản trở tôi làm ăn.",
+                            "maleVariant": "Bí mật kinh doanh. Có mua hay không đây? Không thì tránh ra, đừng cản trở tôi làm ăn.",
+                            "stringId": "1885295659419320324"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

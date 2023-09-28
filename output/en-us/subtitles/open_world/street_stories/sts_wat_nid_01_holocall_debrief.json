@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:11.3776095Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_nid_01_holocall_debrief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "OK, tôi biết Hal đã an toàn, nhưng đừng diễn như mọi chuyện suôn sẻ lắm. Tôi mong cô sẽ chuyên nghiệp hơn, V.",
+                            "maleVariant": "OK, tôi biết Hal đã an toàn, nhưng đừng diễn như mọi chuyện suôn sẻ lắm. Tôi mong anh sẽ chuyên nghiệp hơn, V.",
+                            "stringId": "2329256372747673600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tốt lắm – Hal rất vui, nói về cô không ngừng. Tất nhiên toàn những điều tốt đẹp.",
+                            "maleVariant": "Tốt lắm – Hal rất vui, nói về anh không ngừng. Tất nhiên toàn những điều tốt đẹp.",
+                            "stringId": "2329256889989242880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Xin cô đừng làm nhiều pha nguy hiểm như vậy sau này nữa. Phi vụ đã kết thúc.",
+                            "maleVariant": "Xin anh đừng làm nhiều pha nguy hiểm như vậy sau này nữa. Phi vụ đã kết thúc.",
+                            "stringId": "2339445848403185664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Và hãy nhớ, V - tiếng dữ đồn gần, tiếng xấu đồn xa. Phi vụ kết thúc.",
+                            "maleVariant": "Và hãy nhớ, V - tiếng dữ đồn gần, tiếng xấu đồn xa. Phi vụ kết thúc.",
+                            "stringId": "2339447006702178304"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hal chết rồi, V. Anh ta cố tự mình giải quyết, nhưng con ả siêu loạn thần khốn nạn đó đã tìm thấy anh ta trước.",
+                            "maleVariant": "Hal chết rồi, V. Anh ta cố tự mình giải quyết, nhưng con ả siêu loạn thần khốn nạn đó đã tìm thấy anh ta trước.",
+                            "stringId": "2358917713850572800"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đó là hậu quả của việc cô bỏ rơi anh ta. Tôi sẽ không quên chuyện này.",
+                            "maleVariant": "Đó là hậu quả của việc anh bỏ rơi anh ta. Tôi sẽ không quên chuyện này.",
+                            "stringId": "2362391609075929088"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:09.6197156Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_pac_wwd_05_fluff.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tìm Logan",
+                            "maleVariant": "Tìm Logan",
+                            "stringId": "1654945466095738884"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi tới đây tìm Logan. Chúng tôi có cuộc hẹn.",
+                            "maleVariant": "Tôi tới đây tìm Logan. Chúng tôi có cuộc hẹn.",
+                            "stringId": "1654946518245285888"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh yeah? Bỏ qua bữa tối - rồi đến ngay đây để thẳng đến việc quấc nhau luôn sao?",
+                            "maleVariant": "Oh yeah? Bỏ qua bữa tối - rồi đến ngay đây để thẳng đến việc quấc nhau luôn sao?",
+                            "stringId": "1654946808273018880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hài hước đó. Không phải chuyện của mày. Giờ thì anh ta đâu rồi?",
+                            "maleVariant": "Hài hước đó. Không phải chuyện của mày. Giờ thì anh ta đâu rồi?",
+                            "stringId": "1654947294258634752"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chắc là trên lầu, nhưng... có nói là đừng ai làm phiền cả, vậy nên, nếu tao là mày, tao sẽ đợi ở dưới lầu thôi.",
+                            "maleVariant": "Chắc là trên lầu, nhưng... có nói là đừng ai làm phiền cả, vậy nên, nếu tao là mày, tao sẽ đợi ở dưới lầu thôi.",
+                            "stringId": "1654948561039106048"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

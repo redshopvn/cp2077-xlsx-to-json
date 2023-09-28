@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:09.7094775Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_std_arr_01_holocall_debriefs.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Được rồi, tôi đã có được axit beta, nhưng vẫn không có manh mối nào về việc xảy ra với Booker cả. Tôi đã mong đợi nhiều hơn ở cô đó, V ạ. Tôi sẽ đóng vụ này lại như sẽ điền thêm là \"Meh...\"",
+                            "maleVariant": "Được rồi, tôi đã có được axit beta, nhưng vẫn không có manh mối nào về việc xảy ra với Booker cả. Tôi đã mong đợi nhiều hơn ở cậu đó, V ạ. Tôi sẽ đóng vụ này lại như sẽ điền thêm là \"Meh...\"",
+                            "stringId": "2328604563744043008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<mothertongue l=\"mex\" m=\"Khá là ngầu đó V.\" b=\"Vậy thì, V này, thùng axit beta đó ngon lành hết cả chứ? \" a=\"\"/>",
+                            "maleVariant": "<mothertongue l=\"mex\" m=\"Khá là ngầu đó V.\" b=\"Vậy thì, V này, thùng axit beta đó ngon lành hết cả chứ? \" a=\"\"/>",
+                            "stringId": "2328606991809851396"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Và Tôi đang gửi thêm cho cô 10 điểm vì đã giải được sự bí ẩn của định mệnh Booker. Làm gọn gàng lắm, V ạ. Đóng lại phi vụ, sự biết ơn của tôi đang trên đường đến túi cô.",
+                            "maleVariant": "Ngầu lắm. Và Tôi đang gửi thêm cho cậu 10 điểm vì đã giải được sự bí ẩn của định mệnh Booker. Làm gọn gàng lắm, V ạ. Đóng lại phi vụ, sự biết ơn của tôi đang trên đường đến túi cậu.",
+                            "stringId": "2369272698218319872"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

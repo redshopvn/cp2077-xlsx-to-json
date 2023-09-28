@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.1276480Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\sq006_04_election_results_version_b.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Xin chào, Night City. Đây là Gillean Jordan với Bảng Tin N54 cập nhật chiến dịch. Các cuộc thăm dò ý kiến cho cuộc đua thị trưởng Night City cuối cùng đã có kết quả.",
+                            "maleVariant": "Xin chào, Night City. Đây là Gillean Jordan với Bảng Tin N54 cập nhật chiến dịch. Các cuộc thăm dò ý kiến cho cuộc đua thị trưởng Night City cuối cùng đã có kết quả.",
+                            "stringId": "1792236862913290240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đương kim Weldon Holt của Đảng Devolutionist nhận được 47.8% phiếu bầu bất chấp những cáo buộc ông đồng lõa trong vụ sát hại Lucius Rhyne, cựu thị trưởng của Night City.",
+                            "maleVariant": "Đương kim Weldon Holt của Đảng Devolutionist nhận được 47.8% phiếu bầu bất chấp những cáo buộc ông đồng lõa trong vụ sát hại Lucius Rhyne, cựu thị trưởng của Night City.",
+                            "stringId": "1800909871180922880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ứng cử viên Liên bang Jefferson Peralez đã giành chiến thắng vang dội với 70,7% phiếu bầu.",
+                            "maleVariant": "Ứng cử viên Liên bang Jefferson Peralez đã giành chiến thắng vang dội với 70,7% phiếu bầu.",
+                            "stringId": "1800910204275769344"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Trong bài phát biểu nhượng bộ của mình, Thị Trưởng Holt đã gửi lời chúc mừng đến người chiến thắng.",
+                            "maleVariant": "Trong bài phát biểu nhượng bộ của mình, Thị Trưởng Holt đã gửi lời chúc mừng đến người chiến thắng.",
+                            "stringId": "1800910431489605632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bây giờ chúng ta hãy xem liệu Peralez có thể thực hiện được những lời hứa đầy tham vọng trong chiến dịch tranh cử của mình hay không.",
+                            "maleVariant": "Bây giờ chúng ta hãy xem liệu Peralez có thể thực hiện được những lời hứa đầy tham vọng trong chiến dịch tranh cử của mình hay không.",
+                            "stringId": "1800910582752985088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sau giờ nghỉ - Khi nào Corsairs sẽ chấm dứt chuỗi trận thua của họ?",
+                            "maleVariant": "Sau giờ nghỉ - Khi nào Corsairs sẽ chấm dứt chuỗi trận thua của họ?",
+                            "stringId": "1800910893064372224"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

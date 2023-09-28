@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:07.7518026Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_jpn_chat_001.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So stop paying 'em.",
+                            "maleVariant": "",
+                            "stringId": "1806820807778361344"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I stop paying them, they stop working for me.",
+                            "maleVariant": "",
+                            "stringId": "1806821301716377600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Then what those dealers gonna do? Go back to school? Get their master's?",
+                            "maleVariant": "",
+                            "stringId": "1806821546697285632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Gonna push back, that's for sure.",
+                            "maleVariant": "",
+                            "stringId": "1806821731213107200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So they push back. Then what?",
+                            "maleVariant": "",
+                            "stringId": "1806821901887725568"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dunno...",
+                            "maleVariant": "",
+                            "stringId": "1806822175222128640"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nothin', that's what. They come crawlin' back. And y'know what they learn?",
+                            "maleVariant": "",
+                            "stringId": "1806823683544178688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Without you, they're scum. They start givin' you some fuckin' respect. THAT's when you start payin' 'em again.",
+                            "maleVariant": "",
+                            "stringId": "1806824014894194688"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

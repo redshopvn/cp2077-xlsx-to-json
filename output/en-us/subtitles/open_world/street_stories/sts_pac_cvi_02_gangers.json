@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:09.5160554Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_pac_cvi_02_gangers.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "OK, mày có thể kiểm tra nguồn cấp dữ liệu bên phía mày không?",
+                            "maleVariant": "OK, mày có thể kiểm tra nguồn cấp dữ liệu bên phía mày không?",
+                            "stringId": "1400882961402900480"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah...",
+                            "maleVariant": "",
+                            "stringId": "1400913327140450304"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Được rồi, tao sẽ đợi trên lầu. Hãy cho tao biết khi mày đã sẵn sàng.",
+                            "maleVariant": "Được rồi, tao sẽ đợi trên lầu. Hãy cho tao biết khi mày đã sẵn sàng.",
+                            "stringId": "1419997132761411584"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Maelstrom, anh bạn... Dễ như nhai kẹo vậy.",
+                            "maleVariant": "Maelstrom, anh bạn... Dễ như nhai kẹo vậy.",
+                            "stringId": "1617198252343504896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Lừa chúng như con chó.",
+                            "maleVariant": "Lừa chúng như con chó.",
+                            "stringId": "1617198252343504904"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nếu chúng ta say rồi quẩy nát Totentanz, chúng sẽ ngồi đếm xác cho đến thứ ba tuần sau. Nếu chúng còn có thể đếm.",
+                            "maleVariant": "Nếu chúng ta say rồi quẩy nát Totentanz, chúng sẽ ngồi đếm xác cho đến thứ ba tuần sau. Nếu chúng còn có thể đếm.",
+                            "stringId": "1617198252343504912"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Heh! Ý hay cho đêm Thứ Sáu đấy.",
+                            "maleVariant": "Heh! Ý hay cho đêm Thứ Sáu đấy.",
+                            "stringId": "1617205965265907712"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bạn ơi, chứ mày mong gì nữa? Cái bọn đó chắc cưa đầu nó ra luôn ấy chứ!",
+                            "maleVariant": "Bạn ơi, chứ mày mong gì nữa? Cái bọn đó chắc cưa đầu nó ra luôn ấy chứ!",
+                            "stringId": "1618186799212998656"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

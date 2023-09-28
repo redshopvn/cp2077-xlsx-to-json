@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:09.4701213Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_hey_spr_03_holocall_prebrief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có vài người du mục đang làm vài vụ trong quận của tôi, rồi bọn Tinos đã dạy cho họ một bài học - một bài học đau đớn.",
+                            "maleVariant": "Có vài người du mục đang làm vài vụ trong quận của tôi, rồi bọn Tinos đã dạy cho họ một bài học - một bài học đau đớn.",
+                            "stringId": "2328535557848657920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Những người du mục tìm đến tôi. Muộn còn hơn không.",
+                            "maleVariant": "Những người du mục tìm đến tôi. Muộn còn hơn không.",
+                            "stringId": "2334570360105320448"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô sẽ giúp họ giải quyết mọi việc chứ hả? Xem tin nhắn đi.",
+                            "maleVariant": "Cậu sẽ giúp họ giải quyết mọi việc chứ hả? Xem tin nhắn đi.",
+                            "stringId": "2334570521468583936"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

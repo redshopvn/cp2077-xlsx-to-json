@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.7729606Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\pac_cvi_foodshop_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cần tìm gì ăn cho no bụng.",
+                            "maleVariant": "Cần tìm gì ăn cho no bụng.",
+                            "stringId": "1885143479083102208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thấy thế nào khi bị hai băng đảng kiểm soát?",
+                            "maleVariant": "Thấy thế nào khi bị hai băng đảng kiểm soát?",
+                            "stringId": "1885143479099879424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cần tìm gì ăn cho no bụng.",
+                            "maleVariant": "Cần tìm gì ăn cho no bụng.",
+                            "stringId": "1885143479133433860"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi có thể lấy gì cho cô?",
+                            "maleVariant": "Tôi có thể lấy gì cho cậu?",
+                            "stringId": "1885143479133433868"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thấy thế nào khi bị hai băng đảng cai trị?",
+                            "maleVariant": "Thấy thế nào khi bị hai băng đảng cai trị?",
+                            "stringId": "1885143479183765508"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Khi hai kẻ đánh nhau, kẻ thứ ba sẽ làm ngơ chờ kẻ thắng cuộc. Đó là tôi đấy.",
+                            "maleVariant": "Khi hai kẻ đánh nhau, kẻ thứ ba sẽ làm ngơ chờ kẻ thắng cuộc. Đó là tôi đấy.",
+                            "stringId": "1885143479183765516"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

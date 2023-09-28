@@ -1,0 +1,111 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:15.1047095Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\voicesets\\civ_low_f_125_car_10_chd.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hello, ma'am!",
+                            "maleVariant": "Hello, mister!",
+                            "stringId": "1949199712123920388"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Where are you going?",
+                            "maleVariant": "",
+                            "stringId": "1949199712140697604"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Woah!",
+                            "maleVariant": "",
+                            "stringId": "1949199712191029252"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I almost fell!",
+                            "maleVariant": "",
+                            "stringId": "1949199712207806468"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hi.",
+                            "maleVariant": "",
+                            "stringId": "1949199712241360900"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I ate it… Him too… Everything's OK… I will, soon!",
+                            "maleVariant": "",
+                            "stringId": "1949199712291692548"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Can you give us candy…? Awesome…! I want a red one – my favorite.",
+                            "maleVariant": "",
+                            "stringId": "1949199712308469764"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bye!",
+                            "maleVariant": "",
+                            "stringId": "1949199712342024196"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Somebody help me!",
+                            "maleVariant": "",
+                            "stringId": "1949199712476241924"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "She's chasin' me!",
+                            "maleVariant": "He's chasin' me!",
+                            "stringId": "1949199712493019140"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I was good!",
+                            "maleVariant": "",
+                            "stringId": "1949199712576905220"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Agh! Why are you doing this?",
+                            "maleVariant": "",
+                            "stringId": "1949199712593682436"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Are you lost, ma'am?",
+                            "maleVariant": "Are you lost, mister?",
+                            "stringId": "1949199712677568516"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What are you doing...?",
+                            "maleVariant": "",
+                            "stringId": "1949199712694345732"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

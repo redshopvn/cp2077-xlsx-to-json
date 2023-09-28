@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:09.2188169Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_hey_rey_06_civilians.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Alberto là một người đàn ông đặc biệt. Đặc biệt. Trong khó khăn, anh kiên cường và khiêm tốn. Và trong những lúc tốt đẹp, nụ cười của anh ấy thắp sáng ngời ngợi cả thế giới.",
+                            "maleVariant": "Alberto là một người đàn ông đặc biệt. Đặc biệt. Trong khó khăn, anh kiên cường và khiêm tốn. Và trong những lúc tốt đẹp, nụ cười của anh ấy thắp sáng ngời ngợi cả thế giới.",
+                            "stringId": "1318502328777650176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hôm nay chúng ta nói lời tạm biệt. Nhưng chúng ta nói mà nhẹ lòng, vì chúng ta biết rằng chúng ta sẽ gặp lại nhau, trong ngôi nhà của Chúa chúng ta.",
+                            "maleVariant": "Hôm nay chúng ta nói lời tạm biệt. Nhưng chúng ta nói mà nhẹ lòng, vì chúng ta biết rằng chúng ta sẽ gặp lại nhau, trong ngôi nhà của Chúa chúng ta.",
+                            "stringId": "1318512429399879680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái gì... cái gì trong tên của Chúa vậy?!",
+                            "maleVariant": "Cái gì... cái gì trong tên của Chúa vậy?!",
+                            "stringId": "1319566990218702848"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có ai đó tắt nó đi!",
+                            "maleVariant": "Có ai đó tắt nó đi!",
+                            "stringId": "1319566990218702864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bố? Bố ơi?!",
+                            "maleVariant": "Bố? Bố ơi?!",
+                            "stringId": "1512790672339447808"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Con sẽ nhớ bố lắm, bố ơi. Con... Con sẵn sàng rồi.",
+                            "maleVariant": "Con sẽ nhớ bố lắm, bố ơi. Con... Con sẵn sàng rồi.",
+                            "stringId": "1512800379569516544"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

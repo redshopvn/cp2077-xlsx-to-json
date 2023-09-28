@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.7096443Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_south_015.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They're not my boxes! I don't know anything about them!",
+                            "maleVariant": "",
+                            "stringId": "2178251593605439488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They were in your car.",
+                            "maleVariant": "",
+                            "stringId": "2182404798256209920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The car's not mine!",
+                            "maleVariant": "",
+                            "stringId": "2182409824810786816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No, no! So-- no, some… some tourist got lost in the Badlands. I gave her directions, and she left me this... wreck for me to hold on to.",
+                            "maleVariant": "",
+                            "stringId": "2182410033435467776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So you stole her car.",
+                            "maleVariant": "",
+                            "stringId": "2182411254279921664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yes! No. No!",
+                            "maleVariant": "",
+                            "stringId": "2182412606557085696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All right. Just shut the fuck up, let me focus for two goddamn seconds.",
+                            "maleVariant": "",
+                            "stringId": "2182412942655053824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You came here in it. You tried to cross the border in it.",
+                            "maleVariant": "",
+                            "stringId": "2182431601049952256"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

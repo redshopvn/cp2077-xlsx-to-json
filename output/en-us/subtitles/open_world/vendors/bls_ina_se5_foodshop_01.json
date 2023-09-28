@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.3408174Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\bls_ina_se5_foodshop_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có món gì ngon ở đây không?",
+                            "maleVariant": "Có món gì ngon ở đây không?",
+                            "stringId": "1935695189159358464"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nghe mùi hương mà muốn chảy nước bọt.",
+                            "maleVariant": "Nghe mùi hương mà muốn chảy nước bọt.",
+                            "stringId": "1935695189159358480"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có món gì ngon ở đây không?",
+                            "maleVariant": "Có món gì ngon ở đây không?",
+                            "stringId": "1935695189209690116"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dạ có, thưa cô.",
+                            "maleVariant": "Dạ có, thưa anh.",
+                            "stringId": "1935695189209690124"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nghe mùi hương mà muốn chảy nước bọt.",
+                            "maleVariant": "Nghe mùi hương mà muốn chảy nước bọt.",
+                            "stringId": "1935695189243244548"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tỏi xào bơ đấy. Mm-mmm! Mùi hương thơm nhất trên thế giới.",
+                            "maleVariant": "Tỏi xào bơ đấy. Mm-mmm! Mùi hương thơm nhất trên thế giới.",
+                            "stringId": "1935695189243244556"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

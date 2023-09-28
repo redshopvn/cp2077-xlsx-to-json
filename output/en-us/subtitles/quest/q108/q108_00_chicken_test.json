@@ -1,0 +1,111 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:38.0945812Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\q108\\q108_00_chicken_test.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Start at Server Floor",
+                            "maleVariant": "[db_db]Tower memory Start",
+                            "stringId": "1166030397884137472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Back...",
+                            "maleVariant": "",
+                            "stringId": "1166031550227218432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Combat Starts [Atlantis]",
+                            "maleVariant": "[db_db]Porsche [Escape from Atlantis]",
+                            "stringId": "1166031873272512520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Back...",
+                            "maleVariant": "[db_db]More...",
+                            "stringId": "1166031873272512524"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Mainframe Access",
+                            "maleVariant": "[db_db]Tower memory Server Floor",
+                            "stringId": "1529986213590507520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Club Start At Entrance",
+                            "maleVariant": "[db_db]Atlantis Memory",
+                            "stringId": "1569159172087259136"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Mainframe",
+                            "maleVariant": "[db_db]Tower memory Mainframe",
+                            "stringId": "1570541456510066688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Car Chase",
+                            "maleVariant": "",
+                            "stringId": "1718802570225295360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db][Quickstart from begnining]",
+                            "maleVariant": "",
+                            "stringId": "1761945560888025092"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db][Debug Options]",
+                            "maleVariant": "",
+                            "stringId": "1761945903227117568"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Combat outside [Parking Lot]",
+                            "maleVariant": "",
+                            "stringId": "1761961058707087360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Hidden Alley",
+                            "maleVariant": "",
+                            "stringId": "1995335047184293888"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Riots",
+                            "maleVariant": "",
+                            "stringId": "2360481673038962688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[db_db]Finale",
+                            "maleVariant": "",
+                            "stringId": "2360483774804697088"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

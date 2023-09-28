@@ -1,0 +1,81 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:07.8433045Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_jpn_chat_036.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Have you tried seeking professional help, ma'am?",
+                            "maleVariant": "",
+                            "stringId": "2196683183746293760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You mean... an exorcist?",
+                            "maleVariant": "",
+                            "stringId": "2196683934845476864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No, ma'am... I mean an electrician – it could just be voltage fluctuations.",
+                            "maleVariant": "",
+                            "stringId": "2196684091225907200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Voltage fluctuations don't try to murder you in your sleep!",
+                            "maleVariant": "",
+                            "stringId": "2196686495887499264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'm telling the truth – my appliances are possessed!",
+                            "maleVariant": "",
+                            "stringId": "2212815768977252352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The lights flicker on and off, the T.V. changes channels by itself, and the thermostat – don't get me started on the thermostat!",
+                            "maleVariant": "",
+                            "stringId": "2212817761456201728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Right, OK... Well in that case I'd go with incense. You have to fumigate all your electrical appliances three times a day.",
+                            "maleVariant": "",
+                            "stringId": "2212843992364982272"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And the thermostat? That too?",
+                            "maleVariant": "",
+                            "stringId": "2212847225972039680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh, five times for the thermostat, minimum.",
+                            "maleVariant": "",
+                            "stringId": "2212847303013015552"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

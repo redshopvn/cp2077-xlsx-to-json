@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.7811981Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\pac_wwd_guns_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi cần vũ khí mới.",
+                            "maleVariant": "Tôi cần vũ khí mới.",
+                            "stringId": "1886574749301157888"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Voodoo Boys nay bán cả vũ khí à?",
+                            "maleVariant": "Voodoo Boys nay bán cả vũ khí à?",
+                            "stringId": "1886574749317935112"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi cần vài khẩu súng mới.",
+                            "maleVariant": "Tôi cần vài khẩu súng mới.",
+                            "stringId": "1886574749334712324"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chọn đi.",
+                            "maleVariant": "Chọn đi.",
+                            "stringId": "1886574749351489536"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không biết nay Voodoo Boys bán cả vũ khí đấy.",
+                            "maleVariant": "Không biết nay Voodoo Boys bán cả vũ khí đấy.",
+                            "stringId": "1886574749368266756"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi không phải thành viên của Voodoo Boys. Không còn nữa. Họ không thích bắn người ngoài đời thật, còn nói như vậy thật là thiếu liêm sỉ.",
+                            "maleVariant": "Tôi không phải thành viên của Voodoo Boys. Không còn nữa. Họ không thích bắn người ngoài đời thật, còn nói như vậy thật là thiếu liêm sỉ.",
+                            "stringId": "1886574749368266764"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi cũng từng nghĩ như vậy.",
+                            "maleVariant": "Tôi cũng từng nghĩ như vậy.",
+                            "stringId": "1983631943261732864"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

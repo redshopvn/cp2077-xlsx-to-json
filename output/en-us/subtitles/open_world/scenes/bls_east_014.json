@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.5836961Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_east_014.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ugh, sure is a scorcher. The power's out again, I can't even get a fan goin'.",
+                            "maleVariant": "",
+                            "stringId": "2189456006657564672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"はあ、本当困るわよね。水も出ないし。でも仕方ないから。ところで新しい仕事はどう？\" t=\"Oof. Tell me about it. Water's out, too. But what can you do, you know? How's things in the new job?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2189472625848967168"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Barely keepin' up with all those orders. But at least I get to take the leftovers home.",
+                            "maleVariant": "",
+                            "stringId": "2189475760571113472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"へえ、何かいいのがあったら分けてよ。食べ物はいつでも大歓迎よ\" t=\"Oooh. Well, if you get your hands on something good, you know I'm always hungry.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2189482292226514944"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nah, I don't touch the ganic stuff. Small portions, and what's there is gross. Took some home once, we all got sick.",
+                            "maleVariant": "",
+                            "stringId": "2189482860722479104"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"コックが中に唾入れてたりして\" t=\"I bet if someone orders fresh, the cooks just spit in it.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2189495729048477696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hell, I'd spit too, if I wasn't afraid they'd trace my DNA. Or catch me on camera.",
+                            "maleVariant": "",
+                            "stringId": "2189496390104342528"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

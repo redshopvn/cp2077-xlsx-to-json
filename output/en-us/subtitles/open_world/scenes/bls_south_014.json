@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.7067893Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_south_014.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Woman and the kid can go. You – you stay here with us.",
+                            "maleVariant": "",
+                            "stringId": "2178243834931568640"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But what's goin' on?",
+                            "maleVariant": "",
+                            "stringId": "2182332323065454592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Unpaid parking tickets.",
+                            "maleVariant": "",
+                            "stringId": "2182343683354615808"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The hell are you talking about?!",
+                            "maleVariant": "",
+                            "stringId": "2182349234918612992"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Relax. How much? We'll pay right now.",
+                            "maleVariant": "",
+                            "stringId": "2182349498354458624"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All fees must be paid in person at city hall or at the police station nearest to the citizen's place of residence.",
+                            "maleVariant": "",
+                            "stringId": "2182349868292071424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We're gonna miss our bus!",
+                            "maleVariant": "",
+                            "stringId": "2182351892580622336"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They can go. You're staying right here with us.",
+                            "maleVariant": "",
+                            "stringId": "2182352528168673280"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

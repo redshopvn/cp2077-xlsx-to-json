@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.5935204Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_east_018.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What's the plan once we reach the city?",
+                            "maleVariant": "",
+                            "stringId": "2189630218970030080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Well I'm going to see Lizzy Wizzy! I heard she's amazing onstage. Like, supernova.",
+                            "maleVariant": "",
+                            "stringId": "2189643038306557952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wow, who even knew she'd have the energy after all that shit she pulled with those anarchist gangoons.",
+                            "maleVariant": "",
+                            "stringId": "2189648064290709504"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What, you mean the Mox? She's got nothing to do with them.",
+                            "maleVariant": "",
+                            "stringId": "2189651387756535808"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, suuure. They even named their club after her. I was there, you know.",
+                            "maleVariant": "",
+                            "stringId": "2189651692900540416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, right. If you were really there, you'd know the club's named after some gangoon-killing badass.",
+                            "maleVariant": "",
+                            "stringId": "2189652102566600704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ugh, you sound like such a nomad. Nobody's gonna believe you're from Night City!",
+                            "maleVariant": "",
+                            "stringId": "2189654205036978176"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

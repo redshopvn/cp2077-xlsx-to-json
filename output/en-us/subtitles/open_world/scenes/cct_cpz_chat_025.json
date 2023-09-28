@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.8177791Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_cpz_chat_025.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And what year did the attack happen?",
+                            "maleVariant": "",
+                            "stringId": "2205812533449035776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "In 2023.",
+                            "maleVariant": "",
+                            "stringId": "2205812658976165888"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Correct. Now look carefully at what you see here. This is a place of remembrance, and in order to remember, you need to feel, to understand.",
+                            "maleVariant": "",
+                            "stringId": "2205812731302744064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Try to imagine that day for yourselves. The tragedy. Think about what the victims must have felt, their fear, their helplessness.",
+                            "maleVariant": "",
+                            "stringId": "2205815856394768384"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Think about the terrorists, too. How selfish, how unthinking you'd have to be to set off a bomb like that in the middle of the city.",
+                            "maleVariant": "",
+                            "stringId": "2205816600246194176"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Think about what cruel savages they must have been. Never, ever forget this place or the brutal act that was carried out right where you're walking now.",
+                            "maleVariant": "",
+                            "stringId": "2205817327169409024"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

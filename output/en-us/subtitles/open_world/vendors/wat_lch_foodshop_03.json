@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:13.2823430Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wat_lch_foodshop_03.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi có thể đặt món gì đây?",
+                            "maleVariant": "Tôi có thể đặt món gì đây?",
+                            "stringId": "1826989355775062016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thích nhạc ở đây đấy.",
+                            "maleVariant": "Thích nhạc ở đây đấy.",
+                            "stringId": "1826989355791839240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anh có món gì ở đây vậy?",
+                            "maleVariant": "Anh có món gì ở đây vậy?",
+                            "stringId": "1826989355825393664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chủ yếu là uống rượu. Nhưng không hẳn hoàn toàn là rượu thôi.",
+                            "maleVariant": "Chủ yếu là uống rượu. Nhưng không hẳn hoàn toàn là rượu thôi.",
+                            "stringId": "1826989355825393672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Giai điệu này hay đấy. ",
+                            "maleVariant": "Giai điệu này hay đấy. ",
+                            "stringId": "1826989355842170884"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vậy hả? Tôi cũng không biết nữa. Tôi đã lọc các bài hát và nhạc nền từ khi tôi bắt đầu làm ở đây. Tôi mà không làm thế chắc giờ tôi điếc vì nhạc ở đây rồi.",
+                            "maleVariant": "Vậy hả? Tôi cũng không biết nữa. Tôi đã lọc các bài hát và nhạc nền từ khi tôi bắt đầu làm ở đây. Tôi mà không làm thế chắc giờ tôi điếc vì nhạc ở đây rồi.",
+                            "stringId": "1826989355842170892"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.7754472Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\pac_cvi_medicstore_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi cần tư vấn y tế.",
+                            "maleVariant": "Tôi cần tư vấn y tế.",
+                            "stringId": "1885214881622552576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anh có bán hormone chứ?",
+                            "maleVariant": "Anh có bán hormone chứ?",
+                            "stringId": "1885214881622552592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Need an injector.",
+                            "maleVariant": "",
+                            "stringId": "1885214881656107012"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi đề nghị nên dùng tăng cường somatotropin. Cô nên làm gì đó với bắp tay của mình.",
+                            "maleVariant": "Tôi đề nghị nên dùng tăng cường somatotropin. Cậu nên làm gì đó với bắp tay của mình.",
+                            "stringId": "1885214881656107020"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anh có bán hormone modded chứ?",
+                            "maleVariant": "Anh có bán hormone modded chứ?",
+                            "stringId": "1885214881689661444"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tùy vào dịp và một nhóm khách hàng nhất định thôi. Chỉ khi nào họ cần giải phóng con thú bên trong mình... nếu cô hiểu ý tôi.",
+                            "maleVariant": "Tùy vào dịp và một nhóm khách hàng nhất định thôi. Chỉ khi nào họ cần giải phóng con thú bên trong mình... nếu cậu hiểu ý tôi.",
+                            "stringId": "1885214881689661452"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

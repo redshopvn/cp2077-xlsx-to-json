@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:02.4015179Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\conversation_street_new_scv_12.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Этот хуй ещё мне угрожает! Какие-то имена называет! А если он правда знает их всех?\" t=\"Fucker's starting to threaten me! Tossing around names! And what if he really does know them, huh? What then?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2276537882486415364"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"Может, блефует просто?\" t=\"Maybe he's just bluffing?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2276537882486415376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"rus\" o=\"«Мозет, он бьифуит?» Может, ты начнёшь уже что-то делать, чтобы его проверить?\" t=\"\\\"Maybe he's bluffing!\\\" Maybe you should make yourself fucking useful and find out!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2276537882486415388"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

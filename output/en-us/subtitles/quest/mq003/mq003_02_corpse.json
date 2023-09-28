@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:24.4682171Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\mq003\\mq003_02_corpse.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Máu ở khắp nơi. Đúng là tân binh.",
+                            "maleVariant": "Máu ở khắp nơi. Đúng là tân binh.",
+                            "stringId": "1789372348653252608"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đến đây một mình, không có hỗ trợ... Có lẽ là một giao kèo sai lầm.",
+                            "maleVariant": "Đến đây một mình, không có hỗ trợ... Có lẽ là một giao kèo sai lầm.",
+                            "stringId": "1789372363937296384"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Để xem ta có gì ở đây nào...",
+                            "maleVariant": "Để xem ta có gì ở đây nào...",
+                            "stringId": "1789378210981621764"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sẽ không cần đến cái này nữa...",
+                            "maleVariant": "Sẽ không cần đến cái này nữa...",
+                            "stringId": "1789405210169454592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Xác còn ấm...",
+                            "maleVariant": "Xác còn ấm...",
+                            "stringId": "1790776711892316160"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Các cơ vẫn chưa cứng ... Vừa chết vài giờ thôi.",
+                            "maleVariant": "Các cơ vẫn chưa cứng ... Vừa chết vài giờ thôi.",
+                            "stringId": "1855953953139863552"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

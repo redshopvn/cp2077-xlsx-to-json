@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.5991848Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_east_020.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We've got to do something about them.",
+                            "maleVariant": "",
+                            "stringId": "2178254088027054080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nah, better keep away from the Wraiths. You know what they can do.",
+                            "maleVariant": "",
+                            "stringId": "2181051025136009216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I do. And that's why we've got to do something. Remember what happened to Jim?",
+                            "maleVariant": "",
+                            "stringId": "2181051218107547648"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Remember? We're the ones who found him. I mean, what was left of him.",
+                            "maleVariant": "",
+                            "stringId": "2181051344003776512"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Christ, what kind of monster ties someone to a motorcycle and drags them all that way?",
+                            "maleVariant": "",
+                            "stringId": "2181051568164159488"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I still get nightmares where he's screaming... Even though I didn't hear it in real life... Just this howl.",
+                            "maleVariant": "",
+                            "stringId": "2181051879549288448"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fucking animals, all of them.",
+                            "maleVariant": "",
+                            "stringId": "2181052939852562432"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

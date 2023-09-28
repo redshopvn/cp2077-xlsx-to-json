@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.0217924Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\q104_02_av_down_news.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chúng tôi vừa nhận được một tin nóng hổi - một chiếc Kang Tao AV đã bị rơi bên ngoài Night City.",
+                            "maleVariant": "Chúng tôi vừa nhận được một tin nóng hổi - một chiếc Kang Tao AV đã bị rơi bên ngoài Night City.",
+                            "stringId": "1745883341299179520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Các động cơ của máy bay đã bị vô hiệu hóa do một nhà máy điện bị hỏng gần đó ở Santo Domingo phóng điện EMP đột ngột. Nỗ lực hạ cánh khẩn cấp có vẻ không thành công.",
+                            "maleVariant": "Các động cơ của máy bay đã bị vô hiệu hóa do một nhà máy điện bị hỏng gần đó ở Santo Domingo phóng điện EMP đột ngột. Nỗ lực hạ cánh khẩn cấp có vẻ không thành công.",
+                            "stringId": "1745883713468162048"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Những hành khách sống sót sau vụ hạ cánh đã gặp phải một nhóm du mục.",
+                            "maleVariant": "Những hành khách sống sót sau vụ hạ cánh đã gặp phải một nhóm du mục.",
+                            "stringId": "1745883970629328896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "May mắn thay, các nhân viên an ninh còn sống sót của Kang Tao đã chống đỡ được cuộc tấn công mà không bị tổn thất thêm.",
+                            "maleVariant": "May mắn thay, các nhân viên an ninh còn sống sót của Kang Tao đã chống đỡ được cuộc tấn công mà không bị tổn thất thêm.",
+                            "stringId": "1745884119359348736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tập Đoàn đã tuyên bố sẽ có những phản ứng mạnh mẽ chống lại các trại của bọn du mục.",
+                            "maleVariant": "Tập Đoàn đã tuyên bố sẽ có những phản ứng mạnh mẽ chống lại các trại của bọn du mục.",
+                            "stringId": "1745884264566153216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sau giờ nghỉ - Thị Trưởng Myers đã đưa ra một tuyên bố về dòng người tị nạn từ Hà Lan.",
+                            "maleVariant": "Sau giờ nghỉ - Thị Trưởng Myers đã đưa ra một tuyên bố về dòng người tị nạn từ Hà Lan.",
+                            "stringId": "1745884564140122112"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

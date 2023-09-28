@@ -1,0 +1,57 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.0056532Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\media\\quests\\q005_01_additional_news_saburo_death.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chúng ta quay trở lại tin chấn động nhất của tuần này - vụ sát hại vị CEO Tập đoàn Arasaka - Ngài Saburo Arasaka.",
+                            "maleVariant": "Chúng ta quay trở lại tin chấn động nhất của tuần này - vụ sát hại vị CEO Tập đoàn Arasaka - Ngài Saburo Arasaka.",
+                            "stringId": "1743065729017892864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Người đứng đầu lâu năm của siêu tập đoàn Nhật Bản được cho là đã bị giết trong khuôn viên của khách sạn tập đoàn Konpeki Plaza khi đang tham dự một buổi họp mặt gia đình.",
+                            "maleVariant": "Người đứng đầu lâu năm của siêu tập đoàn Nhật Bản được cho là đã bị giết trong khuôn viên của khách sạn tập đoàn Konpeki Plaza khi đang tham dự một buổi họp mặt gia đình.",
+                            "stringId": "1743067415698526208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Con trai của Saburo Arasaka, Yorinobu Arasaka, đã đổ lỗi vụ giết cha mình cho các đối thủ của tập đoàn, mặc dù anh ta vẫn chưa cung cấp bằng chứng chứng minh cho tuyên bố này.",
+                            "maleVariant": "Con trai của Saburo Arasaka, Yorinobu Arasaka, đã đổ lỗi cho vụ giết cha mình cho các đối thủ của tập đoàn, mặc dù anh ta vẫn chưa cung cấp bằng chứng chứng minh cho tuyên bố này.",
+                            "stringId": "1743068079254196224"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Theo các chuyên gia phân tích thị trường, cái chết của vị CEO này có thể là một nỗ lực tuyệt vọng để chuyển hướng sự chú ý khỏi các vấn đề nội bộ đang diễn ra của tập đoàn.",
+                            "maleVariant": "Theo các chuyên gia phân tích thị trường, cái chết của vị CEO này có thể là một nỗ lực tuyệt vọng để chuyển hướng sự chú ý khỏi các vấn đề nội bộ đang diễn ra của tập đoàn.",
+                            "stringId": "1743068428371283968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sau giờ nghỉ, chúng tôi sẽ hỏi các chuyên gia cách họ nhìn nhận về sự hồi phục của Arasaka sau cuộc khủng hoảng.",
+                            "maleVariant": "Sau giờ nghỉ, chúng tôi sẽ hỏi các chuyên gia cách họ nhìn nhận về sự hồi phục của Arasaka sau cuộc khủng hoảng.",
+                            "stringId": "1743068898670202880"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

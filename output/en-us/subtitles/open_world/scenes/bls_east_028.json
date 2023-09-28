@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.6218595Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_east_028.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Corpos're different.",
+                            "maleVariant": "",
+                            "stringId": "2178309187424296960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You work one of their convoys, you don't ask questions.",
+                            "maleVariant": "",
+                            "stringId": "2211220309724557312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Just do what they say. Keep your trap shut.",
+                            "maleVariant": "",
+                            "stringId": "2211220627518582784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, yeah.",
+                            "maleVariant": "",
+                            "stringId": "2211221000090218496"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nope, not even a \"yeah,\" girl. They don't like how you breathe, they'll shoot ya.",
+                            "maleVariant": "",
+                            "stringId": "2211221194722701312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Come on. Don't need you tellin' me horror stories.",
+                            "maleVariant": "",
+                            "stringId": "2211222088327557120"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Horror stories? Whattaya think happened to the choom here before you?",
+                            "maleVariant": "",
+                            "stringId": "2211222315977601024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We're dime a dozen, girl. Cheaper, even. So keep your head on straight.",
+                            "maleVariant": "",
+                            "stringId": "2211237115646373888"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

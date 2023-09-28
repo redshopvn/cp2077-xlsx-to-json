@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.4360754Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_wat_nid_01_holocall_brief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tất cả các mạng lưới NCPD - Rà soát khẩn hoạt động tội phạm có tổ chức được cáo buộc gần Đường Ross và Shipyard Way.",
+                            "maleVariant": "Tất cả các mạng lưới NCPD - Rà soát khẩn hoạt động tội phạm có tổ chức được cáo buộc gần Đường Ross và Shipyard Way.",
+                            "stringId": "2328558570247282688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đám Scavenger do Yelena Sidorova cầm đầu - được cho là có vũ trang và nguy hiểm - đã tấn công nhiều người vô gia cư.",
+                            "maleVariant": "Đám Scavenger do Yelena Sidorova cầm đầu - được cho là có vũ trang và nguy hiểm - đã tấn công nhiều người vô gia cư.",
+                            "stringId": "2352102691805958144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Night City officials are offering a reward for neutralizing the threat.",
+                            "maleVariant": "",
+                            "stringId": "2352105436206174208"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

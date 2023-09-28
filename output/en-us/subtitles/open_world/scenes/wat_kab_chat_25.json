@@ -1,0 +1,87 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.8222215Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_kab_chat_25.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey! Hey, you see that?!",
+                            "maleVariant": "",
+                            "stringId": "2156545368278933504"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "That... thing! Right over there!",
+                            "maleVariant": "",
+                            "stringId": "2236349588569432064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fuck you smokin', choom? I didn't see no \"thing.\"",
+                            "maleVariant": "",
+                            "stringId": "2236350442345177088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, you didn't! But I did! It was like... some kinda glitch!",
+                            "maleVariant": "",
+                            "stringId": "2236352437609144320"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Just for a split-second, it was... beautiful and scary as fuck. Light spliced with dark – like I stared at the sun for too long.",
+                            "maleVariant": "",
+                            "stringId": "2236353175722762240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Time to debug your optics, hm?",
+                            "maleVariant": "",
+                            "stringId": "2236355197444399104"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ripperdoc told me the same thing, as if I didn't swap 'em out already twice this year.",
+                            "maleVariant": "",
+                            "stringId": "2236355400952029184"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Shit... well, you need to do something about that. Don't want MaxTac busting down your door.",
+                            "maleVariant": "",
+                            "stringId": "2236359812973961216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "'Ey, fuck you, man! I'm fine, all right! I just... I just need a break.",
+                            "maleVariant": "",
+                            "stringId": "2236361447913660416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Good idea. You do that. And, uh, about that other gig? We've got you covered, don't sweat it. Just go home, get some sleep... or whatever.",
+                            "maleVariant": "",
+                            "stringId": "2236374073171353600"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

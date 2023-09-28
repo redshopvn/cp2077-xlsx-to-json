@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.4024346Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_arr_chat_026.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What a surprise – visiting hours canceled again. Those fuckers...",
+                            "maleVariant": "",
+                            "stringId": "2168020971862544384"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"そんな汚い言葉どこで覚えたの！？\" t=\"Who taught you to swear like that?!\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2211115407160074240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hm, let's see, maybe my skull-sponged excuse of a dad who can't even get his own family to visit him?!",
+                            "maleVariant": "",
+                            "stringId": "2212920687040618496"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"な… 何言ってるの？\" t=\"What? What does that mean?\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2212921360427737088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Don't ask me to come here anymore. It's a fucking waste of time...",
+                            "maleVariant": "",
+                            "stringId": "2212923417566076928"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"あなたのお父さんなのよ…\" t=\"But he's your father...\" b=\"\" a=\"\"/>",
+                            "maleVariant": "",
+                            "stringId": "2212925494769967104"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "If he was a real father, he wouldn't have gotten himself thrown in jail! And then, we come all this way, and he can't even bribe the guards?!",
+                            "maleVariant": "",
+                            "stringId": "2212925712185909248"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

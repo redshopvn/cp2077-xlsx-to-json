@@ -1,0 +1,81 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:07.8952238Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_nok_chat_020.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We're a little short this week.",
+                            "maleVariant": "",
+                            "stringId": "2159444640469065728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "How come? I looked the other way, as usual. What's your excuse?",
+                            "maleVariant": "",
+                            "stringId": "2199601391759192064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Raffens ambushed the transport. Held them off, but... we lost part of the goods.",
+                            "maleVariant": "",
+                            "stringId": "2199603648479293440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Well then, that makes me worry about our little deal.",
+                            "maleVariant": "",
+                            "stringId": "2199605527007391744"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Don't worry, you'll get your cut. We're collecting a shipment from Sacramento next month. Preem-grade.",
+                            "maleVariant": "",
+                            "stringId": "2199607514755166208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'll toss in a bonus for your trouble.",
+                            "maleVariant": "",
+                            "stringId": "2199608061608521728"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Now that's what I like to hear. Solutions, my friend, solutions.",
+                            "maleVariant": "",
+                            "stringId": "2199608539138420736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So... we're good, right?",
+                            "maleVariant": "",
+                            "stringId": "2199609173971496960"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We're good. For now.",
+                            "maleVariant": "",
+                            "stringId": "2199609279483408384"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

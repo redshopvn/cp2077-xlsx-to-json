@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:13.5250431Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wbr_jpn_medic_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi cần một bác sĩ.",
+                            "maleVariant": "Tôi cần một bác sĩ.",
+                            "stringId": "1885160209220255744"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi hy vọng có cái gì đó tác dụng mạnh",
+                            "maleVariant": "Tôi hy vọng có cái gì đó tác dụng mạnh",
+                            "stringId": "1885160209220255760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi cần một bác sĩ.",
+                            "maleVariant": "Tôi cần một bác sĩ.",
+                            "stringId": "1885160209270587396"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi có thể giúp gì?",
+                            "maleVariant": "Tôi có thể giúp gì?",
+                            "stringId": "1885160209270587404"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không biết anh có loại \"vitamin\" nào dưới quầy nhỉ.",
+                            "maleVariant": "Không biết anh có loại \"vitamin\" nào dưới quầy nhỉ.",
+                            "stringId": "1885160209354473476"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi hiểu anh không tìm được vitamin C trên thị trường để mua... Vâng, tôi nghĩ chúng tôi có rất nhiều thứ mà cô cần đó.",
+                            "maleVariant": "Tôi hiểu anh không tìm được vitamin C trên thị trường để mua... Vâng, tôi nghĩ chúng tôi có rất nhiều thứ mà cậu cần đó.",
+                            "stringId": "1885160209371250688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nhưng nếu có ai mặc áo xanh hỏi, thì coi như cô chưa từng ở đây nhé.",
+                            "maleVariant": "Nhưng nếu có ai mặc áo xanh hỏi, thì coi như cậu chưa từng ở đây nhé.",
+                            "stringId": "1979441176302112768"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

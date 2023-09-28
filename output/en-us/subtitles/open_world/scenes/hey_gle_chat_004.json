@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:03.7088980Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_gle_chat_004.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "He was choking on his own blood, you know? He was all blue, thrashing, screaming like… like an animal.",
+                            "maleVariant": "",
+                            "stringId": "1832711855796772864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nobody helped him?",
+                            "maleVariant": "",
+                            "stringId": "1832714307250020352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "We tried, but what can you do… they shut down his implants, that was that.",
+                            "maleVariant": "",
+                            "stringId": "1832715178574733312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Kate said he worked for Petrochem.",
+                            "maleVariant": "",
+                            "stringId": "1832715323261444096"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah. Corp just flipped the switch, no warning. Lungs, legs… Christ, even his eyes.",
+                            "maleVariant": "",
+                            "stringId": "1832715493969616896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wasn't that the guy in charge of the Argentina contract?",
+                            "maleVariant": "",
+                            "stringId": "1832715650232606720"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yep. Was.",
+                            "maleVariant": "",
+                            "stringId": "1832715794902540288"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

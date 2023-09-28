@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.9399874Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_033.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You think they'll really pass it?",
+                            "maleVariant": "",
+                            "stringId": "2172284434747469824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hah, let the fuckers try! Goes against basic human rights.",
+                            "maleVariant": "",
+                            "stringId": "2180889295592341504"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "How can you make a passenger buy two tickets just 'cause she weighs more?",
+                            "maleVariant": "",
+                            "stringId": "2180889442946629632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "'Cause to them, we're not passengers, we're eddie signs.",
+                            "maleVariant": "",
+                            "stringId": "2180889604259561472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Shit... Either I'm gonna have to quit usin' the train, or I'ma go broke! For real!",
+                            "maleVariant": "",
+                            "stringId": "2180889940609187840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Pssht, yeah, go ahead and quit. You gonna just walk everywhere?",
+                            "maleVariant": "",
+                            "stringId": "2180890059526094848"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ugh... Fucking NCART...",
+                            "maleVariant": "",
+                            "stringId": "2180890266775044096"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

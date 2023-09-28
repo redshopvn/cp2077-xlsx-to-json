@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.2615855Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\bls_ina_se1_foodshop_03.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có món gì ngon không?",
+                            "maleVariant": "Có món gì ngon không?",
+                            "stringId": "1935665706222137344"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wraiths lại gây rắc rối cho anh hả?",
+                            "maleVariant": "Wraiths lại gây rắc rối cho anh hả?",
+                            "stringId": "1935665706222137360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có món gì ngon không?",
+                            "maleVariant": "Có món gì ngon không?",
+                            "stringId": "1935665706255691776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có. Cùng một phiếu giảm giá cho cô.",
+                            "maleVariant": "Có. Cùng một phiếu giảm giá cho anh.",
+                            "stringId": "1935665706255691784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Wraiths gây rắc rối nhiều cho anh không?",
+                            "maleVariant": "Wraiths gây rắc rối nhiều cho anh không?",
+                            "stringId": "1935665706289246212"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chúng phá hoại ở đây được một thời gian rồi. Không phải cho đến bây giờ tất cả những gì tôi phải làm là rút súng ra và chúng sẽ lấy hết mọi thứ sao. Bây giờ... bây giờ tôi không biết nữa.",
+                            "maleVariant": "Chúng phá hoại ở đây được một thời gian rồi. Không phải cho đến bây giờ tất cả những gì tôi phải làm là rút súng ra và chúng sẽ lấy hết mọi thứ sao. Bây giờ... bây giờ tôi không biết nữa.",
+                            "stringId": "1935665706306023424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vãi cứt... Cảm ơn cô. Tí nữa thì tiêu.",
+                            "maleVariant": "Vãi cứt... Cảm ơn anh. Tí nữa thì tiêu.",
+                            "stringId": "1975137452373102592"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

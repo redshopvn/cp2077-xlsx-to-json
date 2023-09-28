@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.6433095Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_rcr_chat_028.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tao không hiểu được, bạn hiền à. Tao cứ nghĩ mãi nghĩ mãi mà không hiểu ra nổi.",
+                            "maleVariant": "",
+                            "stringId": "2167915868692697088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hiểu ra gì cơ chứ?",
+                            "maleVariant": "",
+                            "stringId": "2182248835446001664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đống thức ăn trong thùng rác đó thay. Toàn đồ ngon! Nếu bọn họ không muốn ăn thì tại sao không đơn giản cho tụi mình đi chứ?",
+                            "maleVariant": "",
+                            "stringId": "2182248903511166976"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bởi vì bọn họ thậm chí còn chẳng nghĩ tới chúng ta đó. Đơn giản vậy thôi.",
+                            "maleVariant": "",
+                            "stringId": "2182249951214751744"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.6298230Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_east_031.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Maybe we could go to the city?",
+                            "maleVariant": "",
+                            "stringId": "2178316214208897024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "See that guy about a braindance?",
+                            "maleVariant": "",
+                            "stringId": "2211347860069478400"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No, he's out. They raided his place a few days ago.",
+                            "maleVariant": "",
+                            "stringId": "2211348495707860992"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Well, we could, but we still owe them for the paint, so...",
+                            "maleVariant": "",
+                            "stringId": "2211351166925860864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Shit, you're right.",
+                            "maleVariant": "",
+                            "stringId": "2211352054893572096"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So... What's the plan?",
+                            "maleVariant": "",
+                            "stringId": "2211410190715252736"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ehhh... Nothing. We wait. Something's bound to happen.",
+                            "maleVariant": "",
+                            "stringId": "2211466342144602112"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ugh, sucks.",
+                            "maleVariant": "",
+                            "stringId": "2211469859202723840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But... We could see if those Watson punks got some of those new turbocompressors?",
+                            "maleVariant": "",
+                            "stringId": "2211470115810242560"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

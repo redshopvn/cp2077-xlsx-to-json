@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.9662980Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\std_rcr_gunsmith_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đang tìm vài món vũ khí mới.",
+                            "maleVariant": "Đang tìm vài món vũ khí mới.",
+                            "stringId": "1828465168108400640"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Việc kinh doanh thế nào rồi?",
+                            "maleVariant": "Việc kinh doanh thế nào rồi?",
+                            "stringId": "1828465168108400656"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đang tìm vài món vũ khí mới.",
+                            "maleVariant": "Đang tìm vài món vũ khí mới.",
+                            "stringId": "1828465168125177860"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đừng tìm đâu xa. Tôi đảm bảo đấy.",
+                            "maleVariant": "Đừng tìm đâu xa. Tôi đảm bảo đấy.",
+                            "stringId": "1828465168141955072"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Việc kinh doanh thế nào rồi?",
+                            "maleVariant": "Việc kinh doanh thế nào rồi?",
+                            "stringId": "1828465168158732292"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tuyệt vời. Người dân ở Night City thà chết đói còn hơn đi loanh quanh với cây súng cùi bắp.",
+                            "maleVariant": "Tuyệt vời. Người dân ở Night City thà chết đói còn hơn đi loanh quanh với cây súng cùi bắp.",
+                            "stringId": "1828465168158732300"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

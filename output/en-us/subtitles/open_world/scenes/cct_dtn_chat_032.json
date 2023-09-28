@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.9371970Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_032.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Choom, focus! This next gig, it's gotta be nova! Not gettin' another chance!",
+                            "maleVariant": "",
+                            "stringId": "2172281829514260480"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, yeah, we'll kill it. Gonna be our big break.",
+                            "maleVariant": "",
+                            "stringId": "2180821017675153408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Not if you blow chunks all over the fuckin' stage again.",
+                            "maleVariant": "",
+                            "stringId": "2180821237825781760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All right, mom. I won't, I promise.",
+                            "maleVariant": "",
+                            "stringId": "2180821358336524288"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Can you just listen for once? I'm serious.",
+                            "maleVariant": "",
+                            "stringId": "2180821847677583360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Can you get off my ass for once? Mark pulls shit like that, too.",
+                            "maleVariant": "",
+                            "stringId": "2180821958289768448"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "When he goes to vocal and starts puking in the middle of the first verse, I'll give him shit too.",
+                            "maleVariant": "",
+                            "stringId": "2180822253837205504"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

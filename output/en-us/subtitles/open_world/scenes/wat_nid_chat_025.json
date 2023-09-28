@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:07.5667556Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_nid_chat_025.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ugh, you smell that? Fuckin' reeks...",
+                            "maleVariant": "",
+                            "stringId": "2156430155730903040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What's it this time?",
+                            "maleVariant": "",
+                            "stringId": "2172014120025178112"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Meat. Living, stinking flesh. What's the point of all this chrome if we still gotta swim in all these guts?",
+                            "maleVariant": "",
+                            "stringId": "2172014344705654784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "OK, first, they're in vitro guts. Second, they quit makin' em here forever ago.",
+                            "maleVariant": "",
+                            "stringId": "2172014616110678016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Third, quit mixin' biz and belief. Biz is biz.",
+                            "maleVariant": "",
+                            "stringId": "2172014776098209792"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And four, choom's gotta eat.",
+                            "maleVariant": "",
+                            "stringId": "2172014986534830080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, that's what pisses me off the most...",
+                            "maleVariant": "",
+                            "stringId": "2172015140113465344"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

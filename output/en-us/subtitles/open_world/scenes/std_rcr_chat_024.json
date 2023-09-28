@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.5605909Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_rcr_chat_024.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I demand an immediate replacement vehicle. My car is broken. BRO-KEN, do you understand?",
+                            "maleVariant": "",
+                            "stringId": "2167652664053878784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yes, one hundred percent broken down. The battery is dead.",
+                            "maleVariant": "",
+                            "stringId": "2217271112934055936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No, I won't check the fuel level, you imbecile! The car won't go because it won't even fucking start!",
+                            "maleVariant": "",
+                            "stringId": "2217271553335975936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "The battery!!!",
+                            "maleVariant": "",
+                            "stringId": "2217272247677837312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "That's it, put a human being on the line. A complete moron, I don't care!",
+                            "maleVariant": "",
+                            "stringId": "2217272734099660800"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anything but this-- this toaster equivalent of an AI!",
+                            "maleVariant": "",
+                            "stringId": "2217273352105189376"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

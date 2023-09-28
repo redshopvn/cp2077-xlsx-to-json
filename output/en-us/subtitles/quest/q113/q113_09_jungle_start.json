@@ -1,0 +1,909 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:41.1273885Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\q113\\q113_09_jungle_start.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đó chỉ là một hòn đảo.",
+                            "maleVariant": "Đó chỉ là một hòn đảo.",
+                            "stringId": "1730332124934664192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Và đừng thốt ra lời nào cho đến khi ta cho phép.",
+                            "maleVariant": "Và đừng thốt ra lời nào cho đến khi ta cho phép.",
+                            "stringId": "1730334429100732416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dù có chuyện gì xảy ra... cô phải tin ta.",
+                            "maleVariant": "Dù có chuyện gì xảy ra... cậu phải tin ta.",
+                            "stringId": "1730334717266194432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Với mười hai ngàn cư dân.",
+                            "maleVariant": "Với mười hai ngàn cư dân.",
+                            "stringId": "1730335383405555712"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chúng ta có thể... di dời chúng. Quần đảo, anh biết đấy, có những hòn đảo khác xung quanh.",
+                            "maleVariant": "Chúng ta có thể... di dời chúng. Quần đảo, anh biết đấy, có những hòn đảo khác xung quanh.",
+                            "stringId": "1730335640147292160"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nghe có vẻ rất tốn kém.",
+                            "maleVariant": "Nghe có vẻ rất tốn kém.",
+                            "stringId": "1730336438491115520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi đến muộn, xin thứ lỗi.",
+                            "maleVariant": "Tôi đến muộn, xin thứ lỗi.",
+                            "stringId": "1730342228258025472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Giữ vũ khí trong tay cô đi.",
+                            "maleVariant": "Giữ vũ khí trong tay cậu đi.",
+                            "stringId": "1730343109951057920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anh trai ta - anh ấy đâu?",
+                            "maleVariant": "Anh trai ta - anh ấy đâu?",
+                            "stringId": "1730343430211334144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vậy không cần anh ta đâu, cứ bắt đầu đi.",
+                            "maleVariant": "Vậy không cần anh ta đâu, cứ bắt đầu đi.",
+                            "stringId": "1730343735070126080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi muốn biết chuyện gì đang xảy ra.",
+                            "maleVariant": "Tôi muốn biết chuyện gì đang xảy ra.",
+                            "stringId": "1730345230624714752"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yorinobu đã sát hại cha ta và lợi dụng cái chết của ông để biện minh cho sự hiếu chiến của mình.",
+                            "maleVariant": "Yorinobu đã sát hại cha ta và lợi dụng cái chết của ông để biện minh cho sự hiếu chiến của mình.",
+                            "stringId": "1730347484425580544"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ta có nhân chứng.",
+                            "maleVariant": "Ta có nhân chứng.",
+                            "stringId": "1730347754924634112"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đúng vậy. Tôi đã ở đó.",
+                            "maleVariant": "Đúng vậy. Tôi đã ở đó.",
+                            "stringId": "1730348236564951040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Các người tin lời dối trá của Yorinobu.",
+                            "maleVariant": "Các người tin lời dối trá của Yorinobu.",
+                            "stringId": "1730348664350404608"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Các người thậm chí còn không điều tra.",
+                            "maleVariant": "Các người thậm chí còn không điều tra.",
+                            "stringId": "1730348783435083776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tất cả mọi chuyện là sự thật. Tôi đã tận mắt chứng kiến.",
+                            "maleVariant": "Tất cả mọi chuyện là sự thật. Tôi đã tận mắt chứng kiến.",
+                            "stringId": "1730349503261536256"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi có thể xác nhận điều này.",
+                            "maleVariant": "Tôi có thể xác nhận điều này.",
+                            "stringId": "1730349944670089216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Coi ai bị truy nã đang nói kìa.",
+                            "maleVariant": "Coi ai bị truy nã đang nói kìa.",
+                            "stringId": "1730350205086035968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nếu lời khai chưa đủ thuyết phục, thì có lẽ mọi người nên nghe thử cha ta nói gì.",
+                            "maleVariant": "Nếu lời khai chưa đủ thuyết phục, thì có lẽ mọi người nên nghe thử cha ta nói gì.",
+                            "stringId": "1730350797221097472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hả?",
+                            "maleVariant": "Hả?",
+                            "stringId": "1730352110474457088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"見下げ果てた奴らめ\" t=\"Tất cả các người đều đáng khinh.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"見下げ果てた奴らめ\" t=\"Tất cả các người đều đáng khinh.\" b=\"\" a=\"\"/>",
+                            "stringId": "1730354735387340800"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không còn lâu nữa đâu, V.",
+                            "maleVariant": "Không còn lâu nữa đâu, V.",
+                            "stringId": "1761818864418570240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ừ, nhưng chúng ta phải nhanh lên.",
+                            "maleVariant": "Ừ, nhưng chúng ta phải nhanh lên.",
+                            "stringId": "1761819092118945796"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chẳng lẽ tôi có lựa chọn khác à?!",
+                            "maleVariant": "Chẳng lẽ tôi có lựa chọn khác à?!",
+                            "stringId": "1761819306749870080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nó đang trở nên tồi tệ hơn.",
+                            "maleVariant": "Nó đang trở nên tồi tệ hơn.",
+                            "stringId": "1761819467307827200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ừ, càng lúc tôi càng yếu dần. Chúng ta phải nhanh lên.",
+                            "maleVariant": "Ừ, càng lúc tôi càng yếu dần. Chúng ta phải nhanh lên.",
+                            "stringId": "1761821759696289792"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Giờ tôi cũng đéo có lựa chọn khác, phải không?",
+                            "maleVariant": "Giờ tôi cũng đéo có lựa chọn khác, phải không?",
+                            "stringId": "1761822181324505088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "A hèm, tôi đang yếu dần đi, nhưng... tôi sẽ cố.",
+                            "maleVariant": "A hèm, tôi đang yếu dần đi, nhưng... tôi sẽ cố.",
+                            "stringId": "1761822710830219264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Những khoảnh khắc tàn khốc đang đón chờ chúng ta.",
+                            "maleVariant": "Những khoảnh khắc tàn khốc đang đón chờ chúng ta.",
+                            "stringId": "1761823166230970368"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tiểu thư Hanako.",
+                            "maleVariant": "Tiểu thư Hanako.",
+                            "stringId": "1762185025043841024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cậu có trí nhớ tốt đấy, Oda à.",
+                            "maleVariant": "Cậu có trí nhớ tốt đấy, Oda à.",
+                            "stringId": "1762186170172719104"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không, không thể chấp nhận được.",
+                            "maleVariant": "Không, không thể chấp nhận được.",
+                            "stringId": "1763182300645834752"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Lời buộc tội nghiêm trọng đấy... nhưng không còn gì nữa cả.",
+                            "maleVariant": "Lời buộc tội nghiêm trọng đấy... nhưng không còn gì nữa cả.",
+                            "stringId": "1763195064835653632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Họ đang ở đây!",
+                            "maleVariant": "Họ đang ở đây!",
+                            "stringId": "1763400557260718080"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không chừa một ai.",
+                            "maleVariant": "Không chừa một ai.",
+                            "stringId": "1763607659929419776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô đang làm gì vậy? Cô không thể...",
+                            "maleVariant": "Cô đang làm gì vậy? Cô không thể...",
+                            "stringId": "1811268650187898880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V, đây là chỗ ngồi của cô.",
+                            "maleVariant": "V, đây là chỗ ngồi của cậu.",
+                            "stringId": "1811269326745911296"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nhấc cái mông của ông ra.",
+                            "maleVariant": "Nhấc cái mông của ông ra.",
+                            "stringId": "1811423298689449988"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi có thể....?",
+                            "maleVariant": "Tôi có thể....?",
+                            "stringId": "1811425393811406848"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cha cô ấy sẽ nói gì với chuyện này đây...?",
+                            "maleVariant": "Cha cô ấy sẽ nói gì với chuyện này đây...?",
+                            "stringId": "1811426227622264832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anh bị điếc hả?",
+                            "maleVariant": "Anh bị điếc hả?",
+                            "stringId": "1811427691048484864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nghe không? Cút ra khỏi chỗ khác.",
+                            "maleVariant": "Nghe không? Cút ra khỏi chỗ khác.",
+                            "stringId": "1811428200488648704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi có thể...? Mọi người đang đợi kìa.",
+                            "maleVariant": "Tôi có thể...? Mọi người đang đợi kìa.",
+                            "stringId": "1811428300732514308"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Quá đáng...",
+                            "maleVariant": "Quá đáng...",
+                            "stringId": "1811430041838436352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[Ngồi] Cảm ơn.",
+                            "maleVariant": "[Ngồi] Cảm ơn.",
+                            "stringId": "1811434432335200256"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô không được phép đối xử với ta như vậy…",
+                            "maleVariant": "Cô không được phép đối xử với ta như vậy…",
+                            "stringId": "1812536846438121472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bảo vệ hội đồng!",
+                            "maleVariant": "Bảo vệ hội đồng!",
+                            "stringId": "1815589611446599680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anh ấy... bảo chúng tôi cứ bắt đầu, không cần đợi anh ấy...",
+                            "maleVariant": "Anh ấy... bảo chúng tôi cứ bắt đầu, không cần đợi anh ấy...",
+                            "stringId": "1816945237225504768"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hanako? Cô đến đây làm gì?",
+                            "maleVariant": "Hanako? Cô đến đây làm gì?",
+                            "stringId": "1816945798020726784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bắt đầu cái gì chứ?",
+                            "maleVariant": "Bắt đầu cái gì chứ?",
+                            "stringId": "1816947693426704384"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hanako. Ta tin rằng cô nợ chúng tôi một lời giải thích.",
+                            "maleVariant": "Hanako. Ta tin rằng cô nợ chúng tôi một lời giải thích.",
+                            "stringId": "1816959946733518848"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Rời khỏi ghế đi. Ngay.",
+                            "maleVariant": "Rời khỏi ghế đi. Ngay.",
+                            "stringId": "1816975677135126528"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Và tại sao cô lại lôi những… người này vào đây.",
+                            "maleVariant": "Và tại sao cô lại lôi những… người này vào đây.",
+                            "stringId": "1816977436226224128"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cảm ơn nhá.",
+                            "maleVariant": "Cảm ơn nhá.",
+                            "stringId": "1825551335476510720"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anh dính đến chuyện này à?",
+                            "maleVariant": "Anh dính đến chuyện này à?",
+                            "stringId": "1837123952670806016"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dính chuyện gì?",
+                            "maleVariant": "Dính chuyện gì?",
+                            "stringId": "1837124158661464064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sự trở lại của Saburo.",
+                            "maleVariant": "Sự trở lại của Saburo.",
+                            "stringId": "1837124208305246208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vừa nói chuyện với bản thể ông ấy.",
+                            "maleVariant": "Vừa nói chuyện với bản thể ông ấy.",
+                            "stringId": "1837127671642722304"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Không... Ngài ấy phải nói tôi biết chứ.",
+                            "maleVariant": "Không... Ngài ấy phải nói tôi biết chứ.",
+                            "stringId": "1837130183661719552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thấy chưa, Goro?",
+                            "maleVariant": "Thấy chưa, Goro?",
+                            "stringId": "1837130817957924864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Night City lại trao cho anh sự thất vọng nữa - lần này đến từ ân nhân của anh.",
+                            "maleVariant": "Night City lại trao cho anh sự thất vọng nữa - lần này đến từ ân nhân của anh.",
+                            "stringId": "1837131082903719936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái gì?!",
+                            "maleVariant": "Cái gì?!",
+                            "stringId": "1837131762313859072"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ông ấy đã mã hóa engram của mình, tạo các bản sao. Đề phòng trường hợp mình chết.",
+                            "maleVariant": "Ông ấy đã mã hóa engram của mình, tạo các bản sao. Đề phòng trường hợp mình chết.",
+                            "stringId": "1837132297792262144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sao phải thế? Ông ấy chỉ xem anh như một vệ sĩ thôi mà.",
+                            "maleVariant": "Sao phải thế? Ông ấy chỉ xem anh như một vệ sĩ thôi mà.",
+                            "stringId": "1837136196263612416"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ありえん…\" t=\"Không thể nào...\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"ありえん…\" t=\"Không thể nào...\" b=\"\" a=\"\"/>",
+                            "stringId": "1837140337132179456"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Rồi sao? Cần tôi \"xử lý\" họ nữa luôn không?",
+                            "maleVariant": "Rồi sao? Cần tôi \"xử lý\" họ nữa luôn không?",
+                            "stringId": "1837156410191646720"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nghe cuốn đấy.",
+                            "maleVariant": "Nghe cuốn đấy.",
+                            "stringId": "1837177179026100224"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cẩn thận lời nói của mình đi.",
+                            "maleVariant": "Cẩn thận lời nói của mình đi.",
+                            "stringId": "1837179497805123584"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Rồi sao - chỉ là nói suông, chẳng còn gì khác. Cô chỉ có thế thôi à?",
+                            "maleVariant": "Rồi sao - chỉ là nói suông, chẳng còn gì khác. Cô chỉ có thế thôi à?",
+                            "stringId": "1837192778481537024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Các người háo hức nghe lời dối trá của Yorinobu như mấy con chó thèm xương.",
+                            "maleVariant": "Các người háo hức nghe lời dối trá của Yorinobu như mấy con chó thèm xương.",
+                            "stringId": "1837194905530535936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Saburo Arasaka bị sát hại, và các người không ra lệnh điều tra nguyên nhân cái chết của ông ta.",
+                            "maleVariant": "Saburo Arasaka bị sát hại, và các người không ra lệnh điều tra nguyên nhân cái chết của ông ta.",
+                            "stringId": "1837195050166915072"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô sẽ ở lại với chúng tôi chứ?",
+                            "maleVariant": "Cậu sẽ ở lại với chúng tôi chứ?",
+                            "stringId": "1837301592165847040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Xin hãy bình tĩnh...",
+                            "maleVariant": "Xin hãy bình tĩnh...",
+                            "stringId": "1837304529940254720"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi sẽ bình tĩnh khi tất cả chuyện này kết thúc!",
+                            "maleVariant": "Tôi sẽ bình tĩnh khi tất cả chuyện này kết thúc!",
+                            "stringId": "1837304977908699136"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đúng thật là vậy.",
+                            "maleVariant": "Đúng thật là vậy.",
+                            "stringId": "1837306949600677888"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tất nhiên rồi, tiểu thư Hanako.",
+                            "maleVariant": "Tất nhiên rồi, tiểu thư Hanako.",
+                            "stringId": "1841477113854431232"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Quên vụ tái định cư đi. Mười hai ngàn á? Không biết liệu ai sẽ nhận vụ này nữa.",
+                            "maleVariant": "Quên vụ tái định cư đi. Mười hai ngàn á? Không biết liệu ai sẽ nhận vụ này nữa.",
+                            "stringId": "1841525616517451776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ngài A-Arasaka?",
+                            "maleVariant": "Ngài A-Arasaka?",
+                            "stringId": "1843127674853003264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"いずれにせよ、仮にも役員である者たちが、なんと情けない\" t=\"Dù thế nào đi chăng nữa, các ngươi đều không xứng đáng với vị trí của mình.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"いずれにせよ、仮にも役員である者たちが、なんと情けない\" t=\"Dù thế nào đi chăng nữa, các ngươi đều không xứng đáng với vị trí của mình.\" b=\"\" a=\"\"/>",
+                            "stringId": "1843132983399026688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dùng trò này thuyết phục chúng tôi sao?",
+                            "maleVariant": "Dùng trò này thuyết phục chúng tôi sao?",
+                            "stringId": "1843133783890333696"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"バヘット。お前がミリテクとの全面戦争を憂慮していた時、私はこう言ったはずだ\" t=\"Barreto, trước đây có một lần ta từng nói với cậu điều này, lúc cậu sợ chiến tranh tổng lực với Militech.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"バヘット。お前がミリテクとの全面戦争を憂慮していた時、私はこう言ったはずだ\" t=\"Barreto, trước đây có một lần ta từng nói với cậu điều này, lúc cậu sợ chiến tranh tổng lực với Militech.\" b=\"\" a=\"\"/>",
+                            "stringId": "1843134920429277184"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Một màn ảo thuật!",
+                            "maleVariant": "Một màn ảo thuật!",
+                            "stringId": "1843136731294863360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"お前には3つのものが欠けている。自信、知性、そして根性だ\" t=\"Cậu thiếu ba điều - tự tin, thông minh và sự tinh ranh.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"お前には3つのものが欠けている。自信、知性、そして根性だ\" t=\"Cậu thiếu ba điều - tự tin, thông minh và sự tinh ranh.\" b=\"\" a=\"\"/>",
+                            "stringId": "1843144370431070208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"見たところ、あれから何も変わっていないようだな\" t=\"Rõ ràng là cậu vẫn không thay đổi từ dạo ấy.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"見たところ、あれから何も変わっていないようだな\" t=\"Rõ ràng là cậu vẫn không thay đổi từ dạo ấy.\" b=\"\" a=\"\"/>",
+                            "stringId": "1843151640200089600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đúng... là ngài ấy rồi...",
+                            "maleVariant": "Đúng... là ngài ấy rồi...",
+                            "stringId": "1843153757384085504"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ngài Arasaka... Tôi...",
+                            "maleVariant": "Ngài Arasaka... Tôi...",
+                            "stringId": "1843154157889785856"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"赤子のようにまんまと騙されたか、日和見主義に走ったか…\" t=\"Để mình bị lừa như một đứa trẻ, bị dắt mũi bởi kẻ chất đầy toan tính.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"赤子のようにまんまと騙されたか、日和見主義に走ったか…\" t=\"Để mình bị lừa như một đứa trẻ, bị dắt mũi bởi kẻ chất đầy toan tính.\" b=\"\" a=\"\"/>",
+                            "stringId": "1843157165960728576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thưa ngài Arasaka... mệnh lệnh của ngài là gì?",
+                            "maleVariant": "Thưa ngài Arasaka... mệnh lệnh của ngài là gì?",
+                            "stringId": "1843188214396751872"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ハナコの指示に従え\" t=\"Làm theo lệnh của Hanako.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"ハナコの指示に従え\" t=\"Làm theo lệnh của Hanako.\" b=\"\" a=\"\"/>",
+                            "stringId": "1843190186021621760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có ai phản đối?",
+                            "maleVariant": "Có ai phản đối?",
+                            "stringId": "1843212599610445824"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô.",
+                            "maleVariant": "Cậu.",
+                            "stringId": "1845868980276695040"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V thuộc phe chúng ta.",
+                            "maleVariant": "V thuộc phe chúng ta.",
+                            "stringId": "1845869530049286144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Với ta hay tiền của ta?",
+                            "maleVariant": "Với ta hay tiền của ta?",
+                            "stringId": "1845871355410386944"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Màn kịch nhỏ này đang sắp làm tôi chán rồi đó. Ai đó gọi bảo vệ đi.",
+                            "maleVariant": "Màn kịch nhỏ này đang sắp làm tôi chán rồi đó. Ai đó gọi bảo vệ đi.",
+                            "stringId": "1845880640576032768"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ý kiến hay. Họ có thể đến thẳng mặt Yorinobu và hỏi hắn chuyện gì đã xảy ra ở Konpeki Plaza.",
+                            "maleVariant": "Ý kiến hay. Họ có thể đến thẳng mặt Yorinobu và hỏi hắn chuyện gì đã xảy ra ở Konpeki Plaza.",
+                            "stringId": "1845882236408041472"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mà cho họ trang bị đầy đủ vào. Vì khi chủ của mấy người mà điên lên, hắn sẽ bóp cổ người ta.",
+                            "maleVariant": "Mà cho họ trang bị đầy đủ vào. Vì khi chủ của mấy người mà điên lên, hắn sẽ bóp cổ người ta.",
+                            "stringId": "1845885426243342336"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô đã thấy gì?",
+                            "maleVariant": "Cậu đã thấy gì?",
+                            "stringId": "1845889650041688064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi thấy Yorinobu bóp cổ Saburo Arasaka.",
+                            "maleVariant": "Tôi thấy Yorinobu bóp cổ Saburo Arasaka.",
+                            "stringId": "1845889901028839424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Càng lúc càng thú vị.",
+                            "maleVariant": "Càng lúc càng thú vị.",
+                            "stringId": "1845890535610257408"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tuân theo một cách ngoan ngoãn?",
+                            "maleVariant": "Tuân theo một cách ngoan ngoãn?",
+                            "stringId": "1845893248402198528"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Một lần nữa - đây là ai?",
+                            "maleVariant": "Một lần nữa - đây là ai?",
+                            "stringId": "1845894798096863232"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Lời buộc tội nghiêm trọng đấy... nhưng không còn gì nữa cả.",
+                            "maleVariant": "Lời buộc tội nghiêm trọng đấy... nhưng không còn gì nữa cả.",
+                            "stringId": "1845998954392457216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"周囲で怪しい動きがあれば直ちに報告しろ\" t=\"Báo cáo lại bất kỳ hoạt động đáng ngờ nào tại tập đoàn.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"周囲で怪しい動きがあれば直ちに報告しろ\" t=\"Báo cáo lại bất kỳ hoạt động đáng ngờ nào tại tập đoàn.\" b=\"\" a=\"\"/>",
+                            "stringId": "1863401380156088320"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ổn thỏa hết rồi chứ?",
+                            "maleVariant": "Ổn thỏa hết rồi chứ?",
+                            "stringId": "1863407712498163712"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Những người còn lại đã vào vị trí, sẵn sàng tuân theo lệnh.",
+                            "maleVariant": "Những người còn lại đã vào vị trí, sẵn sàng tuân theo lệnh.",
+                            "stringId": "1863407943470096384"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đây là những chiến binh tinh nhuệ nhất. Và trung thành.",
+                            "maleVariant": "Đây là những chiến binh tinh nhuệ nhất. Và trung thành.",
+                            "stringId": "1863409061923201024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có thể nói là 80% kết quả, 20% nguyên nhân, thưa tiểu thư Hanako",
+                            "maleVariant": "Có thể nói là 80% kết quả, 20% nguyên nhân, thưa tiểu thư Hanako",
+                            "stringId": "1863410370260836352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Rất tốt. Ta chẳng mong gì hơn.",
+                            "maleVariant": "Rất tốt. Ta chẳng mong gì hơn.",
+                            "stringId": "1863411138456002560"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Giờ đi thôi.",
+                            "maleVariant": "Giờ đi thôi.",
+                            "stringId": "1863412863774564352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ハナコの発する言葉は、すべて私の言葉同然だ\" t=\"Các ngươi sẽ xem mọi lời con bé nói như thể phát ra từ miệng của ta.\" b=\"\" a=\"\"/>",
+                            "maleVariant": "<kiroshi l=\"jpn\" o=\"ハナコの発する言葉は、すべて私の言葉同然だ\" t=\"Các ngươi sẽ xem mọi lời con bé nói như thể phát ra từ miệng của ta.\" b=\"\" a=\"\"/>",
+                            "stringId": "1865012892738068480"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có phải cô không?! Là cô làm hả, Hanako?",
+                            "maleVariant": "Có phải cô không?! Là cô làm hả, Hanako?",
+                            "stringId": "1865019346614296576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nhốt chúng tôi lại để tự cắn xé lẫn nhau như chuột trong lồng à?",
+                            "maleVariant": "Nhốt chúng tôi lại để tự cắn xé lẫn nhau như chuột trong lồng à?",
+                            "stringId": "1865022177148739584"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đem con nhỏ đầu đường xó chợ này vào đây chưa đủ à?!",
+                            "maleVariant": "Đem cái tên đầu đường xó chợ này vào đây chưa đủ à?!",
+                            "stringId": "1865022845267812352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nghe không?",
+                            "maleVariant": "Nghe không?",
+                            "stringId": "1865023541572608000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi hỏi cô đấy!",
+                            "maleVariant": "Tôi hỏi cô đấy!",
+                            "stringId": "1865026292784373760"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái quái gì đang xảy ra vậy?",
+                            "maleVariant": "Cái quái gì đang xảy ra vậy?",
+                            "stringId": "1865029326943887360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Rõ là có người phản đối rồi.",
+                            "maleVariant": "Rõ là có người phản đối rồi.",
+                            "stringId": "1865029933725458432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ai đã kích hoạt phong tỏa vậy?!",
+                            "maleVariant": "Ai đã kích hoạt phong tỏa vậy?!",
+                            "stringId": "1865030265780117504"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Aaaarrrghh!",
+                            "maleVariant": "",
+                            "stringId": "1865038608200441856"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Việc loại bỏ Yorinobu khỏi cái ghế CEO của Arasaka.",
+                            "maleVariant": "Việc loại bỏ Yorinobu khỏi cái ghế CEO của Arasaka.",
+                            "stringId": "1866466116045185024"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi có nghe nhầm không vậy?",
+                            "maleVariant": "Tôi có nghe nhầm không vậy?",
+                            "stringId": "1866473600847781888"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi từng làm việc cách chỗ này vài tầng – bộ phận của Abernathy.",
+                            "maleVariant": "Tôi từng làm việc cách chỗ này vài tầng – bộ phận của Abernathy.",
+                            "stringId": "1872075979106361344"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Và tôi biết \"nhún vai và tìm một vật tế thần\" không phải là thủ tục đúng đắn khi CEO qua đời.",
+                            "maleVariant": "Và tôi biết \"nhún vai và tìm một vật tế thần\" không phải là thủ tục đúng đắn khi CEO qua đời.",
+                            "stringId": "1872076665529376768"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi là người chứng kiến ​​những gì đã xảy ra. Cô nên đặt câu hỏi cho tôi, sau đó tiến hành bắt giữ Yorinobu.",
+                            "maleVariant": "Tôi là người chứng kiến ​​những gì đã xảy ra. Cô nên đặt câu hỏi cho tôi, sau đó tiến hành bắt giữ Yorinobu.",
+                            "stringId": "1872078813432455168"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Người của cô đó hả?",
+                            "maleVariant": "Người của cô đó hả?",
+                            "stringId": "1905582051571023872"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có thể nói là vậy.",
+                            "maleVariant": "Có thể nói là vậy.",
+                            "stringId": "1905582686051778560"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V? Chỗ của cô.",
+                            "maleVariant": "V? Chỗ của cậu.",
+                            "stringId": "1914104974943535108"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô có ngồi không?",
+                            "maleVariant": "Cậu có ngồi không?",
+                            "stringId": "1914104975060975620"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cho dù cô ta ngồi hay đứng, cuộc họp này là một trò hề.",
+                            "maleVariant": "Cho dù cậu ta ngồi hay đứng, cuộc họp này là một trò hề.",
+                            "stringId": "1914104975178416128"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vô lý!",
+                            "maleVariant": "Vô lý!",
+                            "stringId": "2000974106692755456"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Và ngươi biết chuyện này. Tất cả các người.",
+                            "maleVariant": "Và ngươi biết chuyện này. Tất cả các người.",
+                            "stringId": "2007155863423098880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nghĩa là sao?",
+                            "maleVariant": "Nghĩa là sao?",
+                            "stringId": "2025682974039416832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Họ có niềm tin vào ta, hoặc tiền của ta ở mức độ nào đó - ta chẳng biết nữa.",
+                            "maleVariant": "Họ có niềm tin vào ta, hoặc tiền của ta ở mức độ nào đó - ta chẳng biết nữa.",
+                            "stringId": "2025683231888449536"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chắc cũng không khác gì nhau lắm, phải không?",
+                            "maleVariant": "Chắc cũng không khác gì nhau lắm, phải không?",
+                            "stringId": "2025683680225992704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Dù sao thì động lực là gì không quan trọng, miễn là họ bắn cho đúng hướng vào.",
+                            "maleVariant": "Dù sao thì động lực là gì không quan trọng, miễn là họ bắn cho đúng hướng vào.",
+                            "stringId": "2025720647395385344"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô không phải là kẻ hay nói bừa.",
+                            "maleVariant": "Cậu không phải là kẻ hay nói bừa.",
+                            "stringId": "2025739414993182720"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đó là lý do tại sao mà cô đưa tôi đến đây.",
+                            "maleVariant": "Đó là lý do tại sao mà cô đưa tôi đến đây.",
+                            "stringId": "2025740170622214144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chỉ khi là cách cuối cùng thôi.",
+                            "maleVariant": "Chỉ khi là cách cuối cùng thôi.",
+                            "stringId": "2025748002562187264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ý cô là khi hội đồng không tin lời chúng ta nói sao?",
+                            "maleVariant": "Ý cô là khi hội đồng không tin lời chúng ta nói sao?",
+                            "stringId": "2025753643615854592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nếu - không phải \"khi\".",
+                            "maleVariant": "Nếu - không phải \"khi\".",
+                            "stringId": "2025770605951655936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nếu chúng ta không thể thuyết phục họ, thì tình hình có thể mất kiểm soát.",
+                            "maleVariant": "Nếu chúng ta không thể thuyết phục họ, thì tình hình có thể mất kiểm soát.",
+                            "stringId": "2025797265853849600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cậu có trí nhớ tốt đấy.",
+                            "maleVariant": "Cậu có trí nhớ tốt đấy.",
+                            "stringId": "2085340488626421764"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô ta là ai?! Và... ta có nhìn nhầm không, cô ấy có vũ khí?!",
+                            "maleVariant": "Cậu ta là ai?! Và... ta có nhìn nhầm không, cậu ấy có vũ khí?!",
+                            "stringId": "2257441266453553152"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái gì nữa đây?!",
+                            "maleVariant": "Cái gì nữa đây?!",
+                            "stringId": "2257444837886631944"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bảo vệ đâu? Chúng ta có kẻ xâm nhập.",
+                            "maleVariant": "Bảo vệ đâu? Chúng ta có kẻ xâm nhập.",
+                            "stringId": "2257445247066152968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Người này... là ai?!",
+                            "maleVariant": "Người này... là ai?!",
+                            "stringId": "2257445434551541768"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.4041862Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_std_arr_03_holocall_brief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thông báo các đơn vị NCPD. Hoạt động tội phạm có tổ chức được báo cáo tại Đường Hargreaves.",
+                            "maleVariant": "Thông báo các đơn vị NCPD. Hoạt động tội phạm có tổ chức được báo cáo tại Đường Hargreaves.",
+                            "stringId": "2328972081799548928"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Truy nã khẩn Darius Miles vì tội giết người. Hắn ta thuộc băng đảng Sixth Street và quản lý một trong những phòng điều chế ma túy của chúng.",
+                            "maleVariant": "Truy nã khẩn Darius Miles vì tội giết người. Hắn ta thuộc băng đảng Sixth Street và quản lý một trong những phòng điều chế ma túy của chúng.",
+                            "stringId": "2358404649135214592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chính quyền Night City đã hứa sẽ thưởng cho việc tiêu diệt mối đe dọa và ổ ma túy của hắn.",
+                            "maleVariant": "Chính quyền Night City đã hứa sẽ thưởng cho việc tiêu diệt mối đe dọa và ổ ma túy của hắn.",
+                            "stringId": "2358404675290894336"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

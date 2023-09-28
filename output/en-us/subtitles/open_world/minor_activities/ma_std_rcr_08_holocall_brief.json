@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.4095212Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_std_rcr_08_holocall_brief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thông báo tất cả các đơn vị NCPD. Hoạt động tội phạm có tổ chức được báo cáo tại Đường Carnitas.",
+                            "maleVariant": "Thông báo tất cả các đơn vị NCPD. Hoạt động tội phạm có tổ chức được báo cáo tại Đường Carnitas.",
+                            "stringId": "2328872824717725700"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Băng Sixth Street đã xuất hiện do Olga Elizabeth Longmead cầm đầu, bị truy nã về tội bắt cóc và hai tội danh giết người cấp độ một.",
+                            "maleVariant": "Băng Sixth Street đã xuất hiện do Olga Elizabeth Longmead cầm đầu, bị truy nã về tội bắt cóc và hai tội danh giết người cấp độ một.",
+                            "stringId": "2358434485652262912"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "NC authorities have posted a reward for neutralizing the threat in that area.",
+                            "maleVariant": "",
+                            "stringId": "2358434515314380800"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.9342952Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_dtn_chat_031.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ehhh... Everyone's a sellout these days. All these great artists, falling one by one.",
+                            "maleVariant": "",
+                            "stringId": "2172275087824891904"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "If someone told my mother fifty years ago that Eurodyne'd sell out too... Pff.",
+                            "maleVariant": "",
+                            "stringId": "2180792491861327872"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "If you're a rebel, you die for what you believe in...",
+                            "maleVariant": "",
+                            "stringId": "2180792735885934592"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Or you live long enough to join the system and fade away. No other option.",
+                            "maleVariant": "",
+                            "stringId": "2180792877066207232"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Well said, choom. Another decade or two, nobody'll even remember the guy.",
+                            "maleVariant": "",
+                            "stringId": "2180793042170789888"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They'll find another kid with big dreams, promise him a mountain of ganic gold... then muzzle him with a corpo contract.",
+                            "maleVariant": "",
+                            "stringId": "2180793194625351680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Shit, man... We believed in you, Kerry.",
+                            "maleVariant": "",
+                            "stringId": "2180793324279676928"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

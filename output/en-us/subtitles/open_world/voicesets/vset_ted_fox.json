@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:23.2217779Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\voicesets\\vset_ted_fox.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chắc chắn rồi, yeah, chỉ cần lờ tôi đi thôi.",
+                            "maleVariant": "Chắc chắn rồi, yeah, chỉ cần lờ tôi đi thôi.",
+                            "stringId": "1895271845206241284"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô sẽ muốn nghe hết toàn bộ câu chuyện đó.",
+                            "maleVariant": "Cậu sẽ muốn nghe hết toàn bộ câu chuyện đó.",
+                            "stringId": "1895271845223018500"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô không thể chống lại sự tò mò của bản thân phải không?",
+                            "maleVariant": "Cậu không thể chống lại sự tò mò của bản thân phải không?",
+                            "stringId": "1895271845306904576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi biết là cô sẽ quay lại mà.",
+                            "maleVariant": "Tôi biết là cậu sẽ quay lại mà.",
+                            "stringId": "1895271845323681796"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thời gian không chờ đợi ai cả đâu.",
+                            "maleVariant": "Thời gian không chờ đợi ai cả đâu.",
+                            "stringId": "1895271845357236228"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có lẽ cô có thời gian để phí phạm, nhưng tôi thì không đâu.",
+                            "maleVariant": "Có lẽ cậu có thời gian để phí phạm, nhưng tôi thì không đâu.",
+                            "stringId": "1895271845390790656"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:03.8033464Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\hey_rey_chat_007.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Been a while since I seen Trav.",
+                            "maleVariant": "",
+                            "stringId": "1833110024850366464"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You ain't heard? Flatlined a few days ago.",
+                            "maleVariant": "",
+                            "stringId": "1833112568897069056"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Gonk came 'cross this old can of God knows what sketch.",
+                            "maleVariant": "",
+                            "stringId": "1833112701856505856"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I told him, I was like, \"Don't Trav, heard there's some weird-ass meat floatin' 'round town.\"",
+                            "maleVariant": "",
+                            "stringId": "1833113186080514048"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Gonk ain't listen. Ate it anyway.",
+                            "maleVariant": "",
+                            "stringId": "1833113591954923520"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Always was a brave spirit, our Trav.",
+                            "maleVariant": "",
+                            "stringId": "1833113824118038528"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "\"What if it's 'ganic? Like rat, rabbit, or whatever the fuck?\"",
+                            "maleVariant": "",
+                            "stringId": "1964791856902160384"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

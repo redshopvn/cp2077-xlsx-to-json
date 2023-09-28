@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:07.8695814Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wbr_nok_chat_013.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And they had salmon tartare, from an actual salmon farm - can you imagine how much that must've cost?",
+                            "maleVariant": "",
+                            "stringId": "2159261559435010048"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Next time you should take me with you. It's been ages since I was in Tokyo.",
+                            "maleVariant": "",
+                            "stringId": "2199801429072474112"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh, and I also saw Hashima Island. They built this beautiful colombarium inside a disused mine.",
+                            "maleVariant": "",
+                            "stringId": "2199802107979296768"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Really took my breath away. S'just too bad all the niches were already reserved.",
+                            "maleVariant": "",
+                            "stringId": "2199803581387960320"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You thinkin' about your parents?",
+                            "maleVariant": "",
+                            "stringId": "2199804502155128832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They keep saying they wanna go back to Okinawa, they don't know how much time they have left...",
+                            "maleVariant": "",
+                            "stringId": "2199804818153992192"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Well, the colombarium in Night City also has its charm... And they'd be close, too...",
+                            "maleVariant": "",
+                            "stringId": "2199807281334513664"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "True... I just hope I won't have to be makin' that decision anytime soon...",
+                            "maleVariant": "",
+                            "stringId": "2199807697711460352"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

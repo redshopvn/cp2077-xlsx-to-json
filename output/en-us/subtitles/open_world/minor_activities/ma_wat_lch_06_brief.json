@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.4310603Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_wat_lch_06_brief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Này, V, cô có thể điều tra giúp tôi một việc không? Có thông tin về một cuộc ẩu đả tại các bến tàu.",
+                            "maleVariant": "Này, V, anh có thể điều tra giúp tôi một việc không? Có thông tin về một cuộc ẩu đả tại các bến tàu.",
+                            "stringId": "2357736239666442240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có thể là lũ nghiện thôi, nhưng đối với tôi thì chuyện này có mùi giống như một kẻ loạn thần vậy.",
+                            "maleVariant": "Có thể là lũ nghiện thôi, nhưng đối với tôi thì chuyện này có mùi giống như một kẻ loạn thần vậy.",
+                            "stringId": "2357823199047200768"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Và tôi muốn biết liệu ma túy có đóng vai trò gì không.",
+                            "maleVariant": "Và tôi muốn biết liệu ma túy có đóng vai trò gì không.",
+                            "stringId": "2357823517411651584"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "A cold body's no good to check, so keep him alive.",
+                            "maleVariant": "",
+                            "stringId": "2357824192073838592"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

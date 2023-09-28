@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:07.3388295Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_lch_chat_044.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Này, này, đừng đẩy mà! Có đủ cho tất cả mọi người cả!",
+                            "maleVariant": "Này, này, đừng đẩy mà! Có đủ cho tất cả mọi người cả!",
+                            "stringId": "2157398231664062464"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tất cả hoàn toàn mới, vừa mới xuất xưởng đấy!",
+                            "maleVariant": "Tất cả hoàn toàn mới, vừa mới xuất xưởng đấy!",
+                            "stringId": "2188221077044936704"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vừa mang xuống từ đoàn xe hôm qua đó!",
+                            "maleVariant": "Vừa mang xuống từ đoàn xe hôm qua đó!",
+                            "stringId": "2188228720224452608"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

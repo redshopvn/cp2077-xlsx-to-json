@@ -1,0 +1,57 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.4307824Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\std_rcr_chat_005.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Head's killing me lately. Got all these red bumps sproutin' up, too.",
+                            "maleVariant": "",
+                            "stringId": "1963293068592455680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You go diggin' in Petrochem trash, that's what you get. 'S all radioactive out there.",
+                            "maleVariant": "",
+                            "stringId": "1969270904281874432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Look, I know they toss good shit, but it ain't worth it. I mean, 'less you been savin' up for some new bone marrow.",
+                            "maleVariant": "",
+                            "stringId": "1969271067775844352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Eh, come on. Tha's just talk. Flu'll get me before any of that radiation does.",
+                            "maleVariant": "",
+                            "stringId": "1969271885262471168"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Meantime, five eds for a Petro transformer – ain't nothin' to sneeze at.",
+                            "maleVariant": "",
+                            "stringId": "1969272211663208448"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

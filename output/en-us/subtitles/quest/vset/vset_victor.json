@@ -1,0 +1,99 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:51.4987100Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\vset\\vset_victor.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Này, V.",
+                            "maleVariant": "Này, V.",
+                            "stringId": "1796881613132382212"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có gì mới không?",
+                            "maleVariant": "Có gì mới không?",
+                            "stringId": "1796881613149159428"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Kay, hãy ghim vào đó.",
+                            "maleVariant": "Kay, hãy ghim vào đó.",
+                            "stringId": "1796881613249822724"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V?",
+                            "maleVariant": "",
+                            "stringId": "1796881613266599940"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anh là gì ... Ồ, phải rồi.",
+                            "maleVariant": "Anh là gì ... Ồ, phải rồi.",
+                            "stringId": "1796881613333708804"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vậy lắng nghe này...",
+                            "maleVariant": "Vậy lắng nghe này...",
+                            "stringId": "1796881613350486020"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bắt anh đợi cả ngày à?",
+                            "maleVariant": "Bắt anh đợi cả ngày à?",
+                            "stringId": "1796881613384040452"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Uh, V?",
+                            "maleVariant": "",
+                            "stringId": "1796881613400817668"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Huh?",
+                            "maleVariant": "",
+                            "stringId": "1796881613635698692"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bình tĩnh đi nhóc.",
+                            "maleVariant": "Bình tĩnh đi nhóc.",
+                            "stringId": "1796881613652475908"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Này, V? Em còn ở đó chứ?",
+                            "maleVariant": "Này, V? Em còn ở đó chứ?",
+                            "stringId": "1966204412054347780"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Uhh ... V? Mất tín hiệu rồi à.",
+                            "maleVariant": "Uhh ... V? Mất tín hiệu rồi à.",
+                            "stringId": "1966204412071124996"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

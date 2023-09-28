@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.4565312Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_wbr_nok_05_holocall_brief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thông báo tất cả các đơn vị NCPD. Rà soát khẩn hoạt động tội phạm có tổ chức trên Đường Sycamore.",
+                            "maleVariant": "Thông báo tất cả các đơn vị NCPD. Rà soát khẩn hoạt động tội phạm có tổ chức trên Đường Sycamore.",
+                            "stringId": "2328827125123489792"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Do không trả tiền thuê và các khoản phí liên quan, Night City đã chấm dứt hợp đồng cho thuê với Impala Automatics đối với tài sản công nghiệp thuộc sở hữu của thành phố.",
+                            "maleVariant": "Do không trả tiền thuê và các khoản phí liên quan, Night City đã chấm dứt hợp đồng cho thuê với Impala Automatics đối với tài sản công nghiệp thuộc sở hữu của thành phố.",
+                            "stringId": "2358369312207900672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Các nhà chức trách Thành phố sẽ thưởng cho việc thu hồi thành công Impala Automatics.",
+                            "maleVariant": "Các nhà chức trách Thành phố sẽ thưởng cho việc thu hồi thành công Impala Automatics.",
+                            "stringId": "2358369442986299392"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Impala Automatics has failed to comply with the decision and now illegally occupies the premises specified in the contract.",
+                            "maleVariant": "",
+                            "stringId": "2363322155968860160"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

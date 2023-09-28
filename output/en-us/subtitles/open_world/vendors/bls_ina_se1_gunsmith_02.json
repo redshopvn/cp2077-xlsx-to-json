@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.2672073Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\bls_ina_se1_gunsmith_02.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô bán gì vậy?",
+                            "maleVariant": "Cô bán gì vậy?",
+                            "stringId": "1935671434919981056"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi muốn mua cái gì đó...khác thường.",
+                            "maleVariant": "Tôi muốn mua cái gì đó...khác thường.",
+                            "stringId": "1935671434919981072"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô đang mang theo cái gì đấy?",
+                            "maleVariant": "Cô đang mang theo cái gì đấy?",
+                            "stringId": "1935671434987089924"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hàng nóng. Chất lượng tốt nhất ở Badlands này đấy.",
+                            "maleVariant": "Hàng nóng. Chất lượng tốt nhất ở Badlands này đấy.",
+                            "stringId": "1935671434987089932"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đúng như tôi nghĩ, ở đây chẳng có NCPD nào phá bĩnh. Cũng không có tập đoàn nào kiểm tra nguồn hàng...",
+                            "maleVariant": "Đúng như tôi nghĩ, ở đây chẳng có NCPD nào phá bĩnh. Cũng không có tập đoàn nào kiểm tra nguồn hàng...",
+                            "stringId": "1935671435020644356"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chúng tôi sẽ có thứ mà cô thích đây.",
+                            "maleVariant": "Chúng tôi sẽ có thứ mà anh thích đây.",
+                            "stringId": "1935671435020644364"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô có hàng gì...khác thường không? Thứ mà tôi không thể tìm thấy trong thành phố?",
+                            "maleVariant": "Cô có hàng gì...khác thường không? Thứ mà tôi không thể tìm thấy trong thành phố?",
+                            "stringId": "1975106424220733440"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

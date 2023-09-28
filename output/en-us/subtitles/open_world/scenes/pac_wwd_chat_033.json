@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:05.3976024Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\pac_wwd_chat_033.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, everything's all right. Can't complain.",
+                            "maleVariant": "",
+                            "stringId": "2179674277432385536"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Lots of space, ocean breeze...",
+                            "maleVariant": "",
+                            "stringId": "2212748366746677248"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Yeah, yeah, there's firefights. Mostly at night though. You get used to it.",
+                            "maleVariant": "",
+                            "stringId": "2212748807500918784"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Food ain't half bad. Found a decent spot. Haitian, cheap, plenty of it.",
+                            "maleVariant": "",
+                            "stringId": "2212749202923122688"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No, no, no – don't come visit. Waste of time, waste of money. I'll come to you.",
+                            "maleVariant": "",
+                            "stringId": "2212749665185755136"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Soon, soon. Soon's I get back on my feet.",
+                            "maleVariant": "",
+                            "stringId": "2212750366070730752"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I promise... Miss you too... But tell me how you're doing...",
+                            "maleVariant": "",
+                            "stringId": "2212750842812100608"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

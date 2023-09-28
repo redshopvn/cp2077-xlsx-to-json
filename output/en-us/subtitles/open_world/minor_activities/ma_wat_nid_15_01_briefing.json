@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.4463647Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\minor_activities\\ma_wat_nid_15_01_briefing.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Này, đám Maelstrom có một ​​vấn đề về siêu loạn thần rồi.",
+                            "maleVariant": "Này, đám Maelstrom có một ​​vấn đề về siêu loạn thần rồi.",
+                            "stringId": "2353302675302555648"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi muốn anh ta còn sống, vậy nên hãy cố thử đi nhé.",
+                            "maleVariant": "Tôi muốn anh ta còn sống, vậy nên hãy cố thử đi nhé.",
+                            "stringId": "2353303712956588032"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And be careful. Maelstromers are crazy – psychosis or not.",
+                            "maleVariant": "",
+                            "stringId": "2353303910357311488"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

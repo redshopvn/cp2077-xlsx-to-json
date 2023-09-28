@@ -1,0 +1,39 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:10.9170077Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_kab_07_prebrief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Jotaro Shobo. Có ấn tượng gì không? Cái thằng biến thái tâm thần - mà tự ghi hình lại cảnh nó hành hạ đám joytoy và bán thứ chết tiệt này cho cái đám chó má não cùi đó.",
+                            "maleVariant": "Jotaro Shobo. Có ấn tượng gì không? Cái thằng biến thái tâm thần - mà tự ghi hình lại cảnh nó hành hạ đám joytoy và bán thứ chết tiệt này cho cái đám chó má não cùi đó.",
+                            "stringId": "2328554531266732032"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Băng Mox đã truy ra được dấu vết của thằng này. Đây là cơ hội của cô để cho thằng khốn nạn này biết là nó xứng đáng với điều gì và cũng thu được một chút tiền từ vụ này. Nhiều thông tin về thằng chó này hơn trong đính kèm đó.",
+                            "maleVariant": "Băng Mox đã truy ra được dấu vết của thằng này. Đây là cơ hội của anh để cho thằng khốn nạn này biết là nó xứng đáng với điều gì và cũng thu được một chút tiền từ vụ này. Nhiều thông tin về thằng chó này hơn trong đính kèm đó.",
+                            "stringId": "2331828236928258048"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

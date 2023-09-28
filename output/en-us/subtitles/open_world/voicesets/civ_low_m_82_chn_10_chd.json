@@ -1,0 +1,111 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:16.4879460Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\voicesets\\civ_low_m_82_chn_10_chd.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hello!",
+                            "maleVariant": "",
+                            "stringId": "1922669795603914756"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Who are you?",
+                            "maleVariant": "",
+                            "stringId": "1922669795620691972"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oof...!",
+                            "maleVariant": "",
+                            "stringId": "1922669795671023620"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey!",
+                            "maleVariant": "",
+                            "stringId": "1922669795704578052"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hello?",
+                            "maleVariant": "",
+                            "stringId": "1922669795822018564"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No, Mister… Better go to my dad… I'm not allowed.",
+                            "maleVariant": "",
+                            "stringId": "1922669795889127428"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "OK… I'll tell him… Uh-huh… Yeah… At our house!",
+                            "maleVariant": "",
+                            "stringId": "1922669795922681860"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bye!",
+                            "maleVariant": "",
+                            "stringId": "1922669795989790724"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mom!",
+                            "maleVariant": "",
+                            "stringId": "1922669796174340100"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Help!",
+                            "maleVariant": "",
+                            "stringId": "1922669796207894532"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I want my mom!",
+                            "maleVariant": "",
+                            "stringId": "1922669796291780612"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "What's going on…?",
+                            "maleVariant": "",
+                            "stringId": "1922669796325335044"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'm not supposed to talk to you.",
+                            "maleVariant": "",
+                            "stringId": "1922669796476329988"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You should just leave.",
+                            "maleVariant": "",
+                            "stringId": "1922669796493107204"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

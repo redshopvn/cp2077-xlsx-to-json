@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.6114895Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\bls_east_024.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hey, why the look?",
+                            "maleVariant": "",
+                            "stringId": "2189692490727776256"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ehh, everyone's getting on my fuckin' nerves. Gotta go on another fuel run tomorrow. I'm sick of it.",
+                            "maleVariant": "",
+                            "stringId": "2189730789823569920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Someone's gotta do it.",
+                            "maleVariant": "",
+                            "stringId": "2189731502939136000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Now you too. No surprise there, you got such a hard-on for our glorious leaders.",
+                            "maleVariant": "",
+                            "stringId": "2189731743423750144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ey, they took me in when I was nothing, when I had nothing. Gave me something to eat and a place to sleep. This here, this my family.",
+                            "maleVariant": "",
+                            "stringId": "2189732608842883072"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Family, yeah... See, I thought you killed your family when you downed too much rezzin, thought they were all zombies.",
+                            "maleVariant": "",
+                            "stringId": "2189733451109457920"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Please – don't play me any more of that victim shit.",
+                            "maleVariant": "",
+                            "stringId": "2189734878699544576"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

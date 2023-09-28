@@ -1,0 +1,39 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:11.4251850Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_nid_02_holocall_debriefs.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi đã nhận được chiếc xe tải rồi. Đây là một ví dụ điển hình trong sách giáo khoa về việc hoàn thành một phi vụ đó, cô có nghĩ vậy không? Một điểm cộng của một điểm cộng - phi vụ đóng lại được rồi.",
+                            "maleVariant": "Tôi đã nhận được chiếc xe tải rồi. Đây là một ví dụ điển hình trong sách giáo khoa về việc hoàn thành một phi vụ đó, anh có nghĩ vậy không? Một điểm cộng của một điểm cộng - phi vụ đóng lại được rồi.",
+                            "stringId": "2328688713813536768"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Làm hỏng hết mọi thứ rồi, V ạ. Quên về vụ tiền bạc đi. Cô may mắn là cô không nợ tôi bất cứ gì đó. Tạm biệt.",
+                            "maleVariant": "Làm hỏng hết mọi thứ rồi, V ạ. Quên về vụ tiền bạc đi. Anh may mắn là anh không nợ tôi bất cứ gì đó. Tạm biệt.",
+                            "stringId": "2328692737963012096"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.6933978Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\hey_spr_gunsmith_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đang tìm vài trang bị mới.",
+                            "maleVariant": "Đang tìm vài trang bị mới.",
+                            "stringId": "1740390339816431616"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Em có muốn giới thiệu vũ khí nào không?",
+                            "maleVariant": "Em có muốn giới thiệu vũ khí nào không?",
+                            "stringId": "1740390339816431632"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chị đang tìm vài trang bị mới.",
+                            "maleVariant": "Anh đang tìm vài trang bị mới.",
+                            "stringId": "1740390339833208832"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bọn em có nhiều loại, nhưng em luôn đề xuất các sản phẩm kinh điển của Militech.",
+                            "maleVariant": "Bọn em có nhiều loại, nhưng em luôn đề xuất các sản phẩm kinh điển của Militech.",
+                            "stringId": "1740390339833208840"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Em có muốn giới thiệu cụ thể vũ khí nào không?",
+                            "maleVariant": "Em có muốn giới thiệu cụ thể vũ khí nào không?",
+                            "stringId": "2253658183595036672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Súng ngắn. Súng lục, hàng đặc biệt. Kiểu dáng đẹp, sang trọng. Nhỏ gọn nữa nhưng độ hiệu quả vẫn rất cao.",
+                            "maleVariant": "Súng ngắn. Súng lục, hàng đặc biệt. Kiểu dáng đẹp, sang trọng. Nhỏ gọn nữa nhưng độ hiệu quả vẫn rất cao.",
+                            "stringId": "2253721328657207296"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

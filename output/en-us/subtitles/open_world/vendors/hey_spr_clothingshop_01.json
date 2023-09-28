@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.6878920Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\hey_spr_clothingshop_01.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi thích phong cách của chị. Tôi nghĩ sẽ mua món gì đó.",
+                            "maleVariant": "Tôi thích phong cách của chị. Tôi nghĩ sẽ mua món gì đó.",
+                            "stringId": "1740348629291868164"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chị nên giảm cân đi.",
+                            "maleVariant": "Chị nên giảm cân đi.",
+                            "stringId": "1740348757520130048"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi thích phong cách của chị. Tôi nghĩ sẽ mua món gì đó.",
+                            "maleVariant": "Tôi thích phong cách của chị. Tôi nghĩ sẽ mua món gì đó.",
+                            "stringId": "1740370914904088576"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ý cưng \"Nghĩ\" là sao?! Cưng à, đừng nghĩ nhiều, chỉ cần mặc gì đó vào và tỏa sáng thôi!",
+                            "maleVariant": "Ý cưng \"Nghĩ\" là sao?! Cưng à, đừng nghĩ nhiều, chỉ cần mặc gì đó vào và tỏa sáng thôi!",
+                            "stringId": "1740371606846808064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Quần sẽ hợp với chị hơn nếu chị giảm cân một chút.",
+                            "maleVariant": "Quần sẽ hợp với chị hơn nếu chị giảm cân một chút.",
+                            "stringId": "1740371878822256640"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Em sai rồi, cô gái. Em càng mũm mĩm tới đâu, chỉ may sẽ theo tới đó.",
+                            "maleVariant": "Em sai rồi, chàng trai. Em càng mũm mĩm tới đâu, chỉ may sẽ theo tới đó.",
+                            "stringId": "1740373423802523648"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Here to change up my look.",
+                            "maleVariant": "",
+                            "stringId": "3775234946210066432"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Need to change up my style.",
+                            "maleVariant": "I need to change my style.",
+                            "stringId": "3836287888589189132"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

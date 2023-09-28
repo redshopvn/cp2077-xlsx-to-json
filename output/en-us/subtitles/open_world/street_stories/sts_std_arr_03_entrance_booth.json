@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:09.7542335Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_std_arr_03_entrance_booth.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mày chắc tên đó là từ băng Valentinos chứ?",
+                            "maleVariant": "Mày chắc tên đó là từ băng Valentinos chứ?",
+                            "stringId": "1492482923293011968"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nó có một cánh tay vàng, cả đống gel trên tóc và một dấu X xăm ngay trán.",
+                            "maleVariant": "Nó có một cánh tay vàng, cả đống gel trên tóc và một dấu X xăm ngay trán.",
+                            "stringId": "1863447679068303360"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Oh, OK, hiểu rồi. Chết tiệt... Tao không nghĩ Matheus sẽ đi với chúng...",
+                            "maleVariant": "Oh, OK, hiểu rồi. Chết tiệt... Tao không nghĩ Matheus sẽ đi với chúng...",
+                            "stringId": "1863448290648158208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tao hiểu mà, đúng không? Một thằng như anh ta...",
+                            "maleVariant": "Tao hiểu mà, đúng không? Một thằng như anh ta...",
+                            "stringId": "1863453697055682560"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

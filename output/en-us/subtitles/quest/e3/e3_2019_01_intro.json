@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:23.5213577Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\e3\\e3_2019_01_intro.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thôi nào. Cô nghĩ chúng nó sẽ quan tâm là cô trông như nào à ?",
+                            "maleVariant": "Thôi nào. Nghĩ rằng chúng nó sẽ quan tâm là chú mày trông như nào à ?",
+                            "stringId": "1593692176526938112"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tìm Atl, đó là những gì chúng ta sẽ làm",
+                            "maleVariant": "Tìm Atl, đó là những gì chúng ta sẽ làm",
+                            "stringId": "1593692368273739776"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tùy chỉnh",
+                            "maleVariant": "Tùy chỉnh",
+                            "stringId": "1754884666764333060"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bỏ qua",
+                            "maleVariant": "Bỏ qua",
+                            "stringId": "1754885514349285376"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tùy chỉnh",
+                            "maleVariant": "Tùy chỉnh",
+                            "stringId": "1755858482835525636"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bỏ qua",
+                            "maleVariant": "Bỏ qua",
+                            "stringId": "1755859402747056128"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[pl_pl]Chodź, oni mają w dupie jak wyglądasz.",
+                            "maleVariant": "",
+                            "stringId": "2013913156005154816"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "[pl_pl]A my musimy znaleźć Alt.",
+                            "maleVariant": "",
+                            "stringId": "2013922330508283904"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

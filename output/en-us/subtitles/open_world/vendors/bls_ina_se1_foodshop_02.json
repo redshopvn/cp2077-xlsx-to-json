@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:12.2587736Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\bls_ina_se1_foodshop_02.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Muốn ăn gì đó.",
+                            "maleVariant": "Muốn ăn gì đó.",
+                            "stringId": "1935651488722759680"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chỗ của cô gọi là gì?",
+                            "maleVariant": "Chỗ của anh gọi là gì?",
+                            "stringId": "1935651488739536908"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cảm thấy hơi đói.",
+                            "maleVariant": "Cảm thấy hơi đói.",
+                            "stringId": "1935651488756314116"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Được.",
+                            "maleVariant": "Được.",
+                            "stringId": "1935651488773091328"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chỗ của cô có tên chứ? Tôi không thấy cái biển nào...",
+                            "maleVariant": "Chỗ của anh có tên chứ? Tôi không thấy cái biển nào...",
+                            "stringId": "1935651488806645764"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Salmonella.",
+                            "maleVariant": "Salmonella",
+                            "stringId": "1935651488806645772"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi xin lỗi, \"Salmonella\"?",
+                            "maleVariant": "T-Tôi xin lỗi, \"Salmonella\"?",
+                            "stringId": "1986389809794699264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nghe hay mà phải không? Anh rể tôi nói nó có nghĩa là \r\n\"CÁ HỒI\" trong tiếng Italia.",
+                            "maleVariant": "Nghe hay mà phải không? Anh rể tôi nói nó có nghĩa là \r\n\"Cá hồi\" trong tiếng Italia.",
+                            "stringId": "1986390591898177536"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

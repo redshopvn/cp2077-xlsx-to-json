@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:07.3637505Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_nid_chat_008.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ugh, it reeks again. I'm tellin' ya, one fine day this stench's gonna burn a hole clean through our lungs.",
+                            "maleVariant": "",
+                            "stringId": "1963287909145550848"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Mary says it is leak from Petrochem.",
+                            "maleVariant": "",
+                            "stringId": "1964955540303626240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "It was. Neighbor's kids was playin' by this nasty thing near two hours till someone caught on.",
+                            "maleVariant": "",
+                            "stringId": "1964955780687577088"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Littlest one inhaled so much of it she started foamin' at the mouth. Saw it myself.",
+                            "maleVariant": "",
+                            "stringId": "1964955966176477184"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Terrible parents... If you make kids, you must watch them too!",
+                            "maleVariant": "",
+                            "stringId": "1964956436727054336"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Natural selection at work.",
+                            "maleVariant": "",
+                            "stringId": "1964956785592483840"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:50.2704097Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\vset\\vset_dex_bodyguard.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hello.",
+                            "maleVariant": "",
+                            "stringId": "1796883115934728196"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "V.",
+                            "maleVariant": "",
+                            "stringId": "1796883115968282624"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chúng ta để chuyện này sau đi.",
+                            "maleVariant": "Chúng ta để chuyện này sau đi.",
+                            "stringId": "1796883116052168708"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đợi cô về rồi nói chuyện sau.",
+                            "maleVariant": "Đợi cậu về rồi nói chuyện sau.",
+                            "stringId": "1796883116068945924"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Giờ sẵn sàng nói chuyện chưa?",
+                            "maleVariant": "Giờ sẵn sàng nói chuyện chưa?",
+                            "stringId": "1796883116152832004"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hãy kết thúc những gì dang dở đi.",
+                            "maleVariant": "Hãy kết thúc những gì dang dở đi.",
+                            "stringId": "1796883116169609220"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chỉ định đứng đấy thôi hả?",
+                            "maleVariant": "Chỉ định đứng đấy thôi hả?",
+                            "stringId": "1796883116203163652"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bọn scav cắt lưỡi cô rồi à?",
+                            "maleVariant": "Bọn scav cắt lưỡi cậu rồi à?",
+                            "stringId": "1796883116236718084"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cẩn thận nào.",
+                            "maleVariant": "Cẩn thận nào.",
+                            "stringId": "1796883116505153540"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ta có vấn đề gì à?",
+                            "maleVariant": "Ta có vấn đề gì à?",
+                            "stringId": "1796883116521930756"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

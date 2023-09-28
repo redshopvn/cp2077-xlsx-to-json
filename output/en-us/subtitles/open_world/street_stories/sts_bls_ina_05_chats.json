@@ -1,0 +1,57 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:08.3623819Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_bls_ina_05_chats.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tao đéo thể tin được phải chịu mục rữa ở cái chốn này.",
+                            "maleVariant": "Tao đéo thể tin được phải chịu mục rữa ở cái chốn này.",
+                            "stringId": "1650635782160347136"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chứ mày muốn vào khu vực chiến đấu không?",
+                            "maleVariant": "Chứ mày muốn vào khu vực chiến đấu không?",
+                            "stringId": "1650638960050270208"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có lẽ. Thế cũng đỡ chán hơn.",
+                            "maleVariant": "Có lẽ. Thế cũng đỡ chán hơn.",
+                            "stringId": "1934203350185484288"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Thôi cho tao xin đi. Một nhiệm vụ kéo dài 2 tuần ở Mexico và thứ duy nhất tao chán là bệnh đái dầm của mày.",
+                            "maleVariant": "Thôi cho tao xin đi. Một nhiệm vụ kéo dài 2 tuần ở Mexico và thứ duy nhất tao chán là bệnh đái dầm của mày.",
+                            "stringId": "1934208430628478976"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cái này hả? Đây là kỳ nghỉ đó. Hãy tận hưởng đi.",
+                            "maleVariant": "Cái này hả? Đây là kỳ nghỉ đó. Hãy tận hưởng đi.",
+                            "stringId": "1934212375019069440"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:13.3568002Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\vendors\\wat_nid_medicstore_02.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đến đây mua thuốc.",
+                            "maleVariant": "Đến đây mua thuốc.",
+                            "stringId": "1893796934479020036"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Để xem anh có gì cho tôi nào.",
+                            "maleVariant": "Để xem anh có gì cho tôi nào.",
+                            "stringId": "1893797127115014144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anh có bằng dược sĩ đó chứ?",
+                            "maleVariant": "Anh có bằng dược sĩ đó chứ?",
+                            "stringId": "1893797285626150912"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Có bằng y tế chứ?",
+                            "maleVariant": "Có bằng y tế chứ?",
+                            "stringId": "1893799869032202240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chắc chắn rồi.",
+                            "maleVariant": "Chắc chắn rồi.",
+                            "stringId": "1893802464299745280"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Bằng hả? Chà... vâng, tất nhiên rồi.",
+                            "maleVariant": "Bằng hả? Chà... vâng, tất nhiên rồi.",
+                            "stringId": "1893802648161255424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chào. Cô cần cái gì đó?",
+                            "maleVariant": "Chào. Anh cần cái gì đó?",
+                            "stringId": "1893889354792058884"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi đã từng...ừm... là thành viên của Đội Chấn Thương. Nhân viên cấp cứu, làm được sáu tháng. Cô sẽ không tin tôi đã thấy gì đâu.",
+                            "maleVariant": "Tôi đã từng...ừm... là thành viên của Đội Chấn Thương. Nhân viên cấp cứu, làm được sáu tháng. Anh sẽ không tin tôi đã thấy gì đâu.",
+                            "stringId": "1984969165457256448"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

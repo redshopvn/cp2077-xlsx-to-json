@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.7795573Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_kab_chat_009.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Giá trị của lời hứa đáng giá hơn bất kỳ số tiền nào.",
+                            "maleVariant": "Giá trị của lời hứa đáng giá hơn bất kỳ số tiền nào.",
+                            "stringId": "1827147855436570624"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anh nói thế là vì anh không có xu nào trong người thôi.",
+                            "maleVariant": "Anh nói thế là vì anh không có xu nào trong người thôi.",
+                            "stringId": "1827153160056725504"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Anh cũng vậy thôi.",
+                            "maleVariant": "Anh cũng vậy thôi.",
+                            "stringId": "1827153248606871552"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Đúng. Nhưng tôi không phải là người hay nói mấy thứ nhảm cứt.",
+                            "maleVariant": "Đúng. Nhưng tôi không phải là người hay nói mấy thứ nhảm cứt.",
+                            "stringId": "1827153450218676224"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

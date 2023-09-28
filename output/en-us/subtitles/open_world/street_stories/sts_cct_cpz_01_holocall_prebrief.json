@@ -1,0 +1,45 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:08.5601592Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_cct_cpz_01_holocall_prebrief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Cô đây rồi, có một nhà báo nữa đã tự sát...",
+                            "maleVariant": "Cậu đây rồi, có một nhà báo nữa đã tự sát...",
+                            "stringId": "2328494797583015936"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chúng công bố nguyên nhân là do \"căng thẳng liên quan đến công việc\", nhưng người nhà cô ta cho là có kẻ hãm hại.",
+                            "maleVariant": "Chúng công bố nguyên nhân là do \"căng thẳng liên quan đến công việc\", nhưng người nhà cô ta cho là có kẻ hãm hại.",
+                            "stringId": "2333128612648828928"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Vậy, cô nghĩ mình có thể tìm ra gì đó không? Chi tiết tôi đang gửi qua.",
+                            "maleVariant": "Vậy, cậu nghĩ mình có thể tìm ra gì đó không? Chi tiết tôi đang gửi qua.",
+                            "stringId": "2333128762217709568"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

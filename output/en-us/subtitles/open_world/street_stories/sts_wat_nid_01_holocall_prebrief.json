@@ -1,0 +1,39 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:11.3811005Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\street_stories\\sts_wat_nid_01_holocall_prebrief.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chào. Có một thành viên băng Mox bị vấn đề. Khả năng cao do chứng siêu loạn thần. Khách hàng của tôi đang gặp nguy hiểm, cô cần đưa anh ta ra khỏi đó.",
+                            "maleVariant": "Chào. Có một thành viên băng Mox bị vấn đề. Khả năng cao do chứng siêu loạn thần. Khách hàng của tôi đang gặp nguy hiểm, anh cần đưa anh ta ra khỏi đó.",
+                            "stringId": "2329270770769895424"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tôi sẽ rất cảm kích nếu cô giúp. Xem tin nhắn đi.",
+                            "maleVariant": "Tôi sẽ rất cảm kích nếu anh giúp. Xem tin nhắn đi.",
+                            "stringId": "2339456765169864704"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

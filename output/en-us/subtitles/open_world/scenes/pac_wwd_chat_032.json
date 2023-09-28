@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:05.3945333Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\pac_wwd_chat_032.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nah, couldn'ta been a sailfish. A real, live sailfish? Here? Come on.",
+                            "maleVariant": "",
+                            "stringId": "2179671749777022976"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Sure was fast enough. Goin' over sixty. Plus it had that fin, like in the pics.",
+                            "maleVariant": "",
+                            "stringId": "2211512237997355008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nah, girl. Musta been a drone. Or a torpedo.",
+                            "maleVariant": "",
+                            "stringId": "2211512313176059904"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "No way. What they got shootin' torpedos in the Del Coronado?",
+                            "maleVariant": "",
+                            "stringId": "2212736922504327168"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Listen to those podcasts I sent you, then we'll talk.",
+                            "maleVariant": "",
+                            "stringId": "2212737257780211712"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Whole bay is teemin' with Militech submarines.",
+                            "maleVariant": "",
+                            "stringId": "2212737754385805312"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Man, rather it was one badass sailfish cruisin' in that sludge.",
+                            "maleVariant": "",
+                            "stringId": "2212738161065521152"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

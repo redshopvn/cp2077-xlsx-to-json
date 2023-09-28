@@ -1,0 +1,81 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.7744059Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_kab_chat_007.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Any last words, Jake?",
+                            "maleVariant": "",
+                            "stringId": "1807014572208021504"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "This is no fun.",
+                            "maleVariant": "",
+                            "stringId": "1807015502471094272"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You must face Gorira! There is no escape!",
+                            "maleVariant": "",
+                            "stringId": "1807015639171850240"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But Jake is dumb! All he does is kiss icky girls. I wanna play Gorira.",
+                            "maleVariant": "",
+                            "stringId": "1807015857829306368"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "There is only one Gorira!",
+                            "maleVariant": "",
+                            "stringId": "1807016041254608896"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "I'm telling! I'm telling your mom!",
+                            "maleVariant": "",
+                            "stringId": "1807016214462586880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Gorira has no mother! Gorira has only fists of steel! Aaargh!",
+                            "maleVariant": "",
+                            "stringId": "1807016367118475264"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Ms. Liu!",
+                            "maleVariant": "",
+                            "stringId": "1807016583108354048"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Fine! You can be Gorira. Jeez!",
+                            "maleVariant": "",
+                            "stringId": "1807016767271854080"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

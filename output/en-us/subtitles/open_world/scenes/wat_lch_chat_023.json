@@ -1,0 +1,69 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:06.8821530Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\wat_lch_chat_023.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Nah, don't like this. How come she's not here yet? She said everything went fine...",
+                            "maleVariant": "",
+                            "stringId": "2156520533437739008"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chill. If somethin' went wrong, they woulda come for us already.",
+                            "maleVariant": "",
+                            "stringId": "2172367324411838464"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Besides, she's one of the best. You know she zeroed that asshole from the board?",
+                            "maleVariant": "",
+                            "stringId": "2172367493761056768"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Don't give a shit who she zeroed. If Brown gets word of this job, it's...",
+                            "maleVariant": "",
+                            "stringId": "2172367622089981952"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "It's his word against ours. They can't prove a thing.",
+                            "maleVariant": "",
+                            "stringId": "2172367788234752000"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Unless they caught her.",
+                            "maleVariant": "",
+                            "stringId": "2172367899115372544"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Even if they did, she wouldn't talk. Mercs who talk don't get gigs.",
+                            "maleVariant": "",
+                            "stringId": "2172368028232826880"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

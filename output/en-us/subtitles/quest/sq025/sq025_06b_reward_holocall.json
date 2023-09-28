@@ -1,0 +1,51 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:47.5175829Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\quest\\sq025\\sq025_06b_reward_holocall.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Chào mừng đến với Mạng lưới Delamain. Hôm nay cô sao rồi?",
+                            "maleVariant": "Chào mừng đến với Mạng lưới Delamain. Hôm nay cậu sao rồi?",
+                            "stringId": "1945772020274995200"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Eh, tốt lên nhiều rồi. Còn cậu thì sao, Del?",
+                            "maleVariant": "Eh, tốt lên nhiều rồi. Còn cậu thì sao, Del?",
+                            "stringId": "1999691393957126144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Tất cả những phương tiện bị mất của tôi đã quay về lại trụ sở. Có thể nói là mọi thứ đang tiến triển rất tốt.",
+                            "maleVariant": "Tất cả những phương tiện bị mất của tôi đã quay về lại trụ sở. Có thể nói là mọi thứ đang tiến triển rất tốt.",
+                            "stringId": "1999694635298480128"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Phiền cô vui lòng ghé qua văn phòng của tôi để nhận phần thưởng cuối nhé! Tôi muốn cảm ơn cô trực tiếp, để dễ nói chuyện.",
+                            "maleVariant": "Phiền cậu vui lòng ghé qua văn phòng của tôi để nhận phần thưởng cuối nhé! Tôi muốn cảm ơn cậu trực tiếp, để dễ nói chuyện.",
+                            "stringId": "1999782213439741952"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

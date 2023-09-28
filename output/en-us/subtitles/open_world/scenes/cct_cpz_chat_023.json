@@ -1,0 +1,75 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.7935907Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_cpz_chat_023.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They want you back.",
+                            "maleVariant": "",
+                            "stringId": "2172048047669370880"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "They fired me.",
+                            "maleVariant": "",
+                            "stringId": "2192538871354724352"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "And now they want you back. They'll pay.",
+                            "maleVariant": "",
+                            "stringId": "2192550061204148224"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You sleeping all right?",
+                            "maleVariant": "",
+                            "stringId": "2192550702764888064"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Huh?",
+                            "maleVariant": "",
+                            "stringId": "2192551152142618624"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Are you sleeping at night? Can you sleep?",
+                            "maleVariant": "",
+                            "stringId": "2192551251178524672"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Um, depends. Been under a lot of stress lately... You know how it is. Look, I think you miss it. The adrenaline. Come back.",
+                            "maleVariant": "",
+                            "stringId": "2192551529831305216"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "Hmmm... See, these days, I sleep like a baby. Even took up a couple hobbies.",
+                            "maleVariant": "",
+                            "stringId": "2192552829360902144"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}

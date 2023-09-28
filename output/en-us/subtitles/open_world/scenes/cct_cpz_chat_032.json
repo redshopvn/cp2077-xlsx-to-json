@@ -1,0 +1,63 @@
+{
+    "Header": {
+        "WolvenKitVersion": "8.10.0",
+        "WKitJsonVersion": "0.0.8",
+        "GameVersion": 1630,
+        "ExportedDateTime": "2023-09-25T02:54:01.8356068Z",
+        "DataType": "CR2W",
+        "ArchiveFileName": "D:\\2023\\Tháng 9\\CP0277\\TheRedTeam\\source\\archive\\en-us\\subtitles\\open_world\\scenes\\cct_cpz_chat_032.json"
+    },
+    "Data": {
+        "Version": 195,
+        "BuildVersion": 0,
+        "RootChunk": {
+            "$type": "JsonResource",
+            "cookingPlatform": "PLATFORM_PC",
+            "root": {
+                "HandleId": "0",
+                "Data": {
+                    "$type": "localizationPersistenceSubtitleEntries",
+                    "entries": [
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "All I'll say is this – quit giving a fuck, you'll be all right.",
+                            "maleVariant": "",
+                            "stringId": "2172137024292249600"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But what if somethin' gets out? Whose fuckin' heads're gonna roll then? Not theirs.",
+                            "maleVariant": "",
+                            "stringId": "2208353720441606144"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "So you gotta make sure it don't get out.",
+                            "maleVariant": "",
+                            "stringId": "2208363762360356864"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "But we're talkin' ten whole fuckin' containers. Fake docs, all of 'em. And y'know what was inside? Fuckin' corpo gear. Combat shit.",
+                            "maleVariant": "",
+                            "stringId": "2208364599878979584"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "It ain't. Take the eds an' forget it. And start pretendin' you're dumber than you are.",
+                            "maleVariant": "",
+                            "stringId": "2208366026630205440"
+                        },
+                        {
+                            "$type": "localizationPersistenceSubtitleEntry",
+                            "femaleVariant": "You even see where they sent it? I'm tellin' ya, that shit's comin' back to wipe us.",
+                            "maleVariant": "",
+                            "stringId": "2208372639286005760"
+                        }
+                    ]
+                }
+            }
+        },
+        "EmbeddedFiles": []
+    }
+}
